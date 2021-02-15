@@ -1,0 +1,18 @@
+{
+  "name": "preprint-bot",
+  "version": "1.0.0",
+  "description": "Twitter bot that tweets out hottest new preprints from BioRxiv and MedRxiv",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "twitter-lite": "^1.1.0",
+    "twitter-text": "^3.1.0"
+  },
+  "devDependencies": {
+    "clipboardy": "^2.3.0"
+  }
+}
