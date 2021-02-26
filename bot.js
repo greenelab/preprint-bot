@@ -157,7 +157,7 @@ function makeTweet({ doi, title, author, url, category, repo, inPss }) {
 
   // message template
   let message = [
-    `🔥 A hot ${category} preprint on ${repo} by ${author} et al:`,
+    `🔥 A highly-downloaded ${category} preprint on ${repo} by ${author} et al:`,
     ``,
     `📜 ${title}`,
     `${url}`,
