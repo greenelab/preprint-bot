@@ -1,7 +1,6 @@
 name: Run Bot
 
 on:
-  push:
   # daily at 8:00pm UTC
   schedule:
     - cron: '0 20 * * * '
