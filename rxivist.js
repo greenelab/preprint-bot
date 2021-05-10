@@ -29,10 +29,11 @@ async function getPreprints() {
           let author =
             (authors[0] || {}).name
               .split(/\s/)
-              .map((part, index, length) =>
-                index < length - 1 ? part.charAt(0) + "." : part
+              .filter((part) => part)
+              .map((part, index, parts) =>
+                index < parts.length - 1 ? part.charAt(0) + "." : part
               )
-              .join(" ") + "et al";
+              .join(" ") + " et al";
 
           // capitalize category
           category = category[0].toUpperCase() + category.substr(1);

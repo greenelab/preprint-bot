@@ -1,13 +1,23 @@
 const Twitter = require("twitter-lite");
 const TwitterText = require("twitter-text");
-const { twitterKeys } = require("./keys");
+const {
+  consumer_key,
+  consumer_secret,
+  access_token_key,
+  access_token_secret,
+} = require("./keys");
 const clipboardy = require("clipboardy");
 
 // bot Twitter account
 const handle = "@preprintbot";
 
 // create twitter api client
-client = new Twitter(twitterKeys);
+client = new Twitter({
+  consumer_key,
+  consumer_secret,
+  access_token_key,
+  access_token_secret,
+});
 
 // get tweets already posted to account
 async function getTweets() {
@@ -44,12 +54,14 @@ function tweetLength(message) {
 }
 
 // publish tweet
-async function sendTweet(status) {
-  if (process.env.NODE_ENV === "test") {
-    clipboardy.writeSync(tweet);
-    console.log("In test mode. Tweet copied to clipboard instead of sent.");
+async function sendTweet(message) {
+  if (process.env.NODE_ENV.trim() === "test") {
+    // copy tweet to clipboard for more accurate testing on twitter.com
+    clipboardy.writeSync(message);
+    return "In test mode. Tweet copied to clipboard instead of sending.";
   } else {
     try {
+      // send tweet
       const response = await client.post("statuses/update", { status });
 
       // get clean props
@@ -65,8 +77,8 @@ async function sendTweet(status) {
 }
 
 // handle api error catch
+// https://github.com/draftbit/twitter-lite#api-errors
 function apiCatch({ errors }) {
-  // https://github.com/draftbit/twitter-lite#api-errors
   let message;
   // API error
   if (errors) message = errors.map((error) => error.message).join(" | ");

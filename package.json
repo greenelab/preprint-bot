@@ -11,10 +11,10 @@
   },
   "dependencies": {
     "dotenv": "^9.0.1",
-    "meta-fetcher": "^3.1.0",
     "node-fetch": "^2.6.1",
     "twitter-lite": "^1.1.0",
-    "twitter-text": "^3.1.0"
+    "twitter-text": "^3.1.0",
+    "url-metadata": "^2.5.0"
   },
   "devDependencies": {
     "clipboardy": "^2.3.0"
