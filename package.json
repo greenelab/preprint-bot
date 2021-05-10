@@ -4,12 +4,13 @@
   "description": "Twitter bot that tweets new preprints and comments from BioRxiv and MedRxiv",
   "main": "index.js",
   "scripts": {
-    "preprint": "node preprint.js",
-    "comment": "node comment.js",
-    "preprint:test": "NODE_ENV=test node preprint.js",
-    "comment:test": "NODE_ENV=test node comment.js"
+    "preprint": "node tweet-preprint.js",
+    "comment": "node tweet-comment.js",
+    "preprint:test": "SET NODE_ENV=test && node tweet-preprint.js",
+    "comment:test": "SET NODE_ENV=test && node tweet-comment.js"
   },
   "dependencies": {
+    "dotenv": "^9.0.1",
     "meta-fetcher": "^3.1.0",
     "node-fetch": "^2.6.1",
     "twitter-lite": "^1.1.0",

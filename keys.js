@@ -21,6 +21,6 @@ const disqusKeys = {
 // log keys
 const keys = { ...twitterKeys, ...disqusKeys };
 for (const [key, value] of Object.entries(keys))
-  console.log(key, `"...${value.slice(-4)}"`);
+  console.log(`${key}: ${value.trim() ? `"...${value.slice(-4)}"` : `""`}`);
 
 module.exports = { twitterKeys, disqusKeys };
