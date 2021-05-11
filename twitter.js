@@ -22,29 +22,14 @@ client = new Twitter({
 // get tweets already posted to account
 async function getTweets() {
   try {
-    return (
-      await client.get("statuses/user_timeline", {
-        screen_name: handle,
-        tweet_mode: "extended",
-      })
-    ).map((post) => post.full_text);
+    const response = await client.get("statuses/user_timeline", {
+      screen_name: handle,
+      tweet_mode: "extended",
+    });
+    return response.map((post) => post.full_text);
   } catch (error) {
     return apiCatch(error);
   }
-}
-
-// check tweet has already been tweeted
-function isRepeatTweet(text, tweets) {
-  for (const tweet of tweets) {
-    // check for exact text match
-    if (tweet.includes(text)) return true;
-
-    // check for truncated text match
-    if (tweet.includes("..."))
-      for (let chars = 1; chars < text.length; chars++)
-        if (tweet.includes(text.slice(0, -chars) + "...")) return true;
-  }
-  return false;
 }
 
 // reliably calculate tweet length
@@ -88,4 +73,4 @@ function apiCatch({ errors }) {
   return new Error(message);
 }
 
-module.exports = { getTweets, isRepeatTweet, tweetLength, sendTweet };
+module.exports = { getTweets, tweetLength, sendTweet };
