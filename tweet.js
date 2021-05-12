@@ -73,48 +73,51 @@ function isRepeatTweet(text, tweets) {
 
 // make the actual tweet text
 function makeTweet({ doi, title, author, url, category, journal, message }) {
-  // current tweet char limit minus safety padding for unknown edge cases
-  const totalLimit = 280 - 5;
-
   // preprint similarity search link
   const link = getLink(doi);
 
-  // message template
-  let status = "";
-  if (message)
-    status = [
-      `💬 "${message.slice(0, 50)}..."`,
+  if (message) {
+    // status template for tweeting comment
+    let status = [
+      `💬 New comment on "${title.slice(0, 20)}..." on ${journal}`,
       ``,
-      `📜 ${title}`,
-      `🖊️ ${author}`,
-      `${url}`,
-      ``,
-      `🗺️ See similar papers in the ${journal} landscape:`,
+      `"${message}"`,
+      ``,zc
+      `🗺️ See similar papers:`,
       `${link}`,
     ].join("\n");
-  else
-    status = [
+    return compressTweet(status, message);
+  } else {
+    // status template for tweeting preprint
+    let status = [
       `🔥 ${category} preprint on ${journal}`,
       ``,
-      `📜 ${title}`,
-      `🖊️ ${author}`,
+      `"${title}" by ${author}`,
       `${url}`,
       ``,
-      `🗺️ See similar papers in the ${journal} landscape:`,
+      `🗺️ See similar papers:`,
       `${link}`,
     ].join("\n");
+    return compressTweet(status, title);
+  }
+}
+
+// compress tweet status by truncating specified substring in it
+const compressTweet = (status, substring) => {
+  // current tweet char limit minus safety padding for unknown edge cases
+  const totalLimit = 280 - 5;
 
   // reliably calculate tweet length
   // (accounts for link shortening, emojis, non-english chars, etc)
   const length = tweetLength(status);
 
-  // truncate title to fit in char limit
+  // truncate text to fit in char limit
   if (length > totalLimit) {
-    const shortTitle = title.slice(0, -(length - totalLimit + 3)) + "...";
-    status = status.replace(title, shortTitle);
+    const short = substring.slice(0, -(length - totalLimit + 3)) + "...";
+    status = status.replace(substring, short);
   }
 
   return status;
-}
+};
 
 module.exports = { runBot };

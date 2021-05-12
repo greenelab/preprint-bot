@@ -1,9 +1,9 @@
 name: Tweet comment
 
 on:
-  # daily at 5:00pm UTC
+  # effectively disable until next PR
   schedule:
-    - cron: '0 17 * * *'
+    - cron: '0 0 1 1 *'
 
 jobs:
   run-bot:
