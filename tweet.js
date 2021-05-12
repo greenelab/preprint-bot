@@ -82,7 +82,7 @@ function makeTweet({ doi, title, author, url, category, journal, message }) {
       `💬 New comment on "${title.slice(0, 20)}..." on ${journal}`,
       ``,
       `"${message}"`,
-      ``,zc
+      ``,
       `🗺️ See similar papers:`,
       `${link}`,
     ].join("\n");
