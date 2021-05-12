@@ -9,13 +9,14 @@ async function runBot(type = "preprint") {
   // get preprints
   console.log("Fetching preprints");
   let preprints = type === "comment" ? await fromDisqus() : await fromRxivist();
-  if (!preprints.length) throw new Error("Couldn't get preprints");
+  if (!preprints) throw new Error("Couldn't get preprints");
   console.log(`${preprints.length} preprints found`);
 
   // get list of previous tweet texts
   console.log("Fetching previous tweets");
   const tweets = await getTweets();
   if (tweets instanceof Error) throw tweets;
+  console.log(`${tweets.length} tweets found`);
 
   // select preprint
   let selected = await selectPreprint(preprints, tweets);

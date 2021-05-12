@@ -13,11 +13,9 @@ async function getPreprints() {
         .slice(0, 100)
         // clean preprint props
         .map(cleanPreprint)
-        // remove any preprints missing a doi, title, etc
-        .filter((preprint) => Object.values(preprint).every((value) => value))
     );
   } catch (error) {
-    return [];
+    return null;
   }
 }
 
@@ -27,7 +25,7 @@ async function getPreprint(doi) {
     const response = await (await fetch(api + "/" + doi)).json();
     return cleanPreprint(response);
   } catch (error) {
-    return {};
+    return null;
   }
 }
 

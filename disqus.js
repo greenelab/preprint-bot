@@ -37,22 +37,19 @@ async function getPreprints() {
     );
 
     // get associated preprint details for each comment
-    let preprints = await Promise.all(
-      comments.map(async (comment) => {
-        const doi = await getDoi(comment.thread);
-        const preprint = await getPreprint(doi);
-        return { ...comment, ...preprint };
-      })
-    );
-
-    // remove any preprints missing a doi, title, etc
-    preprints = preprints.filter((preprint) =>
-      Object.values(preprint).every((value) => value)
-    );
+    let preprints = (
+      await Promise.all(
+        comments.map(async (comment) => {
+          const doi = await getDoi(comment.thread);
+          const preprint = await getPreprint(doi);
+          if (comment && preprint) return { ...comment, ...preprint };
+        })
+      )
+    ).filter((preprint) => preprint);
 
     return preprints;
   } catch (error) {
-    return [];
+    return null;
   }
 }
 
