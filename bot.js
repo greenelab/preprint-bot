@@ -18,7 +18,7 @@ async function runBot(type = "preprint") {
   // load log of previous bot runs
   console.log("");
   info("Loading log");
-  const log = await loadLog();
+  const log = loadLog();
   if (!log) throw new Error("Couldn't load log");
   success(`Loaded ${log.length} previous runs`);
 
@@ -48,7 +48,8 @@ async function runBot(type = "preprint") {
   console.log("");
   info("Saving preprint to log");
   selected = { ...selected, tweets };
-  saveLog(selected, log);
+  const saved = saveLog(selected, log);
+  if (!saved) throw new Error("Couldn't save log");
 }
 
 // find preprint to tweet

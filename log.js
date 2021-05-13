@@ -5,21 +5,30 @@ const { stringify, parse } = require("yaml");
 const logFile = "log.yaml";
 
 // load previous runs of bot from log file
-async function loadLog() {
-  const file = readFileSync(logFile, { encoding: "utf8" });
-  const data = parse(file);
-  return data;
+function loadLog() {
+  try {
+    const file = readFileSync(logFile, { encoding: "utf8" });
+    const data = parse(file);
+    return data;
+  } catch (error) {
+    return null;
+  }
 }
 
 // save this run of bot to log file
 function saveLog({ preprint, comment, tweets }, log = []) {
-  log.push({
-    preprint: cleanPreprint(preprint),
-    comment: cleanComment(comment),
-    tweets: cleanTweets(tweets),
-  });
+  try {
+    log.push({
+      preprint: cleanPreprint(preprint),
+      comment: cleanComment(comment),
+      tweets: cleanTweets(tweets),
+    });
 
-  writeFileSync(logFile, stringify(log), () => null, { encoding: "utf8" });
+    writeFileSync(logFile, stringify(log), () => null, { encoding: "utf8" });
+    return true;
+  } catch (error) {
+    return null;
+  }
 }
 
 // keep only useful props from preprint data
@@ -73,6 +82,9 @@ const cleanTweets = (tweets) => {
       delete tweets[tweetIndex]?.entities?.urls[urlIndex]?.indices;
     }
     delete tweets[tweetIndex]?.source;
+    delete tweets[tweetIndex]?.in_reply_to_user_id;
+    delete tweets[tweetIndex]?.in_reply_to_user_id_str;
+    delete tweets[tweetIndex]?.in_reply_to_screen_name;
     delete tweets[tweetIndex]?.user;
     delete tweets[tweetIndex]?.geo;
     delete tweets[tweetIndex]?.coordinates;
