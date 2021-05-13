@@ -1,9 +1,9 @@
 name: Tweet comment
 
 on:
-  # effectively disable until next PR
+  # run few times a day
   schedule:
-    - cron: '0 0 1 1 *'
+    - cron: "0 12,16,20,24 * * *"
 
 jobs:
   run-bot:

@@ -1,6 +1,6 @@
 const fetch = require("node-fetch");
-const { disqus_api_key } = require("./keys");
 const { getPreprint } = require("./rxivist");
+const { disqus_api_key } = require("./keys");
 
 // disqus apis
 const postsApi = "https://disqus.com/api/3.0/forums/listPosts";
@@ -9,8 +9,8 @@ const detailsApi = "https://disqus.com/api/3.0/threads/details";
 // disqus "forum" names for bio/medrxiv
 const forums = ["biorxivstage", "medrxiv"];
 
-// get list of preprints from comments on bio/medrxiv
-async function getPreprints() {
+// get list of comments on bio/medrxiv and their associated preprints
+async function getComments() {
   try {
     let comments = [];
     for (const forum of forums) {
@@ -26,34 +26,24 @@ async function getPreprints() {
       comments = comments.concat(response);
     }
 
-    // clean comments props
-    comments = comments.map(
-      ({ thread, raw_message: message, createdAt: date, likes }) => ({
-        thread,
-        message,
-        date,
-        likes,
-      })
-    );
-
     // get associated preprint details for each comment
-    let preprints = (
+    comments = (
       await Promise.all(
         comments.map(async (comment) => {
           const doi = await getDoi(comment.thread);
           const preprint = await getPreprint(doi);
-          if (comment && preprint) return { ...comment, ...preprint };
+          if (comment && preprint) return { comment, preprint };
         })
       )
-    ).filter((preprint) => preprint);
+    ).filter((entry) => entry);
 
-    return preprints;
+    return comments;
   } catch (error) {
     return null;
   }
 }
 
-// get preprint doi from comment link
+// get preprint doi from comment thread
 async function getDoi(thread) {
   // set search params
   const params = new URLSearchParams();
@@ -75,4 +65,4 @@ async function getDoi(thread) {
 const cleanDoi = (query) =>
   query.replace(/^\D*/g, "").replace(/v\d+$/g, "").trim();
 
-module.exports = { getPreprints, getDoi };
+module.exports = { getComments, getDoi };

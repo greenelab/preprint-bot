@@ -3,7 +3,7 @@ name: Tweet preprint
 on:
   # daily at 8:00pm UTC
   schedule:
-    - cron: '0 20 * * *'
+    - cron: "0 20 * * *"
 
 jobs:
   run-bot:

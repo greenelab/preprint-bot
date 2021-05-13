@@ -1,6 +1,7 @@
-const { runBot } = require("./tweet");
+const { runBot } = require("./bot");
+const { error } = require("./util");
 
-runBot("preprint").catch((error) => {
-  console.error(error);
+runBot("preprint").catch((message) => {
+  error(message);
   process.exit(1);
 });

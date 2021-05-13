@@ -5,11 +5,9 @@ const {
   consumer_secret,
   access_token_key,
   access_token_secret,
+  node_env,
 } = require("./keys");
 const clipboardy = require("clipboardy");
-
-// bot Twitter account
-const handle = "@preprintbot";
 
 // create twitter api client
 client = new Twitter({
@@ -19,42 +17,40 @@ client = new Twitter({
   access_token_secret,
 });
 
-// get tweets already posted to account
-async function getTweets() {
-  try {
-    const response = await client.get("statuses/user_timeline", {
-      screen_name: handle,
-      tweet_mode: "extended",
-    });
-    return response.map((post) => post.full_text);
-  } catch (error) {
-    return apiCatch(error);
-  }
-}
-
 // reliably calculate tweet length
 // (accounts for link shortening, emojis, non-english chars, etc)
 function tweetLength(message) {
   return TwitterText.parseTweet(message).weightedLength;
 }
 
-// publish tweet
-async function sendTweet(message) {
-  if (process.env.NODE_ENV.trim() === "test") {
+// publish tweet statuses
+async function sendTweets(statuses) {
+  if (node_env === "test") {
     // copy tweet to clipboard for more accurate testing on twitter.com
-    clipboardy.writeSync(message);
-    return "In test mode. Tweet copied to clipboard instead of sending.";
+    clipboardy.writeSync(statuses.join("\n\nREPLY\n\n"));
+    return new Error(
+      "In test mode. Tweet copied to clipboard instead of sending."
+    );
   } else {
     try {
-      // send tweet
-      const response = await client.post("statuses/update", { status });
+      let responses = [];
+      let in_reply_to_status_id = "";
 
-      // get clean props
-      const date = response.created_at;
-      const url = response.entities.urls[0].url;
+      for (const status of statuses) {
+        // send tweet
+        const response = await client.post("statuses/update", {
+          status,
+          in_reply_to_status_id,
+        });
 
-      // return success message
-      return `Posted at ${url} on ${date}`;
+        // collect all responses
+        responses.push(response);
+
+        // get id of posted tweet
+        in_reply_to_status_id = response.id_str;
+      }
+
+      return responses;
     } catch (error) {
       return apiCatch(error);
     }
@@ -73,4 +69,4 @@ function apiCatch({ errors }) {
   return new Error(message);
 }
 
-module.exports = { getTweets, tweetLength, sendTweet };
+module.exports = { tweetLength, sendTweets };
