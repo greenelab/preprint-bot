@@ -1,13 +1,17 @@
 {
   "name": "preprint-bot",
   "version": "1.0.0",
-  "description": "Twitter bot that tweets out hottest new preprints from BioRxiv and MedRxiv",
+  "description": "Twitter bot that tweets new preprints and comments from BioRxiv and MedRxiv",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "node test.js"
+    "preprint": "node tweet-preprint.js",
+    "comment": "node tweet-comment.js",
+    "preprint:test": "SET NODE_ENV=test && node tweet-preprint.js",
+    "comment:test": "SET NODE_ENV=test && node tweet-comment.js"
   },
   "dependencies": {
+    "array-sort": "^1.0.0",
+    "dotenv": "^9.0.1",
     "node-fetch": "^2.6.1",
     "twitter-lite": "^1.1.0",
     "twitter-text": "^3.1.0"

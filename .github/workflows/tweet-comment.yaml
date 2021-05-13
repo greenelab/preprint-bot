@@ -1,0 +1,29 @@
+name: Tweet comment
+
+on:
+  # effectively disable until next PR
+  schedule:
+    - cron: '0 0 1 1 *'
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    environment: preprint-bot
+    env:
+      # secrets to environment variables
+      ACCESS_TOKEN_KEY: ${{ secrets.ACCESS_TOKEN_KEY }}
+      ACCESS_TOKEN_SECRET: ${{ secrets.ACCESS_TOKEN_SECRET }}
+      CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
+      CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
+      DISQUS_API_KEY: ${{ secrets.DISQUS_API_KEY }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v1
+      - name: Set up Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: "12.x"
+      - name: Install packages
+        run: yarn install
+      - name: Run bot
+        run: yarn comment
