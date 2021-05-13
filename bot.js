@@ -30,8 +30,6 @@ async function runBot(type = "preprint") {
   console.log(selected);
   success(`Selected ${selected.preprint.doi}`);
 
-  return;
-
   // make tweet status messages
   console.log("");
   info("Making statuses");

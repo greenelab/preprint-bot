@@ -72,4 +72,4 @@ function apiCatch({ errors }) {
   return new Error(message);
 }
 
-module.exports = { handle, getTweets, tweetLength, sendTweets };
+module.exports = { handle, tweetLength, sendTweets };
