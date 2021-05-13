@@ -75,12 +75,12 @@ async function selectPreprint(preprints, log = []) {
 function isRepeat(current, log = []) {
   for (const previous of log) {
     // if we're trying to tweet a preprint
-    if (!current.comment)
-      if (previous.preprint.doi === current.preprint.doi) return true;
+    if (!current?.comment)
+      if (previous?.preprint?.doi === current?.preprint?.doi) return true;
 
     // if we're trying to tweet a comment
-    if (current.comment)
-      if (previous.comment.id === current.comment.id) return true;
+    if (current?.comment)
+      if (previous?.comment?.id === current?.comment?.id) return true;
   }
 }
 
