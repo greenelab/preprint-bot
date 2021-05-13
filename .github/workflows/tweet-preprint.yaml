@@ -27,3 +27,9 @@ jobs:
         run: yarn install
       - name: Run bot
         run: yarn preprint
+      - name: Commit updated log
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          file_pattern: "log.yaml"
+          commit_message: "Run bot (preprint mode) and update log"
+          push_options: --force
