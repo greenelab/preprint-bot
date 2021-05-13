@@ -1,5 +1,4 @@
 require("dotenv").config();
-const { log } = require("./util");
 
 // twitter api keys
 const consumer_key = process.env.CONSUMER_KEY || "";
@@ -26,7 +25,7 @@ const keys = {
 // log keys
 for (const [key, value] of Object.entries(keys)) {
   keys[key] = value.trim();
-  log(`${key}: ${value.trim() ? `"...${value.slice(-4)}"` : `""`}`);
+  console.log(`${key}: ${value.trim() ? `"...${value.slice(-4)}"` : `""`}`);
 }
 
 module.exports = keys;

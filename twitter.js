@@ -1,5 +1,6 @@
 const Twitter = require("twitter-lite");
 const TwitterText = require("twitter-text");
+const clipboardy = require("clipboardy");
 const {
   consumer_key,
   consumer_secret,
@@ -7,7 +8,9 @@ const {
   access_token_secret,
   node_env,
 } = require("./keys");
-const clipboardy = require("clipboardy");
+
+// bot twitter account handle
+const handle = "@PreprintBot";
 
 // create twitter api client
 client = new Twitter({
@@ -69,4 +72,4 @@ function apiCatch({ errors }) {
   return new Error(message);
 }
 
-module.exports = { tweetLength, sendTweets };
+module.exports = { handle, getTweets, tweetLength, sendTweets };

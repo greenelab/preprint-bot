@@ -1,35 +1,45 @@
 const { getComments } = require("./disqus");
 const { getPreprints } = require("./rxivist");
-const { tweetLength, sendTweets } = require("./twitter");
+const { handle, tweetLength, sendTweets } = require("./twitter");
 const sort = require("array-sort");
-const { log, success, info } = require("./util");
+const { loadLog, saveLog } = require("./log");
+const { success, info } = require("./util");
 
 //  find a recent bio/medrxiv preprint or preprint and tweet it out
 async function runBot(type = "preprint") {
   // get preprints
-  log("");
+  console.log("");
   info("Fetching preprints");
   let preprints =
     type === "comment" ? await getComments() : await getPreprints();
   if (!preprints) throw new Error("Couldn't get preprints");
   success(`${preprints.length} preprints found`);
 
+  // load log of previous bot runs
+  console.log("");
+  info("Loading log");
+  const log = await loadLog();
+  if (!log) throw new Error("Couldn't load log");
+  success(`Loaded ${log.length} previous runs`);
+
   // select preprint
-  log("");
+  console.log("");
   info("Selecting preprints");
-  let selected = await selectPreprint(preprints);
+  let selected = await selectPreprint(preprints, log);
   if (!selected) throw new Error("Couldn't select preprint");
-  log(selected);
+  console.log(selected);
   success(`Selected ${selected.preprint.doi}`);
 
+  return;
+
   // make tweet status messages
-  log("");
+  console.log("");
   info("Making statuses");
   const statuses = makeStatuses(selected);
   for (const status of statuses) success("\n" + status + "\n");
 
   // send tweets
-  log("");
+  console.log("");
   info("Sending tweets");
   const tweets = await sendTweets(statuses);
   if (tweets instanceof Error) throw tweets;
@@ -37,11 +47,14 @@ async function runBot(type = "preprint") {
     success(`Posted at ${entities.urls[0].url} on ${created_at}`);
 
   // save results to check for duplicates
-  preprint = { ...preprint, tweets };
+  console.log("");
+  info("Saving preprint to log");
+  selected = { ...selected, tweets };
+  saveLog(selected, log);
 }
 
 // find preprint to tweet
-async function selectPreprint(preprints) {
+async function selectPreprint(preprints, log = []) {
   // sort preprints by date and upvotes on associated comment
   preprints = sort(preprints, ["comment.likes", "comment.createdAt"], {
     reverse: true,
@@ -49,10 +62,10 @@ async function selectPreprint(preprints) {
 
   // go through preprints until we find one acceptable
   for (const preprint of preprints) {
-    log(preprint);
+    console.log(preprint);
 
     // check that preprint isn't a repeat tweet
-    if (isRepeat()) {
+    if (isRepeat(preprint, log)) {
       continue;
     }
 
@@ -60,16 +73,21 @@ async function selectPreprint(preprints) {
   }
 }
 
-// check tweet has already been tweeted
-function isRepeat(preprint) {
-  return false;
+// check if preprint or comment has already been tweeted
+function isRepeat(current, log = []) {
+  for (const previous of log) {
+    // if we're trying to tweet a preprint
+    if (!current.comment)
+      if (previous.preprint.doi === current.preprint.doi) return true;
+
+    // if we're trying to tweet a comment
+    if (current.comment)
+      if (previous.comment.id === current.comment.id) return true;
+  }
 }
 
 // make actual tweet status text
 function makeStatuses({ preprint = null, comment = null }) {
-  // bot twitter handle
-  const handle = "@PreprintBot";
-
   // preprint similarity search link
   const search = `https://greenelab.github.io/preprint-similarity-search/?doi=${preprint.doi}`;
 
@@ -96,6 +114,8 @@ function makeStatuses({ preprint = null, comment = null }) {
   if (comment) {
     // truncate title
     const title = preprint.title.slice(0, 30) + "...";
+
+    // comment raw text
     const message = comment.raw_message;
 
     // status template for tweeting comment
@@ -118,6 +138,9 @@ function makeStatuses({ preprint = null, comment = null }) {
 
     return [compressStatus(status, message), reply];
   } else {
+    // truncate title
+    const title = preprint.title;
+
     // status template for tweeting preprint
     const status = [
       `🔥 ${repo} ${category} preprint by ${author}:`,
