@@ -33,3 +33,4 @@ jobs:
           file_pattern: "log.yaml"
           commit_message: "Run bot (preprint mode) and update log"
           push_options: --force
+          branch: main
