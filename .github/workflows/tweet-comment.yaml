@@ -3,7 +3,7 @@ name: Tweet comment
 on:
   # run few times a day
   schedule:
-    - cron: "0 12,16,20,24 * * *"
+    - cron: "0 12,16,20,0 * * *"
 
 jobs:
   run-bot:
