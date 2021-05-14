@@ -1,0 +1,466 @@
+# example log of a single run of bot
+# shows what fields are available to keep from all of the api responses
+# most of these are filtered out when saving log to save space
+
+preprint:
+  id: "141416"
+  doi: 10.1101/2021.05.09.443230
+  first_posted: 2021-05-10
+  repo: biorxiv
+  biorxiv_url: https://biorxiv.org/content/10.1101/2021.05.09.443230v3
+  url: https://api.rxivist.org/v1/papers/141416
+  title: Multi-color 4D superresolution light-sheet microscopy reveals organelle
+    interactions at isotropic 100-nm resolution and sub-second timescales
+  category: biophysics
+  abstract: Long-term visualization of the dynamic organelle-organelle or
+    protein-organelle interactions throughout the three-dimensional space of
+    whole live cells is essential to better understand their functions, but this
+    task remains challenging due to the limitations of existing
+    three-dimensional fluorescence microscopy techniques, such as an
+    insufficient axial resolution, low volumetric imaging rate, and
+    photobleaching. Here, we present the combination of a progressive
+    deep-learning superresolution strategy with a dual-ring-modulated SPIM
+    design capable of visualizing the dynamics of intracellular organelles in
+    live cells for hours at an isotropic spatial resolution of ~100 nm in three
+    dimensions and a temporal resolution up to ~17 Hz. With a compelling
+    spatiotemporal resolution, we substantially reveal the complex spatial
+    relationships and interactions between the endoplasmic reticulum (ER) and
+    mitochondria throughout live cells, providing new insights into ER-mediated
+    mitochondrial division. We also localized the motion of Drp1 oligomers in
+    three dimensions and observed Drp1-mediated mitochondrial branching for the
+    first time.
+  authors:
+    - id: 521400
+      name: Yuxuan Zhao
+      institution: School of Optical and Electronic Information-Wuhan National
+        Laboratory for Optoelectronics, Huazhong University of Science and
+        Technology, Wuhan, 430074, China.
+      orcid: null
+    - id: 321741
+      name: Meng Zhang
+      institution: School of Optical and Electronic Information-Wuhan National
+        Laboratory for Optoelectronics, Huazhong University of Science and
+        Technology, Wuhan, 430074, China.
+      orcid: http://orcid.org/0000-0002-9753-0635
+    - id: 470025
+      name: Wenting Zhang
+      institution: School of Optical and Electronic Information-Wuhan National
+        Laboratory for Optoelectronics, Huazhong University of Science and
+        Technology, Wuhan, 430074, China.
+      orcid: http://orcid.org/0000-0001-7670-5574
+    - id: 242783
+      name: Qing Liu
+      institution: School of Optical and Electronic Information-Wuhan National
+        Laboratory for Optoelectronics, Huazhong University of Science and
+        Technology, Wuhan, 430074, China.
+      orcid: http://orcid.org/0000-0001-7667-4042
+    - id: 273130
+      name: Peng Wang
+      institution: School of Optical and Electronic Information-Wuhan National
+        Laboratory for Optoelectronics, Huazhong University of Science and
+        Technology, Wuhan, 430074, China.
+      orcid: http://orcid.org/0000-0002-1541-2396
+    - id: 213991
+      name: Rong Chen
+      institution: Department of Chemical and Biological Engineering, Hong Kong
+        University of Science and Technology, Hong Kong, China
+      orcid: null
+    - id: 201966
+      name: Peng Fei
+      institution: Huazhong University of Science and Technology
+      orcid: http://orcid.org/0000-0003-3764-817X
+    - id: 462103
+      name: Yu-Hui Zhang
+      institution: School of Optical and Electronic Information-Wuhan National
+        Laboratory for Optoelectronics, Huazhong University of Science and
+        Technology, Wuhan, 430074, China.
+      orcid: http://orcid.org/0000-0002-5158-0645
+  ranks:
+    alltime:
+      downloads: null
+      rank: null
+      tie: false
+    ytd:
+      downloads: null
+      rank: null
+      tie: false
+    lastmonth:
+      downloads: null
+      rank: null
+      tie: false
+    category:
+      downloads: null
+      rank: null
+      tie: false
+  publication: {}
+
+comment:
+  editableUntil: 2021-05-18T06:38:22
+  dislikes: 0
+  thread: "8515310823"
+  numReports: 0
+  likes: 1
+  message: <p>The manuscript refers to numerous Supplementary Figures and
+    material, but they are not provided next to the preprint. Would it be
+    possible to upload them as well? Thank you.</p>
+  id: "5378103939"
+  createdAt: 2021-05-11T06:38:22
+  author:
+    username: christlet
+    about: bioRxiv affiliate - NeuroCyto Lab PI (Marseille)
+    name: Christophe Leterrier
+    disable3rdPartyTrackers: true
+    isPowerContributor: false
+    joinedAt: 2014-01-29T17:38:43
+    profileUrl: https://disqus.com/by/christlet/
+    url: http://www.neurocytolab.org
+    location: Marseille, France
+    isPrivate: false
+    signedUrl: http://disq.us/?url=http%3A%2F%2Fwww.neurocytolab.org&key=y4ZTc36k_0LtQ4sJZPulWQ
+    isPrimary: true
+    isAnonymous: false
+    id: "92717520"
+    avatar:
+      small:
+        permalink: https://disqus.com/api/users/avatars/christlet.jpg
+        cache: https://c.disquscdn.com/uploads/users/9271/7520/avatar32.jpg?1618417318
+      isCustom: true
+      permalink: https://disqus.com/api/users/avatars/christlet.jpg
+      cache: https://c.disquscdn.com/uploads/users/9271/7520/avatar92.jpg?1618417318
+      large:
+        permalink: https://disqus.com/api/users/avatars/christlet.jpg
+        cache: https://c.disquscdn.com/uploads/users/9271/7520/avatar92.jpg?1618417318
+  media: []
+  isSpam: false
+  isDeletedByAuthor: false
+  isHighlighted: false
+  parent: null
+  isApproved: true
+  isDeleted: false
+  isFlagged: false
+  raw_message: The manuscript refers to numerous Supplementary Figures and
+    material, but they are not provided next to the preprint. Would it be
+    possible to upload them as well? Thank you.
+  isAtFlagLimit: false
+  canVote: false
+  forum: biorxivstage
+  points: 1
+  moderationLabels: []
+  isEdited: false
+  sb: false
+
+tweets:
+  - created_at: Thu May 13 18:23:51 +0000 2021
+    id: 1392908462422732800
+    id_str: "1392908462422732801"
+    text: >-
+      💬 bioRxiv comment on "Multi-color 4D superresolution..."
+
+
+      "The manuscript refers to numerous Supplementary Figures… https://t.co/F2ONYFXRdj
+    truncated: true
+    entities:
+      hashtags: []
+      symbols: []
+      user_mentions: []
+      urls:
+        - url: https://t.co/F2ONYFXRdj
+          expanded_url: https://twitter.com/i/web/status/1392908462422732801
+          display_url: twitter.com/i/web/status/1…
+          indices:
+            - 116
+            - 139
+    source: <a
+      href="https://help.twitter.com/en/using-twitter/how-to-tweet#source-labels"
+      rel="nofollow">Preprint Bot</a>
+    in_reply_to_status_id: null
+    in_reply_to_status_id_str: null
+    in_reply_to_user_id: null
+    in_reply_to_user_id_str: null
+    in_reply_to_screen_name: null
+    user:
+      id: 1359596627229573000
+      id_str: "1359596627229573128"
+      name: Preprint Bot
+      screen_name: PreprintBot
+      location: ""
+      description: |-
+        Recent and highly downloaded preprints published to BioRxiv and MedRxiv.
+        By the https://t.co/Gb8QPQTFAu
+      url: https://t.co/MEju4YapXY
+      entities:
+        url:
+          urls:
+            - url: https://t.co/MEju4YapXY
+              expanded_url: https://greenelab.github.io/preprint-similarity-search/
+              display_url: greenelab.github.io/preprint-simil…
+              indices:
+                - 0
+                - 23
+        description:
+          urls:
+            - url: https://t.co/Gb8QPQTFAu
+              expanded_url: http://greenelab.com
+              display_url: greenelab.com
+              indices:
+                - 80
+                - 103
+      protected: false
+      followers_count: 51
+      friends_count: 0
+      listed_count: 1
+      created_at: Wed Feb 10 20:15:13 +0000 2021
+      favourites_count: 0
+      utc_offset: null
+      time_zone: null
+      geo_enabled: false
+      verified: false
+      statuses_count: 85
+      lang: null
+      contributors_enabled: false
+      is_translator: false
+      is_translation_enabled: false
+      profile_background_color: F5F8FA
+      profile_background_image_url: null
+      profile_background_image_url_https: null
+      profile_background_tile: false
+      profile_image_url: http://pbs.twimg.com/profile_images/1360374916168765440/XKoJEgE5_normal.jpg
+      profile_image_url_https: https://pbs.twimg.com/profile_images/1360374916168765440/XKoJEgE5_normal.jpg
+      profile_banner_url: https://pbs.twimg.com/profile_banners/1359596627229573128/1612992181
+      profile_link_color: 1DA1F2
+      profile_sidebar_border_color: C0DEED
+      profile_sidebar_fill_color: DDEEF6
+      profile_text_color: "333333"
+      profile_use_background_image: true
+      has_extended_profile: true
+      default_profile: true
+      default_profile_image: false
+      following: false
+      follow_request_sent: false
+      notifications: false
+      translator_type: none
+      withheld_in_countries: []
+    geo: null
+    coordinates: null
+    place: null
+    contributors: null
+    is_quote_status: false
+    retweet_count: 0
+    favorite_count: 0
+    favorited: false
+    retweeted: false
+    possibly_sensitive: false
+    lang: en
+    _headers:
+      - - cache-control
+        - no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+      - - connection
+        - close
+      - - content-disposition
+        - attachment; filename=json.json
+      - - content-encoding
+        - gzip
+      - - content-length
+        - "1162"
+      - - content-type
+        - application/json;charset=utf-8
+      - - date
+        - Thu, 13 May 2021 18:23:51 GMT
+      - - expires
+        - Tue, 31 Mar 1981 05:00:00 GMT
+      - - last-modified
+        - Thu, 13 May 2021 18:23:51 GMT
+      - - pragma
+        - no-cache
+      - - server
+        - tsa_b
+      - - set-cookie
+        - personalization_id="v1_1ScydRdR/zzU4iV8GCwjrw=="; Max-Age=63072000;
+          Expires=Sat, 13 May 2023 18:23:51 GMT; Path=/; Domain=.twitter.com;
+          Secure; SameSite=None, lang=en; Path=/,
+          guest_id=v1%3A162093023107331601; Max-Age=63072000; Expires=Sat, 13
+          May 2023 18:23:51 GMT; Path=/; Domain=.twitter.com; Secure;
+          SameSite=None
+      - - status
+        - 200 OK
+      - - strict-transport-security
+        - max-age=631138519
+      - - x-access-level
+        - read-write
+      - - x-connection-hash
+        - 6218b8d2a7bd40c7854941cfe6e8812f
+      - - x-content-type-options
+        - nosniff
+      - - x-frame-options
+        - SAMEORIGIN
+      - - x-response-time
+        - "115"
+      - - x-transaction
+        - 00a669a500b2d8c0
+      - - x-tsa-request-body-time
+        - "1"
+      - - x-twitter-response-tags
+        - BouncerCompliant
+      - - x-xss-protection
+        - "0"
+  - created_at: Thu May 13 18:23:51 +0000 2021
+    id: 1392908463412596700
+    id_str: "1392908463412596740"
+    text: |-
+      @PreprintBot
+
+      🗺️ See similar papers on the bioRxiv landscape:
+
+      https://t.co/Sfv7j9GJqQ
+    truncated: false
+    entities:
+      hashtags: []
+      symbols: []
+      user_mentions:
+        - screen_name: PreprintBot
+          name: Preprint Bot
+          id: 1359596627229573000
+          id_str: "1359596627229573128"
+          indices:
+            - 0
+            - 12
+      urls:
+        - url: https://t.co/Sfv7j9GJqQ
+          expanded_url: https://greenelab.github.io/preprint-similarity-search/?doi=10.1101/2021.05.09.443230
+          display_url: greenelab.github.io/preprint-simil…
+          indices:
+            - 63
+            - 86
+    source: <a
+      href="https://help.twitter.com/en/using-twitter/how-to-tweet#source-labels"
+      rel="nofollow">Preprint Bot</a>
+    in_reply_to_status_id: 1392908462422732800
+    in_reply_to_status_id_str: "1392908462422732801"
+    in_reply_to_user_id: 1359596627229573000
+    in_reply_to_user_id_str: "1359596627229573128"
+    in_reply_to_screen_name: PreprintBot
+    user:
+      id: 1359596627229573000
+      id_str: "1359596627229573128"
+      name: Preprint Bot
+      screen_name: PreprintBot
+      location: ""
+      description: |-
+        Recent and highly downloaded preprints published to BioRxiv and MedRxiv.
+        By the https://t.co/Gb8QPQTFAu
+      url: https://t.co/MEju4YapXY
+      entities:
+        url:
+          urls:
+            - url: https://t.co/MEju4YapXY
+              expanded_url: https://greenelab.github.io/preprint-similarity-search/
+              display_url: greenelab.github.io/preprint-simil…
+              indices:
+                - 0
+                - 23
+        description:
+          urls:
+            - url: https://t.co/Gb8QPQTFAu
+              expanded_url: http://greenelab.com
+              display_url: greenelab.com
+              indices:
+                - 80
+                - 103
+      protected: false
+      followers_count: 51
+      friends_count: 0
+      listed_count: 1
+      created_at: Wed Feb 10 20:15:13 +0000 2021
+      favourites_count: 0
+      utc_offset: null
+      time_zone: null
+      geo_enabled: false
+      verified: false
+      statuses_count: 86
+      lang: null
+      contributors_enabled: false
+      is_translator: false
+      is_translation_enabled: false
+      profile_background_color: F5F8FA
+      profile_background_image_url: null
+      profile_background_image_url_https: null
+      profile_background_tile: false
+      profile_image_url: http://pbs.twimg.com/profile_images/1360374916168765440/XKoJEgE5_normal.jpg
+      profile_image_url_https: https://pbs.twimg.com/profile_images/1360374916168765440/XKoJEgE5_normal.jpg
+      profile_banner_url: https://pbs.twimg.com/profile_banners/1359596627229573128/1612992181
+      profile_link_color: 1DA1F2
+      profile_sidebar_border_color: C0DEED
+      profile_sidebar_fill_color: DDEEF6
+      profile_text_color: "333333"
+      profile_use_background_image: true
+      has_extended_profile: true
+      default_profile: true
+      default_profile_image: false
+      following: false
+      follow_request_sent: false
+      notifications: false
+      translator_type: none
+      withheld_in_countries: []
+    geo: null
+    coordinates: null
+    place: null
+    contributors: null
+    is_quote_status: false
+    retweet_count: 0
+    favorite_count: 0
+    favorited: false
+    retweeted: false
+    possibly_sensitive: false
+    lang: en
+    _headers:
+      - - cache-control
+        - no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+      - - connection
+        - close
+      - - content-disposition
+        - attachment; filename=json.json
+      - - content-encoding
+        - gzip
+      - - content-length
+        - "1158"
+      - - content-type
+        - application/json;charset=utf-8
+      - - date
+        - Thu, 13 May 2021 18:23:51 GMT
+      - - expires
+        - Tue, 31 Mar 1981 05:00:00 GMT
+      - - last-modified
+        - Thu, 13 May 2021 18:23:51 GMT
+      - - pragma
+        - no-cache
+      - - server
+        - tsa_b
+      - - set-cookie
+        - personalization_id="v1_OivNmkkx3J2FuQcTxa8TSA=="; Max-Age=63072000;
+          Expires=Sat, 13 May 2023 18:23:51 GMT; Path=/; Domain=.twitter.com;
+          Secure; SameSite=None, lang=en; Path=/,
+          guest_id=v1%3A162093023131284498; Max-Age=63072000; Expires=Sat, 13
+          May 2023 18:23:51 GMT; Path=/; Domain=.twitter.com; Secure;
+          SameSite=None
+      - - status
+        - 200 OK
+      - - strict-transport-security
+        - max-age=631138519
+      - - x-access-level
+        - read-write
+      - - x-connection-hash
+        - 7d6025bc426073208b3f3a1a432e5f86
+      - - x-content-type-options
+        - nosniff
+      - - x-frame-options
+        - SAMEORIGIN
+      - - x-response-time
+        - "105"
+      - - x-transaction
+        - 00bd7e6300d58e9a
+      - - x-tsa-request-body-time
+        - "0"
+      - - x-twitter-response-tags
+        - BouncerCompliant
+      - - x-xss-protection
+        - "0"

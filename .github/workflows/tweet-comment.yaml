@@ -1,9 +1,9 @@
 name: Tweet comment
 
 on:
-  # effectively disable until next PR
+  # run few times a day
   schedule:
-    - cron: '0 0 1 1 *'
+    - cron: "0 12,16,20,24 * * *"
 
 jobs:
   run-bot:
@@ -22,8 +22,14 @@ jobs:
       - name: Set up Node
         uses: actions/setup-node@v1
         with:
-          node-version: "12.x"
+          node-version: "14.x"
       - name: Install packages
         run: yarn install
       - name: Run bot
         run: yarn comment
+      - name: Commit updated log
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          file_pattern: "log.yaml"
+          commit_message: "Run bot (comment mode) and update log"
+          push_options: --force
