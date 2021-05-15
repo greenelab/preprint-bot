@@ -45,7 +45,7 @@ async function getComments() {
   }
 }
 
-// get details about thread, like page link
+// get link of page comment is on
 async function getLink(thread) {
   // set search params
   const params = new URLSearchParams();
