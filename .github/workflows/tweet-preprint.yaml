@@ -18,7 +18,7 @@ jobs:
       DISQUS_API_KEY: ${{ secrets.DISQUS_API_KEY }}
     steps:
       - name: Checkout code
-        uses: actions/checkout@v1
+        uses: actions/checkout@v2
       - name: Set up Node
         uses: actions/setup-node@v1
         with:
