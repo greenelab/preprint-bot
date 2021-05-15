@@ -817,3 +817,72 @@
           - url: https://t.co/PMDM2HKZfz
       in_reply_to_status_id: 1393660540510212000
       in_reply_to_status_id_str: "1393660540510212096"
+- preprint:
+    id: 136561
+    metric: 4079
+    title: An emerging SARS-CoV-2 mutant evading cellular immunity and increasing
+      viral infectivity
+    url: https://api.rxivist.org/v1/papers/136561
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.04.02.438288v1
+    doi: 10.1101/2021.04.02.438288
+    category: microbiology
+    first_posted: 2021-04-05
+    abstract: During the current SARS-CoV-2 pandemic that is devastating the modern
+      societies worldwide, many variants that naturally acquire multiple
+      mutations have emerged. Emerging mutations can affect viral properties
+      such as infectivity and immune resistance. Although the sensitivity of
+      naturally occurring SARS-CoV-2 variants to humoral immunity has recently
+      been investigated, that to human leukocyte antigen (HLA)-restricted
+      cellular immunity remains unaddressed. Here we demonstrate that two
+      recently emerging mutants in the receptor binding domain of the SARS-CoV-2
+      spike protein, L452R (in B.1.427/429) and Y453F (in B.1.298), can escape
+      from the HLA-24-restricted cellular immunity. These mutations reinforce
+      the affinity to viral receptor ACE2, and notably, the L452R mutation
+      increases protein stability, viral infectivity, and potentially promotes
+      viral replication. Our data suggest that the HLA-restricted cellular
+      immunity potentially affects the evolution of viral phenotypes, and the
+      escape from cellular immunity can be a further threat of the SARS-CoV-2
+      pandemic.
+    authors:
+      - name: Chihiro Motozono
+      - name: Mako Toyoda
+      - name: Jiri Zahradnik
+      - name: Terumasa Ikeda
+      - name: Akatsuki Saito
+      - name: Toong Seng Tan
+      - name: Isaac Ngare
+      - name: Hesham Nasser
+      - name: Izumi Kimura
+      - name: Keiya Uriu
+      - name: Yusuke Kosugi
+      - name: Shiho Torii
+      - name: Akiko Yonekawa
+      - name: Nobuyuki Shimono
+      - name: Yoji Nagasaki
+      - name: Rumi Minami
+      - name: Takashi Toya
+      - name: Noritaka Sekiya
+      - name: Takasuke Fukuhara
+      - name: Yoshiharu Matsuura
+      - name: Gideon Schreiber
+      - name: The Genotype to Phenotype Japan (G2P-Japan) consortium
+      - name: So Nakagawa
+      - name: Takamasa Ueno
+      - name: Kei Sato
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Sat May 15 20:20:00 +0000 2021
+      id: 1393662469558743000
+      id_str: "1393662469558743048"
+      text: >-
+        🔥 bioRxiv Microbiology preprint by C. Motozono et al:
+
+
+        "An emerging SARS-CoV-2 mutant evading cellular immunity and… https://t.co/rcjDkdXgxY
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/rcjDkdXgxY
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
