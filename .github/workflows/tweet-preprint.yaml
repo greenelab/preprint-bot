@@ -1,7 +1,7 @@
 name: Tweet preprint
 
 on:
-  # daily at 8:00pm UTC
+  # run daily
   schedule:
     - cron: "0 20 * * *"
 

@@ -100,9 +100,6 @@ function makeStatuses({ preprint = null, comment = null }) {
       )
       .join(" ") + " et al";
 
-  // link to preprint on bio/medrxiv
-  const url = preprint.biorxiv_url || preprint.medrxiv_url;
-
   // capitalize category
   const category =
     preprint.category[0].toUpperCase() + preprint.category.substr(1);
@@ -116,6 +113,9 @@ function makeStatuses({ preprint = null, comment = null }) {
 
     // comment raw text
     const message = comment.raw_message;
+
+    // link to page where comment was made
+    const url = comment.link;
 
     // status template for tweeting comment
     const status = [
@@ -139,6 +139,9 @@ function makeStatuses({ preprint = null, comment = null }) {
   } else {
     // truncate title
     const title = preprint.title;
+
+    // link to preprint page on bio/medrxiv
+    const url = preprint.biorxiv_url || preprint.medrxiv_url;
 
     // status template for tweeting preprint
     const status = [

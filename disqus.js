@@ -30,8 +30,10 @@ async function getComments() {
     comments = (
       await Promise.all(
         comments.map(async (comment) => {
-          const doi = await getDoi(comment.thread);
+          const link = await getLink(comment.thread);
+          const doi = getDoi(link);
           const preprint = await getPreprint(doi);
+          comment.link = link;
           if (comment && preprint) return { comment, preprint };
         })
       )
@@ -43,26 +45,22 @@ async function getComments() {
   }
 }
 
-// get preprint doi from comment thread
-async function getDoi(thread) {
+// get link of page comment is on
+async function getLink(thread) {
   // set search params
   const params = new URLSearchParams();
   params.set("api_key", disqus_api_key);
   params.set("thread", thread);
 
-  // get link of post
+  // get link of page
   const response =
     (await (await fetch(detailsApi + "?" + params.toString())).json())
       .response || [];
-  const link = response.link;
-
-  // get doi from url
-  return cleanDoi(link);
+  return response.link;
 }
 
 // remove everything before first number, eg "doi:"
 // remove version at end, eg "v4"
-const cleanDoi = (query) =>
-  query.replace(/^\D*/g, "").replace(/v\d+$/g, "").trim();
+const getDoi = (link) => link.replace(/^\D*/g, "").replace(/v\d+$/g, "").trim();
 
 module.exports = { getComments, getDoi };
