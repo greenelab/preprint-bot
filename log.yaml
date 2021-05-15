@@ -718,3 +718,102 @@
       entities:
         urls:
           - expanded_url: https://biorxiv.org/content/10.1101/2021.01.07.425740v1
+- preprint:
+    id: "141169"
+    doi: 10.1101/2021.05.07.21256539
+    first_posted: 2021-05-10
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.07.21256539v1
+    url: https://api.rxivist.org/v1/papers/141169
+    title: Immune profile of children with post-acute sequelae of SARS-CoV-2
+      infection (Long Covid)
+    category: pediatrics
+    abstract: There is increasing reporting by patients organization and researchers
+      of long covid (or post-acute sequelae of SARS-CoV-2 - PASC), characterized
+      by symptoms such as fatigue, dyspnea, chest pain, cognitive and sleeping
+      disturbances, arthralgia and decline in quality of life. Immune system
+      dysregulation with a hyperinflammatory state, direct viral toxicity,
+      endothelial damage and microvascular injury have been proposed as
+      pathologenic mechanisms. Recently, cohorts of children with PASC have been
+      reported in Italy, Sweden and Russia. However, immunological studies of
+      children with PASC have never been performed. In this study, we documented
+      significant immunologic differences between children that completely
+      recovered from acute infection and those with PASC, providing the first
+      objective laboratory sign of the existence of PASC in children.
+    authors:
+      - name: Gabriele Di Sante
+        orcid: null
+      - name: Danilo Buonsenso
+        orcid: http://orcid.org/0000-0001-8567-2639
+      - name: Cristina De Rose
+        orcid: null
+      - name: Piero Valentini
+        orcid: null
+      - name: Francesco Ria
+        orcid: null
+      - name: Maurizio Sanguinetti
+        orcid: http://orcid.org/0000-0002-9780-7059
+      - name: Michela Sali
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8514441850"
+    numReports: 0
+    likes: 1
+    id: "5379558205"
+    createdAt: 2021-05-12T01:30:10
+    author:
+      username: heidiconnahs
+      about: ""
+      name: Heidi Connahs
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/heidiconnahs/
+      url: ""
+      location: ""
+      id: "369226202"
+    isApproved: true
+    raw_message: Interesting paper! I have one comment though. I am noticing an
+      increasing number of papers using the term post-exertional malaise (PEM)
+      without providing any definition of what this condition represents. This
+      is important because PEM is not a term widely known in the medical
+      community and it has a distinct presentation. PEM is the worsening of a
+      variety of symptoms following even minor physical or mental exertion and
+      moreover, the severity of the impact is often delayed by hours or days and
+      can take days, weeks or months to recover from. The reason why PEM is not
+      widely known is because it is the cardinal symptom of the disease ME/CFS
+      which has been significantly ignored and underfunded. PEM is unique to
+      ME/CFS and any mention of PEM should really provide appropriate references
+      to ME/CFS literature.
+    forum: medrxiv
+    points: 1
+    link: https://www.medrxiv.org/content/10.1101/2021.05.07.21256539v1
+  tweets:
+    - created_at: Sat May 15 20:12:20 +0000 2021
+      id: 1393660540510212000
+      id_str: "1393660540510212096"
+      text: >-
+        💬 medRxiv comment on "Immune profile of children wit..."
+
+
+        "Interesting paper! I have one comment though. I am notic… https://t.co/DbZ2yzqMk2
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/DbZ2yzqMk2
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat May 15 20:12:20 +0000 2021
+      id: 1393660541340631000
+      id_str: "1393660541340631040"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/PMDM2HKZfz
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/PMDM2HKZfz
+      in_reply_to_status_id: 1393660540510212000
+      in_reply_to_status_id_str: "1393660540510212096"
