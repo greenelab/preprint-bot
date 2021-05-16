@@ -886,3 +886,138 @@
           - url: https://t.co/rcjDkdXgxY
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "108636"
+    doi: 10.1101/2020.04.10.20057869
+    first_posted: 2020-04-14
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2020.04.10.20057869v1
+    url: https://api.rxivist.org/v1/papers/108636
+    title: Multi-centre derivation and validation of a colitis-associated cancer
+      risk prediction web-tool
+    category: gastroenterology
+    abstract: >-
+      ObjectiveUlcerative colitis (UC) patients diagnosed with low-grade
+      dysplasia (LGD) have increased risk of developing advanced neoplasia (AN;
+      high-grade dysplasia or colorectal cancer). We aimed to develop and
+      validate a predictor of AN risk in UC patients with LGD and create a
+      visual web-tool to effectively communicate the risk.
+
+
+      DesignIn our retrospective multi-centre validated cohort study, adult UC patients with an index diagnosis of LGD, identified from four UK centres between 2001-2019, were followed until progression to AN. In the discovery cohort (n=246), a multivariate risk prediction model was derived from clinicopathological features using Cox regression. Validation used data from 3 external centres (n=198). The validated model was embedded in a web-tool to calculate patient-specific risk.
+
+
+      ResultsFour clinicopathological variables were significantly associated with AN progression in the discovery cohort: endoscopically visible LGD > 1 cm (HR = 2.7; 95% CI 1.2-5.9), unresectable or incomplete endoscopic resection (HR = 3.4; 95% CI 1.6-7.4), moderate/severe histological inflammation within 5 years of LGD diagnosis (HR = 3.1; 95% CI 1.5-6.7), and multifocality (HR = 2.9; 95% CI 1.3-6.2). In the validation cohort, this 4-variable model accurately predicted future AN cases with overall calibration Observed/Expected = 1 (95% CI 0.63-1.5), and achieved 100% specificity for the lowest risk group over 13 years of available follow-up.
+
+
+      ConclusionMulti-cohort validation confirms that patients with large, unresected, multifocal LGD and recent moderate/severe inflammation are at highest risk of developing AN. Personalised risk prediction provided via the Ulcerative Colitis-Cancer Risk Estimator (www.UC-CaRE.uk) can support treatment decision-making.
+
+
+      SUMMARY BOXO_ST_ABSWhat is already known about this subject?C_ST_ABSO_LIThe risk of ulcerative colitis-associated low-grade dysplasia (LGD) progression to more advanced neoplasia is currently not clearly defined. The literature consists of historical data from small heterogenous observational studies with limited follow-up or lack of information on endoscopic resection status.
+
+      C_LI
+
+
+      What are the new findings?O_LIWe present the results from the largest multi-centre cohort study to evaluate LGD long-term prognosis based on clinicopathological factors that are reflective of modern surveillance techniques.
+
+      C_LIO_LIRecent moderate or severe active inflammation or LGD that is large, not fully resectable or is multifocal remain independent predictors of advanced neoplasia progression, even when stratified to reflect the most modern era of high definition endoscopic imaging, chromoendoscopy and advanced polypectomy techniques.
+
+      C_LIO_LIColorectal cancer incidence after endoscopic resection of unifocal polypoid and non-polypoid dysplasia is 0.6 per 100 patient-years.
+
+      C_LIO_LILong-term incidence of advanced neoplasia is similar if LGD is invisible or if LGD is visible but not completely endoscopically resected.
+
+      C_LIO_LIUsing these data, we have designed and externally validated a cancer risk prediction tool for ulcerative colitis patients with LGD.
+
+      C_LI
+
+
+      How might it impact on clinical practice in the foreseeable future?O_LIThe UC-CaRE (Ulcerative Colitis-Cancer Risk Estimator) tool can be used to calculate and communicate individualised numerical cancer risk estimates to colitis patients with LGD.
+
+      C_LIO_LIIt facilitates the risk stratification of the lowest-risk patients, who can be reassured by undergoing continued surveillance, and those at the highest-risk who may benefit from a prophylactic colectomy.
+
+      C_LIO_LIThis visual aid presents the calculated risk in a graphical and pictorial form to optimise risk comprehension and informed treatment choices.
+
+      C_LI
+    authors:
+      - name: Kit Curtius
+        orcid: http://orcid.org/0000-0002-2678-0960
+      - name: Misha Kabir
+        orcid: http://orcid.org/0000-0003-3991-1015
+      - name: Ibrahim Al Bakir
+        orcid: null
+      - name: Chang-Ho Ryan Choi
+        orcid: null
+      - name: Juanda L Hartono
+        orcid: null
+      - name: Michael Johnson
+        orcid: null
+      - name: James E. East
+        orcid: http://orcid.org/0000-0001-8035-3700
+      - name: Oxford IBD Cohort Study Investigators
+        orcid: null
+      - name: James O Lindsay
+        orcid: http://orcid.org/0000-0003-3353-9590
+      - name: Roser Vega
+        orcid: http://orcid.org/0000-0002-0116-7211
+      - name: Siwan Thomas-Gibson
+        orcid: null
+      - name: Janindra Warusavitarne
+        orcid: null
+      - name: Ana Wilson
+        orcid: null
+      - name: Trevor A Graham
+        orcid: http://orcid.org/0000-0001-9582-1597
+      - name: Ailsa Hart
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8264437163"
+    numReports: 0
+    likes: 0
+    id: "5383811963"
+    createdAt: 2021-05-14T21:23:13
+    author:
+      username: kitcurtius
+      about: ""
+      name: Kit Curtius
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/kitcurtius/
+      url: ""
+      location: ""
+      id: "361053116"
+    isApproved: true
+    raw_message: We acknowledge Dr. Adam Brentnall (QMUL) for helpful discussions on
+      statistical prediction modeling!
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2020.04.10.20057869v2
+  tweets:
+    - created_at: Sun May 16 00:41:42 +0000 2021
+      id: 1393728330281758700
+      id_str: "1393728330281758724"
+      text: >-
+        💬 medRxiv comment on "Multi-centre derivation and va..."
+
+
+        "We acknowledge Dr. Adam Brentnall (QMUL) for helpful dis… https://t.co/FZrfdoeSUQ
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/FZrfdoeSUQ
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun May 16 00:41:43 +0000 2021
+      id: 1393728331120525300
+      id_str: "1393728331120525317"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/RAK59UjbvN
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/RAK59UjbvN
+      in_reply_to_status_id: 1393728330281758700
+      in_reply_to_status_id_str: "1393728330281758724"
