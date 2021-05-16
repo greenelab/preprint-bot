@@ -1021,3 +1021,81 @@
           - url: https://t.co/RAK59UjbvN
       in_reply_to_status_id: 1393728330281758700
       in_reply_to_status_id_str: "1393728330281758724"
+- preprint:
+    id: 139187
+    metric: 3346
+    title: Rapid induction of antigen-specific CD4+ T cells guides coordinated
+      humoral and cellular immune responses to SARS-CoV-2 mRNA vaccination
+    url: https://api.rxivist.org/v1/papers/139187
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.04.21.440862v1
+    doi: 10.1101/2021.04.21.440862
+    category: immunology
+    first_posted: 2021-04-22
+    abstract: The SARS-CoV-2 mRNA vaccines have shown remarkable clinical efficacy,
+      but questions remain about the nature and kinetics of T cell priming. We
+      performed longitudinal antigen-specific T cell analyses in healthy
+      individuals following mRNA vaccination. Vaccination induced rapid
+      near-maximal antigen-specific CD4+ T cell responses in all subjects after
+      the first vaccine dose. CD8+ T cell responses developed gradually after
+      the first and second dose and were variable. Vaccine-induced T cells had
+      central memory characteristics and included both Tfh and Th1 subsets,
+      similar to natural infection. Th1 and Tfh responses following the first
+      dose predicted post-boost CD8+ T cell and neutralizing antibody levels,
+      respectively. Integrated analysis of 26 antigen-specific T cell and
+      humoral responses revealed coordinated features of the immune response to
+      vaccination. Lastly, whereas booster vaccination improved CD4+ and CD8+ T
+      cell responses in SARS-CoV-2 naive subjects, the second vaccine dose had
+      little effect on T cell responses in SARS-CoV-2 recovered individuals.
+      Thus, longitudinal analysis revealed robust T cell responses to mRNA
+      vaccination and highlighted early induction of antigen-specific CD4+ T
+      cells.
+    authors:
+      - name: Mark M. Painter
+      - name: Divij Mathew
+      - name: Rishi R. Goel
+      - name: Sokratis A. Apostolidis
+      - name: Ajinkya Pattekar
+      - name: Oliva Kuthuru
+      - name: Amy E. Baxter
+      - name: Ramin Herati
+      - name: Derek A. Oldridge
+      - name: Sigrid Gouma
+      - name: Philip Hicks
+      - name: Sarah Dysinger
+      - name: Kendall A Lundgreen
+      - name: Leticia Kuri-Cervantes
+      - name: Sharon Adamski
+      - name: Amanda Hicks
+      - name: Scott Korte
+      - name: Josephine R. Giles
+      - name: Madison E. Weirick
+      - name: Christopher M. McAllister
+      - name: Jeanette Dougherty
+      - name: Sherea Long
+      - name: Kurt D'Andrea
+      - name: Jacob T. Hamilton
+      - name: Michael R. Betts
+      - name: Paul Bates
+      - name: Scott E Hensley
+      - name: Alba Grifoni
+      - name: Daniela Weiskopf
+      - name: Alessandro Sette
+      - name: Allison R. Greenplate
+      - name: E John Wherry
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Sun May 16 20:19:55 +0000 2021
+      id: 1394024838294122500
+      id_str: "1394024838294122498"
+      text: >-
+        🔥 bioRxiv Immunology preprint by M. M. Painter et al:
+
+
+        "Rapid induction of antigen-specific CD4+ T cells guides coo… https://t.co/eKwFidTTnt
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/eKwFidTTnt
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
