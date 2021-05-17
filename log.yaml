@@ -1307,3 +1307,118 @@
           - url: https://t.co/hk06nOveos
       in_reply_to_status_id: 1394265781341356000
       in_reply_to_status_id_str: "1394265781341356034"
+- preprint:
+    id: "129659"
+    doi: 10.1101/2021.02.16.431518
+    first_posted: 2021-02-17
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.02.16.431518v1
+    url: https://api.rxivist.org/v1/papers/129659
+    title: Leptin regulates glucose homeostasis via the canonical WNT pathway.
+    category: physiology
+    abstract: Leptin is a body weight regulatory hormone, but it is arguably even
+      more potent at regulating blood glucose levels. To further our
+      understanding of the molecular mechanisms by which leptin controls glucose
+      homeostasis, we have used transgenic zebrafish models and conditional
+      deletion of beta catenin in the mediobasal hypothalamus of adult mice to
+      show that Wnt signalling in the brain mediates glucoregulatory effects of
+      leptin. In zebrafish, under normal feeding conditions, leptin regulates
+      glucose homeostasis but not adipostasis. In times of nutrient excess, we
+      found that leptin also regulates body weight and size in this species.
+      Using a Wnt signalling reporter fish, we show that leptin directly
+      activates the canonical Wnt pathway in vivo. Pharmacological inhibition of
+      this pathway prevented the leptin-induced improvement in glucose
+      tolerance. In adult mice, conditional deletion of the key Wnt effector
+      molecule, {beta}-catenin, in the mediobasal hypothalamus of male mice
+      confirmed the essential role of the Wnt pathway in mediating leptin action
+      and the neuroendocrine regulation of glucose homeostasis. Adult-onset
+      {beta}-catenin deletion in the mediobasal hypothalamus led to glucose
+      intolerance, exacerbation of caloric intake and body weight gain under
+      high fat diet, as well as resistance to exogenous leptin.
+    authors:
+      - name: Kaj Kamstra
+        orcid: null
+      - name: Mohammed Rizwan
+        orcid: null
+      - name: Julia A Horsfield
+        orcid: http://orcid.org/0000-0002-9536-7790
+      - name: Dominik Pretz
+        orcid: null
+      - name: Peter R Shepherd
+        orcid: null
+      - name: David R Grattan
+        orcid: null
+      - name: Alexander Tups
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8402405180"
+    numReports: 0
+    likes: 0
+    id: "5385017408"
+    createdAt: 2021-05-16T00:09:26
+    author:
+      username: pouriarostamiasrabadi
+      about: ""
+      name: POURIA ROSTAMIASRABADI
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/pouriarostamiasrabadi/
+      url: ""
+      location: ""
+      id: "369427255"
+    isApproved: true
+    raw_message: >-
+      Hello,
+
+
+      Thanks so much for an amazing paper on leptin and the canonical WNT pathway. Overall, the paper was a very interesting read, and I learned a lot about the subject area. Here are some suggestions/comments regarding the figures and experiments you performed:
+
+
+      - Figure 1 does not show how pyrvinium pamoate affects the canonical WNT pathway through fluorescence intensity. Although the paper mentions that pyrvinium pamoate inhibits the pathway, it would be more effective to show this effect through the transgenic zebrafish.
+
+      - It would be best to move Figure 1E and 1F to supplementary to create more space for the fluorescent images.
+
+      - Figure 2 should be broken into two separate figures. This also allows you to display the results on leptin-a and leptin-b deficient zebrafish for the glucose immersion experiment. This will also give you a chance to increase the size of the graphs for better visualization.  
+
+      - For figure 4J, explicitly mention what pre and post-treatment refer to. I know that the figure legend explains it, but it would be best to have it directly on the figure.
+
+      - Overall, the experiments were very well conducted. I am convinced that leptin regulates glucose homeostasis through the canonical WNT pathway. Nonetheless, for the glucose immersion and overfeeding experiments, adipose tissue level should have also been measured to show that leptin does not regulate adipostasis in zebrafish.  
+
+
+      Thanks so much for taking the time to read this. I hope these comments can be of some help to your paper!
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.02.16.431518v1
+  tweets:
+    - created_at: Mon May 17 16:25:09 +0000 2021
+      id: 1394328145566867500
+      id_str: "1394328145566867456"
+      text: >-
+        💬 bioRxiv comment on "Leptin regulates glucose homeo..."
+
+
+        "Hello,
+
+
+        Thanks so much for an amazing paper on leptin an… https://t.co/NmnDb2FdkL
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/NmnDb2FdkL
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon May 17 16:25:10 +0000 2021
+      id: 1394328146497974300
+      id_str: "1394328146497974274"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/AhKlXFjF1A
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/AhKlXFjF1A
+      in_reply_to_status_id: 1394328145566867500
+      in_reply_to_status_id_str: "1394328145566867456"
