@@ -1422,3 +1422,83 @@
           - url: https://t.co/AhKlXFjF1A
       in_reply_to_status_id: 1394328145566867500
       in_reply_to_status_id_str: "1394328145566867456"
+- preprint:
+    id: "141782"
+    doi: 10.1101/2021.05.13.444086
+    first_posted: 2021-05-15
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.05.13.444086v1
+    url: https://api.rxivist.org/v1/papers/141782
+    title: Site-specific epigenetic marks in Trypanosoma brucei transcription
+      termination, antigenic variation, and proliferation
+    category: genetics
+    abstract: In Trypanosoma brucei, genes assemble into polycistronic transcription
+      units (PTUs). Transcription termination sites (TTSs) hold deposition sites
+      for three non-essential chromatin factors, histone variants (H3v and H4v)
+      and a DNA modification (base J, a hydroxyl-glucosyl dT). Here, I found
+      that H4v is a major sign for transcription termination at TTSs and
+      readthrough transcription machineries progress until they encounter the
+      next bidirectional transcription start site. While having a secondary
+      function at TTSs, H3v is important for monoallelic transcription of
+      telomeric antigen genes. The simultaneous absence of both histone variants
+      leads to proliferation and replication defects, which are exacerbated by
+      the J deficiency, accompanied by accumulation of sub-G1 population. Base J
+      likely contributes to DNA replication and cell-cycle control. I propose
+      that the coordinated actions of H3v, H4v and J function in concert for
+      cellular fate determination and provide compensatory mechanisms for each
+      other in chromatin organization, transcription, and replication.
+    authors:
+      - name: Hee-Sook Kim
+        orcid: http://orcid.org/0000-0003-2289-7827
+  comment:
+    dislikes: 0
+    thread: "8521497228"
+    numReports: 0
+    likes: 0
+    id: "5386427954"
+    createdAt: 2021-05-17T08:46:33
+    author:
+      name: Nicolai Siegel
+      url: ""
+      profileUrl: ""
+      emailHash: ""
+    isApproved: true
+    raw_message: >-
+      Excellent work!
+
+
+      I am very curious about the VSG expression patterns in your DKO and TKO cells. In Figure 6D, did you account for differences in read mappability? Since some genes have more 'unique sequence' than others, mappability may affect your RPKM.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.05.13.444086v1
+  tweets:
+    - created_at: Mon May 17 20:13:03 +0000 2021
+      id: 1394385498647392300
+      id_str: "1394385498647392256"
+      text: |-
+        💬 bioRxiv comment on "Site-specific epigenetic marks..."
+
+        "Excellent work!
+
+        I am very curious about the VSG express… https://t.co/vVZV9SMluC
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/vVZV9SMluC
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon May 17 20:13:04 +0000 2021
+      id: 1394385499742109700
+      id_str: "1394385499742109702"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/JHrcdxB0FQ
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/JHrcdxB0FQ
+      in_reply_to_status_id: 1394385498647392300
+      in_reply_to_status_id_str: "1394385498647392256"
