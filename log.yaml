@@ -1502,3 +1502,67 @@
           - url: https://t.co/JHrcdxB0FQ
       in_reply_to_status_id: 1394385498647392300
       in_reply_to_status_id_str: "1394385498647392256"
+- preprint:
+    id: 139398
+    metric: 5704
+    title: Convergent evolution of SARS-CoV-2 spike mutations, L452R, E484Q and
+      P681R, in the second wave of COVID-19 in Maharashtra, India
+    url: https://api.rxivist.org/v1/papers/139398
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.04.22.440932v1
+    doi: 10.1101/2021.04.22.440932
+    category: molecular-biology
+    first_posted: 2021-04-24
+    abstract: As the global severe acute respiratory syndrome coronavirus 2
+      (SARS-CoV-2) pandemic expands, genomic epidemiology and whole genome
+      sequencing are being constantly used to investigate its transmissions and
+      evolution. In the backdrop of the global emergence of variants of concern
+      (VOCs) during December 2020 and an upsurge in a state in the western part
+      of India since January 2021, whole genome sequencing and analysis of spike
+      protein mutations using sequence and structural approaches was undertaken
+      to identify possible new variants and gauge the fitness of current
+      circulating strains. Phylogenetic analysis revealed that the predominant
+      clade in circulation was a distinct newly identified lineage B.1.617
+      possessing common signature mutations D111D, G142D, L452R, E484Q, D614G
+      and P681R, in the spike protein including within the receptor binding
+      domain (RBD). Of these, the mutations at residue positions 452, 484 and
+      681 have been reported in other globally circulating lineages. The
+      structural analysis of RBD mutations L452R and E484Q along with P681R in
+      the furin cleavage site, revealed that these may possibly result in
+      increased ACE2 binding and rate of S1-S2 cleavage resulting in better
+      transmissibility. The same two RBD mutations indicated decreased binding
+      to select monoclonal antibodies (mAbs) and may affect their neutralization
+      potential. Experimental validation against a wider panel of mAbs, sera
+      from vaccinees and those that recovered from natural infection needs to be
+      studied. The emergence of such local variants through the accumulation of
+      convergent mutations during the COVID-19 second wave needs to be further
+      investigated for their public health impact in the rest of the country and
+      its possibility of becoming a VOC.
+    authors:
+      - name: Sarah Cherian
+      - name: Varsha Potdar
+      - name: Santosh Jadhav
+      - name: Pragya Yadav
+      - name: Nivedita Gupta
+      - name: Mousmi Das
+      - name: Partha Rakshit
+      - name: Sujeet Singh
+      - name: Priya Abraham
+      - name: Samiran Panda
+      - name: NIC team
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Mon May 17 20:20:49 +0000 2021
+      id: 1394387449552547800
+      id_str: "1394387449552547846"
+      text: >-
+        🔥 bioRxiv Molecular-biology preprint by S. Cherian et al:
+
+
+        "Convergent evolution of SARS-CoV-2 spike mutations, L45… https://t.co/ovG85u4GJo
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/ovG85u4GJo
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
