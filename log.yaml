@@ -1185,3 +1185,125 @@
           - url: https://t.co/SYOosLErcL
       in_reply_to_status_id: 1394089690882461700
       in_reply_to_status_id_str: "1394089690882461703"
+- preprint:
+    id: "91759"
+    doi: 10.1101/2020.07.21.212639
+    first_posted: 2020-07-21
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.07.21.212639v1
+    url: https://api.rxivist.org/v1/papers/91759
+    title: SARS-CoV-2 infection induces a pro-inflammatory cytokine response through
+      cGAS-STING and NF-κB
+    category: microbiology
+    abstract: >-
+      SARS-CoV-2 is a novel virus that has rapidly spread, causing a global
+      pandemic. In the majority of infected patients, SARS-CoV-2 leads to mild
+      disease; however, in a significant proportion of infections, individuals
+      develop severe symptoms that can lead to permanent lung damage or death.
+      These severe cases are often associated with high levels of
+      pro-inflammatory cytokines and low antiviral responses which can lead to
+      systemic complications. We have evaluated transcriptional and cytokine
+      secretion profiles from infected cell cultures and detected a distinct
+      upregulation of inflammatory cytokines that parallels samples taken from
+      infected patients. Building on these observations, we found a specific
+      activation of NF-κB and a block of IRF3 nuclear translocation in
+      SARS-CoV-2 infected cells. This NF-κB response is mediated by cGAS-STING
+      activation and could be attenuated through STING targeting drugs. Our
+      results show that SARS-CoV-2 curates a cGAS-STING mediated NF-κB driven
+      inflammatory immune response in epithelial cells that likely contributes
+      to inflammatory responses seen in patients and might be a target to
+      suppress severe disease symptoms.
+
+
+      ### Competing Interest Statement
+
+
+      The authors have declared no competing interest.
+    authors:
+      - name: Christopher J. Neufeldt
+        orcid: http://orcid.org/0000-0002-4551-1811
+      - name: Berati Cerikan
+        orcid: null
+      - name: Mirko Cortese
+        orcid: http://orcid.org/0000-0003-1786-4211
+      - name: Jamie Frankish
+        orcid: http://orcid.org/0000-0003-2200-4320
+      - name: Ji-Young Lee
+        orcid: http://orcid.org/0000-0002-7631-5127
+      - name: Agnieszka Plociennikowska
+        orcid: null
+      - name: Florian Heigwer
+        orcid: http://orcid.org/0000-0002-8230-1485
+      - name: Sebastian Joecks
+        orcid: null
+      - name: Sandy S Burkart
+        orcid: http://orcid.org/0000-0003-1096-0550
+      - name: David Y Zander
+        orcid: null
+      - name: Mathieu Gendarme
+        orcid: null
+      - name: Bachir El Debs
+        orcid: null
+      - name: Niels Halama
+        orcid: null
+      - name: Uta Merle
+        orcid: null
+      - name: Michael Boutros
+        orcid: http://orcid.org/0000-0003-1077-2031
+      - name: Marco Binder
+        orcid: http://orcid.org/0000-0002-5805-6109
+      - name: Ralf Bartenschlager
+        orcid: http://orcid.org/0000-0001-5601-9307
+  comment:
+    dislikes: 0
+    thread: "8135625357"
+    numReports: 0
+    likes: 0
+    id: "5385282156"
+    createdAt: 2021-05-16T07:18:06
+    author:
+      username: ralfstephan
+      about: ""
+      name: Ralf Stephan
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/ralfstephan/
+      url: ""
+      location: ""
+      id: "63331807"
+    isApproved: true
+    raw_message: Has this been published? It would contradict results about STING
+      binding by SARS-CoV-2 proteins 3CLpro and ORF3a (Rui et al, 2021; PMID
+      33723219).
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.07.21.212639v1
+  tweets:
+    - created_at: Mon May 17 12:17:21 +0000 2021
+      id: 1394265781341356000
+      id_str: "1394265781341356034"
+      text: >-
+        💬 bioRxiv comment on "SARS-CoV-2 infection induces a..."
+
+
+        "Has this been published? It would contradict results abo… https://t.co/E5Yk0m9dlz
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/E5Yk0m9dlz
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon May 17 12:17:21 +0000 2021
+      id: 1394265782238937000
+      id_str: "1394265782238937091"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/hk06nOveos
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/hk06nOveos
+      in_reply_to_status_id: 1394265781341356000
+      in_reply_to_status_id_str: "1394265781341356034"
