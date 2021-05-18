@@ -1790,3 +1790,100 @@
           - url: https://t.co/QFqflcwef6
       in_reply_to_status_id: 1394639401880363000
       in_reply_to_status_id_str: "1394639401880363017"
+- preprint:
+    id: "80107"
+    doi: 10.1101/2020.04.16.044255
+    first_posted: 2020-04-17
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.04.16.044255v1
+    url: https://api.rxivist.org/v1/papers/80107
+    title: Stability of the vaginal microbiota during pregnancy and its importance
+      for early infant colonization
+    category: bioinformatics
+    abstract: Early life microbiota has been linked to the development of chronic
+      inflammatory diseases. It has been hypothesized that maternal vaginal
+      microbiota is an important initial seeding source and therefore can have
+      lifelong effects on disease risk. To understand maternal vaginal
+      microbiota's role in seeding the child's microbiota and the extent of
+      delivery mode-dependent transmission, we studied 700 mother-child dyads
+      from the COPSAC2010 cohort. The maternal vaginal microbiota was evaluated
+      in the third trimester and compared with the children's fecal and airway
+      microbiota. The vaginal samples displayed known stable community state
+      types and only 1:6 changed over time. Only one OTU were significantly
+      transferred to children's fecal compartment, but an inflated number had
+      positive transfer odds. A few taxonomic families showed early transfer
+      enrichment to vaginally-born children, indicating vertical transfer, while
+      half of the observed transfer effects were delivery mode independent
+      enrichment with attenuating strength over time, indicating a common
+      reservoir.
+    authors:
+      - name: Martin S. Mortensen
+        orcid: http://orcid.org/0000-0001-5483-7533
+      - name: Morten A. Rasmussen
+        orcid: null
+      - name: Jakob Stokholm
+        orcid: http://orcid.org/0000-0003-4989-9769
+      - name: Asker D. Brejnrod
+        orcid: null
+      - name: Christina Balle
+        orcid: null
+      - name: Jonathan Thorsen
+        orcid: null
+      - name: Karen A. Krogfelt
+        orcid: http://orcid.org/0000-0001-7536-3453
+      - name: Hans Bisgaard
+        orcid: http://orcid.org/0000-0003-4131-7592
+      - name: Søren J. Sørensen
+        orcid: http://orcid.org/0000-0001-6227-9906
+  comment:
+    dislikes: 0
+    thread: "7975653931"
+    numReports: 0
+    likes: 0
+    id: "5387820233"
+    createdAt: 2021-05-18T12:28:19
+    author:
+      username: martinsteenmortensen
+      about: ""
+      name: Martin Steen Mortensen
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/martinsteenmortensen/
+      url: ""
+      location: ""
+      id: "105193295"
+    isApproved: true
+    raw_message: We had this article printed in eLife (10.7554/eLife.57051), but due
+      to an updated title it does not seem to have been registered here.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.04.16.044255v1
+  tweets:
+    - created_at: Tue May 18 20:17:23 +0000 2021
+      id: 1394748974083436500
+      id_str: "1394748974083436544"
+      text: >-
+        💬 bioRxiv comment on "Stability of the vaginal micro..."
+
+
+        "We had this article printed in eLife (10.7554/eLife.5705… https://t.co/UH3K9yglqy
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/UH3K9yglqy
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue May 18 20:17:23 +0000 2021
+      id: 1394748974976757800
+      id_str: "1394748974976757761"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/ojArj6Z8J7
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/ojArj6Z8J7
+      in_reply_to_status_id: 1394748974083436500
+      in_reply_to_status_id_str: "1394748974083436544"
