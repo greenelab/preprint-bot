@@ -1676,3 +1676,117 @@
           - url: https://t.co/csjma3h5nC
       in_reply_to_status_id: 1394453151135137800
       in_reply_to_status_id_str: "1394453151135137797"
+- preprint:
+    id: "122704"
+    doi: 10.1101/2020.12.23.423904
+    first_posted: 2020-12-23
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2020.12.23.423904v1
+    url: https://api.rxivist.org/v1/papers/122704
+    title: Cytosolic localization and in vitro assembly of human de novo thymidylate
+      synthesis complex
+    category: biochemistry
+    abstract: "De novo thymidylate synthesis is a crucial pathway for normal and
+      cancer cells. Deoxythymidine monophosphate (dTMP) is synthesized by the
+      combined action of three enzymes: serine hydroxymethyltransferase (SHMT),
+      dihydrofolate reductase (DHFR) and thymidylate synthase (TYMS), the latter
+      two targets of widely used chemotherapeutics such as antifolates and
+      5-fluorouracil. These proteins translocate to the nucleus after
+      SUMOylation and are suggested to assemble in this compartment into the
+      thymidylate synthesis complex (dTMP-SC). We report the intracellular
+      dynamics of the complex in lung cancer cells by in situ proximity ligation
+      assay, showing that it is also detected in the cytoplasm. This result
+      strongly indicates that the role of the dTMP-SC assembly may go beyond
+      dTMP synthesis. We have successfully assembled the dTMP synthesis complex
+      in vitro, employing tetrameric SHMT1 and a bifunctional chimeric enzyme
+      comprising human TYMS and DHFR. We show that the SHMT1 tetrameric state is
+      required for efficient complex assembly, indicating that this aggregation
+      state is evolutionary selected in eukaryotes to optimize protein-protein
+      interactions. Lastly, our results on the activity of the complete
+      thymidylate cycle in vitro, may provide a useful tool to develop drugs
+      targeting the entire complex instead of the individual components."
+    authors:
+      - name: Sharon Spizzichino
+        orcid: null
+      - name: Dalila Boi
+        orcid: null
+      - name: Giovanna Boumis
+        orcid: http://orcid.org/0000-0001-5323-7288
+      - name: Roberta Lucchi
+        orcid: null
+      - name: Francesca Romana Liberati
+        orcid: null
+      - name: Davide Capelli
+        orcid: http://orcid.org/0000-0002-6716-3854
+      - name: Roberta Montanari
+        orcid: http://orcid.org/0000-0002-7533-5425
+      - name: Giorgio Pochetti
+        orcid: http://orcid.org/0000-0002-3980-3180
+      - name: Alessio Paone
+        orcid: http://orcid.org/0000-0001-9406-3982
+      - name: Serena Rinaldo
+        orcid: http://orcid.org/0000-0003-0682-023X
+      - name: Roberto Contestabile
+        orcid: http://orcid.org/0000-0002-5235-9993
+      - name: Alessandro Paiardini
+        orcid: http://orcid.org/0000-0001-9078-7545
+      - name: Angela Tramonti
+        orcid: http://orcid.org/0000-0002-5625-1170
+      - name: Giorgio Giardina
+        orcid: http://orcid.org/0000-0002-0802-1370
+      - name: Francesca Cutruzzolá
+        orcid: http://orcid.org/0000-0002-4621-2135
+  comment:
+    dislikes: 0
+    thread: "8378755337"
+    numReports: 0
+    likes: 0
+    id: "5387170427"
+    createdAt: 2021-05-17T20:59:10
+    author:
+      username: virginia_bain
+      about: ""
+      name: Virginia Bain
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/virginia_bain/
+      url: ""
+      location: ""
+      id: "369529985"
+    isApproved: true
+    raw_message: Hello~ I have a question for the authors. It looks like there is
+      nuclear DHFR by immunofluorescence in A549 cells in figure 2C but in 2F
+      you nicely show that  DHFR is only in the cytoplasm. What do you make of
+      the nuclear DHFR in figure 2C? Thanks!
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.12.23.423904v2
+  tweets:
+    - created_at: Tue May 18 13:01:59 +0000 2021
+      id: 1394639401880363000
+      id_str: "1394639401880363017"
+      text: >-
+        💬 bioRxiv comment on "Cytosolic localization and in ..."
+
+
+        "Hello~ I have a question for the authors. It looks like… https://t.co/htIrFvsQaN
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/htIrFvsQaN
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue May 18 13:01:59 +0000 2021
+      id: 1394639403071455200
+      id_str: "1394639403071455235"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/QFqflcwef6
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/QFqflcwef6
+      in_reply_to_status_id: 1394639401880363000
+      in_reply_to_status_id_str: "1394639401880363017"
