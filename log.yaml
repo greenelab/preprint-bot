@@ -1887,3 +1887,63 @@
           - url: https://t.co/ojArj6Z8J7
       in_reply_to_status_id: 1394748974083436500
       in_reply_to_status_id_str: "1394748974083436544"
+- preprint:
+    id: 127224
+    metric: 4264
+    title: Heterologous vaccination regimens with self-amplifying RNA and Adenoviral
+      COVID vaccines induce robust immune responses in mice
+    url: https://api.rxivist.org/v1/papers/127224
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.01.28.428665v1
+    doi: 10.1101/2021.01.28.428665
+    category: immunology
+    first_posted: 2021-01-29
+    abstract: Several vaccines have demonstrated efficacy against SARS-CoV-2
+      mediated disease, yet there is limited data on the immune response induced
+      by heterologous vaccination regimens using alternate vaccine modalities.
+      Here, we present a detailed description of the immune response, in mice,
+      following vaccination with a self-amplifying RNA (saRNA) vaccine and an
+      adenoviral vectored vaccine (ChAdOx1 nCoV-19/AZD1222) against SARS-CoV-2.
+      We demonstrate that antibody responses are higher in two dose heterologous
+      vaccination regimens than single dose regimens. Neutralising titres after
+      heterologous prime-boost were at least comparable or higher than the
+      titres measured after homologous prime boost vaccination with viral
+      vectors. Importantly, the cellular immune response after a heterologous
+      regimen is dominated by cytotoxic T cells and Th1+ CD4 T cells which is
+      superior to the response induced in homologous vaccination regimens in
+      mice. These results underpin the need for clinical trials to investigate
+      the immunogenicity of heterologous regimens with alternate vaccine
+      technologies.
+    authors:
+      - name: Alexandra J Spencer
+      - name: Paul F McKay
+      - name: Sandra Belij-Rammerstorfer
+      - name: Marta Ulaszewska
+      - name: Cameron D Bissett
+      - name: Kai Hu
+      - name: Karnyart Samnuan
+      - name: Anna K. Blakney
+      - name: Hannah R Sharpe
+      - name: Daniel Wright
+      - name: Ciaran Gilbride
+      - name: Adam Truby
+      - name: Elizabeth R Allen
+      - name: Sarah C Gilbert
+      - name: Robin J Shattock
+      - name: Teresa Lambe
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Tue May 18 20:25:30 +0000 2021
+      id: 1394751018022359000
+      id_str: "1394751018022359044"
+      text: >-
+        🔥 bioRxiv Immunology preprint by A. J. Spencer et al:
+
+
+        "Heterologous vaccination regimens with self-amplifying RNA… https://t.co/CqHl2SBkG3
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/CqHl2SBkG3
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
