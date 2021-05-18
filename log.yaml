@@ -1566,3 +1566,113 @@
           - url: https://t.co/ovG85u4GJo
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "141849"
+    doi: 10.1101/2021.05.13.21257109
+    first_posted: 2021-05-16
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.13.21257109v1
+    url: https://api.rxivist.org/v1/papers/141849
+    title: Opioid Prescribing Mediating State Policy Intervention Effects on Drug
+      Overdose Mortality
+    category: health-policy
+    abstract: The Centers for Disease Control and Prevention reported 70 630 drug
+      overdose deaths for 2019 in the United States, 70.5% of which were
+      opioid-related. Preliminary estimates now warn that drug overdose deaths
+      likely surpassed 86 000 during 2020. Despite a 57.4% decrease in opioid
+      prescribing since a peak in 2012, the opioid death rate has increased
+      105.8% through 2019, as the share of those deaths involving fentanyl
+      increased from 16.4% to 72.9%. This letter seeks to determine whether the
+      opioid prescribing and mortality paradox is robust to accepted methods of
+      causal policy analysis and if prescribing rates mediate the effects of
+      policy interventions on overdose deaths. Using loge-loge ordinary least
+      squares with three different specifications as sensitivity analyses for
+      all 50 states and Washington, DC for the period 2001-2019, the
+      elasticities from the regressions with all control variables report
+      operational prescription drug monitoring programs (PDMPs) reduce
+      prescribing rates 8.7%, while mandatory PDMPs increase death rates from
+      opioids 16.6%, heroin and fentanyl 19.0%, cocaine 17.3% and all drugs
+      10.5%. There is also weak evidence that recreational marijuana laws reduce
+      prescribing, increases in prescribing increase pain reliever deaths, pill
+      mill laws increase cocaine deaths, and medical marijuana laws increase
+      total overdose deaths, with demographic variables suggesting states with
+      more male, less non-Hispanic white, and older citizens experience more
+      overdoses. Weak mediation effects were observed for pain reliever,
+      cocaine, and illicit opioid deaths, while broad reductions in prescribing
+      have failed to reduce opioid overdoses.
+    authors:
+      - name: Jacob James Rich
+        orcid: http://orcid.org/0000-0002-2272-5446
+      - name: Robert Capodilupo
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8522891427"
+    numReports: 0
+    likes: 0
+    id: "5387217982"
+    createdAt: 2021-05-17T21:44:07
+    author:
+      username: redlawhern
+      about: Advocate and web author for chronic neurological facepain patients.
+        Formerly webmaster for the US Trigeminal Neuralgia Association.
+      name: Red Lawhern
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/redlawhern/
+      url: http://www.face-facts.org/Lawhern
+      location: Fort Mill, SC
+      id: "99089704"
+    isApproved: true
+    raw_message: >-
+      In your paper you write 
+
+
+
+      "drug monitoring programs (PDMPs) reduce prescribing rates 8.7%, while 
+
+      mandatory PDMPs increase death rates from opioids 16.6%, heroin and 
+
+      fentanyl 19.0%, cocaine 17.3% and all drugs 10.5%" 
+
+
+      This phrasing seems to assert demonstrated cause and effect.  It is not at all clear to me that the techniques you are applying have the capability to establish that. 
+
+
+      Likewise, there is an important question in this process that you do not address and I would hope you may be willing to attempt:  recognizing that predominant modes of overdose mortality involve multiple legal and illegal opioids in the great majority of deaths, is the contribution of opioids prescribed by doctors to their patients (not diverted) statistically significant  in the overall mortality rate due to all opioids, legal and illegal? Based on the relative rarity of addiction to medically managed prescription opioids,  I would suggest that it is not.  
+
+
+      Your comments are invited.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.05.13.21257109v1
+  tweets:
+    - created_at: Tue May 18 00:41:53 +0000 2021
+      id: 1394453151135137800
+      id_str: "1394453151135137797"
+      text: |-
+        💬 medRxiv comment on "Opioid Prescribing Mediating S..."
+
+        "In your paper you write 
+
+        "drug monitoring programs (PDM… https://t.co/3TZYvBaiel
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/3TZYvBaiel
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue May 18 00:41:53 +0000 2021
+      id: 1394453152129110000
+      id_str: "1394453152129110016"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/csjma3h5nC
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/csjma3h5nC
+      in_reply_to_status_id: 1394453151135137800
+      in_reply_to_status_id_str: "1394453151135137797"
