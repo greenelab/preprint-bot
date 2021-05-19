@@ -2246,3 +2246,90 @@
           - url: https://t.co/hPghHHcQqX
       in_reply_to_status_id: 1394990509026914300
       in_reply_to_status_id_str: "1394990509026914309"
+- preprint:
+    id: "120813"
+    doi: 10.1101/2020.12.01.20241919
+    first_posted: 2020-12-09
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2020.12.01.20241919v1
+    url: https://api.rxivist.org/v1/papers/120813
+    title: bootComb - An R Package to Derive Confidence Intervals for Combinations
+      of Independent Parameter Estimates
+    category: epidemiology
+    abstract: "Motivation. The epidemiologist sometimes needs to combine several
+      independent parameter estimates: e.g. (i) adjust an incidence rate for
+      healthcare utilisation, (ii) derive a disease prevalence from the
+      conditional prevalence on another condition and the prevalence of that
+      condition, (iii) adjust a seroprevalence for test sensitivity and
+      specificity. While obtaining the combined parameter estimate is usually
+      straightforward, deriving a corresponding confidence interval often is
+      not. bootComb is an R package using parametric bootstrap sampling to
+      derive such confidence intervals. Implementation. bootComb is a package
+      for the statistical computation environment R. General features. As well
+      as a function that returns confidence intervals for parameters combined
+      from several independent estimates, bootComb provides auxiliary functions
+      for 6 common distributions (beta, normal, exponential, gamma, Poisson and
+      negative binomial) to derive best-fit distributions (and their sampling
+      functions) for parameters given their reported confidence intervals.
+      Availability. bootComb is available from the Comprehensive R Archive
+      Network (https://CRAN.R-project.org/package=bootComb)."
+    authors:
+      - name: Marc YR Henrion
+        orcid: http://orcid.org/0000-0003-1242-839X
+  comment:
+    dislikes: 0
+    thread: "8306836802"
+    numReports: 0
+    likes: 0
+    id: "5389485884"
+    createdAt: 2021-05-19T17:50:25
+    author:
+      username: marchenrion
+      about: ""
+      name: marchenrion
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/marchenrion/
+      url: ""
+      location: ""
+      id: "369633532"
+    isApproved: true
+    raw_message: >-
+      This article has been accepted for publication in the International
+      Journal of Epidemiology published by Oxford University Press.
+
+
+
+      The DOI for the version of record is https://doi.org/10.1093/ije/dyab049.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2020.12.01.20241919v1
+  tweets:
+    - created_at: Wed May 19 20:12:34 +0000 2021
+      id: 1395110151296794600
+      id_str: "1395110151296794633"
+      text: >-
+        💬 medRxiv comment on "bootComb - An R Package to Der..."
+
+
+        "This article has been accepted for publication in the In… https://t.co/h1mkrF0BX1
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/h1mkrF0BX1
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed May 19 20:12:34 +0000 2021
+      id: 1395110152177606700
+      id_str: "1395110152177606658"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/zHk5Ao17H8
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/zHk5Ao17H8
+      in_reply_to_status_id: 1395110151296794600
+      in_reply_to_status_id_str: "1395110151296794633"
