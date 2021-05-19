@@ -2066,3 +2066,183 @@
           - url: https://t.co/mThs3YVlCp
       in_reply_to_status_id: 1394814579050418200
       in_reply_to_status_id_str: "1394814579050418177"
+- preprint:
+    id: "124483"
+    doi: 10.1101/2020.12.21.20248121
+    first_posted: 2020-12-24
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2020.12.21.20248121v1
+    url: https://api.rxivist.org/v1/papers/124483
+    title: HLA-C* 04:01 is a Genetic Risk Allele for Severe Course of COVID-19
+    category: genetic-and-genomic-medicine
+    abstract: >-
+      BackgroundSince the beginning of the coronavirus disease 2019 (COVID-19)
+      pandemic, there has been increasing demand to identify predictors of
+      severe clinical course in patients infected with severe acute respiratory
+      syndrome coronavirus 2 (SARS-CoV-2). Human leukocyte antigen alleles (HLA)
+      have been suggested as potential genetic host factors. We sought to
+      evaluate this hypothesis by conducting an international multicenter study
+      using HLA sequencing with subsequent independent validation.
+
+
+      MethodsWe analyzed a total of 332 samples. First, we enrolled 233 patients in Germany, Spain, and Switzerland for HLA and whole exome sequencing. Furthermore, we validated our results in a public data set (United States, n=99). Patients older than 18 years presenting with COVID-19 were included, representing the full spectrum of the disease. HLA candidate alleles were identified in the derivation cohort (n=92) and tested in two independent validation cohorts (n=240).
+
+
+      ResultsWe identified HLA-C* 04:01 as a novel genetic predictor for severe clinical course in COVID-19. Carriers of HLA-C* 04:01 had twice the risk of intubation when infected with SARS-CoV-2 (hazard ratio 2.1, adjusted p-value=0.0036). Importantly, these findings were successfully replicated in an independent data set. Furthermore, our findings are biologically plausible, as HLA-C* 04:01 has fewer predicted bindings sites with relevant SARS-CoV-2 peptides as compared to other HLA alleles. Exome sequencing confirmed findings from HLA analysis.
+
+
+      ConclusionsHLA-C* 04:01 carriage is associated with a twofold increased risk of intubation in patients infected with SARS-CoV-2. Testing for HLA-C* 04:01 could have clinical implications to identify high-risk patients and individualize management.
+    authors:
+      - name: Weiner January
+        orcid: null
+      - name: Suwalski Phillip
+        orcid: null
+      - name: Holtgrewe Manuel
+        orcid: null
+      - name: Thibeault Charlotte
+        orcid: http://orcid.org/0000-0002-8979-9386
+      - name: Melina Müller
+        orcid: null
+      - name: Patriki Dimitri
+        orcid: null
+      - name: Quedenau Claudia
+        orcid: null
+      - name: Ulrike Krüger
+        orcid: null
+      - name: T. Helbig Elisa
+        orcid: null
+      - name: Lippert Lena
+        orcid: null
+      - name: Stubbemann Paula
+        orcid: null
+      - name: Real Luis Miguel
+        orcid: null
+      - name: Sanchez Juan Macias
+        orcid: null
+      - name: A. Pineda Juan
+        orcid: null
+      - name: Fernandez-Fuertes Marta
+        orcid: null
+      - name: Wang Xiaomin
+        orcid: null
+      - name: Karadeniz Zehra
+        orcid: null
+      - name: Saccomanno Jacopo
+        orcid: null
+      - name: Doehn Jan-Moritz
+        orcid: null
+      - name: Hübner Ralf-Harto
+        orcid: null
+      - name: Hinzmann Bernd
+        orcid: null
+      - name: Salvo Mauricio
+        orcid: null
+      - name: Blueher Anja
+        orcid: null
+      - name: Siemann Sandra
+        orcid: null
+      - name: Jurisic Stjepan
+        orcid: null
+      - name: Beer Hansjuerg
+        orcid: null
+      - name: Rutishauser Jonas
+        orcid: null
+      - name: Wiggli Benedikt
+        orcid: null
+      - name: Schmid Hansruedi
+        orcid: null
+      - name: Danninger Kathrin
+        orcid: null
+      - name: Binder Ronald
+        orcid: null
+      - name: M. Victor Corman
+        orcid: null
+      - name: Mühlemann Barbara
+        orcid: null
+      - name: Braun Alice
+        orcid: null
+      - name: Ripke Stephan
+        orcid: null
+      - name: C. Jones Terry
+        orcid: null
+      - name: Suttorp Norbert
+        orcid: null
+      - name: Witzenrath Martin
+        orcid: null
+      - name: Hippenstiel Stefan
+        orcid: null
+      - name: Zemojtel Tomasz
+        orcid: null
+      - name: Skurk Carsten
+        orcid: null
+      - name: Poller Wolfgang
+        orcid: null
+      - name: Borodina Tatiana
+        orcid: null
+      - name: Pa-COVID Study Group
+        orcid: null
+      - name: E. Sander Leif
+        orcid: null
+      - name: Beule Dieter
+        orcid: null
+      - name: Landmesser Ulf
+        orcid: null
+      - name: Guettouche Toumy
+        orcid: null
+      - name: Kurth Florian
+        orcid: null
+      - name: Heidecker Bettina
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8328945006"
+    numReports: 0
+    likes: 0
+    id: "5388394685"
+    createdAt: 2021-05-18T20:33:29
+    author:
+      username: disqus_WaA83XvM0B
+      about: ""
+      name: Rene Warren
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_WaA83XvM0B/
+      url: ""
+      location: ""
+      id: "157460079"
+    isApproved: true
+    raw_message: "We have done that in our work using the Overmyer (New York) cohort
+      and reported our findings on November 2nd, 2020:
+      https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7605564/"
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2020.12.21.20248121v1
+  tweets:
+    - created_at: Wed May 19 12:17:09 +0000 2021
+      id: 1394990509026914300
+      id_str: "1394990509026914309"
+      text: >-
+        💬 medRxiv comment on "HLA-C* 04:01 is a Genetic Risk..."
+
+
+        "We have done that in our work using the Overmyer (New Yo… https://t.co/IYWHjQPThj
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/IYWHjQPThj
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed May 19 12:17:09 +0000 2021
+      id: 1394990509823828000
+      id_str: "1394990509823827973"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/hPghHHcQqX
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/hPghHHcQqX
+      in_reply_to_status_id: 1394990509026914300
+      in_reply_to_status_id_str: "1394990509026914309"
