@@ -1947,3 +1947,122 @@
           - url: https://t.co/CqHl2SBkG3
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "130515"
+    doi: 10.1101/2021.02.23.432421
+    first_posted: 2021-02-23
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.02.23.432421v1
+    url: https://api.rxivist.org/v1/papers/130515
+    title: A more accurate method for colocalisation analysis allowing for multiple
+      causal variants
+    category: genetics
+    abstract: In genome-wide association studies (GWAS) it is now common to search
+      for, and find, multiple causal variants located in close proximity. It has
+      also become standard to ask whether different traits share the same causal
+      variants, but one of the popular methods to answer this question, coloc,
+      makes the simplifying assumption that only a single causal variant exists
+      for any given trait in any genomic region. Here, we examine the potential
+      of the recently proposed Sum of Single Effects (SuSiE) regression
+      framework, which can be used for fine-mapping genetic signals, for use
+      with coloc. SuSiE is a novel approach that allows evidence for association
+      at multiple causal variants to be evaluated simultaneously, whilst
+      separating the statistical support for each variant conditional on the
+      causal signal being considered. We show this results in more accurate
+      coloc inference than other proposals to adapt coloc for multiple causal
+      variants based on conditioning or masking. We therefore recommend that
+      coloc be used in combination with SuSiE to optimise accuracy of
+      colocalisation analyses when multiple causal variants exist.
+    authors:
+      - name: Chris Wallace
+        orcid: http://orcid.org/0000-0001-9755-1703
+  comment:
+    dislikes: 0
+    thread: "8410450800"
+    numReports: 0
+    likes: 0
+    id: "5387656036"
+    createdAt: 2021-05-18T08:18:43
+    author:
+      username: disqus_SKjVenadaX
+      about: ""
+      name: Chris Wallace 🏳️‍🌈  🇪🇺
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_SKjVenadaX/
+      url: ""
+      location: ""
+      id: "325883660"
+    isApproved: true
+    raw_message: >-
+      Thank you for taking the time to review.  I haven't had a public review
+      before to my knowledge, but they seem a thoroughly good thing.  I am not
+      sure of the conventions, but hope it is in the right spirit to post a
+      summary of my responses to each of your main points, which I think have
+      improved the manuscript.  The changes I describe may be seen in version 2
+      on biorxiv.
+
+
+      1. I have adjusted coloc to use the Bayes factors that are now returned by susie_rss (thank you), so the back-calculation is no longer needed and I have removed that equation. I have also updated the relevant text to give more details on how susie_rss is called, and the number of colocalisation comparisons returned and how the pairwise probabilities of colocalisation may be interpreted.
+
+
+
+
+
+      2. I completely agree it would be cheating to tell any method how many causal variants were simulated! I have updated the legend to figure 3, which hopefully clarifies what AA, BB etc signals are. 
+
+
+
+
+
+      In the setting where each trait has 2 causal variants A and B, there should ideally be 4 comparisons: AA, AB, BA, BB.  Very occasionally there are more (a handful of times susie_rss reports > 2 signals).  Often there are fewer (due to power), and even when there are 4, they may not all be assignable to labelled groups and some will fall in “?”. This is why the bar height, which is proportional to the number of comparisons performed in a given category divided by the number of simulations, doesn’t reach 1.
+
+
+
+
+
+      3. Figure 1 has now been changed to show both the change in PIP at the causal variants and at the non-causal variants. Specifically, following the approach of coloc to consider comparisons between vectors of Bayes factors corresponding to detected credible sets, I took the colSums of obj$alpha[ obj$sets$cs_index, ] as a measure of the total PIP after a run of susie_rss(). Thus the total PIP can increase/decrease by 1 if a credible set is “discovered” or “lost” after trimming.  This view of the data shows false positives are indeed introduced after trimming. This is now described at the beginning of the Results section
+
+
+
+
+
+      Fig 3 shows, however, that despite these false positives coloc with SuSiE outperforms the alternatives, and appears to do at least as well when trimming as not. Therefore, I expanded the Discussion on trimming to give a clearer warning that while trimming is possible for coloc, these results do not support its use in fine-mapping. 
+
+
+
+
+
+      4. Thank you for these detailed explanations. I agree it would be preferable to never trim data. I have extended the discussion to cover these points, and acknowledged your comments in helping me to do that.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.02.23.432421v1
+  tweets:
+    - created_at: Wed May 19 00:38:04 +0000 2021
+      id: 1394814579050418200
+      id_str: "1394814579050418177"
+      text: >-
+        💬 bioRxiv comment on "A more accurate method for col..."
+
+
+        "Thank you for taking the time to review.  I haven't had… https://t.co/0t8vLXlLjk
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/0t8vLXlLjk
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed May 19 00:38:04 +0000 2021
+      id: 1394814579805507600
+      id_str: "1394814579805507588"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/mThs3YVlCp
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/mThs3YVlCp
+      in_reply_to_status_id: 1394814579050418200
+      in_reply_to_status_id_str: "1394814579050418177"
