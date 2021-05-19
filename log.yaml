@@ -2333,3 +2333,61 @@
           - url: https://t.co/zHk5Ao17H8
       in_reply_to_status_id: 1395110151296794600
       in_reply_to_status_id_str: "1395110151296794633"
+- preprint:
+    id: 104150
+    metric: 4184
+    title: Analysis of SARS-CoV-2 spike glycosylation reveals shedding of a vaccine
+      candidate
+    url: https://api.rxivist.org/v1/papers/104150
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.11.16.384594v1
+    doi: 10.1101/2020.11.16.384594
+    category: biochemistry
+    first_posted: 2020-11-16
+    abstract: >-
+      Severe acute respiratory syndrome coronavirus 2 is the causative pathogen
+      of the COVID-19 pandemic which as of Nov 15, 2020 has claimed 1,319,946
+      lives worldwide. Vaccine development focuses on the viral trimeric spike
+      glycoprotein as the main target of the humoral immune response. Viral
+      spikes carry glycans that facilitate immune evasion by shielding specific
+      protein epitopes from antibody neutralisation. Immunogen integrity is
+      therefore important for glycoprotein-based vaccine candidates. Here we
+      show how site-specific glycosylation differs between virus-derived spikes
+      and spike proteins derived from a viral vectored SARS-CoV-2 vaccine
+      candidate. We show that their cellular secretion pathways are unique,
+      resulting in different protein glycosylation and secretion, which may have
+      implications for the resulting immune response and future vaccine design.
+
+
+      ### Competing Interest Statement
+
+
+      W.B.S. is a shareholder and consultant to Refeyn Ltd. All other authors declare no conflict of interest.
+    authors:
+      - name: Juliane Brun
+      - name: Snezana Vasiljevic
+      - name: Bevin Gangadharan
+      - name: Mario Hensen
+      - name: Anu V. Chandran
+      - name: Michelle L. Hill
+      - name: J.L. Kiappes
+      - name: Raymond A. Dwek
+      - name: Dominic S. Alonzi
+      - name: Weston B. Struwe
+      - name: Nicole Zitzmann
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Wed May 19 20:20:31 +0000 2021
+      id: 1395112150230839300
+      id_str: "1395112150230839303"
+      text: >-
+        🔥 bioRxiv Biochemistry preprint by J. Brun et al:
+
+
+        "Analysis of SARS-CoV-2 spike glycosylation reveals shedding of… https://t.co/pUILp7mqvt
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/pUILp7mqvt
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
