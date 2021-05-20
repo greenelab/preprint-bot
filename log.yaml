@@ -2391,3 +2391,123 @@
           - url: https://t.co/pUILp7mqvt
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "123354"
+    doi: 10.1101/2020.12.31.425005
+    first_posted: 2021-01-02
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2020.12.31.425005v1
+    url: https://api.rxivist.org/v1/papers/123354
+    title: YhcB (DUF1043), a novel cell division protein conserved across
+      gamma-proteobacteria
+    category: microbiology
+    abstract: >-
+      YhcB, an uncharacterized protein conserved across gamma-proteobacteria, is
+      composed predominantly of a single Domain of Unknown Function (DUF 1043)
+      with an N-terminal transmembrane -helix. Here, we show that E. coli YhcB
+      is a conditionally essential protein that interacts with the proteins of
+      the cell divisome (e.g., FtsI, FtsQ) and elongasome (e.g., RodZ, RodA). We
+      found 7 interactions of YhcB that are conserved in Yersinia pestis and/or
+      Vibrio cholerae. Furthermore, we identified several point mutations that
+      abolished interactions of YhcB with FtsI and RodZ. The yhcB knock-out
+      strain does not grow at 45{degrees}C and is hypersensitive to cell-wall
+      acting antibiotics even in stationary phase. The deletion of yhcB leads to
+      filamentation, abnormal FtsZ ring formation, and aberrant septa
+      development. The 2.8 [A] crystal structure for the cytosolic domain from
+      Haemophilus ducreyi YhcB shows a unique tetrameric -helical coiled-coil
+      structure that combines parallel and anti-parallel coiled-coil
+      intersubunit interactions. This structure is likely to organize
+      interprotein oligomeric interactions on the inner surface of the
+      cytoplasmic membrane, possibly involved in regulation of cell division
+      and/or envelope biogenesis/integrity in proteobacteria. In summary, YhcB
+      is a conserved and conditionally essential protein that is predicted to
+      play a role in cell division and consequently or in addition affects
+      envelope biogenesis.
+
+
+      ImportanceOnly 0.8 % of the protein annotations in the UniProt are based on experimental evidence and thus, functional characterization of unknown proteins remains a rate-limiting step in molecular biology. Herein, the functional properties of YhcB (DUF1043) were investigated using an integrated approach combining X-ray crystallography with genetics and molecular biology. YhcB is a conserved protein that appears to be needed for the transition from exponential to stationary growth and is involved in cell division and/or envelope biogenesis/integrity. This study will serve as a starting point for future studies on this protein family and on how cells transit from exponential to stationary survival.
+    authors:
+      - name: Jitender Mehla
+        orcid: http://orcid.org/0000-0002-7829-557X
+      - name: George Liechti
+        orcid: http://orcid.org/0000-0003-3028-8474
+      - name: Randy Morgenstein
+        orcid: http://orcid.org/0000-0003-0749-6830
+      - name: J. Harry Caufield
+        orcid: http://orcid.org/0000-0001-5705-7831
+      - name: Ali Hosseinnia
+        orcid: http://orcid.org/0000-0002-6499-0758
+      - name: Alla Gagarinova
+        orcid: http://orcid.org/0000-0002-6521-6406
+      - name: Sadhna Phanse
+        orcid: http://orcid.org/0000-0001-6306-0551
+      - name: Mary Brockett
+        orcid: http://orcid.org/0000-0002-5167-9231
+      - name: Neha Sakhawalkar
+        orcid: null
+      - name: Mohan Babu
+        orcid: null
+      - name: Rong Xiao
+        orcid: null
+      - name: Gaetano T. Montelione
+        orcid: http://orcid.org/0000-0002-9440-3059
+      - name: Sergey Vorobiev
+        orcid: http://orcid.org/0000-0001-8537-3671
+      - name: Tanneke den Blaauwen
+        orcid: http://orcid.org/0000-0002-5403-5597
+      - name: John F. Hunt
+        orcid: http://orcid.org/0000-0003-0034-5167
+      - name: Peter Uetz
+        orcid: http://orcid.org/0000-0001-6194-4927
+  comment:
+    dislikes: 0
+    thread: "8346695005"
+    numReports: 0
+    likes: 0
+    id: "5389262434"
+    createdAt: 2021-05-19T15:03:33
+    author:
+      username: disqus_vbFUJ0jUw9
+      about: ""
+      name: Peter Uetz
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_vbFUJ0jUw9/
+      url: https://www.facebook.com/app_scoped_user_id/YXNpZADpBWEV4UERQSHR4OTV5T1ZAiM0NaUXJoS3VfU1FHOW5uOUpOcjM1WDhvdU16WVkySmxSLVhEQzVEaVNoaVNzY1BRN1JmYTNwME56YWtwUU5XajdsREl6dml1WWZAuVGhKVmpEcDdC/
+      location: ""
+      id: "191120429"
+    isApproved: true
+    raw_message: "A revision of this paper has now been published in the Journal of
+      Biological Chemistry: https://pubmed.ncbi.nlm.nih.gov/33895137/"
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.12.31.425005v2
+  tweets:
+    - created_at: Thu May 20 00:35:52 +0000 2021
+      id: 1395176410558472200
+      id_str: "1395176410558472198"
+      text: >-
+        💬 bioRxiv comment on "YhcB (DUF1043), a novel cell d..."
+
+
+        "A revision of this paper has now been published in the J… https://t.co/m20d9V3ByV
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/m20d9V3ByV
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu May 20 00:35:52 +0000 2021
+      id: 1395176411476922400
+      id_str: "1395176411476922368"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/vcWIH7J1wX
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/vcWIH7J1wX
+      in_reply_to_status_id: 1395176410558472200
+      in_reply_to_status_id_str: "1395176410558472198"
