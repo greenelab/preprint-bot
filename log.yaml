@@ -2618,3 +2618,107 @@
           - url: https://t.co/1WFsniCwvc
       in_reply_to_status_id: 1395353011673829400
       in_reply_to_status_id_str: "1395353011673829376"
+- preprint:
+    id: "141912"
+    doi: 10.1101/2021.05.15.21257017
+    first_posted: 2021-05-17
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.15.21257017v1
+    url: https://api.rxivist.org/v1/papers/141912
+    title: Extended interval BNT162b2 vaccination enhances peak antibody generation
+      in older people
+    category: infectious-diseases
+    abstract: "Abstract Objectives: To assess the relative immunogenicity of
+      standard or extended interval BNT162b2 vaccination. Design: Population
+      based cohort study comparing immune responses 2 weeks after the second
+      vaccine, with appropriate time-matched samples in participants who
+      received standard or extended interval double vaccination. Setting:
+      Primary care networks, Birmingham, UK. December 2020 to April 2021.
+      Participants: 175 people aged over 80 years of age. All donors received
+      the BNT162b2 Pfizer/BioNTech vaccination and were vaccinated with either a
+      standard 3 week interval between doses or an extended interval schedule.
+      Main outcome measures: Peak quantitative spike-specific antibody and
+      cellular immune responses. Results: In donors without evidence of previous
+      infection the peak antibody response was 3.5-fold higher in donors who had
+      undergone delayed interval vaccination. Cellular immune responses were
+      3.6-fold lower. Conclusion: Peak antibody responses after the second
+      BNT162b2 vaccine are markedly enhanced in older people when this is
+      delayed to 12 weeks although cellular responses are lower. Extended
+      interval vaccination may therefore offer the potential to enhance and
+      extend humoral immunity. Further follow up is now required to assess long
+      term immunity and clinical protection."
+    authors:
+      - name: Helen M Parry
+        orcid: http://orcid.org/0000-0002-9707-8167
+      - name: Rachel Bruton
+        orcid: null
+      - name: Christine Stephens
+        orcid: null
+      - name: Kevin Brown
+        orcid: null
+      - name: Gayatri Amirthalingam
+        orcid: http://orcid.org/0000-0003-2078-0975
+      - name: Bassam Hallis
+        orcid: http://orcid.org/0000-0002-8461-0038
+      - name: Ashley Otter
+        orcid: null
+      - name: Jianmin Zuo
+        orcid: http://orcid.org/0000-0002-8341-465X
+      - name: Paul Moss
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8524358522"
+    numReports: 0
+    likes: 0
+    id: "5389554172"
+    createdAt: 2021-05-19T18:42:43
+    author:
+      username: FredBass
+      about: Preventive medicine physician concerned with our suicidal, massive
+        ecological destruction.
+      name: Fred Bass
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/FredBass/
+      url: ""
+      location: Vancouver BC Canada
+      id: "215341"
+    isApproved: true
+    raw_message: Were the patients randomized into those getting usual and those
+      getting 12 week delay?  Having 99 in one group and 73 in the other does
+      not seem like a random split of 172 people!  A bias toward giving
+      healthier seniors the longer interval might account for some or even all
+      of the results.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.05.15.21257017v1
+  tweets:
+    - created_at: Thu May 20 16:30:44 +0000 2021
+      id: 1395416713546584000
+      id_str: "1395416713546584075"
+      text: >-
+        💬 medRxiv comment on "Extended interval BNT162b2 vac..."
+
+
+        "Were the patients randomized into those getting usual an… https://t.co/zKIlho8gD9
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/zKIlho8gD9
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu May 20 16:30:44 +0000 2021
+      id: 1395416714431565800
+      id_str: "1395416714431565828"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/x0AIV3f5Lu
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/x0AIV3f5Lu
+      in_reply_to_status_id: 1395416713546584000
+      in_reply_to_status_id_str: "1395416713546584075"
