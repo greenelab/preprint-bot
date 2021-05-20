@@ -2722,3 +2722,118 @@
           - url: https://t.co/x0AIV3f5Lu
       in_reply_to_status_id: 1395416713546584000
       in_reply_to_status_id_str: "1395416713546584075"
+- preprint:
+    id: "142319"
+    doi: 10.1101/2021.05.18.443629
+    first_posted: 2021-05-18
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.05.18.443629v1
+    url: https://api.rxivist.org/v1/papers/142319
+    title: "Whole-ExM: Expansion microscopy imaging of all anatomical structures of
+      whole larval zebrafish"
+    category: developmental-biology
+    abstract: Nanoscale imaging of all anatomical structures over whole vertebrates
+      is needed for a systematic understanding of human diseases, but this has
+      not yet been achieved. Here, we demonstrate whole-ExM, which enables
+      nanoscale imaging of all anatomical structures of whole zebrafish larvae
+      by labeling the proteins of the larvae with fluorophores and expanding
+      them four-fold. We first optimize the fluorophore selection and labeling
+      procedure to visualize a broader range of anatomical structures. We then
+      develop an expansion protocol for zebrafish larvae having calcified body
+      parts. Through this process, we visualize the nanoscale details of diverse
+      larvae organs, which have corresponding organ counterparts in humans, over
+      the intact larvae. We show that whole-ExM retains the fluorescence signals
+      of fluorescent proteins, and its resolution is high enough to visualize
+      various structures that can be imaged only with electron microscopy.
+      Whole-ExM would enable the nanoscale study of the molecular mechanisms of
+      human diseases.
+    authors:
+      - name: Jueun Sim
+        orcid: null
+      - name: Chan E Park
+        orcid: null
+      - name: In Cho
+        orcid: null
+      - name: Kyeongbae Min
+        orcid: null
+      - name: Jeong-Soo Lee
+        orcid: null
+      - name: Yosep Chong
+        orcid: null
+      - name: Jeewon Kim
+        orcid: null
+      - name: Jeong Seuk Kang
+        orcid: null
+      - name: Kiryl D Piatkevich
+        orcid: http://orcid.org/0000-0002-7777-9468
+      - name: Erica E. Jung
+        orcid: null
+      - name: Seok-Kyu Kwon
+        orcid: http://orcid.org/0000-0002-7280-9867
+      - name: Young-Gyu Yoon
+        orcid: null
+      - name: Edward S. Boyden
+        orcid: http://orcid.org/0000-0002-0419-3351
+      - name: Jae-Byum Chang
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8530175268"
+    numReports: 0
+    likes: 0
+    id: "5390733799"
+    createdAt: 2021-05-20T17:14:04
+    author:
+      name: Tanya Whitfield
+      url: ""
+      profileUrl: ""
+      emailHash: ""
+    isApproved: true
+    raw_message: >-
+      Congratulations on this beautiful work.
+
+
+      The ‘unknown structures' that you have imaged in the olfactory epithelium and skin in Suppl. Fig. 32 are rodlet cells, which have been described in several previous papers, including in the zebrafish.  See: 
+
+      Hansen and Zeiske (1998) The Peripheral Olfactory Organ of the Zebrafish, Danio rerio: an Ultrastructural Study.  Chem. Senses 23: 39-48
+
+      DePasquale, J. A. (2020). Tropomyosin and alpha-actinin in teleost rodlet cells. Acta Zool. 00, 1–10. doi: 10.1111/azo.12344
+
+
+      We included some discussion on rodlet cells in our recent paper on a different cell type, olfactory rod cells, which have a single actin-rich projection (and are also visible in your Suppl. Video 14).  See Cheung et al. (2021).  Olfactory Rod Cells: A Rare Cell Type in the Larval Zebrafish Olfactory Epithelium With a Large Actin-Rich Apical Projection. Front Physiol. 12:626080. doi: 10.3389/fphys.2021.626080
+
+      PMID: 33716772
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.05.18.443629v1
+  tweets:
+    - created_at: Thu May 20 20:10:46 +0000 2021
+      id: 1395472085175050200
+      id_str: "1395472085175050240"
+      text: |-
+        💬 bioRxiv comment on "Whole-ExM: Expansion microscop..."
+
+        "Congratulations on this beautiful work.
+
+        The ‘unknown st… https://t.co/fFnrcv4BP8
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/fFnrcv4BP8
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu May 20 20:10:46 +0000 2021
+      id: 1395472086018130000
+      id_str: "1395472086018129923"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/IDj4DEiLfL
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/IDj4DEiLfL
+      in_reply_to_status_id: 1395472085175050200
+      in_reply_to_status_id_str: "1395472085175050240"
