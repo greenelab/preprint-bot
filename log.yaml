@@ -2992,3 +2992,101 @@
           - url: https://t.co/96w1lfgg2e
       in_reply_to_status_id: 1395715419080740900
       in_reply_to_status_id_str: "1395715419080740868"
+- preprint:
+    id: "83104"
+    doi: 10.1101/2020.05.11.084202
+    first_posted: 2020-05-12
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.05.11.084202v1
+    url: https://api.rxivist.org/v1/papers/83104
+    title: Metric and chronological time in human episodic memory
+    category: neuroscience
+    abstract: >-
+      The relative contributions of metric and chronological time in the
+      encoding of episodic memories are unknown. One hundred one healthy young
+      adults viewed 48 unique episodes of visual events and were later tested on
+      recall of the order of events (chronological time) and the precise timing
+      of events (metric time). The behavioral results show that metric recall
+      accuracy correlates with chronological accuracy for events within
+      episodes, but does not play a role on larger time-scales across episodes.
+      Functional magnetic resonance imaging during encoding and recall showed
+      that metric time was represented in the posterior medial entorhinal
+      cortex, as well as the temporal pole and the cerebellum, whereas
+      chronological time was represented in a widespread brain network including
+      the anterior lateral entorhinal cortex, hippocampus, parahippocampal
+      cortex and the prefrontal cortex. We conclude that metric time has a role
+      in episodic memory on short time-scales and is mainly subserved by medial
+      temporal lobe structures.
+
+
+      ### Competing Interest Statement
+
+
+      The authors have declared no competing interest.
+    authors:
+      - name: Hallvard Røe Evensmoen
+        orcid: http://orcid.org/0000-0002-2926-7476
+      - name: Lars M. Rimol
+        orcid: http://orcid.org/0000-0002-1243-0396
+      - name: Henning Hoel Rise
+        orcid: http://orcid.org/0000-0002-0954-4018
+      - name: Tor Ivar Hansen
+        orcid: null
+      - name: Hamed Nili
+        orcid: http://orcid.org/0000-0002-6629-7957
+      - name: Anderson Winkler
+        orcid: http://orcid.org/0000-0002-4169-9781
+      - name: Asta Håberg
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8021687075"
+    numReports: 0
+    likes: 0
+    id: "5390831307"
+    createdAt: 2021-05-20T18:32:15
+    author:
+      username: hallvardreevensmoen
+      about: ""
+      name: Hallvard Røe Evensmoen
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/hallvardreevensmoen/
+      url: ""
+      location: ""
+      id: "369691697"
+    isApproved: true
+    raw_message: Thank you so much, and thank you for creating such an excellent
+      R-package. I`ll definitively include the citation.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.05.11.084202v1
+  tweets:
+    - created_at: Fri May 21 16:25:21 +0000 2021
+      id: 1395777747054731300
+      id_str: "1395777747054731264"
+      text: >-
+        💬 bioRxiv comment on "Metric and chronological time ..."
+
+
+        "Thank you so much, and thank you for creating such an ex… https://t.co/pe2ZeaogRt
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/pe2ZeaogRt
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri May 21 16:25:22 +0000 2021
+      id: 1395777747830591500
+      id_str: "1395777747830591489"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/muz2C2wvuV
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/muz2C2wvuV
+      in_reply_to_status_id: 1395777747054731300
+      in_reply_to_status_id_str: "1395777747054731264"
