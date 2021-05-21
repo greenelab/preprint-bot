@@ -3090,3 +3090,100 @@
           - url: https://t.co/muz2C2wvuV
       in_reply_to_status_id: 1395777747054731300
       in_reply_to_status_id_str: "1395777747054731264"
+- preprint:
+    id: "122406"
+    doi: 10.1101/2020.12.19.423561
+    first_posted: 2020-12-21
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2020.12.19.423561v1
+    url: https://api.rxivist.org/v1/papers/122406
+    title: Invasive garlic mustard demonstrates stronger relationships with
+      pathotrophic than mycorrhizal fungi
+    category: ecology
+    abstract: Garlic mustard (Alliaria petiolata) has long been known to degrade
+      mycorrhizal mutualisms in soils it invades and may also promote the
+      abundance of microbial pathogens harmful to native plants or alter
+      saprotrophic communities to disrupt nutrient cycling. Phenology of other
+      invasive species, like Lepidium latifolium and Lonicera maackii, plays a
+      role in their interactions with soil microbial communities, and so we may
+      expect garlic mustard phenology to influence its effects on native soil
+      microbiomes as well. Here, we investigate differences in fungal,
+      bacterial, and archaeal community structure, as well as the abundance of
+      key functional groups, between garlic mustard present, absent, and removed
+      treatments in central-Illinois forest soils across different stages of the
+      garlic mustard life cycle. Across its phenology, garlic mustard present
+      soils had different overall fungal community structure and greater
+      abundance of pathotrophic fungi than soils where garlic mustard was absent
+      or removed. However, abundance of ectomycorrhizal and saprotrophic fungi
+      as well as bacterial and archaeal community structure were similar between
+      treatments and did not interact with garlic mustard phenology. The most
+      abundant overall fungal taxon was a plant pathogen, Entorrhiza
+      aschersoniana, that was greatest in garlic mustard present soils,
+      particularly while the plants were flowering. These results support the
+      hypothesis that invasive plants form active relationships with microbial
+      pathogens that could contribute to their overall success in invading
+      ecosystems.
+    authors:
+      - name: Joseph D. Edwards
+        orcid: null
+      - name: Wendy H Yang
+        orcid: null
+      - name: Anthony C. Yannarell
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8325281704"
+    numReports: 0
+    likes: 0
+    id: "5391745614"
+    createdAt: 2021-05-21T14:14:59
+    author:
+      username: rgregthorn
+      about: ""
+      name: R Greg Thorn
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/rgregthorn/
+      url: ""
+      location: ""
+      id: "369732656"
+    isApproved: true
+    raw_message: Nice work and potentially an important concept in invasion biology,
+      but please clarify the identification step of your bioinformatics
+      pipeline. An approximate match in QIIME/UNITE is not an identification.
+      Talaromyces marneffei is (we hope!) unlikely to be a common fungus in
+      Illinois soils. It is a serious human pathogen that is, so far as we know,
+      restricted to southeast Asia, centered on Laos, Cambodia and Vietnam. Some
+      other IDs are equally suspect. Please don't let this get into print.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.12.19.423561v1
+  tweets:
+    - created_at: Fri May 21 20:12:54 +0000 2021
+      id: 1395835011580969000
+      id_str: "1395835011580968960"
+      text: >-
+        💬 bioRxiv comment on "Invasive garlic mustard demons..."
+
+
+        "Nice work and potentially an important concept in invasi… https://t.co/tovratjq84
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/tovratjq84
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri May 21 20:12:54 +0000 2021
+      id: 1395835012436594700
+      id_str: "1395835012436594692"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/IAxBtJFaSp
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/IAxBtJFaSp
+      in_reply_to_status_id: 1395835011580969000
+      in_reply_to_status_id_str: "1395835011580968960"
