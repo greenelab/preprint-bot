@@ -3187,3 +3187,71 @@
           - url: https://t.co/IAxBtJFaSp
       in_reply_to_status_id: 1395835011580969000
       in_reply_to_status_id_str: "1395835011580968960"
+- preprint:
+    id: 140997
+    metric: 5984
+    title: Combination Respiratory Vaccine Containing Recombinant SARS-CoV-2 Spike
+      and QuadrivalentSeasonal Influenza Hemagglutinin Nanoparticles with
+      Matrix-M Adjuvant
+    url: https://api.rxivist.org/v1/papers/140997
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.05.05.442782v1
+    doi: 10.1101/2021.05.05.442782
+    category: immunology
+    first_posted: 2021-05-05
+    abstract: The 2019 outbreak of a severe respiratory disease caused by an
+      emerging coronavirus, SARS-CoV-2, has spread globally with high morbidity
+      and mortality. Co-circulating seasonal influenza has greatly diminished
+      recently, but expected to return with novel strains emerging, thus
+      requiring annual strain adjustments. We have developed a recombinant
+      hemagglutinin (HA) quadrivalent nanoparticle influenza vaccine (qNIV)
+      produced using an established recombinant insect cell expression system to
+      produce nanoparticles. Influenza qNIV adjuvanted with Matrix-M was
+      well-tolerated and induced robust antibody and cellular responses, notably
+      against both homologous and drifted A/H3N2 viruses in Phase 1, 2, and 3
+      trials. We also developed a full-length SARS-CoV-2 spike protein vaccine
+      stable in the prefusion conformation (NVX-CoV2373) using the same platform
+      technology. In phase 3 clinical trials, NVX-CoV2373 is highly immunogenic
+      and protective against the prototype strain and B.1.1.7 variant. Here we
+      describe the immunogenicity and efficacy of a combination quadrivalent
+      seasonal flu and COVID-19 vaccine (qNIV/CoV2373). In ferret and hamster
+      models, qNIV/CoV2373 vaccine produces high titer influenza
+      hemagglutination inhibiting (HAI) and neutralizing antibodies against
+      influenza A and B strains. The combination vaccine also elicited
+      antibodies that block SARS-CoV-2 spike protein binding to the human
+      angiotensin converting enzyme-2 (hACE2) receptor. Significantly, hamsters
+      immunized with qNIV/CoV2373 vaccine and challenged with SARS-CoV-2 were
+      protected against weight loss and were free of replicating SARS-CoV-2 in
+      the upper and lower respiratory tract with no evidence of viral pneumonia.
+      This study supports evaluation of qNIV/CoV2373 combination vaccine as a
+      preventive measure for seasonal influenza and CoVID-19.
+    authors:
+      - name: Micheal J Massare
+      - name: Nita Patel
+      - name: Bin Zhou
+      - name: Sonia Maciejewski
+      - name: Rhonda Flores
+      - name: Mimi Guebre-Xabier
+      - name: Jing-Hui Tian
+      - name: Alyse D Portnoff
+      - name: Louis Fries
+      - name: Vivek Shinde
+      - name: Larry R Ellingsworth
+      - name: Greg Glenn
+      - name: Gale Smith
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Fri May 21 20:20:50 +0000 2021
+      id: 1395837005880246300
+      id_str: "1395837005880246276"
+      text: >-
+        🔥 bioRxiv Immunology preprint by M. J. Massare et al:
+
+
+        "Combination Respiratory Vaccine Containing Recombinant SARS… https://t.co/JDSzZdP5dZ
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/JDSzZdP5dZ
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
