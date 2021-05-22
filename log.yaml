@@ -3350,3 +3350,113 @@
           - url: https://t.co/j5uJLr3XOS
       in_reply_to_status_id: 1395901953939497000
       in_reply_to_status_id_str: "1395901953939496960"
+- preprint:
+    id: "142319"
+    doi: 10.1101/2021.05.18.443629
+    first_posted: 2021-05-18
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.05.18.443629v1
+    url: https://api.rxivist.org/v1/papers/142319
+    title: "Whole-ExM: Expansion microscopy imaging of all anatomical structures of
+      whole larval zebrafish"
+    category: developmental-biology
+    abstract: Nanoscale imaging of all anatomical structures over whole vertebrates
+      is needed for a systematic understanding of human diseases, but this has
+      not yet been achieved. Here, we demonstrate whole-ExM, which enables
+      nanoscale imaging of all anatomical structures of whole zebrafish larvae
+      by labeling the proteins of the larvae with fluorophores and expanding
+      them four-fold. We first optimize the fluorophore selection and labeling
+      procedure to visualize a broader range of anatomical structures. We then
+      develop an expansion protocol for zebrafish larvae having calcified body
+      parts. Through this process, we visualize the nanoscale details of diverse
+      larvae organs, which have corresponding organ counterparts in humans, over
+      the intact larvae. We show that whole-ExM retains the fluorescence signals
+      of fluorescent proteins, and its resolution is high enough to visualize
+      various structures that can be imaged only with electron microscopy.
+      Whole-ExM would enable the nanoscale study of the molecular mechanisms of
+      human diseases.
+    authors:
+      - name: Jueun Sim
+        orcid: null
+      - name: Chan E Park
+        orcid: null
+      - name: In Cho
+        orcid: null
+      - name: Kyeongbae Min
+        orcid: null
+      - name: Jeong-Soo Lee
+        orcid: null
+      - name: Yosep Chong
+        orcid: null
+      - name: Jeewon Kim
+        orcid: null
+      - name: Jeong Seuk Kang
+        orcid: null
+      - name: Kiryl D Piatkevich
+        orcid: http://orcid.org/0000-0002-7777-9468
+      - name: Erica E. Jung
+        orcid: null
+      - name: Seok-Kyu Kwon
+        orcid: http://orcid.org/0000-0002-7280-9867
+      - name: Young-Gyu Yoon
+        orcid: null
+      - name: Edward S. Boyden
+        orcid: http://orcid.org/0000-0002-0419-3351
+      - name: Jae-Byum Chang
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8530175268"
+    numReports: 0
+    likes: 1
+    id: "5391279863"
+    createdAt: 2021-05-21T02:22:22
+    author:
+      username: jaebyumchang
+      about: ""
+      name: jaebyumchang
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/jaebyumchang/
+      url: ""
+      location: ""
+      id: "369710841"
+    isApproved: true
+    raw_message: >-
+      Hi Dr. Whitfield, 
+
+
+      Thank you so much for letting us know the identity of the unknown structures. Also, thank you for letting us know the details on olfactory rod cells! We will add those information to the manuscript when we submit a revised version!
+    forum: biorxivstage
+    points: 1
+    link: https://www.biorxiv.org/content/10.1101/2021.05.18.443629v1
+  tweets:
+    - created_at: Sat May 22 12:16:36 +0000 2021
+      id: 1396077534270288000
+      id_str: "1396077534270287874"
+      text: |-
+        💬 bioRxiv comment on "Whole-ExM: Expansion microscop..."
+
+        "Hi Dr. Whitfield, 
+
+        Thank you so much for letting us kno… https://t.co/UWYBUOEONU
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/UWYBUOEONU
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat May 22 12:16:36 +0000 2021
+      id: 1396077535255941000
+      id_str: "1396077535255941120"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/IDj4DEiLfL
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/IDj4DEiLfL
+      in_reply_to_status_id: 1396077534270288000
+      in_reply_to_status_id_str: "1396077534270287874"
