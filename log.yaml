@@ -3255,3 +3255,98 @@
           - url: https://t.co/JDSzZdP5dZ
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "40679"
+    doi: 10.1101/507590
+    first_posted: 2018-12-28
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/507590v4
+    url: https://api.rxivist.org/v1/papers/40679
+    title: Plants emit informative airborne sounds under stress
+    category: plant-biology
+    abstract: Stressed plants show altered phenotypes, including changes in color,
+      smell, and shape. Yet, the possibility that plants emit airborne sounds
+      when stressed – similarly to many animals – has not been investigated.
+      Here we show, to our knowledge for the first time, that stressed plants
+      emit airborne sounds that can be recorded remotely, both in acoustic
+      chambers and in greenhouses. We recorded ∼65 dBSPL ultrasonic sounds 10 cm
+      from tomato and tobacco plants, implying that these sounds could be
+      detected by some organisms from up to several meters away. We developed
+      machine learning models that were capable of distinguishing between plant
+      sounds and general noises, and identifying the condition of the plants –
+      dry, cut, or intact – based solely on the emitted sounds. Our results
+      suggest that animals, humans, and possibly even other plants, could use
+      sounds emitted by a plant to gain information about the plant’s condition.
+      More investigation on plant bioacoustics in general and on sound emission
+      in plants in particular may open new avenues for understanding plants and
+      their interactions with the environment, and it may also have a
+      significant impact on agriculture.
+    authors:
+      - name: I. Khait
+        orcid: null
+      - name: Ohad Lewin-Epstein
+        orcid: http://orcid.org/0000-0002-8636-9006
+      - name: R. Sharon
+        orcid: null
+      - name: K. Saban
+        orcid: null
+      - name: R. Perelman
+        orcid: null
+      - name: A. Boonman
+        orcid: null
+      - name: Y. Yovel
+        orcid: null
+      - name: L. Hadany
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "7743645557"
+    numReports: 0
+    likes: 0
+    id: "5392045414"
+    createdAt: 2021-05-21T18:32:43
+    author:
+      username: disqus_TTEjfexw3K
+      about: ""
+      name: Hoya
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_TTEjfexw3K/
+      url: ""
+      location: ""
+      id: "327716968"
+    isApproved: true
+    raw_message: Its caused by cavitations that plants create within their cells
+      when under stress. Like bubbles underwater carrying sound.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/507590v4
+  tweets:
+    - created_at: Sat May 22 00:38:55 +0000 2021
+      id: 1395901953939497000
+      id_str: "1395901953939496960"
+      text: >-
+        💬 bioRxiv comment on "Plants emit informative airbor..."
+
+
+        "Its caused by cavitations that plants create within thei… https://t.co/QqqYwscFw8
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/QqqYwscFw8
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat May 22 00:38:55 +0000 2021
+      id: 1395901954744856600
+      id_str: "1395901954744856576"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/j5uJLr3XOS
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/j5uJLr3XOS
+      in_reply_to_status_id: 1395901953939497000
+      in_reply_to_status_id_str: "1395901953939496960"
