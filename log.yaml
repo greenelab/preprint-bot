@@ -3563,3 +3563,142 @@
           - url: https://t.co/2qx6zHwlI9
       in_reply_to_status_id: 1396139760490528800
       in_reply_to_status_id_str: "1396139760490528768"
+- preprint:
+    id: "142725"
+    doi: 10.1101/2021.05.19.21257429
+    first_posted: 2021-05-21
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.19.21257429v1
+    url: https://api.rxivist.org/v1/papers/142725
+    title: "Efficacy of Sofosbuvir plus Ledipasvir in Egyptian patients with
+      COVID-19 compared to standard treatment: Randomized controlled trial"
+    category: epidemiology
+    abstract: "Background: COVID-19 is a pandemic disease caused by SARS-CoV-2,
+      which is an RNA virus similar to HCV in the replication process.
+      Sofosbuvir/ledipasvir is an approved drug by the FDA to treat HCV
+      infection. This study investigates the efficacy of Sofosbuvir/ledipasvir
+      as a treatment for patients with moderate COVID-19 infection.. Methods:
+      This is a single-blinded parallel-randomized controlled trial. The
+      participants were randomized equally into the intervention group received
+      Sofosbuvir/ledipasvir (S.L. group), and the control group received
+      Oseltamivir, Hydroxychloroquine, and Azithromycin (OCH group). The primary
+      outcomes were the cure rate over time and the incidence of serious adverse
+      events. The secondary outcomes included the laboratory findings. Results:
+      Two hundred and fifty patients were divided equally into each group. Both
+      groups were similar regarding gender, but age was higher in the S.L. group
+      (p=0.001). In the S.L. group, 89 (71.2%) patients were cured, while only
+      51 (40.8%) patients were cured in the OCH group. The cure rate was
+      significantly higher in the S.L. group (RR=1.75, p<0.001). Kaplan-Meir
+      plot showed a considerably higher cure over time in the S.L. group
+      (Log-rank test, p=0.032). There were no deaths in the S.L. group, but
+      there were six deaths (4.8%) in the OCH group (RR=0.08, p=0.013). Seven
+      patients (5.6%) in the S.L. group and six patients (4.8%) in the OCH group
+      were admitted to ICU (RR=1.17, P=0.776). There was no significant
+      difference between treatment groups regarding Total Leukocyte Count,
+      Neutrophils count, Lymph, Alanine transaminase, and Urea. Conclusion:
+      Sofosbuvir/ledipasvir is suggestive of being effective in treating
+      patients with moderate COVID-19 infection. Further studies are needed to
+      compare Sofosbuvir/ledipasvir with the new treatment protocols."
+    authors:
+      - name: Mohamed Abdel-Salam Elgohary
+        orcid: null
+      - name: Eman Medhat Hasan
+        orcid: null
+      - name: Amany Ahmad Ibrahim
+        orcid: null
+      - name: Mohamed Farouk Ahmed
+        orcid: null
+      - name: Raafat Zaher Abdel-Rahman
+        orcid: null
+      - name: Ashraf Ibrahim Zaki
+        orcid: null
+      - name: Mohamed Bakr Elaatar
+        orcid: null
+      - name: Mohamed Thabet Elnagar
+        orcid: null
+      - name: Mohamed Emam Emam
+        orcid: null
+      - name: Mahmoud Moustafa Hamada
+        orcid: null
+      - name: Taimour Mohamed Abdel-Hamid
+        orcid: null
+      - name: Ahmad Samir Abdel-Hafez
+        orcid: null
+      - name: Mohamed G. Seadawy
+        orcid: null
+      - name: Ahmad Rashad Fatoh
+        orcid: null
+      - name: Mohamed Ali Elsaied
+        orcid: null
+      - name: Marwa Abdel-Rahman Sakr
+        orcid: null
+      - name: Ahmed Omar Elkady
+        orcid: null
+      - name: Mohamed Muawad Shehata
+        orcid: null
+      - name: Osama Mohamed Nawar
+        orcid: null
+      - name: Mohamed Abu-elnaga Selem
+        orcid: null
+      - name: Mohamed Saeed Abd-aal
+        orcid: null
+      - name: Hany Hafez Lotfy
+        orcid: null
+      - name: Tarek Refaat Elnagdy
+        orcid: null
+      - name: Sherine Helmy
+        orcid: null
+      - name: Magdy Amin Mubark
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8539627995"
+    numReports: 0
+    likes: 0
+    id: "5392315732"
+    createdAt: 2021-05-21T22:52:28
+    author:
+      username: ilmarihaavisto
+      about: ""
+      name: Ilmari Haavisto
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/ilmarihaavisto/
+      url: ""
+      location: ""
+      id: "296100347"
+    isApproved: true
+    raw_message: The beginning state of medication of disease is very important. Was
+      it equal to both groups?
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.05.19.21257429v1
+  tweets:
+    - created_at: Sat May 22 20:12:23 +0000 2021
+      id: 1396197267585917000
+      id_str: "1396197267585916930"
+      text: >-
+        💬 medRxiv comment on "Efficacy of Sofosbuvir plus Le..."
+
+
+        "The beginning state of medication of disease is very imp… https://t.co/cXiiRrQtyz
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/cXiiRrQtyz
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat May 22 20:12:23 +0000 2021
+      id: 1396197268554846200
+      id_str: "1396197268554846209"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/xi29SUZYMS
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/xi29SUZYMS
+      in_reply_to_status_id: 1396197267585917000
+      in_reply_to_status_id_str: "1396197267585916930"
