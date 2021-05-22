@@ -3460,3 +3460,106 @@
           - url: https://t.co/IDj4DEiLfL
       in_reply_to_status_id: 1396077534270288000
       in_reply_to_status_id_str: "1396077534270287874"
+- preprint:
+    id: "108561"
+    doi: 10.1101/2020.04.08.20058743
+    first_posted: 2020-04-11
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2020.04.08.20058743v1
+    url: https://api.rxivist.org/v1/papers/108561
+    title: A stochastic model for COVID-19 spread and the effects of Alert Level 4
+      in Aotearoa New Zealand
+    category: epidemiology
+    abstract: While case numbers remain low, population-wide control methods
+      combined with efficient tracing, testing, and case isolation, offer the
+      opportunity for New Zealand to contain and eliminate COVID-19. We use a
+      stochastic model to investigate containment and elimination scenarios for
+      COVID-19 in New Zealand, as the country considers the exit from its four
+      week period of strong Level 4 population-wide control measures. In
+      particular we consider how the effectiveness of its case isolation
+      operations influence the outcome of lifting these strong population-wide
+      controls. The model is parameterised for New Zealand and is initialised
+      using current case data, although we do not make use of information
+      concerning the geographic dispersion of cases and the model is not
+      stratified for age or co-morbidities. We find that fast tracing and case
+      isolation (i.e. operations that are sustained at rates comparable to that
+      at the early stages of New Zealand's response) can lead to containment or
+      elimination, as long as strong population-wide controls remain in place.
+      Slow case isolation can lead to containment (but not elimination) as long
+      as strong Level 4 population-wide controls remain in place. However, we
+      find that relaxing strong population-wide controls after four weeks will
+      most likely lead to a further outbreak, although the speed of growth of
+      this outbreak can be reduced by fast case isolation, by tracing, testing,
+      or otherwise. We find that elimination is only likely if case isolation is
+      combined with strong population-wide controls that are maintained for
+      longer than four weeks. Further versions of this model will include an
+      age-structured population as well as considering the effects of geographic
+      dispersion and contact network structure, the possibility of regional
+      containment combined with inter-regional travel restrictions, and the
+      potential for harm to at risk communities and essential workers.
+    authors:
+      - name: Michael J Plank
+        orcid: http://orcid.org/0000-0002-7539-3465
+      - name: Rachelle N Binny
+        orcid: http://orcid.org/0000-0002-3433-0417
+      - name: Shaun C Hendy
+        orcid: http://orcid.org/0000-0003-3468-6517
+      - name: Audrey Lustig
+        orcid: http://orcid.org/0000-0002-0869-3847
+      - name: Alex James
+        orcid: http://orcid.org/0000-0002-1543-7139
+      - name: Nicholas Steyn
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "7964122231"
+    numReports: 0
+    likes: 0
+    id: "5392404304"
+    createdAt: 2021-05-22T00:45:46
+    author:
+      username: disqus_Pc9ZQufNd1
+      about: ""
+      name: Michael Plank
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_Pc9ZQufNd1/
+      url: ""
+      location: ""
+      id: "369642137"
+    isApproved: true
+    raw_message: "The model and results in this pre-print are now part of an article
+      published in the Journal of the Royal Society of New Zealand, available
+      open access at: https://doi.org/10.1080/03036758.2021.1876111"
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2020.04.08.20058743v1
+  tweets:
+    - created_at: Sat May 22 16:23:52 +0000 2021
+      id: 1396139760490528800
+      id_str: "1396139760490528768"
+      text: >-
+        💬 medRxiv comment on "A stochastic model for COVID-1..."
+
+
+        "The model and results in this pre-print are now part of… https://t.co/D1dj1ptVum
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/D1dj1ptVum
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat May 22 16:23:52 +0000 2021
+      id: 1396139761279115300
+      id_str: "1396139761279115271"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/2qx6zHwlI9
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/2qx6zHwlI9
+      in_reply_to_status_id: 1396139760490528800
+      in_reply_to_status_id_str: "1396139760490528768"
