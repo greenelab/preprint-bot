@@ -3702,3 +3702,125 @@
           - url: https://t.co/xi29SUZYMS
       in_reply_to_status_id: 1396197267585917000
       in_reply_to_status_id_str: "1396197267585916930"
+- preprint:
+    id: "132578"
+    doi: 10.1101/2021.03.07.21253098
+    first_posted: 2021-03-09
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.03.07.21253098v1
+    url: https://api.rxivist.org/v1/papers/132578
+    title: The plasmablast response to SARS-CoV-2 mRNA vaccination is dominated by
+      non-neutralizing antibodies that target both the NTD and the RBD
+    category: infectious-diseases
+    abstract: In this study we profiled vaccine-induced polyclonal antibodies as
+      well as plasmablast derived mAbs from subjects who received SARS-CoV-2
+      spike mRNA vaccine. Polyclonal antibody responses in vaccinees were robust
+      and comparable to or exceeded those seen after natural infection. However,
+      that the ratio of binding to neutralizing antibodies after vaccination was
+      greater than that after natural infection and, at the monoclonal level, we
+      found that the majority of vaccine-induced antibodies did not have
+      neutralizing activity. We also found a co-dominance of mAbs targeting the
+      NTD and RBD of SARS-CoV-2 spike and an original antigenic-sin like
+      backboost to seasonal human coronaviruses OC43 and HKU1 spike proteins.
+      Neutralizing activity of NTD mAbs but not RBD mAbs against a clinical
+      viral isolate carrying E484K as well as extensive changes in the NTD was
+      abolished, suggesting that a proportion of vaccine induced RBD binding
+      antibodies may provide substantial protection against viral variants
+      carrying E484K.
+    authors:
+      - name: Fatima Amanat
+        orcid: http://orcid.org/0000-0002-8029-8227
+      - name: Mahima Thapa
+        orcid: null
+      - name: Tingting Lei
+        orcid: null
+      - name: Shaza M. Sayed Ahmed
+        orcid: null
+      - name: Daniel C. Adelsberg
+        orcid: null
+      - name: Juan Manuel Carreno
+        orcid: null
+      - name: Shirin Strohmeier
+        orcid: null
+      - name: Aaron J Schmitz
+        orcid: null
+      - name: Sarah Zafar
+        orcid: null
+      - name: Julian Q Zhou
+        orcid: http://orcid.org/0000-0001-9602-2092
+      - name: Willemijn Rijnink
+        orcid: null
+      - name: Hala Alshammary
+        orcid: null
+      - name: Nicholas Borcherding
+        orcid: http://orcid.org/0000-0003-1427-6342
+      - name: Ana Gonzalez Reiche
+        orcid: null
+      - name: Komal Srivastava
+        orcid: null
+      - name: Emilia M Sordillo
+        orcid: http://orcid.org/0000-0001-7787-3051
+      - name: Harm van Bakel
+        orcid: http://orcid.org/0000-0002-1376-6916
+      - name: Jackson S Turner
+        orcid: http://orcid.org/0000-0002-4396-6265
+      - name: Goran Bajic
+        orcid: http://orcid.org/0000-0003-0480-4324
+      - name: Viviana M Simon
+        orcid: null
+      - name: Ali H. Ellebedy
+        orcid: http://orcid.org/0000-0002-6129-2532
+      - name: Florian Krammer
+        orcid: http://orcid.org/0000-0003-4121-776X
+  comment:
+    dislikes: 0
+    thread: "8501801389"
+    numReports: 0
+    likes: 0
+    id: "5392249349"
+    createdAt: 2021-05-21T21:38:46
+    author:
+      username: lbaustin
+      about: ""
+      name: lbaustin
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/lbaustin/
+      url: ""
+      location: Austin, TX
+      id: "7360516"
+    isApproved: true
+    raw_message: Has this been submitted to a MEDLINE indexed journal?
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.03.07.21253098v2
+  tweets:
+    - created_at: Sun May 23 00:44:16 +0000 2021
+      id: 1396265688575119400
+      id_str: "1396265688575119365"
+      text: |-
+        💬 medRxiv comment on "The plasmablast response to SA..."
+
+        "Has this been submitted to a MEDLINE indexed journal?"
+
+        https://t.co/uVjMN8D3Ce
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/uVjMN8D3Ce
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun May 23 00:44:16 +0000 2021
+      id: 1396265689401499600
+      id_str: "1396265689401499651"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/lNgUKY3gxH
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/lNgUKY3gxH
+      in_reply_to_status_id: 1396265688575119400
+      in_reply_to_status_id_str: "1396265688575119365"
