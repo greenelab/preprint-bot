@@ -3824,3 +3824,145 @@
           - url: https://t.co/lNgUKY3gxH
       in_reply_to_status_id: 1396265688575119400
       in_reply_to_status_id_str: "1396265688575119365"
+- preprint:
+    id: "139760"
+    doi: 10.1101/2021.04.21.21255898
+    first_posted: 2021-04-27
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.04.21.21255898v1
+    url: https://api.rxivist.org/v1/papers/139760
+    title: Practical Indicators for Risk of Airborne Transmission in Shared Indoor
+      Environments and their application to COVID-19 Outbreaks
+    category: infectious-diseases
+    abstract: "Some infectious diseases, including COVID-19, can be transmitted via
+      aerosols that are emitted by an infectious person and inhaled by
+      susceptible individuals. Although physical distancing effectively reduces
+      short-range airborne transmission, many infections have occurred when
+      sharing room air despite maintaining distancing. We propose two simple
+      parameters as indicators of infection risk for this situation. They
+      combine the key factors that control airborne disease transmission
+      indoors: virus-containing aerosol generation rate, breathing flow rate,
+      masking and its quality, ventilation and air cleaning rates, number of
+      occupants, and duration of exposure. COVID-19 outbreaks show a clear trend
+      in relation to these parameters that is consistent with an airborne
+      infection model, supporting the importance of airborne transmission for
+      these outbreaks. The observed trends of outbreak size vs. risk parameters
+      allow us to recommend values of the parameters to minimize COVID-19 indoor
+      infection risk. All of the pre-pandemic spaces are in a regime where they
+      are highly sensitive to mitigation efforts. Measles outbreaks occur at
+      much lower risk parameter values than COVID-19, while tuberculosis
+      outbreaks are observed at much higher risk parameter values. Since both
+      diseases are accepted as airborne, the fact that COVID-19 is less
+      contagious than measles does not rule out airborne transmission. It is
+      important that future outbreak reports include ventilation information, to
+      allow expanding our knowledge of the circumstances conducive to airborne
+      transmission of different diseases."
+    authors:
+      - name: Zhe Peng
+        orcid: http://orcid.org/0000-0002-6823-452X
+      - name: William Bahnfleth
+        orcid: null
+      - name: Giorgio Buonanno
+        orcid: null
+      - name: Stephanie J. Dancer
+        orcid: null
+      - name: Jarek Kurnitski
+        orcid: null
+      - name: Yuguo Li
+        orcid: http://orcid.org/0000-0002-2281-4529
+      - name: Marcel G.L.C. Loomans
+        orcid: null
+      - name: Linsey C. Marr
+        orcid: http://orcid.org/0000-0003-3628-6891
+      - name: Lidia Morawska
+        orcid: null
+      - name: William Nazaroff
+        orcid: null
+      - name: Catherine Noakes
+        orcid: null
+      - name: Xavier Querol
+        orcid: null
+      - name: Chandra Sekhar
+        orcid: null
+      - name: Raymond Tellier
+        orcid: null
+      - name: Trisha Greenhalgh
+        orcid: http://orcid.org/0000-0003-2369-8088
+      - name: Lydia Bourouiba
+        orcid: null
+      - name: Atze Boerstra
+        orcid: null
+      - name: Julian Tang
+        orcid: null
+      - name: Shelly Miller
+        orcid: http://orcid.org/0000-0002-1967-7551
+      - name: Jose L Jimenez
+        orcid: http://orcid.org/0000-0001-6203-1847
+  comment:
+    dislikes: 0
+    thread: "8509938572"
+    numReports: 0
+    likes: 0
+    id: "5392210208"
+    createdAt: 2021-05-21T20:59:55
+    author:
+      username: haroldthimbleby
+      about: ""
+      name: Harold Thimbleby
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/haroldthimbleby/
+      url: ""
+      location: ""
+      id: "369749286"
+    isApproved: true
+    raw_message: >-
+      From harold@thimbleby.net
+
+
+      I mailed the author for correspondence constructively two weeks ago but I have had no reply. 
+
+
+      I am a professor of computer science. The Excel spreadsheet is, sadly, appalling and needs a lot of professional work to be believable. There is no useful documentation about how it is intended to work. It is obscure and impossible to check. I doubt it is correct, unless evidence can be provided. In short, the results described in this paper cannot be relied on or used for any public health purposes.
+
+
+      Have any of the authors carefully reviewed the spreadsheet? Any independent parties? If so I think the paper should say so.
+
+
+      Best wishes, though, with this important work.
+
+
+      -Harold
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.04.21.21255898v2
+  tweets:
+    - created_at: Sun May 23 12:16:57 +0000 2021
+      id: 1396440010526691300
+      id_str: "1396440010526691328"
+      text: |-
+        💬 medRxiv comment on "Practical Indicators for Risk ..."
+
+        "From harold@thimbleby.net
+
+        I mailed the author for corre… https://t.co/T2EYF5Er7Y
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/T2EYF5Er7Y
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun May 23 12:16:58 +0000 2021
+      id: 1396440011516567600
+      id_str: "1396440011516567557"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/t6Sw09nOAz
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/t6Sw09nOAz
+      in_reply_to_status_id: 1396440010526691300
+      in_reply_to_status_id_str: "1396440010526691328"
