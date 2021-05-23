@@ -3966,3 +3966,104 @@
           - url: https://t.co/t6Sw09nOAz
       in_reply_to_status_id: 1396440010526691300
       in_reply_to_status_id_str: "1396440010526691328"
+- preprint:
+    id: "141912"
+    doi: 10.1101/2021.05.15.21257017
+    first_posted: 2021-05-17
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.15.21257017v1
+    url: https://api.rxivist.org/v1/papers/141912
+    title: Extended interval BNT162b2 vaccination enhances peak antibody generation
+      in older people
+    category: infectious-diseases
+    abstract: "Abstract Objectives: To assess the relative immunogenicity of
+      standard or extended interval BNT162b2 vaccination. Design: Population
+      based cohort study comparing immune responses 2 weeks after the second
+      vaccine, with appropriate time-matched samples in participants who
+      received standard or extended interval double vaccination. Setting:
+      Primary care networks, Birmingham, UK. December 2020 to April 2021.
+      Participants: 175 people aged over 80 years of age. All donors received
+      the BNT162b2 Pfizer/BioNTech vaccination and were vaccinated with either a
+      standard 3 week interval between doses or an extended interval schedule.
+      Main outcome measures: Peak quantitative spike-specific antibody and
+      cellular immune responses. Results: In donors without evidence of previous
+      infection the peak antibody response was 3.5-fold higher in donors who had
+      undergone delayed interval vaccination. Cellular immune responses were
+      3.6-fold lower. Conclusion: Peak antibody responses after the second
+      BNT162b2 vaccine are markedly enhanced in older people when this is
+      delayed to 12 weeks although cellular responses are lower. Extended
+      interval vaccination may therefore offer the potential to enhance and
+      extend humoral immunity. Further follow up is now required to assess long
+      term immunity and clinical protection."
+    authors:
+      - name: Helen M Parry
+        orcid: http://orcid.org/0000-0002-9707-8167
+      - name: Rachel Bruton
+        orcid: null
+      - name: Christine Stephens
+        orcid: null
+      - name: Kevin Brown
+        orcid: null
+      - name: Gayatri Amirthalingam
+        orcid: http://orcid.org/0000-0003-2078-0975
+      - name: Bassam Hallis
+        orcid: http://orcid.org/0000-0002-8461-0038
+      - name: Ashley Otter
+        orcid: null
+      - name: Jianmin Zuo
+        orcid: http://orcid.org/0000-0002-8341-465X
+      - name: Paul Moss
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8524358522"
+    numReports: 0
+    likes: 0
+    id: "5392137838"
+    createdAt: 2021-05-21T19:55:16
+    author:
+      username: honourary
+      about: ""
+      name: Honourary
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/honourary/
+      url: ""
+      location: ""
+      id: "345738756"
+    isApproved: true
+    raw_message: All of your concerns about potential sample bias are covered in the
+      section titled ‘Statistical Analysis’. It wasn’t a random split because
+      they couldn’t assume a normal distribution.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.05.15.21257017v1
+  tweets:
+    - created_at: Sun May 23 16:23:59 +0000 2021
+      id: 1396502175510003700
+      id_str: "1396502175510003715"
+      text: >-
+        💬 medRxiv comment on "Extended interval BNT162b2 vac..."
+
+
+        "All of your concerns about potential sample bias are cov… https://t.co/xoGuOMEqzI
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/xoGuOMEqzI
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun May 23 16:23:59 +0000 2021
+      id: 1396502176499835000
+      id_str: "1396502176499834883"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/x0AIV2XumU
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/x0AIV2XumU
+      in_reply_to_status_id: 1396502175510003700
+      in_reply_to_status_id_str: "1396502175510003715"
