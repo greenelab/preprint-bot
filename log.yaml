@@ -4067,3 +4067,55 @@
           - url: https://t.co/x0AIV2XumU
       in_reply_to_status_id: 1396502175510003700
       in_reply_to_status_id_str: "1396502175510003715"
+- preprint:
+    id: 140428
+    metric: 4531
+    title: N440K variant of SARS-CoV-2 has Higher Infectious Fitness
+    url: https://api.rxivist.org/v1/papers/140428
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.04.30.441434v1
+    doi: 10.1101/2021.04.30.441434
+    category: microbiology
+    first_posted: 2021-04-30
+    abstract: Several variants of SARS-CoV-2 have been emerging across the globe,
+      continuing to threaten the efforts to end COVID-19 pandemic. Recent data
+      indicate the prevalence of variants with N440K Spike substitution in
+      several parts of India, which is under the second wave of the pandemic.
+      Here, we first analyze the prevalence of N440K variants within the
+      sequences submitted from India and identify a rising trend of its spread
+      across various clusters. We then compare the replicative fitness and
+      infectivity of a prototype of this variant with two other previously
+      prevalent strains. The N440K variant produced ten times higher infectious
+      viral titers than a prevalent A2a strain, and over 1000 folds higher
+      titers than a much less prevalent A3i strain prototype in Caco2 cells.
+      Similar results were detected in Calu-3 cells as well, confirming the
+      increased potency of the N440K variant. Interestingly, A3i strain showed
+      the highest viral RNA levels, but the lowest infectious titers in the
+      culture supernatants, indicating the absence of correlation between the
+      RNA content and the infectivity of the sample. N440K mutation has been
+      reported in several viral sequences across India and based on our results,
+      we predict that the higher infectious titers achieved by this strain could
+      possibly lead to its higher rate of transmission. Availability of more
+      sequencing data in the immediate future would help understand the
+      potential spread of this variant in more detail.
+    authors:
+      - name: Dixit Tandel
+      - name: Divya Gupta
+      - name: Vishal Sah
+      - name: Krishnan Harinivas Harshan
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Mon May 24 20:21:27 +0000 2021
+      id: 1396924323974295600
+      id_str: "1396924323974295556"
+      text: >-
+        🔥 bioRxiv Microbiology preprint by D. Tandel et al:
+
+
+        "N440K variant of SARS-CoV-2 has Higher Infectious Fitness"… https://t.co/RaV0xfhP8O
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/RaV0xfhP8O
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
