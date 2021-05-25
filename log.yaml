@@ -4244,3 +4244,116 @@
           - url: https://t.co/WW8Eaz1Ksz
       in_reply_to_status_id: 1396989657552855000
       in_reply_to_status_id_str: "1396989657552855042"
+- preprint:
+    id: "143059"
+    doi: 10.1101/2021.05.24.445329
+    first_posted: 2021-05-24
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.05.24.445329v1
+    url: https://api.rxivist.org/v1/papers/143059
+    title: Principles of gene regulation quantitatively connect DNA to RNA and
+      proteins in bacteria
+    category: systems-biology
+    abstract: "Bacteria allocate their proteome to cellular functions differently in
+      different growth conditions. It is largely unknown how such allocation
+      arises from known mechanisms of gene regulation while constrained by
+      limited translation capacity and fixed protein density. Here, we performed
+      absolute transcriptomic and proteomic analysis for E. coli across many
+      conditions, obtaining a plethora of results on promoters and mRNAs
+      characteristics that clash with conventional expectations: the majority of
+      mRNAs exhibit similar translational efficiencies, while the promoter
+      strengths are vastly different across genes. These characteristics
+      prescribe two principles of gene regulation guiding bacteria to attain the
+      desired protein allocation under global constraints: Total transcriptional
+      output is tightly coordinated with ribosomal activity, and the
+      concentrations of individual proteins are largely set by transcription.
+      These two principles lead to a quantitative formulation of Central Dogma
+      which unravels the complex relationship between gene regulatory activities
+      and mRNA/protein concentrations across conditions. The knowledge obtained
+      will be invaluable for accurately inferring gene regulatory interactions
+      from 'omics data, as well as for guiding the design of genetic circuits
+      for synthetic biology applications in E. coli and other organisms."
+    authors:
+      - name: Rohan Balakrishnan
+        orcid: http://orcid.org/0000-0002-7547-8565
+      - name: Matteo Mori
+        orcid: http://orcid.org/0000-0002-6263-8021
+      - name: Igor Segota
+        orcid: null
+      - name: Zhongge Zhang
+        orcid: http://orcid.org/0000-0002-6474-7045
+      - name: Ruedi Aebersold
+        orcid: http://orcid.org/0000-0002-9576-3267
+      - name: Christina Ludwig
+        orcid: http://orcid.org/0000-0002-6131-7322
+      - name: Terence Hwa
+        orcid: http://orcid.org/0000-0003-1837-6842
+  comment:
+    dislikes: 0
+    thread: "8547788914"
+    numReports: 0
+    likes: 0
+    id: "5395629598"
+    createdAt: 2021-05-24T22:36:53
+    author:
+      username: disqus_QL326OaLB9
+      about: ""
+      name: Howard Salis
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_QL326OaLB9/
+      url: https://plus.google.com/107639019335100166999
+      location: ""
+      id: "242280388"
+    isApproved: true
+    raw_message: >-
+      Readers note: The authors make the following assumptions in all their
+      analysis, which critically undermines several of their most important (and
+      controversial) conclusions:
+
+
+      1.   The authors are treating their ribosome profiling experiments as a measurement of translation rate. That's incorrect. Ribosome profiling measures the relative density of ribosomes bound to mRNAs. It is not a direct measurement of translation rate nor is it a direct measurement of translational efficiency.  
+
+
+      Let me be clear with these terms: Translation rate is the number of proteins produced per mRNA per time. Translational efficiency is the number of proteins produced by a single transcript before it is degraded. Ribosome density is the translation initiation rate divided by the mRNA's translation elongation rate. 
+
+
+      2.  The authors assume that all mRNAs have the same translation elongation rate in order to convert ribosome densities into translation rates. For example, in their Equation 5, epsilon (translation elongation rate) is just a single constant, used throughout to relate translation rates to protein synthesis rates and protein concentrations. This is incorrect. mRNAs do not all have the same translation elongation rate. There is a whole genre of literature on synonymous codon usage, the effects of synonymous codons on ribosome translocation speeds, and the use of codon optimization to increase heterologous protein expression levels. Epsilon is not a single constant. At the very least, if we only care about protein concentrations, one must consider the CDS-averaged translation elongation rate for each mRNA transcript in the transcriptome. 
+
+
+      The authors' conclusion "Translation initiation rates are similar across mRNAs and growth conditions" needs to be revisited without assuming that all translation elongation rates are the same. Likewise, the conclusion that "Total mRNA abundance matches the translational capacity" depends on the veracity of this conclusion. The conclusion that "Constancy of ribosome spacing across mRNA and nutrient conditions" is more accurately viewed as "Constancy of *ribosome density* across mRNA and nutrient conditions".  Finally, the conclusion that "Total mRNA synthesis flux is adjusted to match translational capacity" is again dependent on the veracity of the first conclusion. 
+
+
+      Concluding that all mRNAs have the same translation rate is bold. But it's not supported by data. If you see someone using ribosome profiling to make this claim, be skeptical!
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.05.24.445329v1
+  tweets:
+    - created_at: Tue May 25 12:19:40 +0000 2021
+      id: 1397165467492667400
+      id_str: "1397165467492667398"
+      text: >-
+        💬 bioRxiv comment on "Principles of gene regulation ..."
+
+
+        "Readers note: The authors make the following assumptions… https://t.co/MaP8DWp5Ry
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/MaP8DWp5Ry
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue May 25 12:19:40 +0000 2021
+      id: 1397165468411179000
+      id_str: "1397165468411179016"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/Q8gYXIKA8R
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/Q8gYXIKA8R
+      in_reply_to_status_id: 1397165467492667400
+      in_reply_to_status_id_str: "1397165467492667398"
