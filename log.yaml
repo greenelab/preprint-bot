@@ -4119,3 +4119,128 @@
           - url: https://t.co/RaV0xfhP8O
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "119116"
+    doi: 10.1101/2020.11.26.384925
+    first_posted: 2020-11-27
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2020.11.26.384925v1
+    url: https://api.rxivist.org/v1/papers/119116
+    title: Muscle Van Gogh-like 2 shapes the neuromuscular synapse by regulating
+      MuSK signaling activity
+    category: neuroscience
+    abstract: The development of the neuromuscular junction (NMJ) requires dynamic
+      trans-synaptic coordination orchestrated by secreted factors, including
+      the morphogens of the Wnt family. Yet, how the signal of these synaptic
+      cues is transduced, and particularly during the regulation of
+      acetylcholine receptor (AChR) accumulation in the postsynaptic membrane
+      remains unclear. We explored the function of Van Gogh-Like protein 2
+      (Vangl2), a core component of Wnt planar cell polarity signaling. We
+      showed that the conditional genetic ablation of Vangl2 in muscle
+      reproduces the NMJ differentiation defects in mice with constitutive
+      Vangl2 deletion. These alterations persisted into adulthood with NMJs
+      disassembly leading to an impairment of neurotransmission and motor
+      function deficits. Mechanistically, we found that Vangl2 and the
+      muscle-specific kinase MuSK acted in the same genetic pathway and that
+      Vangl2 binds MuSK, thus controlling its signaling activity. Our results
+      identify Vangl2 as a key player of the core complex of molecules shaping
+      neuromuscular synapses and shed light on the molecular mechanisms
+      underlying NMJ assembly.
+    authors:
+      - name: Myriam Boëx
+        orcid: null
+      - name: Julien Messéant
+        orcid: null
+      - name: Steve Cottin
+        orcid: null
+      - name: Marius Halliez
+        orcid: null
+      - name: Stéphanie Bauché
+        orcid: null
+      - name: Céline Buon
+        orcid: null
+      - name: Nathalie Sans
+        orcid: http://orcid.org/0000-0001-7658-2471
+      - name: M Montcouquiol
+        orcid: http://orcid.org/0000-0001-8739-6519
+      - name: Jordi Molgó
+        orcid: null
+      - name: Muriel Amar
+        orcid: null
+      - name: Arnaud Ferry
+        orcid: null
+      - name: Mégane Lemaitre
+        orcid: null
+      - name: Andrée Rouche
+        orcid: null
+      - name: Dominique Langui
+        orcid: null
+      - name: Asha Baskaran
+        orcid: null
+      - name: Bertrand Fontaine
+        orcid: null
+      - name: Laure Strochlic
+        orcid: http://orcid.org/0000-0001-5373-4284
+  comment:
+    dislikes: 0
+    thread: "8319683835"
+    numReports: 0
+    likes: 0
+    id: "5395644447"
+    createdAt: 2021-05-24T22:53:30
+    author:
+      username: disqus_Dfdg8RCumO
+      about: ""
+      name: ESHA CHAWLA
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_Dfdg8RCumO/
+      url: ""
+      location: ""
+      id: "369904596"
+    isApproved: true
+    raw_message: >-
+      Recently, my biomedical research seminar had the opportunity to read and
+      discuss your paper. Detailed below are some of the comments we had on your
+      work. 
+
+
+      Strengths: We appreciated your figures also diagrammed your methods – for example, Figure 1A made it extremely clear what you were knocking out and how you were doing so. We also really appreciated that your figures were not all graphs/quantitative data, but also the IHC stains that were eventually used for data analysis (i.e. Figures 1D, 2C, 3A, 6C, 7A). 
+
+
+      Weaknesses/Suggestions: While we did appreciate the IHC images, the quantitative graphs were too small and need to be enlarged to allow for easier data analysis. Additionally, certain figures were redundant – for example, both 4A and 4B show absolute force; similarly, both 4E and 4D show stimulation frequency and CMAP amplitude. Such redundancies convoluted the conversation, as students were confused what new information (if any) they were being presented with. Finally, the images need to be made more accessible to all readers – consider using magenta/blue stains to make data readable to colorblind readers, and include arrows in IHC stains so readers know what they are looking for. 
+
+
+      Overall, we really appreciated your scientific writing and the significance of your work – finding the mechanism by which Vangl2 interacts with MuSK to affect neuromuscular activity. We believe that with these small revisions, you can improve your data presentation and make the science more accessible to the readers.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.11.26.384925v2
+  tweets:
+    - created_at: Tue May 25 00:41:03 +0000 2021
+      id: 1396989657552855000
+      id_str: "1396989657552855042"
+      text: >-
+        💬 bioRxiv comment on "Muscle Van Gogh-like 2 shapes ..."
+
+
+        "Recently, my biomedical research seminar had the opportu… https://t.co/tMlUNXAwM5
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/tMlUNXAwM5
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue May 25 00:41:04 +0000 2021
+      id: 1396989658685329400
+      id_str: "1396989658685329408"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/WW8Eaz1Ksz
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/WW8Eaz1Ksz
+      in_reply_to_status_id: 1396989657552855000
+      in_reply_to_status_id_str: "1396989657552855042"
