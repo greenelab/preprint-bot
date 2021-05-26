@@ -111,8 +111,8 @@ function makeStatuses({ preprint = null, comment = null }) {
     // truncate title
     const title = preprint.title.slice(0, 30) + "...";
 
-    // comment raw text
-    const message = comment.raw_message;
+    // comment raw text. remove urls to not screw up status compression)
+    const message = removeUrls(comment.raw_message);
 
     // link to page where comment was made
     const url = comment.link;
@@ -176,5 +176,8 @@ const compressStatus = (status, substring) => {
 
   return status;
 };
+
+// remove url from string
+const removeUrls = (string) => string.replace(/https?:\/\/[\n\S]+/g, "");
 
 module.exports = { runBot };
