@@ -4357,3 +4357,93 @@
           - url: https://t.co/Q8gYXIKA8R
       in_reply_to_status_id: 1397165467492667400
       in_reply_to_status_id_str: "1397165467492667398"
+- preprint:
+    id: "134118"
+    doi: 10.1101/2021.03.19.436082
+    first_posted: 2021-03-19
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.03.19.436082v1
+    url: https://api.rxivist.org/v1/papers/134118
+    title: Pronounced genetic separation among varieties of the Primula cusickiana
+      species complex, a Great Basin endemic
+    category: evolutionary-biology
+    abstract: Distinguishing between unique species and populations with strong
+      genetic structure is a common challenge in population genetics, especially
+      in fragmented habitats where allopatric speciation may be widespread and
+      distinct groups may be morphologically similar. Such is often the case
+      with species complexes across sky island environments. In these scenarios,
+      biogeography may help to explain the relations between species complex
+      members, and RADseq methods are commonly used to compare closely related
+      species across thousands of genetic loci. Here we use RADseq to clarify
+      the relations between geographically distinct but morphologically similar
+      varieties of the Primula cusickiana species complex, and to contextualize
+      past findings of strong genetic structure among populations within
+      varieties. Our genomic analyses demonstrate pronounced separation between
+      isolated populations of this Great Basin endemic, indicating that the
+      current varietal classification of complex members is inaccurate and
+      emphasizing their conservation importance. We discuss how these results
+      correspond to recent biogeographical models used to describe the
+      distribution of other sky island taxa in western North America. Our
+      findings also fit into a wider trend observed for alpine Primula species
+      complexes, and we consider how heterostylous breeding systems may be
+      contributing to frequent diversification via allopatric speciation in this
+      genus.
+    authors:
+      - name: Austin Koontz
+        orcid: http://orcid.org/0000-0002-6103-5894
+      - name: William D. Pearse
+        orcid: http://orcid.org/0000-0002-6241-3164
+      - name: Paul Wolf
+        orcid: http://orcid.org/0000-0002-4317-6976
+  comment:
+    dislikes: 0
+    thread: "8444467131"
+    numReports: 0
+    likes: 0
+    id: "5396630337"
+    createdAt: 2021-05-25T18:52:04
+    author:
+      username: disqus_wmUv5Zir8n
+      about: ""
+      name: KW
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_wmUv5Zir8n/
+      url: ""
+      location: ""
+      id: "369275119"
+    isApproved: true
+    raw_message: Best of luck!
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.03.19.436082v1
+  tweets:
+    - created_at: Wed May 26 00:49:36 +0000 2021
+      id: 1397354197306196000
+      id_str: "1397354197306195970"
+      text: |-
+        💬 bioRxiv comment on "Pronounced genetic separation ..."
+
+        "Best of luck!"
+
+        https://t.co/7GhuBK9Fmx
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/7GhuBK9Fmx
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed May 26 00:49:37 +0000 2021
+      id: 1397354198006653000
+      id_str: "1397354198006652929"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/uqranEVcds
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/uqranEVcds
+      in_reply_to_status_id: 1397354197306196000
+      in_reply_to_status_id_str: "1397354197306195970"
