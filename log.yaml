@@ -5061,3 +5061,99 @@
           - url: https://t.co/652MU30MFJ
       in_reply_to_status_id: 1397898740149543000
       in_reply_to_status_id_str: "1397898740149542912"
+- preprint:
+    id: "143204"
+    doi: 10.1101/2021.05.18.21257385
+    first_posted: 2021-05-25
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.18.21257385v1
+    url: https://api.rxivist.org/v1/papers/143204
+    title: Mask mandate and use efficacy in state-level COVID-19 containment
+    category: epidemiology
+    abstract: "Background: Containment of the COVID-19 pandemic requires
+      evidence-based strategies to reduce transmission. Because COVID-19 can
+      spread via respired droplets, many states have mandated mask use in public
+      settings. Randomized control trials have not clearly demonstrated mask
+      efficacy against respiratory viruses, but observational studies suggest
+      greater mask compliance may be associated with lower infection rates. We
+      hypothesized that statewide mask mandates and mask use are associated with
+      lower COVID-19 case growth rates in the United States. Methods: We
+      calculated total COVID-19 case growth and mask use for the continental
+      United States with data from the Centers for Disease Control and
+      Prevention and Institute for Health Metrics and Evaluation. We estimated
+      post-mask mandate case growth in non-mandate states using median issuance
+      dates of neighboring states with mandates. Results: Case growth was not
+      significantly different between mandate and non-mandate states at low or
+      high transmission rates, and surges were equivocal. Mask use predicted
+      lower case growth at low, but not high transmission rates. Growth rates
+      were comparable between states in the top and bottom mask use quintiles
+      adjusted for normalized total cases early in the pandemic and unadjusted
+      after peak Fall-Winter infections. Mask use did not predict Summer 2020
+      case growth for non-Northeast states or Fall-Winter 2020 growth for all
+      states. Conclusions: Mask mandates and use are not associated with slower
+      state-level COVID-19 spread during COVID-19 growth surges. COVID-19
+      containment requires future research and implementation of existing
+      efficacious strategies."
+    authors:
+      - name: Damian Guerra
+        orcid: http://orcid.org/0000-0002-6621-4656
+      - name: Daniel J Guerra
+        orcid: null
+  comment:
+    dislikes: 4
+    thread: "8550177462"
+    numReports: 0
+    likes: 3
+    id: "5397842480"
+    createdAt: 2021-05-26T18:19:28
+    author:
+      username: rusbowden
+      about: ""
+      name: rusbowden
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/rusbowden/
+      url: ""
+      location: ""
+      id: "10245173"
+    isApproved: true
+    raw_message: Keep looking, Norbert-man. Seems you cherry pick, which is what I
+      suspect these researchers of doing too. That's politics, not science.
+      Aerosol can get through, which means the effectiveness is not 100%. Unless
+      there is  smart steering on board the tiny particles, or the mask material
+      actually repels them, the mask will stop some. (It would be interesint for
+      someone to find a smart mask material that draws the aerosol.) Note too,
+      how vapor saturation of masks from the wearer's breath increases mask
+      effectiveness. This is out there as well.
+    forum: medrxiv
+    points: -1
+    link: https://www.medrxiv.org/content/10.1101/2021.05.18.21257385v1
+  tweets:
+    - created_at: Thu May 27 14:40:58 +0000 2021
+      id: 1397925802327502800
+      id_str: "1397925802327502862"
+      text: >-
+        💬 medRxiv comment on "Mask mandate and use efficacy ..."
+
+
+        "Keep looking, Norbert-man. Seems you cherry pick, which… https://t.co/7wuETvvZis
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/7wuETvvZis
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu May 27 14:40:58 +0000 2021
+      id: 1397925803409567700
+      id_str: "1397925803409567744"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/652MU30MFJ
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/652MU30MFJ
+      in_reply_to_status_id: 1397925802327502800
+      in_reply_to_status_id_str: "1397925802327502862"
