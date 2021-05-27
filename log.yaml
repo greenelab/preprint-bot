@@ -5374,3 +5374,110 @@
           - url: https://t.co/jDpPx4OObZ
       in_reply_to_status_id: 1397992109655875600
       in_reply_to_status_id_str: "1397992109655875588"
+- preprint:
+    id: "143188"
+    doi: 10.1101/2021.05.21.21257595
+    first_posted: 2021-05-25
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.21.21257595v1
+    url: https://api.rxivist.org/v1/papers/143188
+    title: "Ivermectin for the treatment of COVID-19: A systematic review and
+      meta-analysis of randomized controlled trials"
+    category: infectious-diseases
+    abstract: "Background: We systematically assessed benefits and harms of the use
+      of ivermectin (IVM) in COVID-19 patients. Methods: Published and preprint
+      randomized controlled trials (RCTs) assessing IVM effects on COVID-19
+      adult patients were searched until March 15, 2021 in five engines. Primary
+      outcomes were all-cause mortality, length of stay (LOS), and adverse
+      events (AE). Secondary outcomes included viral clearance and severe AEs.
+      We evaluated risk of bias (RoB) using the Cochrane RoB 2.0 tool. Inverse
+      variance random effect meta-analyses were performed with quality of
+      evidence (QoE) evaluated using GRADE methodology. Subgroup analyses by
+      severity of disease and RoB, and sensitivity analyses by time of follow-up
+      were conducted. Results: Ten RCTs (n=1173) were included. Controls were
+      standard of care [SOC] in five RCTs and placebo in five RCTs. RCTs sample
+      size ranged from 24 to 398 patients, mean age from 26 to 56 years-old, and
+      severity of COVID-19 disease was mild in 8 RCTs, moderate in one RCT, and
+      mild and moderate in one RCT. IVM did not reduce all-cause mortality vs.
+      controls (RR 1.11, 95%CI 0.16-7.65, very low QoE). IVM did not reduce LOS
+      vs. controls (MD 0.72 days, 95%CI -0.86 to 2.29, very low QoE). AEs,
+      severe AE and viral clearance were similar between IVM and controls (low
+      QoE for these three outcomes). Subgroup analyses by severity of COVID-19
+      disease or RoB were consistent with main analyses. Sensitivity analyses
+      excluding RCTs with follow up <21 days showed no difference in all-cause
+      mortality but diminished heterogeneity (I2=0%). Conclusions: In comparison
+      to SOC or placebo, IVM did not reduce all-cause mortality, length of stay
+      or viral clearance in RCTs in COVID-19 patients with mostly mild disease.
+      IVM did not have effect on AEs or SAEs. IVM is not a viable option to
+      treat COVID-19 patients."
+    authors:
+      - name: Yuani M Roman
+        orcid: http://orcid.org/0000-0001-8176-4464
+      - name: Paula A Burela
+        orcid: http://orcid.org/0000-0003-3746-4338
+      - name: Vinay Pasupuleti
+        orcid: http://orcid.org/0000-0002-5964-9520
+      - name: Alejandro Piscoya
+        orcid: http://orcid.org/0000-0002-4420-2419
+      - name: Jose E Vidal
+        orcid: http://orcid.org/0000-0001-7830-8716
+      - name: Adrian V Hernandez
+        orcid: http://orcid.org/0000-0002-9999-4003
+  comment:
+    dislikes: 0
+    thread: "8549959681"
+    numReports: 0
+    likes: 2
+    id: "5398389706"
+    createdAt: 2021-05-27T04:05:21
+    author:
+      username: andrewdavidshillermd
+      about: ""
+      name: Andrew David Shiller MD
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/andrewdavidshillermd/
+      url: ""
+      location: ""
+      id: "147885763"
+    isApproved: true
+    raw_message: Interesting.   I see all the comments reporting that the authors
+      mixed up the data.  Very disturbing, but exactly why we have peer
+      review.  What's odd is that those comments show up here in version 1 of
+      the medrxiv publication.  And there is also a "version 2" of the
+      publication
+      (https://www.medrxiv.org/content/10.1101/2021.05.21.21257595v2) which
+      appears to have the same abstract, but no comments pointing toward the
+      mixed up data and conclusions.  What's up with that?
+    forum: medrxiv
+    points: 2
+    link: https://www.medrxiv.org/content/10.1101/2021.05.21.21257595v1
+  tweets:
+    - created_at: Thu May 27 20:34:34 +0000 2021
+      id: 1398014791050989600
+      id_str: "1398014791050989571"
+      text: >-
+        💬 medRxiv comment on "Ivermectin for the treatment o..."
+
+
+        "Interesting.   I see all the comments reporting that the… https://t.co/zV7SC1FxLY
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/zV7SC1FxLY
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu May 27 20:34:34 +0000 2021
+      id: 1398014791734681600
+      id_str: "1398014791734681602"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/jDpPx4OObZ
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/jDpPx4OObZ
+      in_reply_to_status_id: 1398014791050989600
+      in_reply_to_status_id_str: "1398014791050989571"
