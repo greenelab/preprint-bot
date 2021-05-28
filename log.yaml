@@ -5584,3 +5584,110 @@
           - url: https://t.co/652MU3io4j
       in_reply_to_status_id: 1398044187900141600
       in_reply_to_status_id_str: "1398044187900141572"
+- preprint:
+    id: "143204"
+    doi: 10.1101/2021.05.18.21257385
+    first_posted: 2021-05-25
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.18.21257385v1
+    url: https://api.rxivist.org/v1/papers/143204
+    title: Mask mandate and use efficacy in state-level COVID-19 containment
+    category: epidemiology
+    abstract: "Background: Containment of the COVID-19 pandemic requires
+      evidence-based strategies to reduce transmission. Because COVID-19 can
+      spread via respired droplets, many states have mandated mask use in public
+      settings. Randomized control trials have not clearly demonstrated mask
+      efficacy against respiratory viruses, but observational studies suggest
+      greater mask compliance may be associated with lower infection rates. We
+      hypothesized that statewide mask mandates and mask use are associated with
+      lower COVID-19 case growth rates in the United States. Methods: We
+      calculated total COVID-19 case growth and mask use for the continental
+      United States with data from the Centers for Disease Control and
+      Prevention and Institute for Health Metrics and Evaluation. We estimated
+      post-mask mandate case growth in non-mandate states using median issuance
+      dates of neighboring states with mandates. Results: Case growth was not
+      significantly different between mandate and non-mandate states at low or
+      high transmission rates, and surges were equivocal. Mask use predicted
+      lower case growth at low, but not high transmission rates. Growth rates
+      were comparable between states in the top and bottom mask use quintiles
+      adjusted for normalized total cases early in the pandemic and unadjusted
+      after peak Fall-Winter infections. Mask use did not predict Summer 2020
+      case growth for non-Northeast states or Fall-Winter 2020 growth for all
+      states. Conclusions: Mask mandates and use are not associated with slower
+      state-level COVID-19 spread during COVID-19 growth surges. COVID-19
+      containment requires future research and implementation of existing
+      efficacious strategies."
+    authors:
+      - name: Damian Guerra
+        orcid: http://orcid.org/0000-0002-6621-4656
+      - name: Daniel J Guerra
+        orcid: null
+  comment:
+    dislikes: 37
+    thread: "8550177462"
+    numReports: 0
+    likes: 2
+    id: "5396692581"
+    createdAt: 2021-05-25T19:41:53
+    author:
+      username: rusbowden
+      about: ""
+      name: rusbowden
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/rusbowden/
+      url: ""
+      location: ""
+      id: "10245173"
+    isApproved: true
+    raw_message: >-
+      A further point needs to be made, before we throw away our masks -- that
+      masks do not help the individual wearer. This research barely touches on
+      that, thus is open to be used politically to cause virus spread.  And if
+      an individual thought that this research showed that a mask does not help
+      the wearer, it could cause many to shed their masks when it would be
+      dangerous. 
+
+
+      Here in my city, we just dropped off the "high risk" or "red" category last week, which means too many spreaders were walking around town, many willy nilly. Should I still be wearing a mask, can it stop the virus from getting to me? This study does not answer that question. If masks help as many studies shown or at least indicated, then public health officials need help now in getting the message out.
+
+
+      Let's backtrack and attempt the assumptive leap for a moment and try to affirm that this study points to a yet-proven truth, that all the wearing of masks was futile, because of the ineffectiveness of the mask only, which even causes problems for wearers. Let's try to affirm that with a thought experiment. Imagine with me that what got invented is the dream 100% mask back in April 2020, that (1) when worn, causes no discomfort or infection in the wearer and (2) completely prevents any wearer from being able to catch the covid virus. What if any difference would this have made to the results of this study? The hypotheses this leads to have to do with how human behavior and politics help viruses spread -- even in the face of mask-wearing. 
+
+
+      For instance, consider the work of Ngaire Woods, founding dean of the Blavatnik School of Government and professor of Global Economic Governance at the University of Oxford. In his article, "What factors have determined how well countries have done in responding to the pandemic?," Richard Smith, a fellow of the Royal College of Physicians of Edinburgh, writes that "Woods identified three factors that had a strong influence on how well countries did," and, "The single most important factor, she argued, was effective collaboration between national and subnational governments." 
+
+
+      Could this be translated for our purposes here, to be that there was little "subversion" by the populace too, that more successful countries had fewer parties or funerals where masks were shed, events which I witnessed and attended. It only takes one bullet to hit a target, so catch the target when the mask is off or down under the nose. In other words, if you were a virus, how would you enlist "subversive grandmother soldiers," say, to unmask around their grandchildren, allowing a snaking trail of the virus to spread from household to household. How many people broke their social bubbles?
+    forum: medrxiv
+    points: -35
+    link: https://www.medrxiv.org/content/10.1101/2021.05.18.21257385v1
+  tweets:
+    - created_at: Fri May 28 01:53:57 +0000 2021
+      id: 1398095167597551600
+      id_str: "1398095167597551617"
+      text: >-
+        💬 medRxiv comment on "Mask mandate and use efficacy ..."
+
+
+        "A further point needs to be made, before we throw away o… https://t.co/9apo2ZMVDZ
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/9apo2ZMVDZ
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri May 28 01:53:58 +0000 2021
+      id: 1398095168318980000
+      id_str: "1398095168318980103"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/652MU3io4j
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/652MU3io4j
+      in_reply_to_status_id: 1398095167597551600
+      in_reply_to_status_id_str: "1398095167597551617"
