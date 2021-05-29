@@ -6268,3 +6268,94 @@
           - url: https://t.co/652MU3io4j
       in_reply_to_status_id: 1398407535388942300
       in_reply_to_status_id_str: "1398407535388942337"
+- preprint:
+    id: "143204"
+    doi: 10.1101/2021.05.18.21257385
+    first_posted: 2021-05-25
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.18.21257385v1
+    url: https://api.rxivist.org/v1/papers/143204
+    title: Mask mandate and use efficacy in state-level COVID-19 containment
+    category: epidemiology
+    abstract: "Background: Containment of the COVID-19 pandemic requires
+      evidence-based strategies to reduce transmission. Because COVID-19 can
+      spread via respired droplets, many states have mandated mask use in public
+      settings. Randomized control trials have not clearly demonstrated mask
+      efficacy against respiratory viruses, but observational studies suggest
+      greater mask compliance may be associated with lower infection rates. We
+      hypothesized that statewide mask mandates and mask use are associated with
+      lower COVID-19 case growth rates in the United States. Methods: We
+      calculated total COVID-19 case growth and mask use for the continental
+      United States with data from the Centers for Disease Control and
+      Prevention and Institute for Health Metrics and Evaluation. We estimated
+      post-mask mandate case growth in non-mandate states using median issuance
+      dates of neighboring states with mandates. Results: Case growth was not
+      significantly different between mandate and non-mandate states at low or
+      high transmission rates, and surges were equivocal. Mask use predicted
+      lower case growth at low, but not high transmission rates. Growth rates
+      were comparable between states in the top and bottom mask use quintiles
+      adjusted for normalized total cases early in the pandemic and unadjusted
+      after peak Fall-Winter infections. Mask use did not predict Summer 2020
+      case growth for non-Northeast states or Fall-Winter 2020 growth for all
+      states. Conclusions: Mask mandates and use are not associated with slower
+      state-level COVID-19 spread during COVID-19 growth surges. COVID-19
+      containment requires future research and implementation of existing
+      efficacious strategies."
+    authors:
+      - name: Damian Guerra
+        orcid: http://orcid.org/0000-0002-6621-4656
+      - name: Daniel J Guerra
+        orcid: null
+  comment:
+    dislikes: 10
+    thread: "8550177462"
+    numReports: 0
+    likes: 2
+    id: "5398406513"
+    createdAt: 2021-05-27T04:38:06
+    author:
+      username: rusbowden
+      about: ""
+      name: rusbowden
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/rusbowden/
+      url: ""
+      location: ""
+      id: "10245173"
+    isApproved: true
+    raw_message: The study does not show what you say it does, and from your
+      response, my fear that people will use it to think that unmasking is as
+      safe as masking, means we have study here that puts people in peril.
+    forum: medrxiv
+    points: -8
+    link: https://www.medrxiv.org/content/10.1101/2021.05.18.21257385v1
+  tweets:
+    - created_at: Sat May 29 02:10:21 +0000 2021
+      id: 1398461681068560400
+      id_str: "1398461681068560386"
+      text: >-
+        💬 medRxiv comment on "Mask mandate and use efficacy ..."
+
+
+        "The study does not show what you say it does, and from y… https://t.co/vKU6j1rpqF
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/vKU6j1rpqF
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat May 29 02:10:21 +0000 2021
+      id: 1398461681844605000
+      id_str: "1398461681844604931"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/652MU3io4j
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/652MU3io4j
+      in_reply_to_status_id: 1398461681068560400
+      in_reply_to_status_id_str: "1398461681068560386"
