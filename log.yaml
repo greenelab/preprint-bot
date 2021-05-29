@@ -6555,3 +6555,125 @@
           - url: https://t.co/652MU3io4j
       in_reply_to_status_id: 1398650055855415300
       in_reply_to_status_id_str: "1398650055855415301"
+- preprint:
+    id: "143204"
+    doi: 10.1101/2021.05.18.21257385
+    first_posted: 2021-05-25
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.18.21257385v1
+    url: https://api.rxivist.org/v1/papers/143204
+    title: Mask mandate and use efficacy in state-level COVID-19 containment
+    category: epidemiology
+    abstract: "Background: Containment of the COVID-19 pandemic requires
+      evidence-based strategies to reduce transmission. Because COVID-19 can
+      spread via respired droplets, many states have mandated mask use in public
+      settings. Randomized control trials have not clearly demonstrated mask
+      efficacy against respiratory viruses, but observational studies suggest
+      greater mask compliance may be associated with lower infection rates. We
+      hypothesized that statewide mask mandates and mask use are associated with
+      lower COVID-19 case growth rates in the United States. Methods: We
+      calculated total COVID-19 case growth and mask use for the continental
+      United States with data from the Centers for Disease Control and
+      Prevention and Institute for Health Metrics and Evaluation. We estimated
+      post-mask mandate case growth in non-mandate states using median issuance
+      dates of neighboring states with mandates. Results: Case growth was not
+      significantly different between mandate and non-mandate states at low or
+      high transmission rates, and surges were equivocal. Mask use predicted
+      lower case growth at low, but not high transmission rates. Growth rates
+      were comparable between states in the top and bottom mask use quintiles
+      adjusted for normalized total cases early in the pandemic and unadjusted
+      after peak Fall-Winter infections. Mask use did not predict Summer 2020
+      case growth for non-Northeast states or Fall-Winter 2020 growth for all
+      states. Conclusions: Mask mandates and use are not associated with slower
+      state-level COVID-19 spread during COVID-19 growth surges. COVID-19
+      containment requires future research and implementation of existing
+      efficacious strategies."
+    authors:
+      - name: Damian Guerra
+        orcid: http://orcid.org/0000-0002-6621-4656
+      - name: Daniel J Guerra
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8550177462"
+    numReports: 0
+    likes: 2
+    id: "5398869493"
+    createdAt: 2021-05-27T15:18:44
+    author:
+      username: disqus_5aza9C29Vf
+      about: wear the uniform; live life
+      name: Jäger
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_5aza9C29Vf/
+      url: ""
+      location: Flathead County
+      id: "116324005"
+    isApproved: true
+    raw_message: >-
+      And what you're continuing is cherrypicking fear mongering - not
+      science.  With word salad cherrypicking, hoping to get away with calling
+      it "science".
+
+
+
+      Jan 2021 U.S. Department of Health and Human Services
+
+            According to the current knowledge, the virus SARS-CoV-2 has a
+              diameter of 60 nm to 140 nm [nanometers (billionth of a meter)],
+              while medical and non-medical facemasks’ thread diameter ranges
+              from 55 µm to 440 µm [micrometers (one millionth of a meter),
+              which is more than 1000 times larger.  Due to the difference in
+              sizes between SARS-CoV-2 diameter and facemasks thread diameter,
+              SARS-CoV-2 can easily pass through any facemask.
+
+            
+
+            A meta-analysis among health care workers
+              found that compared to no masks, surgical mask and N95
+              respirators were not effective against transmission of viral
+              infections or influenza-like illness based on six RCTs. Using
+              separate analysis of 23 observational studies, this meta-analysis
+              found no protective effect of medical mask or N95 respirators
+              against SARS virus. A recent systematic review of 39 studies
+              including 33,867 participants in community settings (self-report
+              illness), found no difference between N95 respirators versus
+              surgical masks and surgical mask versus no masks in the risk for
+              developing influenza or influenza-like illness, suggesting their
+              ineffectiveness of blocking viral transmissions in community
+              settings.
+
+            https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7680614/
+    forum: medrxiv
+    points: 2
+    link: https://www.medrxiv.org/content/10.1101/2021.05.18.21257385v1
+  tweets:
+    - created_at: Sat May 29 17:21:27 +0000 2021
+      id: 1398690965871804400
+      id_str: "1398690965871804416"
+      text: >-
+        💬 medRxiv comment on "Mask mandate and use efficacy ..."
+
+
+        "And what you're continuing is cherrypicking fear mongeri… https://t.co/fK7xK36NTS
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/fK7xK36NTS
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat May 29 17:21:27 +0000 2021
+      id: 1398690966614249500
+      id_str: "1398690966614249474"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/652MU3io4j
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/652MU3io4j
+      in_reply_to_status_id: 1398690965871804400
+      in_reply_to_status_id_str: "1398690965871804416"
