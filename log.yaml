@@ -7564,3 +7564,115 @@
           - url: https://t.co/652MU3io4j
       in_reply_to_status_id: 1399105448054345700
       in_reply_to_status_id_str: "1399105448054345737"
+- preprint:
+    id: "143188"
+    doi: 10.1101/2021.05.21.21257595
+    first_posted: 2021-05-25
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.21.21257595v1
+    url: https://api.rxivist.org/v1/papers/143188
+    title: "Ivermectin for the treatment of COVID-19: A systematic review and
+      meta-analysis of randomized controlled trials"
+    category: infectious-diseases
+    abstract: "Background: We systematically assessed benefits and harms of the use
+      of ivermectin (IVM) in COVID-19 patients. Methods: Published and preprint
+      randomized controlled trials (RCTs) assessing IVM effects on COVID-19
+      adult patients were searched until March 15, 2021 in five engines. Primary
+      outcomes were all-cause mortality, length of stay (LOS), and adverse
+      events (AE). Secondary outcomes included viral clearance and severe AEs.
+      We evaluated risk of bias (RoB) using the Cochrane RoB 2.0 tool. Inverse
+      variance random effect meta-analyses were performed with quality of
+      evidence (QoE) evaluated using GRADE methodology. Subgroup analyses by
+      severity of disease and RoB, and sensitivity analyses by time of follow-up
+      were conducted. Results: Ten RCTs (n=1173) were included. Controls were
+      standard of care [SOC] in five RCTs and placebo in five RCTs. RCTs sample
+      size ranged from 24 to 398 patients, mean age from 26 to 56 years-old, and
+      severity of COVID-19 disease was mild in 8 RCTs, moderate in one RCT, and
+      mild and moderate in one RCT. IVM did not reduce all-cause mortality vs.
+      controls (RR 1.11, 95%CI 0.16-7.65, very low QoE). IVM did not reduce LOS
+      vs. controls (MD 0.72 days, 95%CI -0.86 to 2.29, very low QoE). AEs,
+      severe AE and viral clearance were similar between IVM and controls (low
+      QoE for these three outcomes). Subgroup analyses by severity of COVID-19
+      disease or RoB were consistent with main analyses. Sensitivity analyses
+      excluding RCTs with follow up <21 days showed no difference in all-cause
+      mortality but diminished heterogeneity (I2=0%). Conclusions: In comparison
+      to SOC or placebo, IVM did not reduce all-cause mortality, length of stay
+      or viral clearance in RCTs in COVID-19 patients with mostly mild disease.
+      IVM did not have effect on AEs or SAEs. IVM is not a viable option to
+      treat COVID-19 patients."
+    authors:
+      - name: Yuani M Roman
+        orcid: http://orcid.org/0000-0001-8176-4464
+      - name: Paula A Burela
+        orcid: http://orcid.org/0000-0003-3746-4338
+      - name: Vinay Pasupuleti
+        orcid: http://orcid.org/0000-0002-5964-9520
+      - name: Alejandro Piscoya
+        orcid: http://orcid.org/0000-0002-4420-2419
+      - name: Jose E Vidal
+        orcid: http://orcid.org/0000-0001-7830-8716
+      - name: Adrian V Hernandez
+        orcid: http://orcid.org/0000-0002-9999-4003
+  comment:
+    dislikes: 0
+    thread: "8552957443"
+    numReports: 0
+    likes: 1
+    id: "5401473605"
+    createdAt: 2021-05-29T20:55:44
+    author:
+      username: RGregoryClark
+      about: I teach math at an east coast U.S. university.
+      name: Robert Clark
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/RGregoryClark/
+      url: http://exoscientist.blogspot.com
+      location: Philadelphia, PA
+      id: "41262611"
+    isApproved: true
+    raw_message: >-
+      Seriously, it’s like some researchers opposed to the concept of EARLY
+      treatment of COVID will go to any lengths to provide evidence against it,
+      even if it crosses the line of scientific ethics.
+
+
+      Sorry, to have to say this but the authors no longer have any credibility on this issue.
+
+       Extremely important to recognize the importance of this: to provide evidence against IVM researchers have had to change data to fit their conclusion.
+
+       What does that tell you about the effectiveness of IVM?
+
+        Robert Clark
+    forum: medrxiv
+    points: 1
+    link: https://www.medrxiv.org/content/10.1101/2021.05.21.21257595v2
+  tweets:
+    - created_at: Sun May 30 22:39:14 +0000 2021
+      id: 1399133326473056300
+      id_str: "1399133326473056259"
+      text: >-
+        💬 medRxiv comment on "Ivermectin for the treatment o..."
+
+
+        "Seriously, it’s like some researchers opposed to the con… https://t.co/kcOLJgHSNE
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/kcOLJgHSNE
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun May 30 22:39:14 +0000 2021
+      id: 1399133328469540900
+      id_str: "1399133328469540865"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/jDpPx4OObZ
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/jDpPx4OObZ
+      in_reply_to_status_id: 1399133326473056300
+      in_reply_to_status_id_str: "1399133326473056259"
