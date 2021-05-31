@@ -7955,3 +7955,96 @@
           - url: https://t.co/652MU3io4j
       in_reply_to_status_id: 1399374981314850800
       in_reply_to_status_id_str: "1399374981314850823"
+- preprint:
+    id: "143204"
+    doi: 10.1101/2021.05.18.21257385
+    first_posted: 2021-05-25
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.18.21257385v1
+    url: https://api.rxivist.org/v1/papers/143204
+    title: Mask mandate and use efficacy in state-level COVID-19 containment
+    category: epidemiology
+    abstract: "Background: Containment of the COVID-19 pandemic requires
+      evidence-based strategies to reduce transmission. Because COVID-19 can
+      spread via respired droplets, many states have mandated mask use in public
+      settings. Randomized control trials have not clearly demonstrated mask
+      efficacy against respiratory viruses, but observational studies suggest
+      greater mask compliance may be associated with lower infection rates. We
+      hypothesized that statewide mask mandates and mask use are associated with
+      lower COVID-19 case growth rates in the United States. Methods: We
+      calculated total COVID-19 case growth and mask use for the continental
+      United States with data from the Centers for Disease Control and
+      Prevention and Institute for Health Metrics and Evaluation. We estimated
+      post-mask mandate case growth in non-mandate states using median issuance
+      dates of neighboring states with mandates. Results: Case growth was not
+      significantly different between mandate and non-mandate states at low or
+      high transmission rates, and surges were equivocal. Mask use predicted
+      lower case growth at low, but not high transmission rates. Growth rates
+      were comparable between states in the top and bottom mask use quintiles
+      adjusted for normalized total cases early in the pandemic and unadjusted
+      after peak Fall-Winter infections. Mask use did not predict Summer 2020
+      case growth for non-Northeast states or Fall-Winter 2020 growth for all
+      states. Conclusions: Mask mandates and use are not associated with slower
+      state-level COVID-19 spread during COVID-19 growth surges. COVID-19
+      containment requires future research and implementation of existing
+      efficacious strategies."
+    authors:
+      - name: Damian Guerra
+        orcid: http://orcid.org/0000-0002-6621-4656
+      - name: Daniel J Guerra
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8550177462"
+    numReports: 0
+    likes: 2
+    id: "5401706081"
+    createdAt: 2021-05-30T01:54:15
+    author:
+      username: DeanAnniballi
+      about: ""
+      name: Dean Anniballi
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/DeanAnniballi/
+      url: ""
+      location: ""
+      id: "81416142"
+    isApproved: true
+    raw_message: I find it interesting that those states that implemented early mask
+      mandates have slightly high death rates than states that never implemented
+      masking.  In addition, when new case rates were at the highest we also had
+      >93% mask compliance in those states that required masks.  The real world
+      data seems to refute your position.
+    forum: medrxiv
+    points: 2
+    link: https://www.medrxiv.org/content/10.1101/2021.05.18.21257385v1
+  tweets:
+    - created_at: Mon May 31 17:41:07 +0000 2021
+      id: 1399420690223317000
+      id_str: "1399420690223317000"
+      text: >-
+        💬 medRxiv comment on "Mask mandate and use efficacy ..."
+
+
+        "I find it interesting that those states that implemented… https://t.co/6AbayYTUfV
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/6AbayYTUfV
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon May 31 17:41:07 +0000 2021
+      id: 1399420691016032300
+      id_str: "1399420691016032268"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/652MU3io4j
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/652MU3io4j
+      in_reply_to_status_id: 1399420690223317000
+      in_reply_to_status_id_str: "1399420690223317000"
