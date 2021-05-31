@@ -8141,3 +8141,56 @@
           - url: https://t.co/652MU3io4j
       in_reply_to_status_id: 1399453318896832500
       in_reply_to_status_id_str: "1399453318896832513"
+- preprint:
+    id: 141863
+    metric: 16417
+    title: The Spike Proteins of SARS-CoV-2 B.1.617 and B.1.618 Variants Identified
+      in India Provide Partial Resistance to Vaccine-elicited and Therapeutic
+      Monoclonal Antibodies.
+    url: https://api.rxivist.org/v1/papers/141863
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.05.14.444076v1
+    doi: 10.1101/2021.05.14.444076
+    category: immunology
+    first_posted: 2021-05-16
+    abstract: Highly transmissible SARS-CoV-2 variants recently identified in India
+      designated B.1.617 and B.1.618 have mutations within the spike protein
+      that may contribute to their increased transmissibility and that could
+      potentially result in re-infection or resistance to vaccine-elicited
+      antibody. B.1.617 encodes a spike protein with mutations L452R, E484Q,
+      D614G and P681R while the B.1.618 spike has mutations {Delta}145-146,
+      E484K and D614G. We generated lentiviruses pseudotyped by the variant
+      proteins and determined their resistance to neutralization by convalescent
+      sera, vaccine-elicited antibodies and therapeutic monoclonal antibodies.
+      Viruses with B.1.617 and B.1.618 spike were neutralized with a 2-5-fold
+      decrease in titer by convalescent sera and vaccine-elicited antibodies.
+      The E484Q and E484K versions were neutralized with a 2-4-fold decrease in
+      titer. Virus with the B.1.617 spike protein was neutralized with a
+      4.7-fold decrease in titer by the Regeneron monoclonal antibody cocktail
+      as a result of the L452R mutation. The modest neutralization resistance of
+      the variant spike proteins to vaccine elicited antibody suggests that
+      current vaccines will remain protective against the B.1.617 and B.1.618
+      variants.
+    authors:
+      - name: Takuya Tada
+      - name: Hao Zhou
+      - name: Belinda M Dcosta
+      - name: Marie I. Samanovic
+      - name: Mark J Mulligan
+      - name: Nathaniel R Landau
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Mon May 31 21:13:12 +0000 2021
+      id: 1399474064666906600
+      id_str: "1399474064666906624"
+      text: >-
+        🔥 bioRxiv Immunology preprint by T. Tada et al:
+
+
+        "The Spike Proteins of SARS-CoV-2 B.1.617 and B.1.618 Variants Ide… https://t.co/RkZe4QYK56
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/RkZe4QYK56
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
