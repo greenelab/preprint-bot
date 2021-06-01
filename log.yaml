@@ -8775,3 +8775,61 @@
           - url: https://t.co/652MU3io4j
       in_reply_to_status_id: 1399789931816538000
       in_reply_to_status_id_str: "1399789931816538114"
+- preprint:
+    id: 86387
+    metric: 34
+    title: "ANANSE: An enhancer network-based computational approach for predicting
+      key transcription factors in cell fate determination"
+    url: https://api.rxivist.org/v1/papers/86387
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.06.05.135798v2
+    doi: 10.1101/2020.06.05.135798
+    category: systems-biology
+    first_posted: 2020-06-06
+    abstract: Proper cell fate determination is largely orchestrated by complex gene
+      regulatory networks centered around transcription factors. However,
+      experimental elucidation of key transcription factors that drive cellular
+      identity is currently often intractable. Here, we present ANANSE (ANalysis
+      Algorithm for Networks Specified by Enhancers), a network-based method
+      that exploits enhancerencoded regulatory information to identify the key
+      transcription factors in cell fate determination. As cell type-specific
+      transcription factors predominantly bind to enhancers, we use regulatory
+      networks based on enhancer properties to prioritize transcription factors.
+      First, we predict genome-wide binding profiles of transcription factors in
+      various cell types using enhancer activity and transcription factor
+      binding motifs. Subsequently, applying these inferred binding profiles, we
+      construct cell type-specific gene regulatory networks, and then predict
+      key transcription factors controlling cell fate conversions using
+      differential gene networks between cell types. This method outperforms
+      existing approaches in correctly predicting major transcription factors
+      previously identified to be sufficient for trans-differentiation. Finally,
+      we apply ANANSE to define an atlas of key transcription factors in 18
+      normal human tissues. In conclusion, we present a ready-to-implement
+      computational tool for efficient prediction of transcription factors in
+      cell fate determination and to study transcription factor-mediated
+      regulatory mechanisms. ANANSE is freely available at
+      https://github.com/vanheeringen-lab/ANANSE.
+    authors:
+      - name: Quan Xu
+      - name: Georgios Georgiou
+      - name: Siebren Froelich
+      - name: Maarten van der Sande
+      - name: Gert Jan C Veenstra
+      - name: Huiqing Zhou
+      - name: Simon J. van Heeringen
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Tue Jun 01 21:28:42 +0000 2021
+      id: 1399840351549075500
+      id_str: "1399840351549075462"
+      text: >-
+        🔥 bioRxiv Systems-biology preprint by Q. Xu et al:
+
+
+        "ANANSE: An enhancer network-based computational approach for p… https://t.co/ThM8jx6qKz
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/ThM8jx6qKz
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
