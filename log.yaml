@@ -8928,3 +8928,82 @@
           - url: https://t.co/652MU3io4j
       in_reply_to_status_id: 1399841174060515300
       in_reply_to_status_id_str: "1399841174060515328"
+- preprint:
+    id: "141492"
+    doi: 10.1101/2021.05.12.21256975
+    first_posted: 2021-05-13
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.12.21256975v1
+    url: https://api.rxivist.org/v1/papers/141492
+    title: Inferring the COVID-19 IFR with a simple Bayesian evidence synthesis of
+      seroprevalence study data and imprecise mortality data
+    category: epidemiology
+    abstract: Estimating the COVID-19 infection fatality rate (IFR) has proven to be
+      particularly challenging --and rather controversial-- due to the fact that
+      both the data on deaths and the data on the number of individuals infected
+      are subject to many different biases. We consider a Bayesian evidence
+      synthesis approach which, while simple enough for researchers to
+      understand and use, accounts for many important sources of uncertainty
+      inherent in both the seroprevalence and mortality data. We estimate the
+      COVID-19 IFR to be 0.40% (95% credible interval of (0.20%, 0.63%)) for a
+      typical population where the proportion of those aged over 65 years old is
+      9% and where the GDP (at purchasing-power parity (ppp)) per capita is
+      $17.8K (the approximate worldwide values). Our results suggest that, as
+      one might expect, lower IFRs are associated with younger and with
+      wealthier populations.
+    authors:
+      - name: Harlan Campbell
+        orcid: http://orcid.org/0000-0002-0959-1594
+      - name: Paul Gustafson
+        orcid: http://orcid.org/0000-0002-2375-5006
+  comment:
+    dislikes: 0
+    thread: "8519217784"
+    numReports: 0
+    likes: 0
+    id: "5404391858"
+    createdAt: 2021-06-01T14:57:57
+    author:
+      username: disqus_Tt0mr386bH
+      about: ""
+      name: happydog
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_Tt0mr386bH/
+      url: ""
+      location: ""
+      id: "59198730"
+    isApproved: true
+    raw_message: In version 2 of the manuscript, the Brazil data is not included.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.05.12.21256975v1
+  tweets:
+    - created_at: Tue Jun 01 22:58:39 +0000 2021
+      id: 1399862988513837000
+      id_str: "1399862988513837059"
+      text: >-
+        💬 medRxiv comment on "Inferring the COVID-19 IFR wit..."
+
+
+        "In version 2 of the manuscript, the Brazil data is not i… https://t.co/rCfqbxRaOo
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/rCfqbxRaOo
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jun 01 22:58:39 +0000 2021
+      id: 1399862989495308300
+      id_str: "1399862989495308290"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/QUuq9FzzpV
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/QUuq9FzzpV
+      in_reply_to_status_id: 1399862988513837000
+      in_reply_to_status_id_str: "1399862988513837059"
