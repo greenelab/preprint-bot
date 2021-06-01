@@ -8599,3 +8599,89 @@
           - url: https://t.co/jDpPx4OObZ
       in_reply_to_status_id: 1399716549850718200
       in_reply_to_status_id_str: "1399716549850718213"
+- preprint:
+    id: "129733"
+    doi: 10.1101/2021.02.17.431604
+    first_posted: 2021-02-17
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.02.17.431604v1
+    url: https://api.rxivist.org/v1/papers/129733
+    title: The IL-10GFP (VeRT-X) mouse strain is not suitable for the detection of
+      IL-10 production by granulocytes during lung inflammation
+    category: immunology
+    abstract: The clear and unequivocal identification of immune effector functions
+      is essential to understand immune responses. The cytokine IL-10 is a
+      critical immune regulator and was shown, for example, to limit pathology
+      during various lung diseases. However, the clear identification of
+      IL-10-producing cells is challenging and, therefore, reporter mouse lines
+      were developed to facilitate their detection. Several such reporter lines
+      utilize GFP, including the IL-10 GFP (VeRT-X) reporter strain studied
+      here. In line with previous reports, we found that this IL-10 GFP line
+      faithfully reports on the IL-10 production of lymphoid cells. However, we
+      show that the IL-10 GFP reporter is not suitable to analyse IL-10
+      production of myeloid cells during inflammations. During inflammation, the
+      autofluorescence of myeloid cells increased to an extent that entirely
+      masked the IL-10-specific GFP-signal. Our data illustrate a general and
+      important technical caveat using GFP-reporter lines for the analysis of
+      myeloid cells and suggest that previous reports on effector functions of
+      myeloid cells using such GFP-based reporters might require re-evaluation.
+    authors:
+      - name: Müge Özkan
+        orcid: http://orcid.org/0000-0002-3927-1882
+      - name: Yusuf  Cem Eskiocak
+        orcid: null
+      - name: Gerhard Wingender
+        orcid: http://orcid.org/0000-0002-7115-298X
+  comment:
+    dislikes: 0
+    thread: "8402814496"
+    numReports: 0
+    likes: 0
+    id: "5403029660"
+    createdAt: 2021-05-31T11:32:09
+    author:
+      username: gerhardwingender
+      about: ""
+      name: Gerhard WINGENDER
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/gerhardwingender/
+      url: ""
+      location: ""
+      id: "370218532"
+    isApproved: true
+    raw_message: "This study has been published:
+      https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247895"
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.02.17.431604v1
+  tweets:
+    - created_at: Tue Jun 01 14:50:52 +0000 2021
+      id: 1399740233244098600
+      id_str: "1399740233244098562"
+      text: |-
+        💬 bioRxiv comment on "The IL-10GFP (VeRT-X) mouse st..."
+
+        "This study has been published: "
+
+        https://t.co/SbhjbOgAGN
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/SbhjbOgAGN
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jun 01 14:50:52 +0000 2021
+      id: 1399740233952989200
+      id_str: "1399740233952989184"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/H4MbuXXBbD
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/H4MbuXXBbD
+      in_reply_to_status_id: 1399740233244098600
+      in_reply_to_status_id_str: "1399740233244098562"
