@@ -9247,3 +9247,108 @@
           - url: https://t.co/1MSxR76y5s
       in_reply_to_status_id: 1400080193046282200
       in_reply_to_status_id_str: "1400080193046282241"
+- preprint:
+    id: "143204"
+    doi: 10.1101/2021.05.18.21257385
+    first_posted: 2021-05-25
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.18.21257385v1
+    url: https://api.rxivist.org/v1/papers/143204
+    title: Mask mandate and use efficacy in state-level COVID-19 containment
+    category: epidemiology
+    abstract: "Background: Containment of the COVID-19 pandemic requires
+      evidence-based strategies to reduce transmission. Because COVID-19 can
+      spread via respired droplets, many states have mandated mask use in public
+      settings. Randomized control trials have not clearly demonstrated mask
+      efficacy against respiratory viruses, but observational studies suggest
+      greater mask compliance may be associated with lower infection rates. We
+      hypothesized that statewide mask mandates and mask use are associated with
+      lower COVID-19 case growth rates in the United States. Methods: We
+      calculated total COVID-19 case growth and mask use for the continental
+      United States with data from the Centers for Disease Control and
+      Prevention and Institute for Health Metrics and Evaluation. We estimated
+      post-mask mandate case growth in non-mandate states using median issuance
+      dates of neighboring states with mandates. Results: Case growth was not
+      significantly different between mandate and non-mandate states at low or
+      high transmission rates, and surges were equivocal. Mask use predicted
+      lower case growth at low, but not high transmission rates. Growth rates
+      were comparable between states in the top and bottom mask use quintiles
+      adjusted for normalized total cases early in the pandemic and unadjusted
+      after peak Fall-Winter infections. Mask use did not predict Summer 2020
+      case growth for non-Northeast states or Fall-Winter 2020 growth for all
+      states. Conclusions: Mask mandates and use are not associated with slower
+      state-level COVID-19 spread during COVID-19 growth surges. COVID-19
+      containment requires future research and implementation of existing
+      efficacious strategies."
+    authors:
+      - name: Damian Guerra
+        orcid: http://orcid.org/0000-0002-6621-4656
+      - name: Daniel J Guerra
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8550177462"
+    numReports: 0
+    likes: 1
+    id: "5404243620"
+    createdAt: 2021-06-01T12:34:57
+    author:
+      username: The_European1000
+      about: ""
+      name: The_European1000
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/The_European1000/
+      url: ""
+      location: ""
+      id: "221279842"
+    isApproved: true
+    raw_message: >-
+      This is not good information, and the research is not well done. 
+
+
+      They used a two-tailed t test with Holm Sidak correction, as if that is suffient to compensate for the complex interplay of factors that produce the same result (infection/non infection). Hell, they even made a simple linear regression to add insult to injury. 
+
+
+      Essentially, to explain it more simply, using those tests rests on the assumption that there are 2 categories that correlate to other to categories perfectly- mask/not mask and infected/not infected. 
+
+
+      This is not the case. Masks wearers that social distance will have lesses infection rates than mask wearers who do not. Ventialtion of enclosed areas is also an issue. 
+
+
+      These "researchers" did not account for the confounding variables that affect infection rates- everything from other measures to testing rate differences among states. 
+
+
+      Overall, there are many flaws with this research. Not good.
+    forum: medrxiv
+    points: 1
+    link: https://www.medrxiv.org/content/10.1101/2021.05.18.21257385v1
+  tweets:
+    - created_at: Wed Jun 02 15:03:15 +0000 2021
+      id: 1400105740099068000
+      id_str: "1400105740099067913"
+      text: >-
+        💬 medRxiv comment on "Mask mandate and use efficacy ..."
+
+
+        "This is not good information, and the research is not we… https://t.co/L1Ep58NWej
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/L1Ep58NWej
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed Jun 02 15:03:15 +0000 2021
+      id: 1400105740858187800
+      id_str: "1400105740858187776"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/652MU3io4j
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/652MU3io4j
+      in_reply_to_status_id: 1400105740099068000
+      in_reply_to_status_id_str: "1400105740099067913"
