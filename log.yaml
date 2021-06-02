@@ -9007,3 +9007,139 @@
           - url: https://t.co/QUuq9FzzpV
       in_reply_to_status_id: 1399862988513837000
       in_reply_to_status_id_str: "1399862988513837059"
+- preprint:
+    id: "134592"
+    doi: 10.1101/2021.03.22.436484
+    first_posted: 2021-03-23
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.03.22.436484v1
+    url: https://api.rxivist.org/v1/papers/134592
+    title: "scTenifoldKnk: a machine learning workflow performing virtual knockout
+      experiments on single-cell gene regulatory networks"
+    category: bioinformatics
+    abstract: Gene knockout (KO) experiments are a proven approach for studying gene
+      function. A typical KO experiment usually involves the phenotypic
+      characterization of KO organisms. The recent advent of single-cell
+      technology has greatly boosted the resolution of cellular phenotyping,
+      providing unprecedented insights into cell-type-specific gene function.
+      However, the use of single-cell technology in large-scale, systematic KO
+      experiments is prohibitive due to the vast resources required. Here we
+      present scTenifoldKnk, a machine learning workflow that performs virtual
+      KO experiments using single-cell RNA sequencing (scRNA-seq) data.
+      scTenifoldKnk first uses data from wild-type (WT) samples to construct a
+      single-cell gene regulatory network (scGRN). Then, a gene is knocked out
+      from the constructed scGRN by setting weights of the gene's outward edges
+      to zeros. ScTenifoldKnk then compares this "pseudo-KO" scGRN with the
+      original scGRN to identify differentially regulated (DR) genes. These DR
+      genes, also called virtual-KO perturbed genes, are used to assess the
+      impact of the gene KO and reveal the gene's function in analyzed cells.
+      Using existing data sets, we demonstrate that the scTenifoldKnk analysis
+      recapitulates the main findings of three real-animal KO experiments and
+      confirms the functions of genes underlying three Mendelian diseases. We
+      show the power of scTenifoldKnk as a predictive method to successfully
+      predict the outcomes of two KO experiments that involve intestinal
+      enterocytes in Ahr-/- mice and pancreatic islet cells in Malat1-/- mice,
+      respectively. Finally, we demonstrate the use of scTenifoldKnk to perform
+      systematic KO analyses, in which a large number of genes are virtually
+      deleted, allowing gene functions to be revealed in a cell type-specific
+      manner.
+    authors:
+      - name: Daniel Osorio
+        orcid: http://orcid.org/0000-0003-4424-8422
+      - name: Yan Zhong
+        orcid: null
+      - name: Guanxun Li
+        orcid: null
+      - name: Qian Xu
+        orcid: http://orcid.org/0000-0002-9267-906X
+      - name: Andrew E. Hillhouse
+        orcid: null
+      - name: Jingshu Chen
+        orcid: null
+      - name: Laurie A. Davidson
+        orcid: null
+      - name: Yanan Tian
+        orcid: null
+      - name: Robert S Chapkin
+        orcid: null
+      - name: Jianhua Z Huang
+        orcid: null
+      - name: James J. Cai
+        orcid: http://orcid.org/0000-0002-8081-6725
+  comment:
+    dislikes: 0
+    thread: "8449125883"
+    numReports: 0
+    likes: 0
+    id: "5404831186"
+    createdAt: 2021-06-01T21:20:00
+    author:
+      username: disqus_DD69BrY3Kn
+      about: ""
+      name: disqus_DD69BrY3Kn
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_DD69BrY3Kn/
+      url: ""
+      location: ""
+      id: "370292693"
+    isApproved: true
+    raw_message: >-
+      Dear Samuel,
+
+
+      Thank you very much for your interest in our work, as well as for your thorough review and comments. We will try our best to solve your questions below:
+
+
+      1.	We agree with your point of view about the effect of a gene knockout on cellular homeostasis. In fact, in metabolic models where this kind of analysis is usually done using optimization approaches, the propagation effect of the gene knockout across several parts of the metabolism is evident. Nevertheless, Santolini and Barabasi (DOI: 10.1073/pnas.1720589115) compared the performance of the topology to predict the perturbation patterns caused by a gene knockout against the result of the optimization methods. They found a good overlap in the prediction, and based on those findings; we decided to use the topological approach. We did not try multi-knockout experiments since, as you mention single-cell RNA-seq characterization for those experiments is not yet available. However, we did try a double knockout and found a good overlap with the findings reported by the paper describing the dataset (Figure 3, Panel C). We yet do not have any other evidence to support or reject your hypothesis about the decrease of the precision of the predictions with an increasing number of knocked-out genes at the same time. 
+
+
+      2.	Since the regulatory link between two genes is assessed using principal components regression (PCR), the result after evaluating all the associations is a fully connected asymmetric weighted network. You may consider PCR as a partial correlation analysis (pcorr). When C1 and C2 are the same, pcorr(A,B|C1) equals pcorr(B,A|C2). However, in PCR, C1 is not equal to C2—C1 is all genes excluding B, while C2 is all genes excluding A. This asymmetry makes the result of PCR an asymmetric matrix. To further set the directionality of the resultant matrix, first, we removed the weaker link between two genes, and then, we filtered the links below the 95th percentile to reduce the false-positive rate. We provided evidence supporting that the true directionality of the regulation is favored by the regression method with a larger weight value (Figure S1, Panel C) when the directionality is tested using the transcription factors and their target genes reported by the ENCODE database. We also provided evidence of the accuracy of principal components regression to detect the association between genes in single-cell RNA-seq without imputation compared with other methods during the benchmark of scTenifoldNet (Figure 2, Panel A in DOI:10.1016/j.patter.2020.100139).
+
+
+      3.	We are afraid we have to disagree with you on this. We did our best to perform an unbiased comparison of the gene knockout phenotypic effect reported by the authors of the datasets and the results provided by scTenifoldKnk. In fact, the characterizations made for the authors are not only based on data-driven approaches using the generated single-cell RNA-seq datasets but also include other experimental techniques. We used several gene-set databases to evaluate the extent of the overlap that we can predict, as it is recognized that a single gene or pathway often cannot fully explain a particular cellular state. Instead, biological processes are better characterized by gene regulatory networks, whose structures are altered as the phenotype changes (DOI: 10.1038/s41540-018-0052-5). We thought about reporting the result of scTenifoldNet and compare them with the results predicted by scTenifoldKnk. Still, since we are the developers of both methods, we decided to better compare our findings with the results reported by the original authors of the datasets. Please note that the original authors did not report all the changes or perturbed gene sets found after the gene knockout. We believe your experimental design is correct and feasible. However, also have in mind that not all the regulatory changes induced by a gene are detectable as changes in the expression level since a given gene may be under the regulation of more of one gene at the same time.
+
+
+      4.	To evaluate the stability and robustness of the results provided by scTenifoldKnk, we used two approaches. First, we compared the results obtained by running independently scTenifoldKnk over two biological replicates in the Mecp2 example (Figure S2, Panel D) and found that the overlapping results agree with what is known about the Rett Syndrome pathology that is caused by the malfunctioning of the Mecp2 gene. Second, we resampled the cells used as input for scTenifoldKnk 10 times and compared the rank of the perturbed genes in the predicted in-silico knockout for each one of them. Since single-cell RNA-seq allows to uncover hidden subpopulations of cells with specialized phenotypes, and for that reason, by random subsampling the cells, we expect each of the constructed gene regulatory networks to be unique and provide a unique result. Because the approach is the same and the expected biological effect is the same (randomly sampling cells), we only performed the analysis over the Trem2 dataset. We expect the results to be similar in the other datasets.  
+
+
+      Please let us know if you have any other questions or concerns,
+
+
+      Best wishes,
+
+
+      Daniel and James
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.03.22.436484v1
+  tweets:
+    - created_at: Wed Jun 02 03:02:59 +0000 2021
+      id: 1399924475894902800
+      id_str: "1399924475894902785"
+      text: |-
+        💬 bioRxiv comment on "scTenifoldKnk: a machine learn..."
+
+        "Dear Samuel,
+
+        Thank you very much for your interest in o… https://t.co/q9Dl9HfXxy
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/q9Dl9HfXxy
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed Jun 02 03:02:59 +0000 2021
+      id: 1399924476603736000
+      id_str: "1399924476603736064"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/vhC6P5scn7
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/vhC6P5scn7
+      in_reply_to_status_id: 1399924475894902800
+      in_reply_to_status_id_str: "1399924475894902785"
