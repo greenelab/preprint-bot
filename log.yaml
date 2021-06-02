@@ -9452,3 +9452,57 @@
           - url: https://t.co/652MU3io4j
       in_reply_to_status_id: 1400155491410624500
       in_reply_to_status_id_str: "1400155491410624513"
+- preprint:
+    id: 143783
+    metric: 236
+    title: The SARS-CoV-2 variants associated with infections in India, B.1.617,
+      show enhanced spike cleavage by furin
+    url: https://api.rxivist.org/v1/papers/143783
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.05.28.446163v1
+    doi: 10.1101/2021.05.28.446163
+    category: microbiology
+    first_posted: 2021-05-28
+    abstract: The SARS-CoV-2 spike (S) glycoprotein contains a suboptimal furin
+      cleavage site at the S1/S2 junction with the sequence 681PRRAR/S686. This
+      cleavage site is required for efficient airway replication, transmission,
+      and pathogenicity of the virus. The B.1.617 lineage has recently emerged
+      in India, coinciding with substantial disease burden across the country.
+      Early evidence suggests that B.1.617.2 (a sublineage of B.1.617) is more
+      highly transmissible than contemporary lineages. B.1.617 and its
+      sublineages contain a constellation of S mutations including the
+      substitution P681R predicted to further optimise this furin cleavage site.
+      In this short report we provide experimental evidence that virus of the
+      B.1.617 lineage has enhanced S cleavage, that enhanced processing of an
+      expressed B.1.617 S protein in cells is due to P681R, and that this
+      mutation enables more efficient cleavage of a peptide mimetic of the
+      B.1.617 S1/S2 cleavage site by recombinant furin. Together, these data
+      demonstrate viruses in this emerging lineage have enhanced S cleavage by
+      furin which we hypothesise could be enhancing transmissibility and
+      pathogenicity.
+    authors:
+      - name: Thomas P. Peacock
+      - name: Carol M. Sheppard
+      - name: Jonathan C. Brown
+      - name: Niluka Goonawardane
+      - name: Jie Zhou
+      - name: Max Whiteley
+      - name: PHE Virology Consortium
+      - name: Thushan de Silva
+      - name: Wendy S. Barclay
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Wed Jun 02 21:25:48 +0000 2021
+      id: 1400202011233165300
+      id_str: "1400202011233165320"
+      text: >-
+        🔥 bioRxiv Microbiology preprint by T. P. Peacock et al:
+
+
+        "The SARS-CoV-2 variants associated with infections in Ind… https://t.co/0zYRW0mqjm
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/0zYRW0mqjm
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
