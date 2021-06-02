@@ -9143,3 +9143,107 @@
           - url: https://t.co/vhC6P5scn7
       in_reply_to_status_id: 1399924475894902800
       in_reply_to_status_id_str: "1399924475894902785"
+- preprint:
+    id: "144122"
+    doi: 10.1101/2021.05.31.446345
+    first_posted: 2021-05-31
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.05.31.446345v1
+    url: https://api.rxivist.org/v1/papers/144122
+    title: Balanced mitochondrial and cytosolic translatomes underlie the biogenesis
+      of human respiratory complexes
+    category: cell-biology
+    abstract: Oxidative phosphorylation (OXPHOS) complexes consist of nuclear and
+      mitochondrial DNA- encoded subunits. Their biogenesis requires
+      cross-compartment gene regulation to mitigate the accumulation of
+      disproportionate subunits. To determine how human cells coordinate
+      mitochondrial and nuclear gene expression processes, we established an
+      optimized ribosome profiling approach tailored for the unique features of
+      the human mitoribosome. Analysis of ribosome footprints in five cell types
+      revealed that average mitochondrial synthesis rates corresponded precisely
+      to cytosolic rates across OXPHOS complexes. Balanced mitochondrial and
+      cytosolic synthesis did not rely on rapid feedback between the two
+      translation systems. Rather, LRPPRC, a gene associated with Leigh's
+      syndrome, is required for the reciprocal translatomes and maintains
+      cellular proteostasis. Based on our findings, we propose that human
+      mitonuclear balance is enabled by matching OXPHOS subunit synthesis rates
+      across cellular compartments, which may represent a vulnerability for
+      cellular proteostasis.
+    authors:
+      - name: Iliana C Soto
+        orcid: null
+      - name: Mary Couvillion
+        orcid: null
+      - name: Erik McShane
+        orcid: null
+      - name: Katja G Hansen
+        orcid: http://orcid.org/0000-0002-9006-984X
+      - name: J. Conor Moran
+        orcid: null
+      - name: Antoni Barrientos
+        orcid: http://orcid.org/0000-0001-9018-3231
+      - name: L. Stirling Churchman
+        orcid: http://orcid.org/0000-0003-3888-2574
+  comment:
+    dislikes: 0
+    thread: "8565056594"
+    numReports: 0
+    likes: 0
+    id: "5404696578"
+    createdAt: 2021-06-01T19:17:24
+    author:
+      username: eleonoraleucci
+      about: ""
+      name: Eleonora Leucci
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/eleonoraleucci/
+      url: ""
+      location: ""
+      id: "352095537"
+    isApproved: true
+    raw_message: >-
+      Coordination between the two translational machineries and its role in
+      proteostasis was already shown in mouse and human cells and their
+      desynchronisation for therapeutic purposes proposed. Here a few readings
+      in case you want to acknowledge the authors...
+
+      -https://www.cell.com/cell-reports/pdf/S2211-1247(17)31875-2.pdf
+
+      -Nature. 2016 Mar 24;531(7595):518-22. doi: 10.1038/nature17161.
+
+      -Nat Struct Mol Biol. 2018 Nov;25(11):1035-1046. doi: 10.1038/s41594-018-0143-4. Epub 2018 Oct 29.
+
+      -bioRxiv 2020.06.26.173492; doi: https://doi.org/10.1101/2020.06.26.173492
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.05.31.446345v1
+  tweets:
+    - created_at: Wed Jun 02 13:21:44 +0000 2021
+      id: 1400080193046282200
+      id_str: "1400080193046282241"
+      text: >-
+        💬 bioRxiv comment on "Balanced mitochondrial and cyt..."
+
+
+        "Coordination between the two translational machineries a… https://t.co/mInpd1iq3P
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/mInpd1iq3P
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed Jun 02 13:21:45 +0000 2021
+      id: 1400080194090659800
+      id_str: "1400080194090659841"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/1MSxR76y5s
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/1MSxR76y5s
+      in_reply_to_status_id: 1400080193046282200
+      in_reply_to_status_id_str: "1400080193046282241"
