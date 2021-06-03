@@ -10002,3 +10002,165 @@
           - url: https://t.co/fIgXlfChaW
       in_reply_to_status_id: 1400462378844627000
       in_reply_to_status_id_str: "1400462378844626951"
+- preprint:
+    id: "144165"
+    doi: 10.1101/2021.05.31.21258081
+    first_posted: 2021-05-31
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.31.21258081v1
+    url: https://api.rxivist.org/v1/papers/144165
+    title: Favorable outcome on viral load and culture viability using Ivermectin in
+      early treatment of non-hospitalized patients with mild COVID-19, A
+      double-blind, randomized placebo-controlled trial.
+    category: infectious-diseases
+    abstract: "Background: Ivermectin, an antiparasitic agent, also has antiviral
+      properties. Our aim was to assess whether ivermectin can shorten the viral
+      shedding in patients at an early stage of COVID19 infection. Methods: The
+      double blinded trial compared patients receiving ivermectin 0.2 mg/kg for
+      3 days vs. placebo in non-hospitalized COVID19 patients. RT-PCR from a
+      nasopharyngeal swab was obtained at recruitment and then every two days.
+      Primary endpoint was reduction of viral-load on the 6th day (third day
+      after termination of treatment) as reflected by Ct level>30
+      (non-infectious level). The primary outcome was supported by determination
+      of viral culture viability. Results: Eighty nine patients were eligible
+      (47 in ivermectin and 42 in placebo arm). Their median age was 35 years.
+      Females accounted for 21.6%, and 16.8% were asymptomatic at recruitment.
+      Median time from symptom onset was 4 days. There were no statistical
+      differences in these parameters between the two groups. On day 6, 34 out
+      of 47 (72%) patients in the ivermectin arm reached the endpoint, compared
+      to 21/ 42 (50%) in the placebo arm (OR 2.62; 95% CI: 1.09 to 6.31). In a
+      multivariable logistic regression model, the odds of a negative test at
+      day 6 was 2.62 time higher in the ivermectin group (95% CI: 1.06 to 6.45).
+      Cultures at days 2 to 6 were positive in 3/23 (13.0%) of ivermectin
+      samples vs. 14/29 (48.2%) in the placebo group (p=0.008). Conclusions:
+      There were significantly lower viral loads and viable cultures in the
+      ivermectin group, which could lead to shortening isolation time in these
+      patients."
+    authors:
+      - name: Asaf Biber
+        orcid: http://orcid.org/0000-0001-6007-0383
+      - name: Michal Mandelboim
+        orcid: http://orcid.org/0000-0002-5997-7241
+      - name: Geva Harmelin
+        orcid: null
+      - name: Dana Lev
+        orcid: null
+      - name: Li Ram
+        orcid: null
+      - name: Amit Shaham
+        orcid: null
+      - name: Ital Nemet
+        orcid: null
+      - name: Limor Kliker
+        orcid: null
+      - name: Oran Erster
+        orcid: http://orcid.org/0000-0003-4839-8997
+      - name: Eli Schwartz
+        orcid: null
+  comment:
+    dislikes: 1
+    thread: "8565279083"
+    numReports: 0
+    likes: 1
+    id: "5404617686"
+    createdAt: 2021-06-01T18:07:54
+    author:
+      username: japhetk
+      about: ""
+      name: japhetk
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/japhetk/
+      url: ""
+      location: ""
+      id: "346900262"
+    isApproved: true
+    raw_message: >-
+      This research is problematic. 
+
+      First, this clinical trial's primary outcome measures were as attached below. And authors did not mention 2 out of 3 primary outcome measures. These are not good omissions apparently. 
+
+
+      Second even the primary outcome measure they used was not specified before the study. Authors used ct cut value of 30, which was arbitrary. Authors explain why they did not use 40, but they must have used 40 if that leads to the good results. And that is not a clinical trial. 
+
+
+      They did not correct for multiple comparisons across three primary endpoints, either, which they should have done as there are three primary endpoints. 
+
+
+
+
+      Second as the figure 2 and the table shows the ct values of two groups before the intervention are close to statistically significant differences (p = 0.10).
+
+      And as the figure 2 shows this group difference did not show even a hint of change at day 6! The two groups were almost statistically different from the beginning and that did not change visually at day 6 apparently. I can't see any hints of effects of IVM from this study. 
+
+
+
+
+      Lay persons are watching this study, and they say they love IVM and hate vaccine and let's use IVM instead of vaccine based on this study's result. We hope authors do the proper research. They should provide three primary endpoints, correct the preexisting differences, and correct multiple comparisons, and should provide apparent conclusions. 
+
+
+
+
+
+
+      Primary Outcome Measures  :
+            
+
+
+      Viral clearance at day 6 [ Time Frame: Outcome will be determined till 6 days post intervention ]
+
+
+
+      The primary outcome will be the viral clearance at day 6 in the intervention group compared to placebo.
+
+
+                  	
+
+
+      Viral shedding duration [ Time Frame: Outcome will be determined till 14 days post intervention ]
+
+
+
+      Secondary outcomes: viral shedding duration (time between first positive PCR to last of two consecutive negative tests)
+
+
+                  	
+
+
+      Symptoms clearance time [ Time Frame: Outcome will be determined till 14 days post intervention ]
+
+
+
+      Time between drug treatment and symptoms resolution
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.05.31.21258081v1
+  tweets:
+    - created_at: Thu Jun 03 17:51:55 +0000 2021
+      id: 1400510574094606300
+      id_str: "1400510574094606338"
+      text: |-
+        💬 medRxiv comment on "Favorable outcome on viral loa..."
+
+        "This research is problematic. 
+        First, this clinical tria… https://t.co/qgoP8cvgjZ
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/qgoP8cvgjZ
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jun 03 17:51:55 +0000 2021
+      id: 1400510575046692900
+      id_str: "1400510575046692867"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/fIgXlfTSzw
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/fIgXlfTSzw
+      in_reply_to_status_id: 1400510574094606300
+      in_reply_to_status_id_str: "1400510574094606338"
