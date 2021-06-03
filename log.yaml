@@ -10331,3 +10331,109 @@
           - url: https://t.co/irMcCVOqLB
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "143204"
+    doi: 10.1101/2021.05.18.21257385
+    first_posted: 2021-05-25
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.18.21257385v1
+    url: https://api.rxivist.org/v1/papers/143204
+    title: Mask mandate and use efficacy in state-level COVID-19 containment
+    category: epidemiology
+    abstract: "Background: Containment of the COVID-19 pandemic requires
+      evidence-based strategies to reduce transmission. Because COVID-19 can
+      spread via respired droplets, many states have mandated mask use in public
+      settings. Randomized control trials have not clearly demonstrated mask
+      efficacy against respiratory viruses, but observational studies suggest
+      greater mask compliance may be associated with lower infection rates. We
+      hypothesized that statewide mask mandates and mask use are associated with
+      lower COVID-19 case growth rates in the United States. Methods: We
+      calculated total COVID-19 case growth and mask use for the continental
+      United States with data from the Centers for Disease Control and
+      Prevention and Institute for Health Metrics and Evaluation. We estimated
+      post-mask mandate case growth in non-mandate states using median issuance
+      dates of neighboring states with mandates. Results: Case growth was not
+      significantly different between mandate and non-mandate states at low or
+      high transmission rates, and surges were equivocal. Mask use predicted
+      lower case growth at low, but not high transmission rates. Growth rates
+      were comparable between states in the top and bottom mask use quintiles
+      adjusted for normalized total cases early in the pandemic and unadjusted
+      after peak Fall-Winter infections. Mask use did not predict Summer 2020
+      case growth for non-Northeast states or Fall-Winter 2020 growth for all
+      states. Conclusions: Mask mandates and use are not associated with slower
+      state-level COVID-19 spread during COVID-19 growth surges. COVID-19
+      containment requires future research and implementation of existing
+      efficacious strategies."
+    authors:
+      - name: Damian Guerra
+        orcid: http://orcid.org/0000-0002-6621-4656
+      - name: Daniel J Guerra
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8550177462"
+    numReports: 0
+    likes: 1
+    id: "5403997539"
+    createdAt: 2021-06-01T06:28:18
+    author:
+      username: disqus_JpMFCTX7AP
+      about: ""
+      name: Darren Zhao
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_JpMFCTX7AP/
+      url: ""
+      location: ""
+      id: "370259886"
+    isApproved: true
+    raw_message: >-
+      I've only attempted to fact check your second source, the Denmark one, and
+      your quotes really show your bias here. I could not find the first one cuz
+      your reference kinda sucks. I attempted to ctrl f both quotes, and the
+      first one "The researchers found no statistically significant difference
+      between mask wearers and bare-faced participants." does not exist. 
+
+
+      The second one while partially true, is cut off from what is actually said. The real quote is:
+
+
+      "The recommendation to wear surgical masks to supplement other public health measures did not reduce the SARS-CoV-2 infection rate among wearers by more than 50% in a community with modest infection rates, some degree of social distancing, and uncommon general mask use. The data were compatible with lesser degrees of self-protection". 
+
+
+      Note here where they specify the limitations of their study. Their conclusion is less general than, "does not reduce infection rate", but rather that when everyone else does not where masks, mask wearing does not appear to help. Their study, if you did actually read it, is only relevant to the specific scenario in the quote and by the authors notes while responding to comments “the findings, however, should not be used to conclude that a recommendation for everyone to wear masks in the community would not be effective in reducing SARS-CoV-2 infections, because the trial did not test the role of masks in source control of SARS-CoV-2 infection.”
+
+
+      If you are going to cite papers, please read them instead of skimming for anything that you believe.
+    forum: medrxiv
+    points: 1
+    link: https://www.medrxiv.org/content/10.1101/2021.05.18.21257385v1
+  tweets:
+    - created_at: Thu Jun 03 21:23:06 +0000 2021
+      id: 1400563719009046500
+      id_str: "1400563719009046529"
+      text: >-
+        💬 medRxiv comment on "Mask mandate and use efficacy ..."
+
+
+        "I've only attempted to fact check your second source, th… https://t.co/Wu09rotThb
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/Wu09rotThb
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jun 03 21:23:06 +0000 2021
+      id: 1400563720003096600
+      id_str: "1400563720003096576"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/652MU30MFJ
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/652MU30MFJ
+      in_reply_to_status_id: 1400563719009046500
+      in_reply_to_status_id_str: "1400563719009046529"
