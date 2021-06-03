@@ -9892,3 +9892,113 @@
           - url: https://t.co/B5DO7aAXhF
       in_reply_to_status_id: 1400436595317166000
       in_reply_to_status_id_str: "1400436595317166081"
+- preprint:
+    id: "144165"
+    doi: 10.1101/2021.05.31.21258081
+    first_posted: 2021-05-31
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.31.21258081v1
+    url: https://api.rxivist.org/v1/papers/144165
+    title: Favorable outcome on viral load and culture viability using Ivermectin in
+      early treatment of non-hospitalized patients with mild COVID-19, A
+      double-blind, randomized placebo-controlled trial.
+    category: infectious-diseases
+    abstract: "Background: Ivermectin, an antiparasitic agent, also has antiviral
+      properties. Our aim was to assess whether ivermectin can shorten the viral
+      shedding in patients at an early stage of COVID19 infection. Methods: The
+      double blinded trial compared patients receiving ivermectin 0.2 mg/kg for
+      3 days vs. placebo in non-hospitalized COVID19 patients. RT-PCR from a
+      nasopharyngeal swab was obtained at recruitment and then every two days.
+      Primary endpoint was reduction of viral-load on the 6th day (third day
+      after termination of treatment) as reflected by Ct level>30
+      (non-infectious level). The primary outcome was supported by determination
+      of viral culture viability. Results: Eighty nine patients were eligible
+      (47 in ivermectin and 42 in placebo arm). Their median age was 35 years.
+      Females accounted for 21.6%, and 16.8% were asymptomatic at recruitment.
+      Median time from symptom onset was 4 days. There were no statistical
+      differences in these parameters between the two groups. On day 6, 34 out
+      of 47 (72%) patients in the ivermectin arm reached the endpoint, compared
+      to 21/ 42 (50%) in the placebo arm (OR 2.62; 95% CI: 1.09 to 6.31). In a
+      multivariable logistic regression model, the odds of a negative test at
+      day 6 was 2.62 time higher in the ivermectin group (95% CI: 1.06 to 6.45).
+      Cultures at days 2 to 6 were positive in 3/23 (13.0%) of ivermectin
+      samples vs. 14/29 (48.2%) in the placebo group (p=0.008). Conclusions:
+      There were significantly lower viral loads and viable cultures in the
+      ivermectin group, which could lead to shortening isolation time in these
+      patients."
+    authors:
+      - name: Asaf Biber
+        orcid: http://orcid.org/0000-0001-6007-0383
+      - name: Michal Mandelboim
+        orcid: http://orcid.org/0000-0002-5997-7241
+      - name: Geva Harmelin
+        orcid: null
+      - name: Dana Lev
+        orcid: null
+      - name: Li Ram
+        orcid: null
+      - name: Amit Shaham
+        orcid: null
+      - name: Ital Nemet
+        orcid: null
+      - name: Limor Kliker
+        orcid: null
+      - name: Oran Erster
+        orcid: http://orcid.org/0000-0003-4839-8997
+      - name: Eli Schwartz
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8565279083"
+    numReports: 0
+    likes: 1
+    id: "5404874525"
+    createdAt: 2021-06-01T22:05:39
+    author:
+      username: st_publichealth
+      about: ""
+      name: st_publichealth
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/st_publichealth/
+      url: ""
+      location: ""
+      id: "370294261"
+    isApproved: true
+    raw_message: >-
+      The article is interesting. A few questions to the authors. Did you
+      pre-specify the definition of negative PCR?
+
+      Did you compare changes in viral loads from the baseline? Since the median viral load was higher in the placebo arm, this might have affected the likelihood of viral clearance at day 6 and it should be accounted for.
+    forum: medrxiv
+    points: 1
+    link: https://www.medrxiv.org/content/10.1101/2021.05.31.21258081v1
+  tweets:
+    - created_at: Thu Jun 03 14:40:25 +0000 2021
+      id: 1400462378844627000
+      id_str: "1400462378844626951"
+      text: >-
+        💬 medRxiv comment on "Favorable outcome on viral loa..."
+
+
+        "The article is interesting. A few questions to the autho… https://t.co/cGNZ7rtpoO
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/cGNZ7rtpoO
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jun 03 14:40:25 +0000 2021
+      id: 1400462379960336400
+      id_str: "1400462379960336399"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/fIgXlfChaW
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/fIgXlfChaW
+      in_reply_to_status_id: 1400462378844627000
+      in_reply_to_status_id_str: "1400462378844626951"
