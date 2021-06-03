@@ -10261,3 +10261,73 @@
           - url: https://t.co/652MU3io4j
       in_reply_to_status_id: 1400542471789088800
       in_reply_to_status_id_str: "1400542471789088781"
+- preprint:
+    id: 138498
+    metric: 9335
+    title: Distinct SARS-CoV-2 antibody reactivity patterns elicited by natural
+      infection and mRNA Vaccination
+    url: https://api.rxivist.org/v1/papers/138498
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.04.15.440089v1
+    doi: 10.1101/2021.04.15.440089
+    category: immunology
+    first_posted: 2021-04-19
+    abstract: We analyzed data from two ongoing COVID-19 longitudinal serological
+      surveys in Orange County, CA., between April 2020 and March 2021. A total
+      of 8,476 finger stick blood specimens were collected before and after an
+      aggressive mRNA vaccination campaign. IgG levels were determined using a
+      multiplex antigen microarray containing 10 SARS-CoV-2 antigens, 4 SARS, 3
+      MERS, 12 Common CoV, and 8 Influenza antigens. Twenty-six percent of 3,347
+      specimens from unvaccinated Orange County residents in December 2020 were
+      SARS-CoV-2 seropositive. The Ab response was predominantly against
+      nucleocapsid (NP), full length spike and the spike S2 domain.
+      Anti-receptor binding domain (RBD) reactivity was low and there was no
+      cross-reactivity against SARS S1 or SARS RBD. An aggressive mRNA
+      vaccination campaign at the UCI Medical Center started on December 16,
+      2020 and 6,724 healthcare workers were vaccinated within 3 weeks.
+      Seroprevalence increased from 13% in December to 79% in January, 93% in
+      February and 99% in March. mRNA vaccination induced much higher Ab levels
+      especially against the RBD domain and significant cross-reactivity against
+      SARS RBD and S1 was also observed. Nucleocapsid protein Abs can be used to
+      distinguish individuals in a population of vaccinees to classify those who
+      have been previously infected and those who have not, because nucleocapsid
+      is not in the vaccine. Previously infected individuals developed higher Ab
+      titers to the vaccine than those who have not been previously exposed.
+      These results indicate that mRNA vaccination rapidly induces a much
+      stronger and broader Ab response than SARS-CoV-2 infection.
+    authors:
+      - name: Rafael Ramiro de Assis
+      - name: Aarti Jain
+      - name: Rie Nakajima
+      - name: Algis Jasinskas
+      - name: Saahir Khan
+      - name: Anton Palma
+      - name: Daniel M. Parker
+      - name: Anthony Chau
+      - name: Amanda Leung
+      - name: Christina Grabar
+      - name: Fjolla Muqolli
+      - name: Ghali Khalil
+      - name: Jessica Colin Escobar
+      - name: Jenny Ventura
+      - name: Huw Davies
+      - name: Bruce Albala
+      - name: Bernadette Boden-Albala
+      - name: Sebastian Schubl
+      - name: Philip L Felgner
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Thu Jun 03 21:17:13 +0000 2021
+      id: 1400562236565950500
+      id_str: "1400562236565950469"
+      text: >-
+        🔥 bioRxiv Immunology preprint by R. R. d. Assis et al:
+
+
+        "Distinct SARS-CoV-2 antibody reactivity patterns elicited… https://t.co/irMcCVOqLB
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/irMcCVOqLB
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
