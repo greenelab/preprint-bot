@@ -10437,3 +10437,102 @@
           - url: https://t.co/652MU30MFJ
       in_reply_to_status_id: 1400563719009046500
       in_reply_to_status_id_str: "1400563719009046529"
+- preprint:
+    id: "132435"
+    doi: 10.1101/2021.03.05.21252998
+    first_posted: 2021-03-08
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.03.05.21252998v1
+    url: https://api.rxivist.org/v1/papers/132435
+    title: COVID-19 mRNA vaccine is not detected in human milk
+    category: pediatrics
+    abstract: Several countries have recently approved the use of mRNA vaccines
+      against COVID-19 under an emergency use authorization. However, no
+      pregnant or lactating individuals were included in the Phase 3 clinical
+      trials of these vaccines despite belonging to a group at high risk for
+      severe complications of COVID-19 infection. We show here that the mRNA
+      from anti-COVID vaccines is not detected in human breast milk samples
+      collected 4-48 hours post-vaccine. These results strengthen the
+      recommendation of ABM and WHO that lactating individuals who receive the
+      anti-COVID-19 mRNA-based vaccine should continue to breastfeed their
+      infants uninterrupted.
+    authors:
+      - name: Yarden Golan
+        orcid: http://orcid.org/0000-0002-3043-3638
+      - name: Mary Prahl
+        orcid: null
+      - name: Arianna Cassidy
+        orcid: null
+      - name: Christine Y Lin
+        orcid: null
+      - name: Nadav Ahituv
+        orcid: http://orcid.org/0000-0002-7434-8144
+      - name: Valerie J Flaherman
+        orcid: null
+      - name: Stephanie L. Gaw
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8428869045"
+    numReports: 0
+    likes: 1
+    id: "5403771013"
+    createdAt: 2021-06-01T00:21:43
+    author:
+      username: patfrank
+      about: ""
+      name: Pat Frank
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/patfrank/
+      url: ""
+      location: ""
+      id: "39488002"
+    isApproved: true
+    raw_message: >-
+      "<i>We show here that the mRNA from anti-COVID BNT162b2 (Pfizer) and 
+
+      mRNA-1273 (Moderna) vaccines is not detected in human breast milk 
+
+      samples collected 4-48 hours post-vaccine</i>"
+
+
+
+      Nice, but irrelevant. The worry has been that the mRNA encoded <i><b>spike protein</b></i> gets into breast milk (and other tissues). 
+
+
+
+
+      There does not appear to be any concern that the mRNA itself appears in breast milk. So the paper of Golan, et al., is irrelevant to the concern.
+    forum: medrxiv
+    points: 1
+    link: https://www.medrxiv.org/content/10.1101/2021.03.05.21252998v1
+  tweets:
+    - created_at: Thu Jun 03 22:56:59 +0000 2021
+      id: 1400587344634433500
+      id_str: "1400587344634433536"
+      text: >-
+        💬 medRxiv comment on "COVID-19 mRNA vaccine is not d..."
+
+
+        ""&lt;i&gt;We show here that the mRNA from anti-COVID BNT162b2… https://t.co/aCVm0KXnwm
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/aCVm0KXnwm
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jun 03 22:56:59 +0000 2021
+      id: 1400587345456504800
+      id_str: "1400587345456504836"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/Dml5mNFcAW
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/Dml5mNFcAW
+      in_reply_to_status_id: 1400587344634433500
+      in_reply_to_status_id_str: "1400587344634433536"
