@@ -10536,3 +10536,89 @@
           - url: https://t.co/Dml5mNFcAW
       in_reply_to_status_id: 1400587344634433500
       in_reply_to_status_id_str: "1400587344634433536"
+- preprint:
+    id: "144560"
+    doi: 10.1101/2021.06.03.21258293
+    first_posted: 2021-06-03
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.03.21258293v1
+    url: https://api.rxivist.org/v1/papers/144560
+    title: Interim estimates of increased transmissibility, growth rate, and
+      reproduction number of the Covid-19 B.1.617.2 variant of concern in the
+      United Kingdom
+    category: infectious-diseases
+    abstract: This paper relates to data from the Wellcome Sanger Institute, UK,
+      regarding Covid-19 genomic surveillance. We use a simple model to give
+      point estimates of the effective reproduction numbers of the B.1.617.2 and
+      B.1.1.7 lineages in England, from sequenced data as at 15 May 2021.
+      Comparison with the estimated reproduction number of B.1.1.7 enables an
+      estimate of the increased transmissibility of B.1.617.2. We conclude that
+      it is almost certain that there is increased transmissibility that will
+      rapidly lead to B.1.617.2 becoming the prevailing variant in the UK. The
+      derived estimates of increased transmissibility have uncertainty relating
+      to the actual distribution of the generation interval, but they do point,
+      under present conditions of vaccination coverage and NPIs, to exponential
+      growth of positive cases.
+    authors:
+      - name: John S Dagpunar
+        orcid: http://orcid.org/0000-0001-7197-8231
+  comment:
+    dislikes: 0
+    thread: "8571083762"
+    numReports: 0
+    likes: 0
+    id: "5407102395"
+    createdAt: 2021-06-03T18:02:57
+    author:
+      username: disqus_wtPyWa2JzO
+      about: Father. Scientist. Singer.
+      name: Peter Ellis
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_wtPyWa2JzO/
+      url: ""
+      location: ""
+      id: "52268877"
+    isApproved: true
+    raw_message: >-
+      "We conclude that it is almost certain that there is increased
+      transmissibility that will rapidly lead to B.1.617.2 becoming the
+      prevailing variant in the UK."
+
+
+      This was posted on the day Public Health England released a report showing that the Delta variant (B.1.617.2) is currently 73% of sequenced cases - i.e. it was 73% of new cases a couple of weeks ago. S gene proxy data is only a week out of date and has the prevalence of Delta at 85.4%
+
+
+      Forget journals not being able to keep up, even preprints can't keep up with this.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.06.03.21258293v1
+  tweets:
+    - created_at: Fri Jun 04 02:01:41 +0000 2021
+      id: 1400633825768755200
+      id_str: "1400633825768755204"
+      text: >-
+        💬 medRxiv comment on "Interim estimates of increased..."
+
+
+        ""We conclude that it is almost certain that there is inc… https://t.co/o2hHrSkL8a
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/o2hHrSkL8a
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jun 04 02:01:41 +0000 2021
+      id: 1400633826674622500
+      id_str: "1400633826674622465"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/PfElOztpGA
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/PfElOztpGA
+      in_reply_to_status_id: 1400633825768755200
+      in_reply_to_status_id_str: "1400633825768755204"
