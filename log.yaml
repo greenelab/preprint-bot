@@ -11048,3 +11048,95 @@
           - url: https://t.co/IiQmmGbBoo
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "104133"
+    doi: 10.1101/2020.11.15.383596
+    first_posted: 2020-11-15
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.11.15.383596v1
+    url: https://api.rxivist.org/v1/papers/104133
+    title: Mayaro Virus Infection Elicits an Innate Immune Response and Represses
+      Autophagy in Anopheles stephensi
+    category: microbiology
+    abstract: Mayaro virus (MAYV) is an arboviral pathogen in the genus Alphavirus
+      that is circulating in South America with potential to spread to naive
+      regions. MAYV is also one of the few viruses with the ability to be
+      transmitted by mosquitoes in the genus Anopheles in addition to the
+      typical arbovirus transmitting mosquitoes in the genus Aedes. Few studies
+      have investigated the infection response of Anopheles mosquitoes to
+      arboviruses. In this study we detail the transcriptomic and small RNA
+      responses of An. stephensi to infection with MAYV via infectious bloodmeal
+      at 2, 7, and 14 days post infection (dpi). 487 unique transcripts were
+      significantly regulated and 79 novel miRNAs were identified. Gene ontology
+      analysis of transcripts regulated at each timepoint suggested activation
+      of the Toll pathway at 7 dpi and repression of pathways related to
+      autophagy at 14 dpi. These findings provide a basic understanding of the
+      infection response of An. stephensi to MAYV and help to identify host
+      factors which might be useful to target to inhibit viral replication in
+      Anopheles mosquitoes.
+    authors:
+      - name: Cory A Henderson
+        orcid: null
+      - name: Marco Brustolin
+        orcid: http://orcid.org/0000-0002-3594-4488
+      - name: Shivanand Hegde
+        orcid: http://orcid.org/0000-0001-7249-6795
+      - name: Grant Hughes
+        orcid: http://orcid.org/0000-0002-7567-7185
+      - name: Christina Bergey
+        orcid: null
+      - name: Jason L Rasgon
+        orcid: http://orcid.org/0000-0002-4050-8429
+  comment:
+    dislikes: 0
+    thread: "8365660728"
+    numReports: 0
+    likes: 0
+    id: "5408362728"
+    createdAt: 2021-06-04T18:54:07
+    author:
+      username: jasonrasgon
+      about: ""
+      name: jasonrasgon
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/jasonrasgon/
+      url: ""
+      location: ""
+      id: "370445078"
+    isApproved: true
+    raw_message: We are aware of an error in this manuscript regarding the small RNA
+      analysis, the data have been reanalyzed and a corrected version will be
+      uploaded shortly.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.11.15.383596v2
+  tweets:
+    - created_at: Fri Jun 04 21:14:35 +0000 2021
+      id: 1400923964579455000
+      id_str: "1400923964579454982"
+      text: >-
+        💬 bioRxiv comment on "Mayaro Virus Infection Elicits..."
+
+
+        "We are aware of an error in this manuscript regarding th… https://t.co/oAHeBDsgA5
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/oAHeBDsgA5
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jun 04 21:14:35 +0000 2021
+      id: 1400923965464498200
+      id_str: "1400923965464498176"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/shcGK2eXZf
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/shcGK2eXZf
+      in_reply_to_status_id: 1400923964579455000
+      in_reply_to_status_id_str: "1400923964579454982"
