@@ -10987,3 +10987,64 @@
           - url: https://t.co/D1nwcPMwOs
       in_reply_to_status_id: 1400902294380630000
       in_reply_to_status_id_str: "1400902294380630019"
+- preprint:
+    id: 140810
+    metric: 3763
+    title: Highly functional Cellular Immunity in SARS-CoV-2 Non-Seroconvertors is
+      associated with immune protection
+    url: https://api.rxivist.org/v1/papers/140810
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.05.04.438781v1
+    doi: 10.1101/2021.05.04.438781
+    category: immunology
+    first_posted: 2021-05-04
+    abstract: The role of T cells in the control of SARS-CoV-2 infection has been
+      underestimated in favor of neutralizing antibodies. However, cellular
+      immunity is essential for long-term viral control and protection from
+      disease severity. To understand T-cell immunity in the absence of antibody
+      generation we focused on a group of SARS-CoV-2 Non-Seroconvertors (NSC)
+      recovered from infection. We performed an immune comparative analysis of
+      SARS-CoV-2 infected individuals stratified by the absence or presence of
+      seroconversion and disease severity. We report high levels of total naive
+      and low effector CD8+ T cells in NSC. Moreover, polyfunctional
+      Nucleocapsid (NP)-specific CD8+ T-cell responses, as well as reduced
+      levels of T-cell activation monitored by PD-1 and activation-induced
+      markers, were distinctive immunological traits in NSC. Longitudinal data
+      support the stability of the NSC phenotype over three months. Our results
+      implicate highly functional SARS-CoV-2 Spike and NP T-cell responses with
+      low immune activation in protection from disease severity in the absence
+      of seroconversion.
+    authors:
+      - name: Athina Kilpelainen
+      - name: Esther Jimenez-Moyano
+      - name: Oscar Blanch-Lombarte
+      - name: Dan Ouchi
+      - name: Ruth Penya
+      - name: Bibiana Quirant-Sanchez
+      - name: Anna Chamorro
+      - name: Ignacio Blanco
+      - name: Eva Martinez-Caceres
+      - name: Roger Paredes
+      - name: Lourdes Mateu
+      - name: Jorge Carrillo
+      - name: Julia Blanco
+      - name: Christian Brander
+      - name: Marta Massanella
+      - name: Bonaventura Clotet
+      - name: Julia G Prado
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Fri Jun 04 21:10:01 +0000 2021
+      id: 1400922812886433800
+      id_str: "1400922812886433798"
+      text: >-
+        🔥 bioRxiv Immunology preprint by A. Kilpelainen et al:
+
+
+        "Highly functional Cellular Immunity in SARS-CoV-2 Non-Sero… https://t.co/IiQmmGbBoo
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/IiQmmGbBoo
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
