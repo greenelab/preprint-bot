@@ -11140,3 +11140,208 @@
           - url: https://t.co/shcGK2eXZf
       in_reply_to_status_id: 1400923964579455000
       in_reply_to_status_id_str: "1400923964579454982"
+- preprint:
+    id: "138543"
+    doi: 10.1101/2021.04.19.440383
+    first_posted: 2021-04-19
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.04.19.440383v1
+    url: https://api.rxivist.org/v1/papers/138543
+    title: A biosensor to gauge protein homeostasis resilience differences in the
+      nucleus compared to cytosol of mammalian cells
+    category: biochemistry
+    abstract: An extensive network of chaperones and other proteins maintain protein
+      homeostasis and guard against inappropriate protein aggregation that is a
+      hallmark of neurodegenerative diseases. Using a fluorescence resonance
+      energy-based biosensor that simultaneously reports on intact cellular
+      chaperone holdase activity and detrimental aggregation propensity, we
+      investigated the buffering capacity of the systems managing protein
+      homeostasis in the nucleus of the human cell line HEK293 compared to the
+      cytosol. We found that the nucleus showed lower net holdase activity and
+      reduced capacity to suppress protein aggregation, suggesting that the
+      nuclear quality control resources are less effective compared to those in
+      the cytosol. Aggregation of mutant huntingtin exon 1 protein (Httex1) in
+      the cytosol appeared to deplete cytosolic chaperone supply by depleting
+      holdase activity. Unexpectedly, the same stress increased holdase activity
+      in the nucleus suggesting that proteostasis stress can trigger a rebalance
+      of chaperone supply in different subcellular compartments. Collectively
+      the findings suggest the cytosol has more capacity to manage imbalances in
+      proteome foldedness than the nucleus, but chaperone supply can be
+      redirected into the nucleus under conditions of proteostasis stress caused
+      by cytosolic protein aggregation.
+    authors:
+      - name: Candice B. Raeburn
+        orcid: null
+      - name: Angelique Royale Ormsby
+        orcid: null
+      - name: Nagaraj S. Moily
+        orcid: null
+      - name: Dezerae Cox
+        orcid: http://orcid.org/0000-0002-5345-8360
+      - name: Simon Ebbinghaus
+        orcid: null
+      - name: Alex Dickson
+        orcid: http://orcid.org/0000-0002-9640-1380
+      - name: Gawain McColl
+        orcid: null
+      - name: Danny M Hatters
+        orcid: http://orcid.org/0000-0002-9965-2847
+  comment:
+    dislikes: 0
+    thread: "8484479046"
+    numReports: 0
+    likes: 0
+    id: "5408166220"
+    createdAt: 2021-06-04T16:07:21
+    author:
+      name: Andrew Alamban
+      url: ""
+      profileUrl: ""
+      emailHash: ""
+    isApproved: true
+    raw_message: >-
+      “A biosensor to gauge protein homeostasis resilience differences in the
+      nucleus compared to cytosol of mammalian cells”. Raeburn et al.
+
+      doi: https://doi.org/10.1101/2021.04.19.440383
+
+      Reviewed by Andrew Alamban* and Linh Tram*
+
+      *University of California San Francisco 
+
+
+      <b>Summary:</b>
+
+      In the cell, there is an extensive network of protein quality control machinery that maintains protein homeostasis. A disruption in this network may lead to protein aggregation, which is a hallmark for many neurodegenerative diseases. This has prompted a need to develop a biosensor that can measure chaperone activity in the cell, which the authors have done in their previous work (Wood, R. et al. 2018. Nat. Comm.). One way to gauge chaperone activity is to measure their ability to bind unfolded proteins, also known as “holdase” activity, to prevent aggregation. We found that the authors give a helpful explanation of how their previously-designed biosensor works, reducing the need for the reader to reference the previous publication.
+
+
+      In this manuscript, the authors improve upon this tool to include nuclear localization or export sequences (NLS or NES, respectively) to probe protein homeostasis in the nucleus or cytosol, respectively. This control of biosensor localization is very impressive. Using this new capability, they show that 1) holdase activity in the cytosol is more abundant than in the nucleus and 2) imbalance in protein homeostasis - by co-expressing the huntingtin exon 1 mutant -  can reallocate chaperone supply in different areas of the cell. 
+
+
+      A long-standing view in the proteostasis field is that the quality control machinery is more abundant in the cytosol. Their new biosensor supports this view by showing that there is more holdase activity detected in the cytosol than in the nucleus.
+
+
+      The authors show that Huntingtin (Htt) inclusions can affect the fluorescence analysis of cells via flow cytometry. We appreciate that they addressed this limitation of their biosensor. They propose a workaround by measuring FRET using microscopy instead of their flow cytometry method. Using this workaround, the authors find evidence that the cell can reallocate quality control machinery between the cytosol and the nucleus.
+
+
+      By adding the NLS or NES, the authors have extended the biosensor’s capability to answer more questions about proteostasis. While the constructed biosensor only used barnase, which binds to Hsp70 and Hsp40 family chaperones, as the model protein, the scheme suggests a potential to expand the scope of the biosensor by using different model proteins that bind other quality control proteins beyond Hsp70 and Hsp40 families.
+
+
+      <b>Major Points: </b>
+
+
+      The authors modify their previously-developed biosensor to restrict its localization to either the cytosol or nucleus using an NES or NLS, respectively. Because protein folding is essential to the biosensor’s function, the authors validate these new modifications by measuring protein stability via urea denaturation of the wild type* (WT*) barnase. The authors only perform the validation for the WT* but not for the mutants. Could the differences in the lower slope gradient observed in Figure 2B for the mutants be due to the NES or NLS affecting the mutant barnase stability differently than WT*? 
+
+
+      There seems to be a discrepancy between data from Fig 2B and Fig 3B. Fig 2B shows that there is a lower slope gradient in the cytosol than in the nucleus. Looking more closely at Fig 3B, it almost looks like the nucleus has a lower slope gradient than the cytosol. This contradicts the conclusion from Fig 2B that the cytosol has more holdase activity when in Fig 3B, it looks like the nucleus has more. How could these differences be reconciled? 
+
+
+      <b>Minor Points:</b>
+
+
+      <u>Introduction:</u>
+
+      In page 1 line 57, the abundance of unfolded-like barnase is not detected by FRET but rather by the absence of FRET
+
+
+      Duplicate citations on refs. 5 and 6
+
+
+      In the paragraph that starts on page 1/line 59, I was able to understand the motivation for creating the biosensor. However, the authors go on to explain that they added localization sequences without motivating a reason for why the comparison between the nucleus and the cytosol is important. The authors have this information in their discussion (line 226-227) and a brief mention of this in the introduction would help motivate the study.
+
+
+      <u>Methods:</u>
+
+      In line 270, it was unclear to me what it means to “decouple the expression of the two plasmids”. More detail in this section would also help in the ease of reproducibility of the work. 
+
+
+      Catalog numbers should be included for all materials
+
+
+      In line 280, there’s a typo. “Ovine” should be “bovine”
+
+
+      We like that the authors provide scripts alongside the example datasets for their image analysis. This aids in reproducibility
+
+
+      <u>Figure 1:</u>
+
+      Labeling style for Fig 1A could benefit from the cartoon in the style of the (Wood, R. et al. 2018. Nat. Comm. Fig. 1), where the conformations of the bait, as well as the other proteins, were explicitly shown
+
+
+      We are curious about how the linker control was designed since the linker control was not introduced in the initial biosensor paper (Wood, R. et al. 2018. Nat. Comm.) Which factors determine the linker control’s length and its amino acid sequence? 
+
+
+      It looks like both localization sequences (NLS and NES) are appended to the biosensor in Fig 1A, which contrasts with what described in the Results.
+
+
+      Fig 1D, unclear that they didn’t label “D” and “A”
+
+
+      Mentioning that urea acts as a denaturing agent would be helpful, especially to newcomers unfamiliar with the assay
+
+
+      <u>Figure 2:</u>
+
+      Figure 2C: How was the percentage of cells with aggregates calculated? Legend of the figure suggest that the percentage is derived from the ratio (upper slope)/(lower slope)
+
+
+      In Line 113-114, the authors observed that the I25A I96G mutant was potentially outside of the detected dynamic range of the biosensor. However, the I25A,I96G mutant was still used in subsequent experiments without providing further explanations.
+
+
+      <u>Figure 3:</u>
+
+      Fig 1 and 3, using the same color for the Hoechst dye would help better with continuity across figures
+
+
+      What drove the choice for using the Y66L Emerald as the transfection control rather than an empty vector? 
+
+
+      <u>Figure 4:</u>
+
+      It would be useful to see a color map for the FRET map on the side to get a better idea of the range
+
+
+      What does white or red arrow mean in figure 4? We think that the white arrow indicates inclusion-targeted and the red arrow indicates diffuse-targeted
+
+
+      The signal that the white arrow is referring to in Figure 4A for the nucleus is barely visible
+
+
+      In Figure 4, would it be possible to use different line styles for the WT* and the mutants?
+
+
+      In Figure 4, WT should be labeled as WT*
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.04.19.440383v1
+  tweets:
+    - created_at: Fri Jun 04 22:47:03 +0000 2021
+      id: 1400947231885197300
+      id_str: "1400947231885197315"
+      text: >-
+        💬 bioRxiv comment on "A biosensor to gauge protein h..."
+
+
+        "“A biosensor to gauge protein homeostasis resilience dif… https://t.co/Rt5OC2cBEJ
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/Rt5OC2cBEJ
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jun 04 22:47:03 +0000 2021
+      id: 1400947232870781000
+      id_str: "1400947232870780929"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/DjsC6LUmyP
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/DjsC6LUmyP
+      in_reply_to_status_id: 1400947231885197300
+      in_reply_to_status_id_str: "1400947231885197315"
