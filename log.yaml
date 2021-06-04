@@ -10894,3 +10894,96 @@
           - url: https://t.co/652MU3io4j
       in_reply_to_status_id: 1400872047417434000
       in_reply_to_status_id_str: "1400872047417434119"
+- preprint:
+    id: "68453"
+    doi: 10.1101/871194
+    first_posted: 2019-12-11
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/871194v1
+    url: https://api.rxivist.org/v1/papers/68453
+    title: Insights into the ligand-free structure of cyclic diguanosine
+      monophosphate I riboswitch of Vibrio cholerae using molecular dynamics
+      simulation
+    category: bioinformatics
+    abstract: Riboswitches are key cis regulatory elements present at 5' UTRs of
+      mRNAs. They play a critical role in gene expression regulation at
+      transcriptional and translational level by binding selectively to specific
+      ligands followed by conformational changes. Ligands bind to the aptamer of
+      riboswitches and their complex structures have been solved, but
+      ligand-free riboswitches structures are not available which is important
+      to understand specific ligand binding mechanism. In this paper, an all
+      atom 150 nano-second (ns) molecular dynamics (MD) simulations of cyclic
+      diguanosine monophosphate (c-di-GMP I) riboswitch aptamer domain from
+      Vibrio cholerae were carried out to study ligand-free c-di-GMP I
+      riboswitch aptamer structure and the binding mechanism. The Principle
+      component analysis, cross correlation dynamics analysis and trajectory
+      analyses revealed that the ligand-free structure has stable conformation
+      with folded P2, P3 and an open P1 helix which opens the ligand binding
+      helix-join-helix while the ligand-bound structure shows less deviation and
+      remains as closed structure compared to the ligand-free structure. The
+      junction residues significantly showed anti-correlated motions with each
+      other elucidating the open conformation of the ligand-free aptamer of
+      riboswitch. The identified key residues involved in binding are A18, G20,
+      C46, A47 and C92.
+    authors:
+      - name: Priyanka Kumari
+        orcid: null
+      - name: Anup Som
+        orcid: http://orcid.org/0000-0003-1857-2368
+  comment:
+    dislikes: 0
+    thread: "7758680208"
+    numReports: 0
+    likes: 1
+    id: "5406484599"
+    createdAt: 2021-06-03T05:36:41
+    author:
+      username: dranupsom
+      about: ""
+      name: Dr. Anup Som
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/dranupsom/
+      url: ""
+      location: ""
+      id: "370362590"
+    isApproved: true
+    raw_message: >-
+      This preprint has been published in Indian Journal of Biochemistry and
+      Biophysics.  
+
+      <b>Paper Link:</b>
+
+      http://op.niscair.res.in/index.php/IJBB/article/view/37679
+    forum: biorxivstage
+    points: 1
+    link: https://www.biorxiv.org/content/10.1101/871194v1
+  tweets:
+    - created_at: Fri Jun 04 19:48:29 +0000 2021
+      id: 1400902294380630000
+      id_str: "1400902294380630019"
+      text: >-
+        💬 bioRxiv comment on "Insights into the ligand-free ..."
+
+
+        "This preprint has been published in Indian Journal of Bi… https://t.co/4eUtpiI7nP
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/4eUtpiI7nP
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jun 04 19:48:29 +0000 2021
+      id: 1400902295185985500
+      id_str: "1400902295185985543"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/D1nwcPMwOs
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/D1nwcPMwOs
+      in_reply_to_status_id: 1400902294380630000
+      in_reply_to_status_id_str: "1400902294380630019"
