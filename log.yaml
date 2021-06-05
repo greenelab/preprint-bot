@@ -11548,3 +11548,114 @@
           - url: https://t.co/ZWxoQKfTSI
       in_reply_to_status_id: 1401161471313199000
       in_reply_to_status_id_str: "1401161471313199110"
+- preprint:
+    id: "143204"
+    doi: 10.1101/2021.05.18.21257385
+    first_posted: 2021-05-25
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.18.21257385v1
+    url: https://api.rxivist.org/v1/papers/143204
+    title: Mask mandate and use efficacy in state-level COVID-19 containment
+    category: epidemiology
+    abstract: "Background: Containment of the COVID-19 pandemic requires
+      evidence-based strategies to reduce transmission. Because COVID-19 can
+      spread via respired droplets, many states have mandated mask use in public
+      settings. Randomized control trials have not clearly demonstrated mask
+      efficacy against respiratory viruses, but observational studies suggest
+      greater mask compliance may be associated with lower infection rates. We
+      hypothesized that statewide mask mandates and mask use are associated with
+      lower COVID-19 case growth rates in the United States. Methods: We
+      calculated total COVID-19 case growth and mask use for the continental
+      United States with data from the Centers for Disease Control and
+      Prevention and Institute for Health Metrics and Evaluation. We estimated
+      post-mask mandate case growth in non-mandate states using median issuance
+      dates of neighboring states with mandates. Results: Case growth was not
+      significantly different between mandate and non-mandate states at low or
+      high transmission rates, and surges were equivocal. Mask use predicted
+      lower case growth at low, but not high transmission rates. Growth rates
+      were comparable between states in the top and bottom mask use quintiles
+      adjusted for normalized total cases early in the pandemic and unadjusted
+      after peak Fall-Winter infections. Mask use did not predict Summer 2020
+      case growth for non-Northeast states or Fall-Winter 2020 growth for all
+      states. Conclusions: Mask mandates and use are not associated with slower
+      state-level COVID-19 spread during COVID-19 growth surges. COVID-19
+      containment requires future research and implementation of existing
+      efficacious strategies."
+    authors:
+      - name: Damian Guerra
+        orcid: http://orcid.org/0000-0002-6621-4656
+      - name: Daniel J Guerra
+        orcid: null
+  comment:
+    dislikes: 3
+    thread: "8550177462"
+    numReports: 1
+    likes: 0
+    id: "5407054115"
+    createdAt: 2021-06-03T17:21:18
+    author:
+      username: rusbowden
+      about: ""
+      name: rusbowden
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/rusbowden/
+      url: ""
+      location: ""
+      id: "10245173"
+    isApproved: true
+    raw_message: The insanity is in thinking that the earth is suddenly flat, and
+      that this research paper, done by people outside their specialties with no
+      epidemiologists or virologists involved, can overturn all the knowledge we
+      have been amassing for over a year. We know, for instance that within
+      states, city ordinances change transmission -- and that's all we can
+      really talk about when looking at this study. It tries to ask the question
+      whether state mandates work to change the mask-wearing and
+      distance-keeping behavior of the population, in such a way that the virus
+      can be combatted -- or are there enough anti-maskers who refuse to abide,
+      who will sabotage public health efforts. So, we know that mask wearing and
+      distance-keeping mandates, and more, work at the municipal level to combat
+      the virus. We also know, from looking outside the box of just the USA,
+      that mandates work when comparing countries to other countries. Let's take
+      the case of the phenomen of a couple walking in public, one wearing a
+      mask, the other not. The one not masked up has a greater chance of
+      contracting the virus, and thus spreading it to the other (and the rest of
+      their families), thus negating much of what the masked individual was
+      trying to accomplish. We can call this the sabotage factor. In the face of
+      the massive amount of information that supports mask wearing, we have to
+      really rip this study open to see if it holds the water it pretends to,
+      and also, for whatever truth it may hold, what are the social
+      implications. The paper simply does not show what many readers would like
+      it to show, that the world is flat.
+    forum: medrxiv
+    points: -3
+    link: https://www.medrxiv.org/content/10.1101/2021.05.18.21257385v1
+  tweets:
+    - created_at: Sat Jun 05 14:37:40 +0000 2021
+      id: 1401186463820091400
+      id_str: "1401186463820091396"
+      text: >-
+        💬 medRxiv comment on "Mask mandate and use efficacy ..."
+
+
+        "The insanity is in thinking that the earth is suddenly f… https://t.co/rzmcONfM6q
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/rzmcONfM6q
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jun 05 14:37:40 +0000 2021
+      id: 1401186464646393900
+      id_str: "1401186464646393867"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/652MU30MFJ
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/652MU30MFJ
+      in_reply_to_status_id: 1401186463820091400
+      in_reply_to_status_id_str: "1401186463820091396"
