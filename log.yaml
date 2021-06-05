@@ -11345,3 +11345,104 @@
           - url: https://t.co/DjsC6LUmyP
       in_reply_to_status_id: 1400947231885197300
       in_reply_to_status_id_str: "1400947231885197315"
+- preprint:
+    id: "61533"
+    doi: 10.1101/779215
+    first_posted: 2019-09-23
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/779215v1
+    url: https://api.rxivist.org/v1/papers/61533
+    title: "Hackflex: low cost Illumina Nextera Flex sequencing library construction"
+    category: genomics
+    abstract: We developed a low-cost method for the production of
+      Illumina-compatible sequencing libraries that allows up to 14 times more
+      libraries for high-throughput Illumina sequencing to be generated for the
+      same cost. We call this new method Hackflex. Quality of library
+      preparation was tested by constructing libraries from E. coli MG1655
+      genomic DNA using either Hackflex, standard Nextera Flex or a variation of
+      standard Nextera Flex in which the bead-linked transposase is diluted
+      prior to use. In order to test the library quality for genomes with a
+      higher and a lower GC content, library construction methods were also
+      tested on P. aeruginosa PAO1 and S. aureus ATCC25923, respectively. We
+      demonstrated that Hackflex can produce high quality libraries and yields a
+      highly uniform coverage, equivalent to the standard Nextera Flex kit. We
+      show that strongly size selected libraries produce sufficient yield and
+      complexity to support de novo microbial genome assembly, and that
+      assemblies of the large insert libraries can be much more contiguous than
+      standard libraries without strong size selection. We introduce a new set
+      of sample barcodes that are distinct from standard Illumina barcodes,
+      enabling Hackflex samples to be multiplexed with samples barcoded using
+      standard Illumina kits. Using Hackflex, we were able to achieve a per
+      sample reagent cost for library prep of A$7.22 (USD$5.60), which is 9.87
+      times lower than the Standard Nextera Flex protocol at advertised retail
+      price. An additional simple modification and further simplification of the
+      protocol by omitting the wash step enables a further price reduction to
+      reach an overall 14-fold cost saving. This method will allow researchers
+      to construct more libraries within a given budget, thereby yielding more
+      data and facilitating research programs where sequencing large numbers of
+      libraries is beneficial.
+    authors:
+      - name: Daniela Gaio
+        orcid: http://orcid.org/0000-0002-7695-3145
+      - name: Kay Anantanawat
+        orcid: http://orcid.org/0000-0002-7862-0969
+      - name: Joyce To
+        orcid: http://orcid.org/0000-0003-3482-4369
+      - name: Michael Liu
+        orcid: http://orcid.org/0000-0002-8467-3215
+      - name: Leigh Monahan
+        orcid: http://orcid.org/0000-0003-2933-9000
+      - name: Aaron E Darling
+        orcid: http://orcid.org/0000-0003-2397-7925
+  comment:
+    dislikes: 0
+    thread: "8557230117"
+    numReports: 0
+    likes: 0
+    id: "5407872580"
+    createdAt: 2021-06-04T11:22:19
+    author:
+      username: mickwatson
+      about: ""
+      name: Mick Watson
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/mickwatson/
+      url: ""
+      location: ""
+      id: "58943289"
+    isApproved: true
+    raw_message: Have you tried this with metagenomics?
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/779215v2
+  tweets:
+    - created_at: Sat Jun 05 01:45:11 +0000 2021
+      id: 1400992061113909200
+      id_str: "1400992061113909255"
+      text: |-
+        💬 bioRxiv comment on "Hackflex: low cost Illumina Ne..."
+
+        "Have you tried this with metagenomics?"
+
+        https://t.co/iteyEEhWcL
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/iteyEEhWcL
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jun 05 01:45:11 +0000 2021
+      id: 1400992061965361200
+      id_str: "1400992061965361153"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/qUJ6GcrBq3
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/qUJ6GcrBq3
+      in_reply_to_status_id: 1400992061113909200
+      in_reply_to_status_id_str: "1400992061113909255"
