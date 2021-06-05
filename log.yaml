@@ -11446,3 +11446,105 @@
           - url: https://t.co/qUJ6GcrBq3
       in_reply_to_status_id: 1400992061113909200
       in_reply_to_status_id_str: "1400992061113909255"
+- preprint:
+    id: "122413"
+    doi: 10.1101/2020.12.19.423618
+    first_posted: 2020-12-21
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2020.12.19.423618v1
+    url: https://api.rxivist.org/v1/papers/122413
+    title: A scale-dependent measure of system dimensionality
+    category: neuroscience
+    abstract: A fundamental problem in science is uncovering the effective number of
+      dynamical degrees of freedom in a complex system, a quantity that depends
+      on the spatio-temporal scale at which the system is observed. Here, we
+      propose a scale-dependent generalization of a classic enumeration of
+      latent variables, the Participation Ratio. We show how this measure
+      relates to conventional quantities such as the Correlation dimension and
+      Principal Component Analysis, and demonstrate its properties in dynamical
+      systems such as the Lorentz attractor. We apply the method to neural
+      population recordings in multiple brain areas and brain states, and
+      demonstrate fundamental differences in the effective dimensionality of
+      neural activity in behaviorally engaged states versus spontaneous
+      activity. Our method applies broadly to multi-variate data across fields
+      of science.
+    authors:
+      - name: Stefano Recanatesi
+        orcid: http://orcid.org/0000-0002-3576-9261
+      - name: Serena Bradde
+        orcid: http://orcid.org/0000-0001-8410-2992
+      - name: Vijay Balasubramanian
+        orcid: http://orcid.org/0000-0001-7552-1992
+      - name: Nicholas A Steinmetz
+        orcid: http://orcid.org/0000-0001-7029-2908
+      - name: Eric Shea-Brown
+        orcid: http://orcid.org/0000-0002-9012-1396
+  comment:
+    dislikes: 0
+    thread: "8327046125"
+    numReports: 0
+    likes: 0
+    id: "5407622046"
+    createdAt: 2021-06-04T03:38:02
+    author:
+      username: disqus_O8DO352efZ
+      about: ""
+      name: Jingwen Li
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_O8DO352efZ/
+      url: ""
+      location: ""
+      id: "364152235"
+    isApproved: true
+    raw_message: >-
+      This review was done as part of the SfN Reviewer Mentor Program (Mentor:
+      Mike X Cohen, Mentee: Jingwen Li).
+
+
+      The authors generalized a method of measuring dimensionality, Participation Ratio dimension, to a scale-dependent quantity that captures the dimension at different scales. They verified the quantity on two examples and Gaussian distributions in comparison with the scale-dependent Correlation dimension. They further applied the quantity to different brain regions under different states. I found the methods and results interesting and important, as many complex systems could have dimensionality varying upon the scales. However, my main concern arises when the authors applied the quantity to neural systems. There seems lacking a bridge between the examples and the neural systems analyzed in the study, as well as a clear interpretation of the results. I hope that my comments below will help the authors improve their manuscript.
+
+      1) The definition of distance r is important since the aim of the generalized DPR is to measure dimensionality at different scales. While r used in the examples is spatial distance, the r used in neural system is functional “distance.” It is not clear how these two concepts of distance relate, or whether it is trivial to exchange one for the other. In particular, for the cases where the dimensionality changes with scales (visual cortex, frontal cortex, and midbrain), it’s not clear to me what it means to vary scales in this functional space. Perhaps the authors could include an additional example that validates using spatial, topological, and functional distance measures. This might help the readers smoothly transfer to applications in neural system later in the manuscript. It would also be nice if these examples show different dimensionalities at different scales, as mentioned in discussion.
+
+      2) Relatedly, the interpretation of “dimensionality” in functional space could be more clearly defined. How is this dimensionality related to more commonly used functional metrics like synchronization/noise correlation? For example, as the scale r increases, neurons with a larger functional distance are included, so presumably synchrony of those neurons will decrease. Linking their proposed DPR measure to existing neural synchrony measures (in the four brain regions across two behavioral states) will facilitate a physiological interpretation, and may also help clarify the benefits of DPR. For instance, recent studies found that noise correlation (calculating pairwise correlations of spike counts among neurons) in visual cortex decreases due to locomotion/arousal (Dadarlat & Stryker 2017 J of Neuroscience; Vinck et al 2015 Neuron; Erisken et al 2014 Current Biology). However, the state-dependent decrease of noise correlation is not found in thalamus although firing rate changes with behavioral state (Erisken et al 2014 Current Biology). It would be interesting to compare these findings with the authors’ results in visual cortex and thalamus. This is also interesting because the authors observed lower dimensionality in task-driven states, but active neural processing has been associated with increased synchronization at spatial scales captured by LFP and EEG. Thus, the relationship between dimensionality and synchronization does not seem trivial, and could be very insightful.
+
+
+      A few minor suggestions:
+
+      1) When using the scale-free Gaussian example, the statement of “systems with such properties are often deemed to be near criticality and are studied in a number of contexts” should be followed by a few citations. Furthermore, it would be helpful if the authors explain how the power law exponent affects the dimensionality in such a system, i.e., the relation of the original Gaussian dimension d and the exponent alpha. This would intuitively explain why DPR saturates at a finite value despite the Gaussian dimension d, although it is derived later by Eq. 5.
+
+      2) In Fig. 1, one of the indices e) is supposed to be d).
+
+      3) In Fig. 3, is data used for b) the same for bottom panels in a), and just rearranged for better presentation? If yes, the authors should indicate in captions of b) for clarification.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.12.19.423618v3
+  tweets:
+    - created_at: Sat Jun 05 12:58:21 +0000 2021
+      id: 1401161471313199000
+      id_str: "1401161471313199110"
+      text: >-
+        💬 bioRxiv comment on "A scale-dependent measure of s..."
+
+
+        "This review was done as part of the SfN Reviewer Mentor… https://t.co/setT9X4fNL
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/setT9X4fNL
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jun 05 12:58:21 +0000 2021
+      id: 1401161472214978600
+      id_str: "1401161472214978563"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/ZWxoQKfTSI
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/ZWxoQKfTSI
+      in_reply_to_status_id: 1401161471313199000
+      in_reply_to_status_id_str: "1401161471313199110"
