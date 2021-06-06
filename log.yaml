@@ -11997,3 +11997,103 @@
           - url: https://t.co/A9iPw8226m
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "139172"
+    doi: 10.1101/2021.04.19.21255701
+    first_posted: 2021-04-22
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.04.19.21255701v1
+    url: https://api.rxivist.org/v1/papers/139172
+    title: Public Perception of COVID-19 Vaccines through Analysis of Twitter
+      Content and Users
+    category: public-and-global-health
+    abstract: Twitter is a robust medium to understand wide-scale, organic public
+      perception about the COVID-19 vaccine. In this cross-sectional
+      observational study, we evaluated 2.4 million English tweets from nearly 1
+      million user accounts matching keywords (('covid*' OR 'coronavirus') AND
+      'vaccine') during vaccine development from Feb 1st through Dec 11th, 2020.
+      We applied topic modeling, sentiment and emotion analysis, and demographic
+      inference of users on the COVID-19 vaccine related tweets to provide
+      insight into the evolution of public attitudes. Individuals generated
+      87.9% (n=834,224) of tweets. Of individuals, men (n=560,824) outnumbered
+      women (n=273,400) by 2:1 and 39.5% (n=329,776) of individuals were
+      [&ge;]40 years old. Daily mean sentiment fluctuated congruent with news
+      events, but overall trended positively. Trust, anticipation, and fear were
+      the three most predominant emotions; while fear was the most predominant
+      emotion early in the study period, trust outpaced fear from April 2020
+      onward. Fear was more prevalent in tweets by individuals (26.3% vs.
+      organizations 19.4%; p<0.001), specifically among women (28.4% vs. males
+      25.4%; p <0.001). Multiple topics had a monthly trend towards more
+      positive sentiment. Tweets comparing COVID-19 to the influenza vaccine had
+      strongly negative early sentiment but improved over time. Our findings are
+      concerning for COVID-19 vaccine hesitancy, but also identify targets for
+      educational interventions.
+    authors:
+      - name: Sameh Nagui Saleh
+        orcid: http://orcid.org/0000-0001-5959-1659
+      - name: Samuel A McDonald
+        orcid: http://orcid.org/0000-0002-8383-3854
+      - name: Mujeeb A Basit
+        orcid: http://orcid.org/0000-0002-4948-6158
+      - name: Sanat Kumar
+        orcid: null
+      - name: Reuben J Arasaratnam
+        orcid: null
+      - name: Trish M Perl
+        orcid: http://orcid.org/0000-0001-9539-2358
+      - name: Christoph U Lehmann
+        orcid: http://orcid.org/0000-0001-9559-4646
+      - name: Richard J Medford
+        orcid: http://orcid.org/0000-0001-9814-8043
+  comment:
+    dislikes: 0
+    thread: "8488550733"
+    numReports: 0
+    likes: 0
+    id: "5410195486"
+    createdAt: 2021-06-06T13:42:01
+    author:
+      username: maryampahlavan
+      about: ""
+      name: Maryam Pahlavan
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/maryampahlavan/
+      url: ""
+      location: ""
+      id: "370530555"
+    isApproved: true
+    raw_message: Hej, How I canrequest for dataset?
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.04.19.21255701v1
+  tweets:
+    - created_at: Sun Jun 06 20:35:06 +0000 2021
+      id: 1401638804860059600
+      id_str: "1401638804860059656"
+      text: |-
+        💬 medRxiv comment on "Public Perception of COVID-19 ..."
+
+        "Hej, How I canrequest for dataset?"
+
+        https://t.co/QTuzwoBGa2
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/QTuzwoBGa2
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jun 06 20:35:07 +0000 2021
+      id: 1401638805581488000
+      id_str: "1401638805581488130"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/7USKP0uobf
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/7USKP0uobf
+      in_reply_to_status_id: 1401638804860059600
+      in_reply_to_status_id_str: "1401638804860059656"
