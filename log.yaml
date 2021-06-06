@@ -12097,3 +12097,94 @@
           - url: https://t.co/7USKP0uobf
       in_reply_to_status_id: 1401638804860059600
       in_reply_to_status_id_str: "1401638804860059656"
+- preprint:
+    id: "138913"
+    doi: 10.1101/2021.04.20.21254636
+    first_posted: 2021-04-21
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.04.20.21254636v1
+    url: https://api.rxivist.org/v1/papers/138913
+    title: Effectiveness of the BNT162b2 vaccine in preventing COVID-19 in the
+      working age population - first results from a cohort study in Southern
+      Sweden
+    category: infectious-diseases
+    abstract: Background Vaccine effectiveness against COVID-19 needs to be assessed
+      in diverse real-world population settings. Methods A cohort study of 805
+      741 residents in Scania county, Southern Sweden, aged 18-64 years, of whom
+      26 587 received at least one dose of the BNT162b2 vaccine. Incidence rates
+      of COVID-19 were estimated in sex- and age-adjusted analysis and
+      stratified in two-week periods with substantial community spread of the
+      disease. Results The estimated vaccine effectiveness in preventing
+      infection >7 days after second dose was 86% (95% CI 72-94%) but only 42%
+      (95% CI 14-63%) >14 days after a single dose. No difference in vaccine
+      effectiveness was observed between females and males. Having a prior
+      positive test was associated with 91% (95% CI 85 to 94%) effectiveness
+      against new infection among the unvaccinated. Conclusion A satisfactory
+      effectiveness of BNT162b2 after the second dose was suggested, but with
+      possibly substantially lower effect before the second dose.
+    authors:
+      - name: Jonas Bjork
+        orcid: http://orcid.org/0000-0003-1883-2000
+      - name: Malin Inghammar
+        orcid: null
+      - name: Mahnaz Moghaddassi
+        orcid: null
+      - name: Magnus Rasmussen
+        orcid: null
+      - name: Ulf Malmqvist
+        orcid: null
+      - name: Fredrik Kahn
+        orcid: http://orcid.org/0000-0001-5566-6350
+  comment:
+    dislikes: 0
+    thread: "8486875630"
+    numReports: 0
+    likes: 0
+    id: "5410034045"
+    createdAt: 2021-06-06T09:28:02
+    author:
+      username: Ulltand
+      about: ""
+      name: Ulltand
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/Ulltand/
+      url: ""
+      location: ""
+      id: "29192773"
+    isApproved: true
+    raw_message: 4 days after one dose. What does it say? We know from other studies
+      that 21 days after one dose protection is about 90 %. 14 days is a to
+      short period.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.04.20.21254636v1
+  tweets:
+    - created_at: Sun Jun 06 22:31:56 +0000 2021
+      id: 1401668206029332500
+      id_str: "1401668206029332489"
+      text: >-
+        💬 medRxiv comment on "Effectiveness of the BNT162b2 ..."
+
+
+        "4 days after one dose. What does it say? We know from ot… https://t.co/068uzCDeS2
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/068uzCDeS2
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jun 06 22:31:56 +0000 2021
+      id: 1401668206838829000
+      id_str: "1401668206838829057"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/Fw2Nxn9pb7
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/Fw2Nxn9pb7
+      in_reply_to_status_id: 1401668206029332500
+      in_reply_to_status_id_str: "1401668206029332489"
