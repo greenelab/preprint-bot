@@ -11824,3 +11824,108 @@
           - url: https://t.co/bjIFJg763C
       in_reply_to_status_id: 1401306128491827200
       in_reply_to_status_id_str: "1401306128491827203"
+- preprint:
+    id: "106432"
+    doi: 10.1101/2019.12.13.19014902
+    first_posted: 2019-12-15
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2019.12.13.19014902v1
+    url: https://api.rxivist.org/v1/papers/106432
+    title: "OASIS-3: Longitudinal Neuroimaging, Clinical, and Cognitive Dataset for
+      Normal Aging and Alzheimer Disease"
+    category: radiology-and-imaging
+    abstract: OASIS-3 is a compilation of MRI and PET imaging and related clinical
+      data for 1098 participants who were collected across several ongoing
+      studies in the Washington University Knight Alzheimer Disease Research
+      Center over the course of 15 years. Participants include 605 cognitively
+      normal adults and 493 individuals at various stages of cognitive decline
+      ranging in age from 42 to 95 years. The OASIS-3 dataset contains over 2000
+      MR sessions, including multiple structural and functional sequences. PET
+      metabolic and amyloid imaging includes over 1500 raw imaging scans and the
+      accompanying post-processed files from the PET Unified Pipeline (PUP) are
+      also available in OASIS-3. OASIS-3 also contains post-processed imaging
+      data such as volumetric segmentations and PET analyses. Imaging data is
+      accompanied by dementia and APOE status and longitudinal clinical and
+      cognitive outcomes. OASIS-3 is available as an open access data set to the
+      scientific community to answer questions related to healthy aging and
+      dementia.
+    authors:
+      - name: Pamela J. LaMontagne
+        orcid: http://orcid.org/0000-0002-6752-8518
+      - name: Tammie LS. Benzinger
+        orcid: http://orcid.org/0000-0002-8114-0552
+      - name: John C Morris
+        orcid: null
+      - name: Sarah Keefe
+        orcid: null
+      - name: Russ Hornbeck
+        orcid: null
+      - name: Chengjie Xiong
+        orcid: http://orcid.org/0000-0003-0044-4499
+      - name: Elizabeth Grant
+        orcid: null
+      - name: Jason Hassenstab
+        orcid: http://orcid.org/0000-0002-7802-3371
+      - name: Krista Moulder
+        orcid: null
+      - name: Andrei G. Vlassenko
+        orcid: null
+      - name: Marcus E. Raichle
+        orcid: http://orcid.org/0000-0002-1847-9588
+      - name: Carlos Cruchaga
+        orcid: http://orcid.org/0000-0002-0276-2899
+      - name: Daniel Marcus
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "7765276129"
+    numReports: 0
+    likes: 1
+    id: "5409147752"
+    createdAt: 2021-06-05T13:34:28
+    author:
+      username: disqus_wiwZ9GIjro
+      about: ""
+      name: Gowtham Kumar
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_wiwZ9GIjro/
+      url: ""
+      location: ""
+      id: "370481766"
+    isApproved: true
+    raw_message: We were trying to access the scans available in Oasis-1 dataset but
+      we were unable to open the scans because the extensions of the files are
+      .nifti.img , if you have any idea to open this please help us.
+    forum: medrxiv
+    points: 1
+    link: https://www.medrxiv.org/content/10.1101/2019.12.13.19014902v1
+  tweets:
+    - created_at: Sun Jun 06 19:03:06 +0000 2021
+      id: 1401615651773550600
+      id_str: "1401615651773550592"
+      text: >-
+        💬 medRxiv comment on "OASIS-3: Longitudinal Neuroima..."
+
+
+        "We were trying to access the scans available in Oasis-1… https://t.co/u0hBzHTkUi
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/u0hBzHTkUi
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jun 06 19:03:06 +0000 2021
+      id: 1401615652495016000
+      id_str: "1401615652495015936"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/g0h3LeTied
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/g0h3LeTied
+      in_reply_to_status_id: 1401615651773550600
+      in_reply_to_status_id_str: "1401615651773550592"
