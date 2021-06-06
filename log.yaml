@@ -11929,3 +11929,71 @@
           - url: https://t.co/g0h3LeTied
       in_reply_to_status_id: 1401615651773550600
       in_reply_to_status_id_str: "1401615651773550592"
+- preprint:
+    id: 141745
+    metric: 2525
+    title: Archival influenza virus genomes from Europe reveal genomic and
+      phenotypic variability during the 1918 pandemic
+    url: https://api.rxivist.org/v1/papers/141745
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.05.14.444134v1
+    doi: 10.1101/2021.05.14.444134
+    category: microbiology
+    first_posted: 2021-05-14
+    abstract: The 1918 influenza pandemic was the deadliest respiratory pandemic of
+      the 20th century and determined the genomic make-up of subsequent human
+      influenza A viruses (IAV). Here, we analyze the first 1918 IAV genomes
+      from Europe and from the first, milder wave of the pandemic. 1918 IAV
+      genomic diversity is consistent with local transmission and frequent
+      long-distance dispersal events and in vitro polymerase characterization
+      suggests potential phenotypic variability. Comparison of first and second
+      wave genomes shows variation at two sites in the nucleoprotein gene
+      associated with resistance to host antiviral response, pointing at a
+      possible adaptation of 1918 IAV to humans. Finally, phylogenetic estimates
+      based on extended molecular clock modelling suggests a pure pandemic
+      descent of seasonal H1N1 IAV as an alternative to the hypothesis of an
+      intrasubtype reassortment origin.
+    authors:
+      - name: Livia V Patrono
+      - name: Bram Vrancken
+      - name: Matthias Budt
+      - name: Ariane Duex
+      - name: Sebastian Lequime
+      - name: Senguel Boral
+      - name: M. Thomas P. Gilbert
+      - name: Jan F. Gogarten
+      - name: Luisa Hoffmann
+      - name: David Horst
+      - name: Kevin Merkel
+      - name: David Morens
+      - name: Baptiste Prepoint
+      - name: Jasmin Schlotterbeck
+      - name: Verena Schuenemann
+      - name: Marc A Suchard
+      - name: Jeffery K Taubenberger
+      - name: Luisa Tenkhoff
+      - name: Christian Urban
+      - name: Navena Widulin
+      - name: Eduard Winter
+      - name: Michael Worobey
+      - name: Fabian H Leendertz
+      - name: Thomas Schnalke
+      - name: Thorsten Wolff
+      - name: Philippe Lemey
+      - name: Sebastien Calvignac-Spencer
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Sun Jun 06 20:31:32 +0000 2021
+      id: 1401637904233992200
+      id_str: "1401637904233992204"
+      text: >-
+        🔥 bioRxiv Microbiology preprint by L. V. Patrono et al:
+
+
+        "Archival influenza virus genomes from Europe reveal genom… https://t.co/A9iPw8226m
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/A9iPw8226m
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
