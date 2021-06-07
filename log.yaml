@@ -12188,3 +12188,126 @@
           - url: https://t.co/Fw2Nxn9pb7
       in_reply_to_status_id: 1401668206029332500
       in_reply_to_status_id_str: "1401668206029332489"
+- preprint:
+    id: "109294"
+    doi: 10.1101/2020.04.22.20076091
+    first_posted: 2020-04-25
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2020.04.22.20076091v1
+    url: https://api.rxivist.org/v1/papers/109294
+    title: Gut microbiota may underlie the predisposition of healthy individuals to
+      COVID-19
+    category: public-and-global-health
+    abstract: The COVID-19 pandemic is spreading globally with high disparity in the
+      susceptibility of the disease severity. Identification of the key
+      underlying factors for this disparity is highly warranted. Here we
+      describe constructing a proteomic risk score based on 20 blood proteomic
+      biomarkers which predict the progression to severe COVID-19. We
+      demonstrate that in our own cohort of 990 individuals without infection,
+      this proteomic risk score is positively associated with proinflammatory
+      cytokines mainly among older, but not younger, individuals. We further
+      discovered that a core set of gut microbiota could accurately predict the
+      above proteomic biomarkers among 301 individuals using a machine learning
+      model, and that these gut microbiota features are highly correlated with
+      proinflammatory cytokines in another set of 366 individuals. Fecal
+      metabolomic analysis suggested potential amino acid-related pathways
+      linking gut microbiota to inflammation. This study suggests that gut
+      microbiota may underlie the predisposition of normal individuals to severe
+      COVID-19.
+    authors:
+      - name: Wanglong Gou
+        orcid: null
+      - name: Yuanqing Fu
+        orcid: http://orcid.org/0000-0002-3955-9376
+      - name: Liang Yue
+        orcid: null
+      - name: Geng-dong Chen
+        orcid: null
+      - name: Xue Cai
+        orcid: http://orcid.org/0000-0002-7427-2100
+      - name: Menglei Shuai
+        orcid: null
+      - name: Fengzhe Xu
+        orcid: null
+      - name: Xiao Yi
+        orcid: http://orcid.org/0000-0002-6288-5233
+      - name: Hao Chen
+        orcid: http://orcid.org/0000-0001-8319-8101
+      - name: Yi Zhu
+        orcid: http://orcid.org/0000-0002-1778-8880
+      - name: Mian-li Xiao
+        orcid: null
+      - name: Zengliang Jiang
+        orcid: null
+      - name: Zelei Miao
+        orcid: null
+      - name: Congmei Xiao
+        orcid: null
+      - name: Bo Shen
+        orcid: http://orcid.org/0000-0002-1662-3558
+      - name: Xiaomai Wu
+        orcid: null
+      - name: Haihong Zhao
+        orcid: null
+      - name: Wenhua Ling
+        orcid: null
+      - name: Jun Wang
+        orcid: http://orcid.org/0000-0003-0801-9796
+      - name: Yu-ming Chen
+        orcid: http://orcid.org/0000-0003-1658-5528
+      - name: Tiannan Guo
+        orcid: http://orcid.org/0000-0003-3869-7651
+      - name: Ju-Sheng Zheng
+        orcid: http://orcid.org/0000-0001-6560-4890
+  comment:
+    dislikes: 0
+    thread: "7991899793"
+    numReports: 0
+    likes: 0
+    id: "5409966791"
+    createdAt: 2021-06-06T07:02:22
+    author:
+      username: jushengzheng
+      about: ""
+      name: Ju-Sheng Zheng
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/jushengzheng/
+      url: ""
+      location: ""
+      id: "370518531"
+    isApproved: true
+    raw_message: "This work is now published in the Journal of Genetics and
+      Genomics. 2021. doi: 10.1016/j.jgg.2021.04.002"
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2020.04.22.20076091v1
+  tweets:
+    - created_at: Mon Jun 07 01:38:57 +0000 2021
+      id: 1401715271350558700
+      id_str: "1401715271350558721"
+      text: >-
+        💬 medRxiv comment on "Gut microbiota may underlie th..."
+
+
+        "This work is now published in the Journal of Genetics an… https://t.co/Fu0M2J9Cpz
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/Fu0M2J9Cpz
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jun 07 01:38:58 +0000 2021
+      id: 1401715272071983000
+      id_str: "1401715272071983110"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/kGDqjheLLD
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/kGDqjheLLD
+      in_reply_to_status_id: 1401715271350558700
+      in_reply_to_status_id_str: "1401715271350558721"
