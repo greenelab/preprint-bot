@@ -12831,3 +12831,85 @@
           - url: https://t.co/fIgXlfTSzw
       in_reply_to_status_id: 1402012785945550800
       in_reply_to_status_id_str: "1402012785945550852"
+- preprint:
+    id: "111834"
+    doi: 10.1101/2020.05.30.20117556
+    first_posted: 2020-06-03
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2020.05.30.20117556v1
+    url: https://api.rxivist.org/v1/papers/111834
+    title: "SIR-PID: A Proportional-Integral-Derivative Controller for COVID-19
+      Outbreak Containment"
+    category: epidemiology
+    abstract: Ongoing social restrictions, as distancing and lockdown, adopted by
+      many countries for contrasting the COVID-19 epidemic spread, try to find a
+      trade-off between induced economic crisis, healthcare system collapse and
+      costs in terms of human lives. Applying and removing restrictions on a
+      system with uncontrollable inertia, as represented by an epidemic
+      outbreak, may create critical instabilities, overshoots and strong
+      oscillations of infected people around the desirable set-point, defined as
+      the maximum number of hospitalizations acceptable by a given healthcare
+      system. A good understanding of the system reaction to a change of the
+      input control variable can be reasonably achieved using a
+      proportional-integral-derivative controller, widely used in technological
+      applications. In this paper we make use of this basic control theory for
+      understanding the reaction of COVID-19 propagation to social restrictions
+      and for exploiting a very known technology to reduce the epidemic damages
+      through the correct tuning of the containment policy.
+    authors:
+      - name: Nicola Rossi
+        orcid: http://orcid.org/0000-0002-7046-528X
+      - name: Aldo Ianni
+        orcid: http://orcid.org/0000-0002-6962-3682
+  comment:
+    dislikes: 0
+    thread: "8057297405"
+    numReports: 0
+    likes: 0
+    id: "5409165813"
+    createdAt: 2021-06-05T13:55:27
+    author:
+      username: disqus_BSvFLJa2NJ
+      about: ""
+      name: Tim Winton
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_BSvFLJa2NJ/
+      url: ""
+      location: ""
+      id: "370340367"
+    isApproved: true
+    raw_message: Would it be possible to see the code for this?
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2020.05.30.20117556v1
+  tweets:
+    - created_at: Mon Jun 07 22:48:18 +0000 2021
+      id: 1402034712479154200
+      id_str: "1402034712479154179"
+      text: |-
+        💬 medRxiv comment on "SIR-PID: A Proportional-Integr..."
+
+        "Would it be possible to see the code for this?"
+
+        https://t.co/W5FsPbjFfD
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/W5FsPbjFfD
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jun 07 22:48:18 +0000 2021
+      id: 1402034713183854600
+      id_str: "1402034713183854592"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/xbcm7ufJwN
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/xbcm7ufJwN
+      in_reply_to_status_id: 1402034712479154200
+      in_reply_to_status_id_str: "1402034712479154179"
