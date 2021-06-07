@@ -12491,3 +12491,94 @@
           - url: https://t.co/652MU3io4j
       in_reply_to_status_id: 1401914697042038800
       in_reply_to_status_id_str: "1401914697042038785"
+- preprint:
+    id: "144702"
+    doi: 10.1101/2021.06.03.446998
+    first_posted: 2021-06-04
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.03.446998v1
+    url: https://api.rxivist.org/v1/papers/144702
+    title: Accelerating RepeatClassifier Based on Spark and Greedy Algorithm with
+      Dynamic Upper Boundary
+    category: bioinformatics
+    abstract: Transposable elements (TEs) represent quantitatively important
+      components of genome sequences (e.g. 90% of the wheat genome), and play
+      important roles in genome organization and evolution. The promotion of
+      unsupervised annotation of transposable elements is of great significance.
+      Classification is an important step in TE annotation, which summarize the
+      information about the type or mechanism for the raw repetitive sequences.
+      RepeatClassifier is a basic homology-based classification tool which
+      compares the TE families to both the Repeat Protein Database (DB) and
+      libraries of RepeatMasker. Unfortunately, RepeatClassifier is inefficient
+      and takes a few days to classify the repetitive sequences of large
+      genomes. Hence, we proposed Spark-based RepeatClassifier (SRC) which uses
+      Greedy Algorithm with Dynamic Upper Boundary (GDUB) for data division and
+      load balancing, and Spark to improve the parallelism of RepeatClassifier.
+      Experimental results show that SRC can not only ensure the same level of
+      accuracy as that of RepeatClassifier, but also achieve 42-88 times of
+      acceleration compared to RepeatClassifier. At the same time, SRC shows
+      excellent parallel performance when dealing with input datasets with
+      unbalanced length distribution.
+    authors:
+      - name: Kang Hu
+        orcid: null
+      - name: Xingyu Liao
+        orcid: null
+      - name: You Zou
+        orcid: null
+      - name: Jianxin Wang
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8572964724"
+    numReports: 0
+    likes: 1
+    id: "5410319835"
+    createdAt: 2021-06-06T15:55:16
+    author:
+      username: xingyuliao
+      about: King Abdullah University of Science and Technology (KAUST),  Thuwal,
+        23955, Saudi Arabia.
+      name: Xingyu Liao
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/xingyuliao/
+      url: https://cemse.kaust.edu.sa/sfb
+      location: King Abdullah University of Science and Technology (KAUST), Saudi Arabia.
+      id: "370535601"
+    isApproved: true
+    raw_message: SRC is publicly available at <a
+      href="#">https://github.com/BioinformaticsCSU/SRC</a>
+    forum: biorxivstage
+    points: 1
+    link: https://www.biorxiv.org/content/10.1101/2021.06.03.446998v1
+  tweets:
+    - created_at: Mon Jun 07 17:40:58 +0000 2021
+      id: 1401957370222329900
+      id_str: "1401957370222329860"
+      text: |-
+        💬 bioRxiv comment on "Accelerating RepeatClassifier ..."
+
+        "SRC is publicly available at &lt;a href="#"&gt;"
+
+        https://t.co/ejI2tGgGSh
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/ejI2tGgGSh
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jun 07 17:40:59 +0000 2021
+      id: 1401957371107229700
+      id_str: "1401957371107229697"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/gGduX0OQNN
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/gGduX0OQNN
+      in_reply_to_status_id: 1401957370222329900
+      in_reply_to_status_id_str: "1401957370222329860"
