@@ -12582,3 +12582,94 @@
           - url: https://t.co/gGduX0OQNN
       in_reply_to_status_id: 1401957370222329900
       in_reply_to_status_id_str: "1401957370222329860"
+- preprint:
+    id: "144836"
+    doi: 10.1101/2021.06.04.447051
+    first_posted: 2021-06-05
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.04.447051v1
+    url: https://api.rxivist.org/v1/papers/144836
+    title: "Patterning on the move: the effects of Hh morphogen source movement on
+      signaling dynamics"
+    category: developmental-biology
+    abstract: Morphogens of the Hh-family trigger gene expression changes of
+      receiving cells in a concentration-dependent manner. The outputs of the
+      pathway include regulation of cell identity, proliferation, death or
+      metabolism, depending on the tissue or organ. This variety of responses
+      relies on a conserved signaling pathway. Its internal logic includes a
+      negative feedback loop involving the Hh receptor Ptc. In this paper, we
+      use experiments and computational models to study and compare the
+      different spatial signaling profiles downstream of Hh in several
+      developing Drosophila organs. We show that the spatial distribution of Ptc
+      and the activator form of the Gli transcription factor, CiA, in wing,
+      antenna and ocellus show similar features, but markedly different from
+      that in the compound eye (CE). We show that these two profile types
+      represent two time points along the signaling dynamics, and that the
+      interplay between the spatial displacement of the Hh source in the CE and
+      the negative feedback loop maintains the receiving cells effectively in an
+      earlier stage of signaling. These results indicate that the dynamics of
+      the Hh source strongly influences the signaling profile Hh elicits in
+      receiving cells, and show how the interaction between spatial and temporal
+      dynamics of signaling and differentiation processes can contribute to the
+      informational versatility of the conserved Hh signaling pathway.
+    authors:
+      - name: david G Miguez
+        orcid: http://orcid.org/0000-0001-8065-1142
+      - name: Antonella G Iannini
+        orcid: null
+      - name: diana garcia-morales
+        orcid: null
+      - name: Fernando Casares
+        orcid: http://orcid.org/0000-0002-2181-3858
+  comment:
+    dislikes: 0
+    thread: "8575513360"
+    numReports: 0
+    likes: 0
+    id: "5409919618"
+    createdAt: 2021-06-06T05:13:39
+    author:
+      username: disqus_t6H9fs1Wrl
+      about: ""
+      name: Stuart Newman
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_t6H9fs1Wrl/
+      url: ""
+      location: ""
+      id: "370515184"
+    isApproved: true
+    raw_message: What is described here is a "morphodynamic" mechanism, as defined
+      in this paper https://pubmed.ncbi.nlm.nih.gov/12668618/
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.06.04.447051v1
+  tweets:
+    - created_at: Mon Jun 07 19:56:36 +0000 2021
+      id: 1401991500775428000
+      id_str: "1401991500775428096"
+      text: >-
+        💬 bioRxiv comment on "Patterning on the move: the ef..."
+
+
+        "What is described here is a "morphodynamic" mechanism, a… https://t.co/0sVpXmRhZP
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/0sVpXmRhZP
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jun 07 19:56:36 +0000 2021
+      id: 1401991501568225300
+      id_str: "1401991501568225281"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/WfvSKyxFqY
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/WfvSKyxFqY
+      in_reply_to_status_id: 1401991500775428000
+      in_reply_to_status_id_str: "1401991500775428096"
