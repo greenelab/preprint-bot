@@ -12673,3 +12673,53 @@
           - url: https://t.co/WfvSKyxFqY
       in_reply_to_status_id: 1401991500775428000
       in_reply_to_status_id_str: "1401991500775428096"
+- preprint:
+    id: 131874
+    metric: 5
+    title: The mRNA-LNP platform's lipid nanoparticle component used in preclinical
+      vaccine studies is highly inflammatory
+    url: https://api.rxivist.org/v1/papers/131874
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.03.04.430128v1
+    doi: 10.1101/2021.03.04.430128
+    category: immunology
+    first_posted: 2021-03-04
+    abstract: >-
+      Vaccines based on mRNA-containing lipid nanoparticles (LNPs) are a
+      promising new platform used by two leading vaccines against coronavirus
+      disease in 2019 (COVID-19). Clinical trials and ongoing vaccinations
+      present with very high protection levels and varying degrees of side
+      effects. However, the nature of the reported side effects remains poorly
+      defined. Here we present evidence that LNPs used in many preclinical
+      studies are highly inflammatory in mice. Intradermal injection of these
+      LNPs led to rapid and robust inflammatory responses, characterized by
+      massive neutrophil infiltration, activation of diverse inflammatory
+      pathways, and production of various inflammatory cytokines and chemokines.
+      The same dose of LNP delivered intranasally led to similar inflammatory
+      responses in the lung and resulted in a high mortality rate.
+
+
+      In summary, here we show that the LNPs used for many preclinical studies are highly inflammatory. Thus, their potent adjuvant activity and reported superiority comparing to other adjuvants in supporting the induction of adaptive immune responses could stem from their inflammatory nature. Furthermore, the preclinical LNPs are similar to the ones used for human vaccines, which could also explain the observed side effects in humans using this platform.
+    authors:
+      - name: Sonia Ndeupen
+      - name: Zhen Qin
+      - name: Sonya Jacobsen
+      - name: Henri Estanbouli
+      - name: Aurélie Bouteau
+      - name: Botond Z. Igyártó
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Mon Jun 07 21:15:49 +0000 2021
+      id: 1402011437749395500
+      id_str: "1402011437749395458"
+      text: >-
+        🔥 bioRxiv Immunology preprint by S. Ndeupen et al:
+
+
+        "The mRNA-LNP platform's lipid nanoparticle component used in p… https://t.co/NFFgZN3ZQb
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/NFFgZN3ZQb
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
