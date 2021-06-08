@@ -13618,3 +13618,93 @@
           - url: https://t.co/vkjuniyTA1
       in_reply_to_status_id: 1402361511184679000
       in_reply_to_status_id_str: "1402361511184678915"
+- preprint:
+    id: "140951"
+    doi: 10.1101/2021.05.05.442755
+    first_posted: 2021-05-05
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.05.05.442755v1
+    url: https://api.rxivist.org/v1/papers/140951
+    title: "STARsolo: accurate, fast and versatile mapping/quantification of
+      single-cell and single-nucleus RNA-seq data"
+    category: bioinformatics
+    abstract: We present STARsolo, a comprehensive turnkey solution for quantifying
+      gene expression in single-cell/nucleus RNA-seq data, built into RNA-seq
+      aligner STAR. Using simulated data that closely resembles realistic
+      scRNA-seq, we demonstrate that STARsolo is highly accurate and
+      significantly outperforms pseudoalignment-to-transcriptome tools. STARsolo
+      can replicate the results of, but is considerably faster than CellRanger,
+      currently the most widely used tool for pre-processing scRNA-seq data. In
+      addition to uniquely mapped reads, STARsolo takes account of multi-gene
+      reads, necessary to detect certain classes of biologically important
+      genes. It has a flexible cell barcode processing scheme, compatible with
+      many established scRNA-seq protocols, and extendable to emerging
+      technologies. STARsolo can quantify transcriptomic features beyond gene
+      expression, which we illustrate by analyzing cell-type-specific
+      alternative splicing in the Tabula Muris project.
+    authors:
+      - name: Benjamin Kaminow
+        orcid: http://orcid.org/0000-0002-2266-3353
+      - name: Dinar Yunusov
+        orcid: http://orcid.org/0000-0003-3478-7203
+      - name: Alexander Dobin
+        orcid: http://orcid.org/0000-0002-4115-9128
+  comment:
+    dislikes: 0
+    thread: "8507723355"
+    numReports: 0
+    likes: 0
+    id: "5413004491"
+    createdAt: 2021-06-08T21:04:01
+    author:
+      username: charleswarden
+      about: I am a Bioinformatics Specialist at City of Hope, but comments represent
+        my own opinions.
+      name: Charles Warden
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/charleswarden/
+      url: https://sites.google.com/site/cwarden45/about-me
+      location: Monrovia, CA
+      id: "84464988"
+    isApproved: true
+    raw_message: >-
+      Also, I am waiting for my other comment to be approved, but I think the
+      template for <b>Figure 5C-G</b> was used for <b>Supplemental Figures
+      S6-S13</b> (without shifting the letters to begin with "A," for each
+      separate cell type)?
+
+
+      Thank you again for developing this tool!
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.05.05.442755v1
+  tweets:
+    - created_at: Tue Jun 08 22:21:38 +0000 2021
+      id: 1402390388904657000
+      id_str: "1402390388904656896"
+      text: >-
+        💬 bioRxiv comment on "STARsolo: accurate, fast and v..."
+
+
+        "Also, I am waiting for my other comment to be approved,… https://t.co/BAeTalhdOh
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/BAeTalhdOh
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jun 08 22:21:38 +0000 2021
+      id: 1402390389823185000
+      id_str: "1402390389823184897"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/xasDNX5GvU
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/xasDNX5GvU
+      in_reply_to_status_id: 1402390388904657000
+      in_reply_to_status_id_str: "1402390388904656896"
