@@ -13004,3 +13004,106 @@
           - url: https://t.co/TqknsPTeBM
       in_reply_to_status_id: 1402076849358966800
       in_reply_to_status_id_str: "1402076849358966789"
+- preprint:
+    id: "144205"
+    doi: 10.1101/2021.06.01.446425
+    first_posted: 2021-06-01
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.01.446425v1
+    url: https://api.rxivist.org/v1/papers/144205
+    title: Brief exposure of neuronal cells to levels of short chain fatty acids
+      observed in human systemic circulation impair the cell lipid metabolism
+      resulting in associated cell death by apoptosis
+    category: neuroscience
+    abstract: Communication between gut microbiota and the brain is an enigma.
+      Alterations in the gut microbial community affects enteric metabolite
+      levels, such as SCFAs. SCFAs have been proposed as a possible mechanism
+      through which the gut microbiome modulate brain health and function. This
+      study analyzed for the first time the effects of SCFAs at levels reported
+      in human systemic circulation on human neuronal cell energy metabolism,
+      viability, survival and the brain lipidome. Cell and rat brain lipidomics
+      was done using UHPLC-HESI-HRAMS/MS. Neuronal cells viability, survival and
+      energy metabolism were analyzed via flow cytometer, immunofluorescence,
+      and SeahorseXF platform. Lipidomics analysis demonstrated that SCFAs
+      significantly remodeled the brain lipidome in vivo and in vitro. The most
+      notable remodulation was observed in the metabolism of
+      phosphatidylethanolamine plasmalogens, and mitochondrial lipids carnitine
+      and cardiolipin. Increased mitochondrial mass, fragmentation, and
+      hyperfusion occurred concomitant with the altered mitochondrial lipid
+      metabolism resulting in decreased neuronal cell respiration, ATP
+      production, and increased cell death. This suggests SCFAs at levels
+      observed in human systemic circulation can adversely alter the brain
+      lipidome and neuronal cell function potentially negatively impacting brain
+      health outcomes.
+    authors:
+      - name: Tiffany A Fillier
+        orcid: http://orcid.org/0000-0002-9663-351X
+      - name: Shrushti Shah
+        orcid: null
+      - name: Karen M Doody
+        orcid: null
+      - name: Thu H Pham
+        orcid: null
+      - name: Isabelle Aubry
+        orcid: null
+      - name: Michel L Tremblay
+        orcid: http://orcid.org/0000-0002-0281-541X
+      - name: Sukhinder K Cheema
+        orcid: null
+      - name: Jacqueline Blundell
+        orcid: null
+      - name: Raymond H Thomas
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8567118713"
+    numReports: 0
+    likes: 0
+    id: "5409003303"
+    createdAt: 2021-06-05T09:58:50
+    author:
+      name: Dr Raymond Thomas
+      url: ""
+      profileUrl: ""
+      emailHash: ""
+    isApproved: true
+    raw_message: Gut microbial metabolites (acetate, propionate and butyrate) at
+      levels measure in human blood circulation can adversely alter the brain
+      lipidome and brain energetics. I encourage my colleagues to look at the
+      work in this paper and consider this an area of further research. There is
+      alot of information in the literature on the  health benefits of short
+      chain fatty acids  but more attention should be placed on effects on brain
+      health.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.06.01.446425v1
+  tweets:
+    - created_at: Tue Jun 08 12:34:48 +0000 2021
+      id: 1402242708547293200
+      id_str: "1402242708547293185"
+      text: >-
+        💬 bioRxiv comment on "Brief exposure of neuronal cel..."
+
+
+        "Gut microbial metabolites (acetate, propionate and butyr… https://t.co/7OLIdJKV14
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/7OLIdJKV14
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jun 08 12:34:48 +0000 2021
+      id: 1402242709335720000
+      id_str: "1402242709335719937"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/GZNbr4J41i
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/GZNbr4J41i
+      in_reply_to_status_id: 1402242708547293200
+      in_reply_to_status_id_str: "1402242708547293185"
