@@ -13426,3 +13426,62 @@
           - url: https://t.co/L3zeAcu6y9
       in_reply_to_status_id: 1402336762987528200
       in_reply_to_status_id_str: "1402336762987528196"
+- preprint:
+    id: 143752
+    metric: 10
+    title: Multi-dimensional analyses identify genes of high priority for pancreatic
+      cancer research
+    url: https://api.rxivist.org/v1/papers/143752
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.05.28.446056v1
+    doi: 10.1101/2021.05.28.446056
+    category: cancer-biology
+    first_posted: 2021-05-28
+    abstract: Genomic profiling has unveiled the molecular subtypes and mutational
+      landscape of pancreatic ductal adenocarcinoma (PDAC). However, there is a
+      knowledge gap on the consistency of gene expression across PDAC tumors
+      profiled in independent studies and this limits follow up research. To
+      facilitate novel drug target prioritization and biomarker discovery, we
+      investigated the most consistently expressed genes in human PDAC. We
+      identified ~4,000 genes highly or lowly expressed in at least 4 of 5
+      microarrays (adjusted P<0.05) and validated their expression pattern in
+      additional datasets, bulk tumor and single-cell RNA sequencing samples.
+      Over 50% of the genes were previously uncharacterized in PDAC; many
+      correlated with proliferation, metastasis, mutation, tumor grade, and ~41%
+      predicted overall survival. We identified 185 high-priority targets
+      (notably in cell cycle and glycolysis) whose inhibition suppressed PDAC
+      cell viability in multiple RNA interference datasets and these genes
+      predicted treatment in mouse models. Our results represent important
+      milestone in the quest for mechanisms, drug targets and biomarkers in
+      PDAC, and originate from an adaptable analytical concept that can aid
+      discovery in other cancers.
+    authors:
+      - name: Zeribe C. Nwosu
+      - name: Heather Giza
+      - name: Maya Nassif
+      - name: Verodia Charlestin
+      - name: Rosa E. Menjivar
+      - name: Daeho Kim
+      - name: Samantha Kemp
+      - name: Nina Steele
+      - name: Jiantao Hu
+      - name: Biao Hu
+      - name: Shaomeng Wang
+      - name: Marina Pasca di Magliano
+      - name: Costas A Lyssiotis
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Tue Jun 08 20:22:59 +0000 2021
+      id: 1402360527720894500
+      id_str: "1402360527720894465"
+      text: >-
+        🔥 bioRxiv Cancer-biology preprint by Z. C. Nwosu et al:
+
+
+        "Multi-dimensional analyses identify genes of high priorit… https://t.co/qdUzKJAvBH
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/qdUzKJAvBH
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
