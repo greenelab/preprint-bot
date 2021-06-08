@@ -12913,3 +12913,94 @@
           - url: https://t.co/xbcm7ufJwN
       in_reply_to_status_id: 1402034712479154200
       in_reply_to_status_id_str: "1402034712479154179"
+- preprint:
+    id: "144820"
+    doi: 10.1101/2021.06.04.447073
+    first_posted: 2021-06-05
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.04.447073v1
+    url: https://api.rxivist.org/v1/papers/144820
+    title: Modeling sequence-space exploration and emergence of epistatic signals in
+      protein evolution
+    category: evolutionary-biology
+    abstract: During their evolution, proteins explore sequence space via an
+      interplay between random mutations and phenotypic selection. Here we build
+      upon recent progress in reconstructing data-driven fitness landscapes for
+      families of homologous proteins, to propose stochastic models of
+      experimental protein evolution. These models predict quantitatively
+      important features of experimentally evolved sequence libraries, like
+      fitness distributions and position-specific mutational spectra. They also
+      allow us to efficiently simulate sequence libraries for a vast array of
+      combinations of experimental parameters like sequence divergence,
+      selection strength and library size. We showcase the potential of the
+      approach in re-analyzing two recent experiments to determine protein
+      structure from signals of epistasis emerging in experimental sequence
+      libraries. To be detectable, these signals require sufficiently large and
+      sufficiently diverged libraries. Our modeling framework offers a
+      quantitative explanation for the variable success of recently published
+      experiments. Furthermore, we can forecast the outcome of time- and
+      resource-intensive evolution experiments, opening thereby a way to
+      computationally optimize experimental protocols.
+    authors:
+      - name: Matteo Bisardi
+        orcid: null
+      - name: Juan Rodriguez-Rivas
+        orcid: null
+      - name: Francesco Zamponi
+        orcid: http://orcid.org/0000-0001-9260-1951
+      - name: Martin Weigt
+        orcid: http://orcid.org/0000-0002-0492-3684
+  comment:
+    dislikes: 0
+    thread: "8574576439"
+    numReports: 0
+    likes: 0
+    id: "5409014907"
+    createdAt: 2021-06-05T10:20:07
+    author:
+      name: Marc Robinson-Rechavi
+      url: ""
+      profileUrl: ""
+      emailHash: ""
+    isApproved: true
+    raw_message: >-
+      Under <b>Data and code availability</b>, the authors write:
+
+
+      <blockquote>The code for evolutionary simulations together with sample notoebooks and data used in the article will be made available on GitHub along with the publication of the manuscript.</blockquote>
+
+
+      This is a publication, i.e. it is made public as part of the scientific record and is citable, thus I strongly invite the authors to make the corresponding GitHub available without delay.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.06.04.447073v1
+  tweets:
+    - created_at: Tue Jun 08 01:35:44 +0000 2021
+      id: 1402076849358966800
+      id_str: "1402076849358966789"
+      text: >-
+        💬 bioRxiv comment on "Modeling sequence-space explor..."
+
+
+        "Under &lt;b&gt;Data and code availability&lt;/b&gt;, the authors wri… https://t.co/4SoUC5l5ye
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/4SoUC5l5ye
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jun 08 01:35:45 +0000 2021
+      id: 1402076850130755600
+      id_str: "1402076850130755595"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/TqknsPTeBM
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/TqknsPTeBM
+      in_reply_to_status_id: 1402076849358966800
+      in_reply_to_status_id_str: "1402076849358966789"
