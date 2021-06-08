@@ -13485,3 +13485,136 @@
           - url: https://t.co/qdUzKJAvBH
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "114844"
+    doi: 10.1101/2020.07.30.20068114
+    first_posted: 2020-08-02
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2020.07.30.20068114v1
+    url: https://api.rxivist.org/v1/papers/114844
+    title: A multicentric, randomized, controlled phase III study of centhaquine
+      (Lyfaquin(R)) as a resuscitative agent in hypovolemic shock patients
+    category: intensive-care-and-critical-care-medicine
+    abstract: "INTRODUCTION: Centhaquine (Lyfaquin(R)) showed significant safety and
+      efficacy in preclinical and clinical phase I and II studies. METHODS: A
+      prospective, multicentric, randomized phase III study was conducted in
+      patients with hypovolemic shock having systolic blood pressure (SBP) of
+      [&le;]90 mm Hg and blood lactate levels of [&ge;]2 mmol/L. Patients were
+      randomized in a 2:1 ratio, 71 patients to the centhaquine group and 34
+      patients to the control (saline) group. Every patient received standard of
+      care (SOC) and was followed for 28 days. The study drug (normal saline or
+      centhaquine (0.01 mg/kg)) was administered in 100 mL of normal saline
+      infusion over 1 hour. The primary objectives were to determine changes
+      (mean through 48 hours) in SBP, diastolic blood pressure (DBP), blood
+      lactate levels, and base deficit. The secondary objectives included the
+      amount of fluids, blood products, vasopressors administered in the first
+      48 hours, duration of hospital stay, time in ICU, time on the ventilator
+      support, change in patient's Acute Respiratory Distress Syndrome (ARDS),
+      Multiple Organ Dysfunction Syndrome (MODS) scores, and the proportion of
+      patients with 28-day all-cause mortality. RESULTS: The demographics of
+      patients and baseline vitals in both groups were comparable. Trauma was
+      the cause of hypovolemic shock in 29.41% of control and 47.06% of
+      centhaquine, gastroenteritis in 44.12% of control, and 29.41% of
+      centhaquine patients. An equal amount of fluids and blood products were
+      administered in both groups during the first 48 hours of resuscitation. A
+      lesser amount of vasopressors was needed in the first 48 hours of
+      resuscitation in the centhaquine group. An increase in SBP from the
+      baseline was consistently higher in the centhaquine group than in the
+      control. A significant increase in pulse pressure in the centhaquine group
+      than the control group suggests improved stroke volume due to centhaquine.
+      The shock index was significantly lower in the centhaquine group than
+      control from 1 hour (p=0.0320) till 4 hours (p=0.0494) of resuscitation.
+      Resuscitation with centhaquine had a significantly greater number of
+      patients with improved blood lactate and the base deficit than the control
+      group. ARDS and MODS improved with centhaquine, and an 8.8% absolute
+      reduction in 28-day all-cause mortality was observed in the centhaquine
+      group. CONCLUSION: Centhaquine is a highly efficacious resuscitative agent
+      for treating hypovolemic shock. The efficacy of centhaquine in
+      distributive shock due to sepsis and COVID-19 is being explored. The study
+      protocol (PMZ-2010/CT-3.1/2018) was approved by the Drug Controller
+      General of India (DCGI), Ministry of Health and Family Welfare, Government
+      of India, and Institutional Ethics Committee of all the 14 Institutions."
+    authors:
+      - name: Anil Gulati
+        orcid: http://orcid.org/0000-0002-7420-4554
+      - name: Rajat Choudhuri
+        orcid: null
+      - name: Ajay Gupta
+        orcid: null
+      - name: Saurabh Singh
+        orcid: http://orcid.org/0000-0001-8038-1808
+      - name: S. K. Noushad Ali
+        orcid: null
+      - name: Gursaran Kaur Sidhu
+        orcid: null
+      - name: Parvez David Haque
+        orcid: null
+      - name: Prashant Rahate
+        orcid: null
+      - name: Aditya R Bothra
+        orcid: null
+      - name: G P Singh
+        orcid: null
+      - name: Sanjeev Maheshwari
+        orcid: null
+      - name: Deepak Jeswani
+        orcid: null
+      - name: Sameer Haveri
+        orcid: null
+      - name: Apurva Agarwal
+        orcid: null
+      - name: Nilesh Radheshyam Agrawal
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8513625128"
+    numReports: 0
+    likes: 0
+    id: "5408406213"
+    createdAt: 2021-06-04T19:32:52
+    author:
+      username: disqus_RkUV3iytSn
+      about: ""
+      name: Anil Gulati
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_RkUV3iytSn/
+      url: ""
+      location: ""
+      id: "370446934"
+    isApproved: true
+    raw_message: This article is published in DRUGS. DOI
+      https://doi.org/10.1007/s40265-021-01547-5
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2020.07.30.20068114v4
+  tweets:
+    - created_at: Tue Jun 08 20:26:53 +0000 2021
+      id: 1402361511184679000
+      id_str: "1402361511184678915"
+      text: |-
+        💬 medRxiv comment on "A multicentric, randomized, co..."
+
+        "This article is published in DRUGS. DOI "
+
+        https://t.co/3joH9eCSO9
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/3joH9eCSO9
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jun 08 20:26:53 +0000 2021
+      id: 1402361511885017000
+      id_str: "1402361511885017088"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/vkjuniyTA1
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/vkjuniyTA1
+      in_reply_to_status_id: 1402361511184679000
+      in_reply_to_status_id_str: "1402361511184678915"
