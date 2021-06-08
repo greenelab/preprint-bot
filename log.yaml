@@ -13217,3 +13217,101 @@
           - url: https://t.co/fIgXlfTSzw
       in_reply_to_status_id: 1402271281064693800
       in_reply_to_status_id_str: "1402271281064693764"
+- preprint:
+    id: "87572"
+    doi: 10.1101/2020.06.15.153056
+    first_posted: 2020-06-16
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.06.15.153056v2
+    url: https://api.rxivist.org/v1/papers/87572
+    title: Enhancing Mask Activity in Dopaminergic Neurons Extends Lifespan in Flies
+    category: neuroscience
+    abstract: Dopaminergic neurons (DANs) are essential modulators for brain
+      functions involving memory formation, reward processing, and decision
+      making. Here I demonstrate a novel and important function of the DANs in
+      regulating aging and longevity. Overexpressing the putative scaffolding
+      protein Mask in two small groups of DANs in flies can significantly extend
+      the lifespan in flies and sustain adult locomotor and fecundity at old
+      ages. Such a Mask-induced beneficial effect requires dopaminergic
+      transmission but cannot be recapitulated by elevating dopamine production
+      in the DANs. Independent activation of Gs in the same two groups of DANs
+      via the drug-inducible DREADD system also extends fly lifespan, further
+      indicating the connection of specific DANs to aging control. The
+      Mask-induced lifespan extension appears to depend on the function of Mask
+      to regulate microtubule (MT) stability. A structure-function analysis
+      demonstrated that the ankyrin repeats domain in the Mask protein is both
+      necessary for regulating MT stability (when expressed in muscles and motor
+      neurons) and sufficient to prolong longevity (when expressed in the two
+      groups of DANs). Furthermore, DAN-specific overexpression of Unc-104 or
+      knockdown of p150Glued, two independent interventions previously shown to
+      impact MTs dynamics, also extend lifespan in flies. Together these data
+      demonstrated a novel DANs-dependent mechanism that, upon neuronal
+      cell-type specific tuning of MT dynamics, modulates systemic aging and
+      longevity in flies.
+    authors:
+      - name: Xiaolin Tian
+        orcid: http://orcid.org/0000-0001-8898-1664
+  comment:
+    dislikes: 0
+    thread: "8486628525"
+    numReports: 0
+    likes: 0
+    id: "5408432537"
+    createdAt: 2021-06-04T19:55:41
+    author:
+      username: layalsuboh
+      about: ""
+      name: LAYAL SUBOH
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/layalsuboh/
+      url: ""
+      location: ""
+      id: "370447791"
+    isApproved: true
+    raw_message: >-
+      This was a great and very interesting paper to read. The figures were easy
+      to read and use of the color was really helpful to visualize the results.
+      However, I think that in figure 1D, including a table or figure legend to
+      explain what the various colors are in the diagram would be very helpful.
+      Also, the paper and figures switch between referring to PAM dopaminergic
+      neurons as 0273, which can be a little confusing, so keeping the notation
+      consistent would be great. 
+
+
+      I understand that you overexpress Mask from birth, but would it be possible to let the flies grow up and then induce Mask overexpression to see whether the same phenotype is observed? This could avoid any complications with Mask’s potential role in development and other signaling pathways. Also, exploring what the flies are dying of that Mask overexpression avoids would make your argument of Mask’s role in increasing survivorship stronger. I found it very interesting that increasing microtubule dynamics increased lifespan, but I think that more clearly showing how/why Mask increases microtubule dynamics would strengthen the association between microtubules, Mask, and lifespan. Perhaps including a coimmunoprecipitation to show Mask’s interacting partners or showing how Unc-104 or P150 glued are affected due to Mask overexpression would make this association clearer. 
+
+
+      It is truly commendable you were able to generate these results on your own, so please keep up the great work! I look forward to reading your future research
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.06.15.153056v3
+  tweets:
+    - created_at: Tue Jun 08 16:48:57 +0000 2021
+      id: 1402306666687774700
+      id_str: "1402306666687774724"
+      text: >-
+        💬 bioRxiv comment on "Enhancing Mask Activity in Dop..."
+
+
+        "This was a great and very interesting paper to read. The… https://t.co/mAM8xLk6GT
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/mAM8xLk6GT
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jun 08 16:48:57 +0000 2021
+      id: 1402306667577057300
+      id_str: "1402306667577057286"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/MC2P104ipf
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/MC2P104ipf
+      in_reply_to_status_id: 1402306666687774700
+      in_reply_to_status_id_str: "1402306666687774724"
