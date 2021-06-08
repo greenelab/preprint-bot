@@ -13315,3 +13315,114 @@
           - url: https://t.co/MC2P104ipf
       in_reply_to_status_id: 1402306666687774700
       in_reply_to_status_id_str: "1402306666687774724"
+- preprint:
+    id: "105266"
+    doi: 10.1101/2020.10.19.20215392
+    first_posted: 2020-10-21
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2020.10.19.20215392v2
+    url: https://api.rxivist.org/v1/papers/105266
+    title: "ANTsX: A dynamic ecosystem for quantitative biological and medical
+      imaging"
+    category: radiology-and-imaging
+    abstract: The Advanced Normalizations Tools ecosystem, known as ANTsX, consists
+      of multiple open-source software libraries which house top-performing
+      algorithms used worldwide by scientific and research communities for
+      processing and analyzing biological and medical imaging data. The base
+      software library, ANTs, is built upon, and contributes to, the
+      NIH-sponsored Insight Toolkit. Founded in 2008 with the highly regarded
+      Symmetric Normalization image registration framework, the ANTs library has
+      since grown to include additional functionality. Recent enhancements
+      include statistical, visualization, and deep learning capabilities through
+      interfacing with both the R statistical project (ANTsR) and Python
+      (ANTsPy). Additionally, the corresponding deep learning extensions
+      ANTsRNet and ANTsPyNet (built on the popular TensorFlow/Keras libraries)
+      contain several popular network architectures and trained models for
+      specific applications. One such comprehensive application is a deep
+      learning analog for generating cortical thickness data from structural
+      T1-weighted brain MRI. Not only does this significantly improve
+      computational efficiency and provide comparable-to-superior accuracy over
+      multiple criteria relative to the existing ANTs pipelines but it also
+      illustrates the importance of the comprehensive ANTsX approach as a
+      framework for medical image analysis.
+    authors:
+      - name: Nicholas J. Tustison
+        orcid: http://orcid.org/0000-0001-9418-5103
+      - name: Philip A. Cook
+        orcid: http://orcid.org/0000-0002-1985-8475
+      - name: Andrew J. Holbrook
+        orcid: http://orcid.org/0000-0002-3558-200X
+      - name: Hans J. Johnson
+        orcid: http://orcid.org/0000-0001-9513-2660
+      - name: John Muschelli
+        orcid: http://orcid.org/0000-0001-6469-1750
+      - name: Gabriel A Devenyi
+        orcid: http://orcid.org/0000-0002-7766-1187
+      - name: Jeffrey T. Duda
+        orcid: http://orcid.org/0000-0002-5031-5735
+      - name: Sandhitsu R. Das
+        orcid: http://orcid.org/0000-0003-0530-2887
+      - name: Nicholas C. Cullen
+        orcid: null
+      - name: Daniel L. Gillen
+        orcid: http://orcid.org/0000-0003-0200-1771
+      - name: Michael A. Yassa
+        orcid: http://orcid.org/0000-0002-8635-1498
+      - name: James R. Stone
+        orcid: null
+      - name: James Gee
+        orcid: http://orcid.org/0000-0002-2258-0187
+      - name: Brian B. Avants
+        orcid: http://orcid.org/0000-0002-4212-3362
+  comment:
+    dislikes: 0
+    thread: "8424573660"
+    numReports: 0
+    likes: 0
+    id: "5408431583"
+    createdAt: 2021-06-04T19:54:51
+    author:
+      username: nicktustison
+      about: ""
+      name: Nick Tustison
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/nicktustison/
+      url: ""
+      location: ""
+      id: "370447806"
+    isApproved: true
+    raw_message: https://www.nature.com/articles/s41598-021-87564-6
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2020.10.19.20215392v7
+  tweets:
+    - created_at: Tue Jun 08 18:48:33 +0000 2021
+      id: 1402336762987528200
+      id_str: "1402336762987528196"
+      text: |-
+        💬 medRxiv comment on "ANTsX: A dynamic ecosystem for..."
+
+        ""
+
+        https://t.co/Dic9usX95e
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/Dic9usX95e
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jun 08 18:48:33 +0000 2021
+      id: 1402336763813695500
+      id_str: "1402336763813695503"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/L3zeAcu6y9
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/L3zeAcu6y9
+      in_reply_to_status_id: 1402336762987528200
+      in_reply_to_status_id_str: "1402336762987528196"
