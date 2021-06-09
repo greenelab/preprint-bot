@@ -14347,3 +14347,80 @@
           - url: https://t.co/oTURmeVcNy
       in_reply_to_status_id: 1402697290683400200
       in_reply_to_status_id_str: "1402697290683400198"
+- preprint:
+    id: 120002
+    metric: 65
+    title: "Thinking ahead: prediction in context as a keystone of language in
+      humans and machines"
+    url: https://api.rxivist.org/v1/papers/120002
+    biorxiv_url: https://biorxiv.org/content/10.1101/2020.12.02.403477v1
+    doi: 10.1101/2020.12.02.403477
+    category: neuroscience
+    first_posted: 2020-12-03
+    abstract: Departing from classical rule-based linguistic models, advances in
+      deep learning have led to the development of a new family of
+      self-supervised deep language models (DLMs). These models are trained
+      using a simple self-supervised autoregressive objective, which aims to
+      predict the next word in the context of preceding words in real-life
+      corpora. After training, autoregressive DLMs are able to generate new
+      'context-aware' sentences with appropriate syntax and convincing semantics
+      and pragmatics. Here we provide empirical evidence for the deep connection
+      between autoregressive DLMs and the human language faculty using a 30-min
+      spoken narrative and electrocorticographic (ECoG) recordings.
+      Behaviorally, we demonstrate that humans have a remarkable capacity for
+      word prediction in natural contexts, and that, given a sufficient context
+      window, DLMs can attain human-level prediction performance. Next, we
+      leverage DLM embeddings to demonstrate that many electrodes spontaneously
+      predict the meaning of upcoming words, even hundreds of milliseconds
+      before they are perceived. Finally, we demonstrate that contextual
+      embeddings derived from autoregressive DLMs capture neural representations
+      of the unique, context-specific meaning of words in the narrative. Our
+      findings suggest that deep language models provide an important step
+      toward creating a biologically feasible computational framework for
+      generative language.
+    authors:
+      - name: Ariel Goldstein
+      - name: Zaid Zada
+      - name: Eliav Buchnik
+      - name: Mariano Schain
+      - name: Amy Price
+      - name: Bobbi Aubrey
+      - name: Christopher A Baldassano
+      - name: Amir Feder
+      - name: Dotan Emanuel
+      - name: Alon Cohen
+      - name: Aren Jansen
+      - name: Harshvardhan Gazula
+      - name: Gina Choe
+      - name: Aditi Rao
+      - name: Catherine Kim
+      - name: Colton Casto
+      - name: Fanda Lora
+      - name: Adeen Flinker
+      - name: Sasha Devore
+      - name: Werner Doyle
+      - name: Patricia Dugan
+      - name: Daniel Friedman
+      - name: Avinatan Hassidim
+      - name: Michael Brenner
+      - name: Yossi Matias
+      - name: Ken A. Norman
+      - name: Orrin Devinsky
+      - name: Uri Hasson
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Wed Jun 09 20:15:42 +0000 2021
+      id: 1402721085469212700
+      id_str: "1402721085469212673"
+      text: >-
+        🔥 bioRxiv Neuroscience preprint by A. Goldstein et al:
+
+
+        "Thinking ahead: prediction in context as a keystone of lan… https://t.co/69OzBsWyUm
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/69OzBsWyUm
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
