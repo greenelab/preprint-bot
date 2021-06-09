@@ -13942,3 +13942,196 @@
           - url: https://t.co/ra9kWBN9C4
       in_reply_to_status_id: 1402604585164763100
       in_reply_to_status_id_str: "1402604585164763138"
+- preprint:
+    id: "139933"
+    doi: 10.1101/2021.04.27.441590
+    first_posted: 2021-04-28
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.04.27.441590v1
+    url: https://api.rxivist.org/v1/papers/139933
+    title: A massively parallel reporter assay reveals focused and broadly encoded
+      RNA localization signals in neurons
+    category: genomics
+    abstract: "Asymmetric subcellular localization of mRNA is a common cellular
+      phenomenon that is thought to contribute to spatial gene regulation. In
+      highly polar neurons, subcellular transcript localization and translation
+      are thought to enhance cellular efficiency and timely responses to
+      external cues. Although mRNA localization has been observed in many
+      tissues and numerous examples of the functional importance of this process
+      exist, we still lack a systematic understanding of how the transcript
+      sorting machinery works in a sequence-specific manner. Here, we addressed
+      these gaps by combining subcellular transcriptomics and rationally
+      designed sequence libraries. We developed a massively parallel reporter
+      assay (MPRA) for mRNA localization and tested ~50,000 sequences for their
+      ability to drive RNA localization to neurites of neuronal cell lines. By
+      scanning the 3'UTR of >300 genes we identified many previously unknown
+      localization regions and mapped the localization potential of endogenous
+      sequences. Our data suggest two ways the localization potential can be
+      encoded in the 3'UTR: focused localization motifs and broadly encoded
+      localization potential based on small contributions. We identified
+      sequence motifs enriched in dendritically localized transcripts and tested
+      the potential of these motifs to affect the localization behavior of an
+      mRNA. This assay revealed sequence elements with the ability to bias
+      localization towards neurite as well as soma. Depletion of RNA binding
+      proteins predicted or experimentally shown to bind these motifs abolished
+      the effect on localization, suggesting that these motifs act by recruiting
+      specific RNA-binding proteins. Based on our dataset we developed machine
+      learning models that accurately predict the localization behavior of novel
+      sequences. Testing this predictor on native mRNA sequencing data showed
+      good agreement between predicted and observed localization potential,
+      suggesting that the rules uncovered by our MPRA also apply to the
+      localization of native transcripts. Applying similar systematic
+      high-throughput approaches to other cell types will open the door for a
+      comparative perspective on RNA localization across tissues and reveal the
+      commonalities and differences of this crucial regulatory mechanism."
+    authors:
+      - name: Martin Mikl
+        orcid: http://orcid.org/0000-0001-8913-7158
+      - name: Davide Eletto
+        orcid: http://orcid.org/0000-0002-2650-1968
+      - name: Minkyoung Lee
+        orcid: http://orcid.org/0000-0002-3956-7288
+      - name: Atefeh Lafzi
+        orcid: http://orcid.org/0000-0003-4237-4847
+      - name: Farah Mhamedi
+        orcid: null
+      - name: Simona Baghai Sain
+        orcid: http://orcid.org/0000-0002-2357-7027
+      - name: Kristina Handler
+        orcid: http://orcid.org/0000-0001-8952-6487
+      - name: Andreas E. Moor
+        orcid: http://orcid.org/0000-0001-8715-8449
+  comment:
+    dislikes: 0
+    thread: "8497125718"
+    numReports: 0
+    likes: 0
+    id: "5412912512"
+    createdAt: 2021-06-08T19:43:21
+    author:
+      username: sethvigneron
+      about: ""
+      name: Seth Vigneron
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/sethvigneron/
+      url: ""
+      location: ""
+      id: "370643658"
+    isApproved: true
+    raw_message: >-
+      Summary:
+
+      This manuscript by Mikl, M., et al, aims to understand how RNA transcript subcellular localization signals are encoded in 3’ UTR sequences. To this end, the authors designed an MPRA to test thousands of 3’ UTR sequences in parallel. The authors transfect the library to neural cells grown in microporous membranes which allows them to separate the soma from the neurites and subsequently sequence the transcripts in each. The results from the MPRA demonstrate that only a subset of transcripts are enriched in the soma or neurites fractions and localization signals encoded in the 3’ UTR are sufficient to drive transcript localization. The authors then validate a subset of their enriched transcripts via smFISH demonstrating their MPRA mimics endogenous transcript localization. The authors proceed to analyze the sequence of enriched transcripts via mutagenesis and insertions which elucidates that RNA binding proteins (RBPs) largely prevent localization of transcripts to neurites. The authors then follow up their investigations with the creation and validation of longer, novel synthetic 3’UTR sequences capable of neurite enrichment, with subsequent biochemical pulldowns of cell lysates identifying RBP’s necessary for localization. Utilizing their vast dataset of 3’UTR localizing motifs, the authors generated two computational models, one trained on known RBP binding sites and the other assessing all possible sets of 4mers within the sequence, that could successfully predict the localization behavior of unseen 3’UTRs through the estimation of the combined contributions of multiple individual directing sequence elements.
+
+
+      The major success of this manuscript is in the development of a high-throughput assay to elucidate 3’ UTR encoded transcript localization signals and generation of machine learning models that predict subcellular transcript localization. Overall, we think this manuscript is of high impact and relevance to understand the mechanisms underlying mRNA transcript localization. 
+
+
+      Below are the major and minor points that should be addressed before the manuscript is published to aid interpretation. 
+
+
+      Major Points:
+
+      A major concern we have is that the authors mention previous transcript localization studies have very little overlap on enriched dendritically localized transcripts. The authors attributed the lack of overlap to different experimental set ups and cell-types used.  Therefore, the manuscript would be improved by adding a brief explanation as to how their experimental set up and cell types used contrast with previous methods and why their approach might be a better method to identify localization signals encoded in the RNA transcripts. Is there any agreement with previous studies that shed light on biases of the different approaches? Comments on these points will assure readers of the broader significance of their findings and not just the cell type used in the study. 
+
+
+      Reasoning for the cell type used (CAD and Neuro2a cells) is not explained until the discussion and when mentioned it is not very clear. The manuscript would benefit from a brief explanation of cell type choice when authors explain the final library is transfected into CAD and Neuro2a cells in the results section. 
+       
+      Regarding the differentiation protocol of Neuro2a and CAD cells, the authors mention in the methods section that they induced differentiation via serum starvation to differentiate cells into a “more neuron-like phenotype”. However, they do not specify at what day post-differentiation the MPRA experiment is done. Consider adding the day of differentiation assays are done. Also,  the manuscript would greatly benefit from IF, qPCR, or WB for neuronal markers to know the cell-type population used in this study, as transcriptional control is largely cell-type dependent. 
+
+
+      Minor Points:
+
+      Not clear if or how the author's account for the effects differential expression of transcripts and transfection of constructs might have on their output library. 
+
+
+      Figure 1A: The experimental outline can be improved to aid the reader understand the library design. The construct used in the library could be edited to include what promoter is upstream of GFP, GFP, the 12 nucleotide barcode, the 150 nucleotide sequence, and the pA-site.
+
+
+
+      When the authors test the hypothesis that localization potential in RNA is broadly encoded in the 3’ UTR they refer to the experimental setup from Taliaferro et al., 2016 (second line on page 7). To make the experiments clearer for researchers across fields, we suggest adding a brief explanation of the experimental set up. 
+
+
+      Figure 2: This figure could be improved by re-organizing the order of the panels such that it is easier for the redear to follow the panels from A to F. 
+       
+      Figure 2D: Not entirely clear why they include St6gal1 on figure 2D without mentioning in the text. We suggest adding a sentence explanation in the main text. 
+
+
+      Figure 2D and 2E: For smFISH images and quantification, was there a control construct with just GFP? If data is available, the authors should show the image of the ‘normal’ distribution of GFP and then use it as a normalization control for their quantification on 2E. 
+       
+      Figure 2: No example graph of a broadly encoded transcript is included. Since this is a major conclusion from the paper we suggest the graph to be moved from the supplementary figures to figure 2.  
+
+
+      In the main text when authors explain the broadly encoded signals might have “many small contributions making up the net localization behavior” it is not clear what they mean by that. A brief explanation of what “small contributions” could be will help make their results more clear to the reader. 
+
+
+      For RNAi experiments, it is not clear the extent of knockdown for targets as qRT-PCR data mentioned in the methods section is not presented. The qRT-PCR data should be included in the supplementary figures.
+
+
+      When AGGUA is inserted 1 to 4 times (5th line on page 9) Where is the sequence inserted (at what position(s), throughout the transcript, one after another, etc.)?
+
+
+      After the knockdown experiments the authors state that “Dazap1 is one mechanism underlying soma enrichment”. To ascertain this is the mechanism responsible for retention of transcripts in the soma, the knockdown experiments could benefit by the addition of rescuing DAzap1 and see if that rescues the negative effect. 
+
+
+      It is unclear as to how the MEME Suite generates the de novo synthetic sequences, how many were generated, and what was the range in sequence lengths. A brief, yet more explicit description in the main text of how these synthetic sequences were generated and then ‘introduced in native contexts’, e.g. were they added to the end/beginning/within existing 3’UTRs, would help the reader better understand your experimentation.
+
+
+      Figure 4B and 4C: The vast majority of the synthetic motifs appear to be shifted towards more negative logFC’s indicating increased soma localization. While the success of SU1 is impressive, the low replicability should be mentioned as a caveat in the main text and it’s potential causes speculated upon in the discussion.
+
+
+      The analysis of the proteomics data should be better explained either within the text or figure captions. Figures 5B, 5D, and 5E are very difficult to understand without any explanation as to how to interpret them in the text. 
+
+
+      Figure 5: It appears that the plots in Figure 5D and 5E have been switched based on their references in the main text.
+
+
+      The font size of Figure 5C, 5D, and 5E is much too small to be legible and easily understood.
+
+
+      Figure 5F: It would greatly help with clarity for the meaning of the red vertical line to be indicated within the plot itself and not solely within the figure caption as it is vital for data interpretation.
+
+
+      Consider adding more background into why Celf1 and Celf6 were chosen for validation over the other 23 identified proteins. It would be valuable to state the known, or utilize experimentation to determine, the pathway by which these proteins binding to the 3’UTR shuttles them to the neurite. In other words, what is the entire mechanism for neurite localization, not just the identity of the RBP. 
+
+
+      There is an inconsistency in the spelling of ‘4mer’ (as spelled in the main text and caption) and ‘fourmer’ as it appears in Figure 6A. There is also never a direct definition of what the 4mers are and what information they convey to the computational model. 
+
+
+      Some speculation into the power of your computational model would be helpful in the determination of its use in future projects. How might further iterations and optimizations be done to improve the auROC?
+
+
+      Reviewed by Seth Vigneron (UCSF) and Dianne Laboy Cintron (UCSF)
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.04.27.441590v1
+  tweets:
+    - created_at: Wed Jun 09 14:23:40 +0000 2021
+      id: 1402632491249328000
+      id_str: "1402632491249328128"
+      text: |-
+        💬 bioRxiv comment on "A massively parallel reporter ..."
+
+        "Summary:
+        This manuscript by Mikl, M., et al, aims to und… https://t.co/QXjhNc1c6s
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/QXjhNc1c6s
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed Jun 09 14:23:40 +0000 2021
+      id: 1402632492226646000
+      id_str: "1402632492226646019"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/FtlDs4ZIQW
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/FtlDs4ZIQW
+      in_reply_to_status_id: 1402632491249328000
+      in_reply_to_status_id_str: "1402632491249328128"
