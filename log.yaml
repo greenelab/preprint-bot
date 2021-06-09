@@ -14135,3 +14135,117 @@
           - url: https://t.co/FtlDs4ZIQW
       in_reply_to_status_id: 1402632491249328000
       in_reply_to_status_id_str: "1402632491249328128"
+- preprint:
+    id: "144743"
+    doi: 10.1101/2021.06.03.21258228
+    first_posted: 2021-06-04
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.03.21258228v1
+    url: https://api.rxivist.org/v1/papers/144743
+    title: Persistent SARS-CoV-2 infection and intra-host evolution in association
+      with advanced HIV infection
+    category: infectious-diseases
+    abstract: While most people effectively clear SARS-CoV-2, there are several
+      reports of prolonged infection in immunosuppressed individuals. Here we
+      present a case of prolonged infection of greater than 6 months with the
+      shedding of high titter SARS-CoV-2 in an individual with advanced HIV and
+      antiretroviral treatment failure. Through whole-genome sequencing at
+      multiple time points, we demonstrate the early emergence of the E484K
+      substitution associated with escape from neutralizing antibodies, followed
+      by other escape mutations and the N501Y substitution found in most
+      variants of concern. This provides support to the hypothesis of intra-host
+      evolution as one mechanism for the emergence of SARS-CoV-2 variants with
+      immune evasion properties.
+    authors:
+      - name: Farina Karim
+        orcid: null
+      - name: Mohamed YS Moosa
+        orcid: null
+      - name: Bernadett Gosnell
+        orcid: null
+      - name: Cele Sandile
+        orcid: null
+      - name: Jennifer Giandhari
+        orcid: null
+      - name: Sureshnee Pillay
+        orcid: null
+      - name: Houriiyah Tegally
+        orcid: null
+      - name: Eduan Wilkinson
+        orcid: http://orcid.org/0000-0002-2503-9441
+      - name: Emmanuel James San
+        orcid: null
+      - name: Nokukhanya Msomi
+        orcid: null
+      - name: Koleka Mlisana
+        orcid: null
+      - name: Khadija Khan
+        orcid: null
+      - name: Mallory Bernstein
+        orcid: null
+      - name: Nithendra Manickchund Nithendra
+        orcid: null
+      - name: Lavanya Singh
+        orcid: null
+      - name: Upasana Ramphal
+        orcid: null
+      - name: Willem Hanekom
+        orcid: http://orcid.org/0000-0003-3070-6154
+      - name: Richard J. Lessells
+        orcid: null
+      - name: Alex Sigal
+        orcid: http://orcid.org/0000-0001-8571-2004
+      - name: Tulio de Oliveira
+        orcid: http://orcid.org/0000-0002-3027-5254
+  comment:
+    dislikes: 0
+    thread: "8573294551"
+    numReports: 0
+    likes: 0
+    id: "5412838137"
+    createdAt: 2021-06-08T18:41:47
+    author:
+      username: keithflippen
+      about: ""
+      name: Keith Flippen
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/keithflippen/
+      url: ""
+      location: ""
+      id: "73788638"
+    isApproved: true
+    raw_message: Was there tracking of HIV viral load and T cell count during the
+      infection and are numbers known prior to COVID?
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.06.03.21258228v1
+  tweets:
+    - created_at: Wed Jun 09 16:41:13 +0000 2021
+      id: 1402667108455039000
+      id_str: "1402667108455038978"
+      text: >-
+        💬 medRxiv comment on "Persistent SARS-CoV-2 infectio..."
+
+
+        "Was there tracking of HIV viral load and T cell count du… https://t.co/OsnI5B9EoL
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/OsnI5B9EoL
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed Jun 09 16:41:13 +0000 2021
+      id: 1402667109289709600
+      id_str: "1402667109289709574"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/SqCeSJAv1Y
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/SqCeSJAv1Y
+      in_reply_to_status_id: 1402667108455039000
+      in_reply_to_status_id_str: "1402667108455038978"
