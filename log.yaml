@@ -13708,3 +13708,116 @@
           - url: https://t.co/xasDNX5GvU
       in_reply_to_status_id: 1402390388904657000
       in_reply_to_status_id_str: "1402390388904656896"
+- preprint:
+    id: "140951"
+    doi: 10.1101/2021.05.05.442755
+    first_posted: 2021-05-05
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.05.05.442755v1
+    url: https://api.rxivist.org/v1/papers/140951
+    title: "STARsolo: accurate, fast and versatile mapping/quantification of
+      single-cell and single-nucleus RNA-seq data"
+    category: bioinformatics
+    abstract: We present STARsolo, a comprehensive turnkey solution for quantifying
+      gene expression in single-cell/nucleus RNA-seq data, built into RNA-seq
+      aligner STAR. Using simulated data that closely resembles realistic
+      scRNA-seq, we demonstrate that STARsolo is highly accurate and
+      significantly outperforms pseudoalignment-to-transcriptome tools. STARsolo
+      can replicate the results of, but is considerably faster than CellRanger,
+      currently the most widely used tool for pre-processing scRNA-seq data. In
+      addition to uniquely mapped reads, STARsolo takes account of multi-gene
+      reads, necessary to detect certain classes of biologically important
+      genes. It has a flexible cell barcode processing scheme, compatible with
+      many established scRNA-seq protocols, and extendable to emerging
+      technologies. STARsolo can quantify transcriptomic features beyond gene
+      expression, which we illustrate by analyzing cell-type-specific
+      alternative splicing in the Tabula Muris project.
+    authors:
+      - name: Benjamin Kaminow
+        orcid: http://orcid.org/0000-0002-2266-3353
+      - name: Dinar Yunusov
+        orcid: http://orcid.org/0000-0003-3478-7203
+      - name: Alexander Dobin
+        orcid: http://orcid.org/0000-0002-4115-9128
+  comment:
+    dislikes: 0
+    thread: "8507723355"
+    numReports: 0
+    likes: 0
+    id: "5412792816"
+    createdAt: 2021-06-08T18:04:03
+    author:
+      username: charleswarden
+      about: I am a Bioinformatics Specialist at City of Hope, but comments represent
+        my own opinions.
+      name: Charles Warden
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/charleswarden/
+      url: https://sites.google.com/site/cwarden45/about-me
+      location: Monrovia, CA
+      id: "84464988"
+    isApproved: true
+    raw_message: >-
+      Hi,
+
+
+      Thank you very much for posting this preprint.
+
+
+      I am working on trying to read through the manuscript more carefully, which I hope can improve my understanding of <i>STARsolo</i> as well the regular <i>STAR</i> alignment.  I also thought the different results with varying settings of <i>Alevin</i> was interesting and important.
+
+
+      However, in the meantime, I believe that you have a minor error in one of your references:
+
+
+      [30]. R. S. Brüning et al. Comparative Analysis of Common Alignment Tools for Single Cell RNA Sequencing. <u><b>preprint. Bioinformatics</b></u>, 2021. doi: 10.1101/2021.02.15.430948.
+
+
+      I think this should be a bioRxiv preprint (not a Bioinformatics preprint)?
+
+
+      For example, the DOI leads to this reference:
+
+
+      https://www.biorxiv.org/content/10.1101/2021.02.15.430948v2
+
+
+      Thanks Again,
+
+      Charles
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.05.05.442755v1
+  tweets:
+    - created_at: Wed Jun 09 01:10:59 +0000 2021
+      id: 1402433006300713000
+      id_str: "1402433006300712960"
+      text: |-
+        💬 bioRxiv comment on "STARsolo: accurate, fast and v..."
+
+        "Hi,
+
+        Thank you very much for posting this preprint.
+
+        I a… https://t.co/ZH7HHMwgYq
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/ZH7HHMwgYq
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed Jun 09 01:10:59 +0000 2021
+      id: 1402433007164838000
+      id_str: "1402433007164837891"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/xasDNWO5Em
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/xasDNWO5Em
+      in_reply_to_status_id: 1402433006300713000
+      in_reply_to_status_id_str: "1402433006300712960"
