@@ -13821,3 +13821,124 @@
           - url: https://t.co/xasDNWO5Em
       in_reply_to_status_id: 1402433006300713000
       in_reply_to_status_id_str: "1402433006300712960"
+- preprint:
+    id: "143606"
+    doi: 10.1101/2021.05.26.445837
+    first_posted: 2021-05-27
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.05.26.445837v1
+    url: https://api.rxivist.org/v1/papers/143606
+    title: Loose ends in cancer genome structure
+    category: genomics
+    abstract: Recent pan-cancer studies have delineated patterns of structural
+      genomic variation across thousands of tumor whole genome sequences. It is
+      not known to what extent the shortcomings of short read ([&le;] 150 bp)
+      whole genome sequencing (WGS) used for structural variant analysis has
+      limited our understanding of cancer genome structure. To formally address
+      this, we introduce the concept of "loose ends" - copy number alterations
+      that cannot be mapped to a rearrangement by WGS but can be indirectly
+      detected through the analysis of junction-balanced genome graphs.
+      Analyzing 2,319 pan-cancer WGS cases across 31 tumor types, we found loose
+      ends were enriched in reference repeats and fusions of the mappable genome
+      to repetitive or foreign sequences. Among these we found genomic
+      footprints of neotelomeres, which were surprisingly enriched in cancers
+      with low telomerase expression and alternate lengthening of telomeres
+      phenotype. Our results also provide a rigorous upper bound on the role of
+      non-allelic homologous recombination (NAHR) in large-scale cancer
+      structural variation, while nominating INO80, FANCA, and ARID1A as
+      positive modulators of somatic NAHR. Taken together, we estimate that
+      short read WGS maps >97% of all large-scale (>10 kbp) cancer structural
+      variation; the rest represent loose ends that require long molecule
+      profiling to unambiguously resolve. Our results have broad relevance for
+      future research and clinical applications of short read WGS and delineate
+      precise directions where long molecule studies might provide
+      transformative insight into cancer genome structure.
+    authors:
+      - name: Julie M Behr
+        orcid: http://orcid.org/0000-0001-8601-4902
+      - name: Xiaotong Yao
+        orcid: http://orcid.org/0000-0002-5140-6639
+      - name: Kevin Hadi
+        orcid: http://orcid.org/0000-0003-4271-6261
+      - name: Huasong Tian
+        orcid: http://orcid.org/0000-0002-0079-538X
+      - name: Aditya Deshpande
+        orcid: http://orcid.org/0000-0002-4463-2697
+      - name: Joel Rosiene
+        orcid: http://orcid.org/0000-0002-8610-370X
+      - name: Titia de Lange
+        orcid: http://orcid.org/0000-0002-9267-367X
+      - name: Marcin Imielinski
+        orcid: http://orcid.org/0000-0002-2211-4741
+  comment:
+    dislikes: 0
+    thread: "8556410171"
+    numReports: 0
+    likes: 0
+    id: "5413275186"
+    createdAt: 2021-06-09T02:14:15
+    author:
+      username: disqus_yrjh6NA1Ln
+      about: ""
+      name: Daniel Cameron
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_yrjh6NA1Ln/
+      url: ""
+      location: ""
+      id: "370661701"
+    isApproved: true
+    raw_message: >-
+      Very catchy title and some quite interesting results. Xiaotong Yao
+      suggested I raise my terminology concerns as a biorxiv comment:
+
+      ‘Loose ends’ is a catchy title but I am concerned that the use of new terminology for existing concepts has the potential to confuse readers. The definition you are using for ‘loose ends’ is equivalent to concept of a single breakend variant defined in the VCFv4.1 specifications about a decade ago.
+       
+      Whilst it is only recently that variant callers have actually explicitly reported VCF single breakends (GRIDSS2 from SR/OEA/breakend assemblies, PURPLE from unexplained CN transitions), the loose end/single breakend concept has a long history of implicit usage. For example, NovelSeq (Sahinalp, 2010) uses an orientation-constrained assembly approach (OEA+/OEA-) very similar to that of jabba to produce what this paper calls loose end assemblies (although what NovelSeq does afterwards is different). The assembly similarity can also be seen in GRIDSS1 which uses the terms ‘breakend assembly’ and ‘anchoring reads’ when discussing it’s separate assemblies of forward/- and backward/+ orientation reads/breaks. Viral integration detection software has a similar history of implicit usage of loose ends/single breakends without explicitly using either terminology (only the recently published VIRUSBreakend uses the term).
+       
+      In summary, this paper would benefit from briefing mentioning the long history of the loose end concept, and how it has been incorporated into existing tools.
+       
+      ---
+
+      Some additional thoughts to consider:
+       
+      One interesting benchmarking comparison you could incorporate is against WEAVER. It also generates junction-balanced breakpoint graphs using integer programming, but its conceptual model does not appear to include single breakends. In my benchmarking (https://doi.org/10.1101/781013, Figure 3), I found that weaver failed badly on some samples and I suspect this was due to missing high copy SVs causing all junction balancing solutions to be terrible (thus reporting unbelievable ASCNs). Comparing to WEAVER (or comparing jabba MIP results with/without single breakend support) would be a good demonstration of how essential single breakend support is to the junction balancing process itself.
+       
+      > we found that almost half (48%, 12,068 of 25,271) of loose ends arose from Type 0 junctions that were missed during genome-wide analysis”
+       
+      Is this a consequence of waiting till after SV and CN calling is done before looking for single breakends or due to the choice of caller? Would another SV caller (e.g. manta) reduce this? How many of the single breakends found by jabba can be found by stand-alone single breakend SV calling (e.g. GRIDSS2)? I notice jabba allows a BND style VCF input. Does it support single breakend BND calls?
+
+
+      Single breakend from SV calling and single breakends unbalanced CN junctions seems very much like they are complementary approaches so combining them should improve the final jabba results. I suspect this will be especially true for complex events as they frequently containing many clustered SVs and accurate copy number determination becomes more difficult the shorter the CN segments become.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.05.26.445837v1
+  tweets:
+    - created_at: Wed Jun 09 12:32:46 +0000 2021
+      id: 1402604585164763100
+      id_str: "1402604585164763138"
+      text: >-
+        💬 bioRxiv comment on "Loose ends in cancer genome st..."
+
+
+        "Very catchy title and some quite interesting results. Xi… https://t.co/XvH1pfMG3Q
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/XvH1pfMG3Q
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed Jun 09 12:32:47 +0000 2021
+      id: 1402604586213384200
+      id_str: "1402604586213384202"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/ra9kWBN9C4
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/ra9kWBN9C4
+      in_reply_to_status_id: 1402604585164763100
+      in_reply_to_status_id_str: "1402604585164763138"
