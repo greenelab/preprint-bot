@@ -14531,3 +14531,106 @@
           - url: https://t.co/B5DO7aAXhF
       in_reply_to_status_id: 1402722145797562400
       in_reply_to_status_id_str: "1402722145797562375"
+- preprint:
+    id: "144777"
+    doi: 10.1101/2021.06.01.21258176
+    first_posted: 2021-06-04
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.01.21258176v1
+    url: https://api.rxivist.org/v1/papers/144777
+    title: "Necessity of COVID-19 Vaccination in Previously Infected Individuals: A
+      Retrospective Cohort Study"
+    category: infectious-diseases
+    abstract: "Background: There are good reasons to expect natural infection to
+      provide protection against future infection with SARS-CoV-2. The purpose
+      of this study was to evaluate the necessity of COVID-19 vaccination in
+      persons previously infected with SARS-CoV-2. Methods: Employees of the
+      Cleveland Clinic Health System working in Ohio on Dec 16, 2020, the day
+      COVID-19 vaccination was started, were included. Any subject who tested
+      positive for SARS-CoV-2 at least 42 days earlier was considered previously
+      infected. One was considered vaccinated 14 days after receipt of the
+      second dose of a SARS-CoV-2 mRNA vaccine. The cumulative incidence of
+      SARS-CoV-2 infection over the next four months, among previously infected
+      subjects who received the vaccine, was compared with those of previously
+      infected subjects who remained unvaccinated, previously uninfected
+      subjects who received the vaccine, and previously uninfected subjects who
+      remained unvaccinated. Results: Among the 52238 included employees, 1220
+      (47%) of 2579 previously infected subjects received the vaccine, compared
+      with 29461 (59%) of 49659 not previously infected. The cumulative
+      incidence of SARS-CoV-2 infection did not differ among previously infected
+      unvaccinated subjects, previously infected subjects who were vaccinated,
+      and previously uninfected subjects who were vaccinated, and was much lower
+      than that of previously uninfected subjects who remained unvaccinated. Not
+      one of the 1359 previously infected subjects who remained unvaccinated had
+      a SARS-CoV-2 infection over the duration of the study. Conclusion:
+      Individuals who have had SARS-CoV-2 infection are unlikely to benefit from
+      COVID-19 vaccination, and vaccines can be safely prioritized to those who
+      have not been infected before."
+    authors:
+      - name: Nabin K. Shrestha
+        orcid: http://orcid.org/0000-0001-6766-9874
+      - name: Patrick C. Burke
+        orcid: null
+      - name: Amy S. Nowacki
+        orcid: null
+      - name: Paul Terpeluk
+        orcid: null
+      - name: Steven M. Gordon
+        orcid: null
+  comment:
+    dislikes: 2
+    thread: "8574386276"
+    numReports: 0
+    likes: 1
+    id: "5413667506"
+    createdAt: 2021-06-09T12:56:25
+    author:
+      username: tracii_kunkel
+      about: ""
+      name: Tracii Kunkel
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/tracii_kunkel/
+      url: ""
+      location: ""
+      id: "133823091"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: The key here - NOT PEER REVIEWED.  It's been demonstrated that
+      people who have been invfected have often changed their health-risk
+      behaviors after recovery. How could the researchers have not assessed this
+      factor? It's possible that the low rate of re-infection by those without
+      the vaccine was heavily influenced by them taking precuautions much more
+      seriously.
+    forum: medrxiv
+    points: -1
+    link: https://www.medrxiv.org/content/10.1101/2021.06.01.21258176v2
+  tweets:
+    - created_at: Wed Jun 09 22:21:34 +0000 2021
+      id: 1402752760458760200
+      id_str: "1402752760458760195"
+      text: >-
+        💬 medRxiv comment on "Necessity of COVID-19 Vaccinat..."
+
+
+        "The key here - NOT PEER REVIEWED.  It's been demonstrate… https://t.co/dwHRcZ0KRX
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/dwHRcZ0KRX
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed Jun 09 22:21:34 +0000 2021
+      id: 1402752761259868200
+      id_str: "1402752761259868164"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/oTURmeVcNy
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/oTURmeVcNy
+      in_reply_to_status_id: 1402752760458760200
+      in_reply_to_status_id_str: "1402752760458760195"
