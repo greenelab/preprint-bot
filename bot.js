@@ -26,8 +26,7 @@ async function runBot(type = "preprint") {
   console.log("");
   info("Selecting preprints");
   let selected = await selectPreprint(preprints, log);
-  if (!selected) throw new Error("Couldn't select preprint");
-  console.log(selected);
+  if (!selected?.doi) throw new Error("Couldn't select preprint");
   success(`Selected ${selected.preprint.doi}`);
 
   // make tweet status messages
@@ -61,7 +60,7 @@ async function selectPreprint(preprints, log = []) {
 
   // go through preprints until we find one acceptable
   for (const preprint of preprints) {
-    console.log(preprint);
+    console.log(preprint.doi);
 
     // check that preprint isn't a repeat tweet
     if (isRepeat(preprint, log)) {
