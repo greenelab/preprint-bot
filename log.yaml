@@ -15145,3 +15145,53 @@
           - url: https://t.co/oTURmfcNF6
       in_reply_to_status_id: 1403059311203418000
       in_reply_to_status_id_str: "1403059311203418115"
+- preprint:
+    id: 133869
+    metric: 6
+    title: Design of anti-SARS-CoV-2 molecules from hydroxychloroquine (HCQ)for
+      better binding SARS-CoV-2 N protein
+    url: https://api.rxivist.org/v1/papers/133869
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.03.16.435741v1
+    doi: 10.1101/2021.03.16.435741
+    category: biophysics
+    first_posted: 2021-03-17
+    abstract: SARS-CoV-2 is the coronavirus causing the ongoing pandemic which
+      already led to >129 millions of infections and >2.8 millions of deaths.
+      Hydroxychloroquine (HCQ) has been shown to own promising potential in
+      clinically combating SARS-CoV-2 but the underlying mechanisms remain
+      highly elusive and its action sites were proposed all on the host cells.
+      Very recently, by NMR spectroscopy, for the first time we have decoded
+      that HCQ specifically binds both N-terminal domain (NTD) and C-terminal
+      domain (CTD) of SARS-CoV-2 nucleocapsid (N) protein to inhibit their
+      interactions with nucleic acids (NAs), as well as to disrupt its
+      NA-induced liquid-liquid phase separation (LLPS) essential for the viral
+      life cycle including the final package of gRNA and N protein into new
+      virions. Here with NMR-derived constraints, we constructed the structure
+      of the HCQ-CTD complex in which HCQ binds two pockets on the dimeric CTD.
+      This unexpected finding thus allowed us to formulate a design strategy by
+      linking two HCQ together to generate a bivalent/multivalent binder for
+      CTD. The linked molecule is anticipated to have significantly enhanced
+      affinity and specificity in binding CTD. We are willing to collaborate
+      with synthetic chemists on this strategy by experimentally charactering
+      the synthetic molecules on their binding and effects on LLPS of SARS-CoV-2
+      N protein.
+    authors:
+      - name: Mei Dang
+      - name: Jianxing Song
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Thu Jun 10 20:15:55 +0000 2021
+      id: 1403083527965524000
+      id_str: "1403083527965523968"
+      text: >-
+        🔥 bioRxiv Biophysics preprint by M. Dang et al:
+
+
+        "Design of anti-SARS-CoV-2 molecules from hydroxychloroquine (HCQ)… https://t.co/oBnrWjCHMk
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/oBnrWjCHMk
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
