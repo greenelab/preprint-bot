@@ -17,6 +17,7 @@ async function getPreprints() {
 async function getPreprint(doi) {
   try {
     const response = await (await fetch(api + "/" + doi)).json();
+    if (response.error) throw new Error(response.error);
     return response;
   } catch (error) {
     return null;

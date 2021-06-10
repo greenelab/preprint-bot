@@ -23,9 +23,10 @@ const keys = {
 };
 
 // log keys
-for (const [key, value] of Object.entries(keys)) {
-  keys[key] = value.trim();
-  console.log(`${key}: ${value.trim() ? `"...${value.slice(-4)}"` : `""`}`);
+for (let [key, value] of Object.entries(keys)) {
+  value = value.trim();
+  keys[key] = value;
+  console.log(`${key}: ${value ? `"...${value.slice(-4)}"` : `""`}`);
 }
 
 module.exports = keys;

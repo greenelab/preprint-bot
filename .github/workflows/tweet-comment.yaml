@@ -6,7 +6,7 @@ on:
     - cron: "0 12,14,16,18,20,22,0 * * *"
 
 jobs:
-  run-bot:
+  tweet-comment:
     runs-on: ubuntu-latest
     environment: preprint-bot
     env:
