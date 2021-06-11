@@ -15922,3 +15922,71 @@
           - url: https://t.co/zYi1VqMUON
       in_reply_to_status_id: 1403417994663977000
       in_reply_to_status_id_str: "1403417994663976963"
+- preprint:
+    id: 128579
+    metric: 12
+    title: Spatial transcriptomics reveals unique molecular fingerprints of human
+      nociceptors
+    url: https://api.rxivist.org/v1/papers/128579
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.02.06.430065v1
+    doi: 10.1101/2021.02.06.430065
+    category: neuroscience
+    first_posted: 2021-02-08
+    abstract: Nociceptors are specialized sensory neurons that detect damaging or
+      potentially damaging stimuli and are found in the dorsal root (DRG) and
+      trigeminal ganglia. These neurons are critical for the generation of
+      neuronal signals that ultimately create the perception of pain. These
+      neurons are also primary targets for acute and chronic pain therapeutics.
+      Single-cell transcriptomics on mouse nociceptors has transformed our
+      understanding of pain mechanisms. We sought to generate equivalent
+      information for human nociceptors with the goal of identifying
+      transcriptomic signatures of nociceptors, identifying species differences
+      and elucidating new drug targets. We used spatial transcriptomics to
+      molecularly characterize transcriptomes of single dorsal root ganglion
+      (DRG) neurons from 8 organ donors. We identified 12 clusters of human
+      sensory neurons, 5 of which are C nociceptors; as well as 1 Abeta;
+      nociceptor, 2 Adelta;, 2 Abeta; and 1 proprioceptor subtypes. By focusing
+      on expression profiles for ion channels, G-protein coupled receptors
+      (GPCRs) and other pharmacological targets, we provide a rich map of drug
+      targets in the human DRG with direct comparison to mouse sensory neuron
+      transcriptomes. We also compare human DRG neuronal subtypes to non-human
+      primates showing conserved patterns of gene expression among many cell
+      types, but divergence among specific nociceptor subsets. Finally, we
+      identify sex differences in human DRG subpopulation transcriptomes,
+      including a marked increase in CALCA expression in female pruritogen
+      receptor enriched nociceptors. Our data open the door to development of
+      drug discovery programs for new pain targets and unparalleled molecular
+      characterization of clinical sensory disorders.
+    authors:
+      - name: Diana Tavares-Ferreira
+      - name: Stephanie Shiers
+      - name: Pradipta Ray
+      - name: Andi Wangzhou
+      - name: Vivekanand Jeevakumar
+      - name: Ishwarya Sankaranarayanan
+      - name: Anna Cervantes
+      - name: Jeffrey C. Reese
+      - name: Alexander Chamessian
+      - name: Bryan Copits
+      - name: Patrick M. Dougherty
+      - name: Robert Gereau
+      - name: Michael D Burton
+      - name: Gregory Dussor
+      - name: Theodore J Price
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Fri Jun 11 20:15:32 +0000 2021
+      id: 1403445818179391500
+      id_str: "1403445818179391494"
+      text: >-
+        🔥 bioRxiv Neuroscience preprint by D. Tavares-Ferreira et al:
+
+
+        "Spatial transcriptomics reveals unique molecular fi… https://t.co/FpdZDMU5gk
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/FpdZDMU5gk
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
