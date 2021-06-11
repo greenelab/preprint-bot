@@ -15706,3 +15706,112 @@
           - url: https://t.co/W75JLGEHQv
       in_reply_to_status_id: 1403356065354420200
       in_reply_to_status_id_str: "1403356065354420227"
+- preprint:
+    id: "91613"
+    doi: 10.1101/2020.07.18.207258
+    first_posted: 2020-07-19
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.07.18.207258v1
+    url: https://api.rxivist.org/v1/papers/91613
+    title: The structure and spontaneous curvature of clathrin lattices at the
+      plasma membrane.
+    category: cell-biology
+    abstract: >-
+      Clathrin mediated endocytosis is the primary pathway for receptor and
+      cargo internalization in eukaryotic cells. It is characterized by a
+      polyhedral clathrin lattice that coats budding membranes. The mechanism
+      and control of lattice assembly, curvature, and vesicle formation at the
+      plasma membrane has been a matter of longstanding debate. Here, we use
+      platinum replica and cryo electron microscopy and tomography to present a
+      global structural framework of the pathway. We determine the shape and
+      size parameters common to clathrin-mediated endocytosis. We show that
+      clathrin sites maintain a constant surface area during curvature across
+      multiple cell lines. Flat clathrin is present in all cells and
+      spontaneously curves into coated pits without additional energy sources or
+      recruited bending factors. Finally, we attribute curvature generation to
+      loosely connected and pentagon-containing flat lattices that can rapidly
+      curve when a flattening force is released. Together, these data present a
+      new universal mechanistic model of clathrin mediated endocytosis.
+
+
+      ### Competing Interest Statement
+
+
+      The authors have declared no competing interest.
+    authors:
+      - name: Kem A Sochacki
+        orcid: null
+      - name: Bridgette L. Heine
+        orcid: null
+      - name: Gideon J. Haber
+        orcid: null
+      - name: John R Jimah
+        orcid: null
+      - name: Bijeta Prasai
+        orcid: null
+      - name: Marco A. Alfonzo-Mendez
+        orcid: null
+      - name: Aleah D Roberts
+        orcid: null
+      - name: Agila Somasundaram
+        orcid: null
+      - name: Jenny E Hinshaw
+        orcid: null
+      - name: Justin W Taraska
+        orcid: http://orcid.org/0000-0001-5355-9535
+  comment:
+    dislikes: 0
+    thread: "8132961499"
+    numReports: 0
+    likes: 0
+    id: "5415423412"
+    createdAt: 2021-06-10T20:03:55
+    author:
+      username: jgalaz
+      about: ""
+      name: jgalaz
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/jgalaz/
+      url: ""
+      location: ""
+      id: "47197520"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: In your cryoET observations, how would you distinguish true,
+      biologically-driven deviations from the hexagonal pattern vs disruptions
+      due to mechanical forces during cryo preservation and/or artifacts from
+      the missing wedge and/or errors in tilt series alignment during
+      tomographic reconstruction?
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.07.18.207258v1
+  tweets:
+    - created_at: Fri Jun 11 16:35:17 +0000 2021
+      id: 1403390390401736700
+      id_str: "1403390390401736713"
+      text: >-
+        💬 bioRxiv comment on "The structure and spontaneous ..."
+
+
+        "In your cryoET observations, how would you distinguish t… https://t.co/yFewt9Go05
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/yFewt9Go05
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jun 11 16:35:17 +0000 2021
+      id: 1403390391089610800
+      id_str: "1403390391089610763"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/oBOGvB1Cw3
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/oBOGvB1Cw3
+      in_reply_to_status_id: 1403390390401736700
+      in_reply_to_status_id_str: "1403390390401736713"
