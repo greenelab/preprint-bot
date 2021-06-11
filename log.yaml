@@ -15815,3 +15815,110 @@
           - url: https://t.co/oBOGvB1Cw3
       in_reply_to_status_id: 1403390390401736700
       in_reply_to_status_id_str: "1403390390401736713"
+- preprint:
+    id: "145105"
+    doi: 10.1101/2021.06.05.447177
+    first_posted: 2021-06-07
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.05.447177v1
+    url: https://api.rxivist.org/v1/papers/145105
+    title: Neutralization against B.1.351 and B.1.617.2 with sera of COVID-19
+      recovered cases and vaccinees of BBV152
+    category: microbiology
+    abstract: Recently, multiple SARS-CoV-2 variants have been detected across the
+      globe.The recent emergence of B.1.617 lineage has created serious public
+      health problem in India. The high transmissibility was observed with this
+      lineage which has led to daily increase in the number of SARS-CoV-2
+      infections. Apparently, the sub-lineage B.1.617.2 has slowly dominated the
+      other variants including B1617.1, B.617.3 and B.1.1.7. With this, World
+      Health Organization has described B.1.617.2 as variant of concern. Besides
+      this, variant of concern B.1.351 has been also reported from India, known
+      to showreducedefficacyfor many approved vaccines. With the increasing
+      threat of the SARS-CoV-2 variants, it is imperative to assess the efficacy
+      of the currently available vaccines against these variants. Here, we have
+      evaluated the neutralization potential of sera collected from COVID-19
+      recovered cases (n=20) and vaccinees with two doses of BBV152 (n=17)
+      against B.1.351 and B.1.617.2 compared to the prototype B.1 (D614G)
+      variant.The finding of the study demonstrated a reduction in
+      neutralization titers with sera of COVID-19 recovered cases(3.3-fold and
+      4.6-fold) and BBV152 vaccinees (3. 0 and 2.7 fold) against B.1.351 and
+      B.1.617.2 respectively. Although, there is reduction in neutralization
+      titer, the whole-virion inactivated SARS-CoV-2 vaccine (BBV152)
+      demonstrates protective response against VOC B.1351 and B.1.617.2.
+    authors:
+      - name: Pragya D Yadav
+        orcid: null
+      - name: Gajanan Sapkal
+        orcid: null
+      - name: Raches Ella
+        orcid: http://orcid.org/0000-0002-4646-4471
+      - name: Rima R Sahay
+        orcid: null
+      - name: Dimpal A Nyayanit
+        orcid: null
+      - name: Deepak Y Patil
+        orcid: null
+      - name: Gururaj Deshpande
+        orcid: null
+      - name: Anita M Shete
+        orcid: null
+      - name: Nivedita Gupta
+        orcid: null
+      - name: V Krishna Mohan
+        orcid: null
+      - name: Priya Abraham
+        orcid: null
+      - name: Samiran Panda
+        orcid: http://orcid.org/0000-0002-5077-6275
+      - name: Balram Bhargava
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8579640106"
+    numReports: 0
+    likes: 0
+    id: "5415899223"
+    createdAt: 2021-06-11T06:48:20
+    author:
+      name: Shahid Jameel
+      url: ""
+      profileUrl: ""
+      emailHash: ""
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: The study is encouraging. However, every author has a conflict of
+      interest and the competing interest statement is a misrepresentation of
+      facts.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.06.05.447177v1
+  tweets:
+    - created_at: Fri Jun 11 18:24:58 +0000 2021
+      id: 1403417994663977000
+      id_str: "1403417994663976963"
+      text: >-
+        💬 bioRxiv comment on "Neutralization against B.1.351..."
+
+
+        "The study is encouraging. However, every author has a co… https://t.co/WfXqXMzlWT
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/WfXqXMzlWT
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jun 11 18:24:59 +0000 2021
+      id: 1403417995431616500
+      id_str: "1403417995431616517"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/zYi1VqMUON
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/zYi1VqMUON
+      in_reply_to_status_id: 1403417994663977000
+      in_reply_to_status_id_str: "1403417994663976963"
