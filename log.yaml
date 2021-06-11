@@ -15594,3 +15594,115 @@
           - url: https://t.co/652MU3io4j
       in_reply_to_status_id: 1403328519262855200
       in_reply_to_status_id_str: "1403328519262855183"
+- preprint:
+    id: "136233"
+    doi: 10.1101/2021.04.01.437990
+    first_posted: 2021-04-02
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.04.01.437990v1
+    url: https://api.rxivist.org/v1/papers/136233
+    title: Novel zebrafish mutants reveal new roles for Apolipoprotein B during
+      embryonic development and pathological conditions
+    category: developmental-biology
+    abstract: "Apolipoprotein B (ApoB) is the primary protein of chylomicrons, VLDLs
+      and LDLs and is essential for their assembly. Defects in ApoB synthesis
+      and secretion result in several human diseases, including
+      abetalipoproteinemia and familial hypobetalipoproteinemia. Conversely,
+      high levels of APOB in plasma are associated with increased risk for
+      coronary heart disease and atherosclerosis. The involvement of APOB in
+      lipid metabolism and atherogenesis prompted the generation of several
+      mutant mice. However, as APOB is required for supplying nutrients to the
+      developing embryo, ApoB null mice are embryonic lethal, thereby precluding
+      the study of the roles of this protein during development. Here, we
+      established novel zebrafish mutants for two apoB genes: apoBa and apoBb.1.
+      Double-mutant embryos display hepatic steatosis, a common hallmark of
+      FHBL1 and NAFLD. In addition, we detect early developmental defects in
+      double apoB mutants, including abnormal liver laterality, decreased
+      numbers of goblet cells in the gut and impaired angiogenesis. We further
+      use these models to identify the domains within ApoB responsible for its
+      functions. By assessing the ability of different truncated forms of human
+      APOB to rescue the mutant phenotypes, we demonstrate the benefits of this
+      model for prospective therapeutic screens. Overall, our novel zebrafish
+      models uncover new functions of ApoB in organ development and
+      morphogenesis and shed new light on the mechanisms underlying
+      hypolipidemia-related diseases."
+    authors:
+      - name: Hanoch Tempelhof
+        orcid: null
+      - name: Noga Moshe
+        orcid: null
+      - name: Inbal Avraham-Davidi
+        orcid: http://orcid.org/0000-0001-7118-9179
+      - name: Karina Yaniv
+        orcid: http://orcid.org/0000-0001-5638-7150
+  comment:
+    dislikes: 0
+    thread: "8462585861"
+    numReports: 0
+    likes: 0
+    id: "5415695726"
+    createdAt: 2021-06-11T01:06:47
+    author:
+      username: sriharshatalapaneni
+      about: ""
+      name: Sriharsha Talapaneni
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/sriharshatalapaneni/
+      url: ""
+      location: ""
+      id: "370768226"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      For Figure 2, no WT shown which would be good for a reference. In 2C, it
+      is unclear what is happening. A suggestion is to zoom out for a better
+      image or do a zoomed out pic with a zoomed in figure beside it.
+      Additionally, are both prox1a and tfa necessary? One subfigure could
+      potentially be put in supplemental. Labels for arrows would also be
+      helpful for 2D, F, and H. There also appears to be an inconsistency with
+      dpf in the figure. Is the prox1a expression gone by 4 dpf? The reasoning
+      for only showing 2 dpf might be needed. Concerning Figure 2F, a suggestion
+      is to have a graph show foxa2 expression over time (1.5 dpf to 2.5 dpf).
+      There also seems to be a resolution issue throughout the figure. A
+      potential fix would be for 2F, to possibly trace it. To support claim and
+      significance, we would also like to see more animals and different time
+      points.
+
+
+      A potential future experiment could be the use of an organoid.
+
+
+      Moreover, I understand that the main idea of the paper is prove that zebrafish can be used as model system by conducting the experiments in various organ systems. But I believe that this point is kind of understand and people would normally get lost in the details of the figure and forget why you conducted experiments in different organ systems. Therefore, for this it would be better to mention and repeat it so that we understand the reason for the transition.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.04.01.437990v1
+  tweets:
+    - created_at: Fri Jun 11 14:18:53 +0000 2021
+      id: 1403356065354420200
+      id_str: "1403356065354420227"
+      text: >-
+        💬 bioRxiv comment on "Novel zebrafish mutants reveal..."
+
+
+        "For Figure 2, no WT shown which would be good for a refe… https://t.co/8YNBGtIRmg
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/8YNBGtIRmg
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jun 11 14:18:53 +0000 2021
+      id: 1403356066151342000
+      id_str: "1403356066151342081"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/W75JLGEHQv
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/W75JLGEHQv
+      in_reply_to_status_id: 1403356065354420200
+      in_reply_to_status_id_str: "1403356065354420227"
