@@ -15990,3 +15990,524 @@
           - url: https://t.co/FpdZDMU5gk
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "145457"
+    doi: 10.1101/2021.06.08.447489
+    first_posted: 2021-06-10
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.08.447489v1
+    url: https://api.rxivist.org/v1/papers/145457
+    title: Brain charts for the human lifespan
+    category: neuroscience
+    abstract: Over the past 25 years, neuroimaging has become a ubiquitous tool in
+      basic research and clinical studies of the human brain. However, there are
+      no reference standards against which to anchor measures of individual
+      differences in brain morphology, in contrast to growth charts for traits
+      such as height and weight. Here, we built an interactive online resource
+      (www.brainchart.io) to quantify individual differences in brain structure
+      from any current or future magnetic resonance imaging (MRI) study, against
+      models of expected age-related trends. With the goal of basing these on
+      the largest and most inclusive dataset, we aggregated MRI data spanning
+      115 days post-conception through 100 postnatal years, totaling 122,123
+      scans from 100,071 individuals in over 100 studies across 6 continents.
+      When quantified as centile scores relative to the reference models,
+      individual differences show high validity with non-MRI brain growth
+      estimates and high stability across longitudinal assessment. Centile
+      scores helped identify previously unreported brain developmental
+      milestones and demonstrated increased genetic heritability compared to
+      non-centiled MRI phenotypes. Crucially for the study of brain disorders,
+      centile scores provide a standardised and interpretable measure of
+      deviation that reveals new patterns of neuroanatomical differences across
+      neurological and psychiatric disorders emerging during development and
+      ageing. In sum, brain charts for the human lifespan are an essential first
+      step towards robust, standardised quantification of individual variation
+      and for characterizing deviation from age-related trends. Our global
+      collaborative study provides such an anchorpoint for basic neuroimaging
+      research and will facilitate implementation of research-based standards in
+      clinical studies.
+    authors:
+      - name: Richard A.I. Bethlehem
+        orcid: http://orcid.org/0000-0002-0714-0685
+      - name: Jakob Seidlitz
+        orcid: http://orcid.org/0000-0002-8164-7476
+      - name: Simon R White
+        orcid: http://orcid.org/0000-0002-7047-9876
+      - name: Jacob W Vogel
+        orcid: http://orcid.org/0000-0001-6394-9940
+      - name: Kevin M Anderson
+        orcid: http://orcid.org/0000-0002-1176-6605
+      - name: Chris Adamson
+        orcid: http://orcid.org/0000-0002-8084-8305
+      - name: Sophie Adler
+        orcid: http://orcid.org/0000-0002-3978-7424
+      - name: George S. Alexopoulos
+        orcid: http://orcid.org/0000-0001-5677-7001
+      - name: Evdokia Anagnostou
+        orcid: http://orcid.org/0000-0002-3455-9887
+      - name: Ariosky Areces-Gonzalez
+        orcid: null
+      - name: Duncan E. Astle
+        orcid: http://orcid.org/0000-0002-7042-5392
+      - name: Bonnie Auyeung
+        orcid: http://orcid.org/0000-0003-1741-0949
+      - name: Muhammad Ayub
+        orcid: http://orcid.org/0000-0001-9757-2467
+      - name: Gareth Ball
+        orcid: http://orcid.org/0000-0003-3509-1435
+      - name: Simon Baron-Cohen
+        orcid: http://orcid.org/0000-0001-9217-2544
+      - name: Richard Beare
+        orcid: http://orcid.org/0000-0002-7530-5664
+      - name: Saashi A. Bedford
+        orcid: http://orcid.org/0000-0002-0491-5342
+      - name: Vivek Benegal
+        orcid: http://orcid.org/0000-0002-8896-9689
+      - name: Frauke Beyer
+        orcid: http://orcid.org/0000-0001-5401-852X
+      - name: Jong Bin Bae
+        orcid: null
+      - name: John Blangero
+        orcid: http://orcid.org/0000-0001-6250-5723
+      - name: Manuel Blesa Cabez
+        orcid: http://orcid.org/0000-0002-5665-4105
+      - name: James P. Boardman
+        orcid: http://orcid.org/0000-0003-3904-8960
+      - name: Matthew Borzage
+        orcid: http://orcid.org/0000-0001-7010-2318
+      - name: Jorge F. Bosch-Bayard
+        orcid: http://orcid.org/0000-0003-4193-8268
+      - name: Niall Bourke
+        orcid: http://orcid.org/0000-0001-6478-1430
+      - name: Vince Calhoun
+        orcid: http://orcid.org/0000-0001-9058-0747
+      - name: Mallar M. Chakravarty
+        orcid: http://orcid.org/0000-0002-0759-5508
+      - name: Christina Chen
+        orcid: null
+      - name: Casey Chertavian
+        orcid: null
+      - name: Gael Chetelat
+        orcid: null
+      - name: Yap S. Chong
+        orcid: null
+      - name: James H Cole
+        orcid: http://orcid.org/0000-0003-1178-5846
+      - name: Aiden Corvin
+        orcid: http://orcid.org/0000-0001-6717-4089
+      - name: Eric Courchesne
+        orcid: http://orcid.org/0000-0002-3772-5799
+      - name: Fabrice Crivello
+        orcid: http://orcid.org/0000-0001-6950-984X
+      - name: Vanessa L. Cropley
+        orcid: http://orcid.org/0000-0003-0029-1525
+      - name: Jennifer Crosbie
+        orcid: http://orcid.org/0000-0002-8710-3322
+      - name: Nicolas Crossley
+        orcid: null
+      - name: Marion Delarue
+        orcid: null
+      - name: Sylvane Desrivieres
+        orcid: http://orcid.org/0000-0002-9120-7060
+      - name: Gabriel Devenyi
+        orcid: null
+      - name: Maria A. Di Biase
+        orcid: http://orcid.org/0000-0002-8038-9217
+      - name: Ray Dolan
+        orcid: http://orcid.org/0000-0001-9356-761X
+      - name: Kirsten A. Donald
+        orcid: http://orcid.org/0000-0002-0276-9660
+      - name: Gary Donohoe
+        orcid: null
+      - name: Katharine Dunlop
+        orcid: http://orcid.org/0000-0003-4366-7692
+      - name: Anthony D Edwards
+        orcid: http://orcid.org/0000-0003-4801-7066
+      - name: Jed T. Elison
+        orcid: null
+      - name: Cameron T. Ellis
+        orcid: http://orcid.org/0000-0002-3254-5940
+      - name: Jeremy A. Elman
+        orcid: http://orcid.org/0000-0002-5840-1769
+      - name: Lisa Eyler
+        orcid: http://orcid.org/0000-0002-7783-8798
+      - name: Damien A. Fair
+        orcid: http://orcid.org/0000-0001-8602-393X
+      - name: Paul C. Fletcher
+        orcid: http://orcid.org/0000-0001-8906-2280
+      - name: Peter Fonagy
+        orcid: http://orcid.org/0000-0003-0229-0091
+      - name: Carol E. Franz
+        orcid: http://orcid.org/0000-0002-8987-1755
+      - name: Lidice Galan-Garcia
+        orcid: http://orcid.org/0000-0003-2636-5588
+      - name: Ali Gholipour
+        orcid: http://orcid.org/0000-0002-2469-7952
+      - name: Jay Giedd
+        orcid: http://orcid.org/0000-0003-2002-8978
+      - name: John H. Gilmore
+        orcid: null
+      - name: David C. Glahn
+        orcid: http://orcid.org/0000-0002-4749-6977
+      - name: Ian Goodyer
+        orcid: http://orcid.org/0000-0002-0947-9906
+      - name: P. E. Grant
+        orcid: http://orcid.org/0000-0002-2039-1964
+      - name: Nynke A. Groenewold
+        orcid: http://orcid.org/0000-0002-0865-8427
+      - name: Faith M. Gunning
+        orcid: http://orcid.org/0000-0003-1854-9969
+      - name: Raquel E Gur
+        orcid: http://orcid.org/0000-0002-4082-8502
+      - name: Ruben C Gur
+        orcid: http://orcid.org/0000-0002-9657-1996
+      - name: Christopher F. Hammill
+        orcid: null
+      - name: Oskar Hansson
+        orcid: http://orcid.org/0000-0001-8467-7286
+      - name: Trey Hedden
+        orcid: null
+      - name: Andreas Heinz
+        orcid: http://orcid.org/0000-0001-5405-9065
+      - name: Richard Henson
+        orcid: http://orcid.org/0000-0002-0712-2639
+      - name: Katja Heuer
+        orcid: http://orcid.org/0000-0002-7237-0196
+      - name: Jacqueline Hoare
+        orcid: null
+      - name: Bharath Holla
+        orcid: http://orcid.org/0000-0003-0999-1237
+      - name: Avram J. Holmes
+        orcid: http://orcid.org/0000-0001-6583-803X
+      - name: Rosie Holt
+        orcid: null
+      - name: Hao Huang
+        orcid: http://orcid.org/0000-0002-0774-4374
+      - name: Kiho Im
+        orcid: http://orcid.org/0000-0002-9239-8970
+      - name: Jonathan Ipser
+        orcid: http://orcid.org/0000-0003-1272-0032
+      - name: Clifford R. Jack
+        orcid: http://orcid.org/0000-0001-7916-622X
+      - name: Andrea P Jackowski
+        orcid: http://orcid.org/0000-0001-8842-5406
+      - name: Tianye Jia
+        orcid: http://orcid.org/0000-0001-5399-2953
+      - name: Keith A Johnson
+        orcid: http://orcid.org/0000-0002-8578-5921
+      - name: David T Jones
+        orcid: http://orcid.org/0000-0002-8362-7698
+      - name: Peter B Jones
+        orcid: http://orcid.org/0000-0003-1445-4081
+      - name: Rene Kahn
+        orcid: null
+      - name: Hasse Karlsson
+        orcid: http://orcid.org/0000-0002-4992-1893
+      - name: Linnea Karlsson
+        orcid: http://orcid.org/0000-0002-9201-8560
+      - name: Ryuta Kawashima
+        orcid: http://orcid.org/0000-0002-6132-3861
+      - name: Elizabeth A. Kelley
+        orcid: http://orcid.org/0000-0003-2990-3636
+      - name: Silke Kern
+        orcid: http://orcid.org/0000-0001-7617-7214
+      - name: K.W. Kim
+        orcid: null
+      - name: Manfred G. Kitzbichler
+        orcid: http://orcid.org/0000-0002-4494-0753
+      - name: William S. Kremen
+        orcid: http://orcid.org/0000-0002-8629-5609
+      - name: Francois Lalonde
+        orcid: null
+      - name: Brigitte Landeau
+        orcid: http://orcid.org/0000-0002-0814-3714
+      - name: Subin Lee
+        orcid: null
+      - name: Jason Lerch
+        orcid: null
+      - name: John D. Lewis
+        orcid: http://orcid.org/0000-0002-0832-7396
+      - name: Jiao Li
+        orcid: http://orcid.org/0000-0002-9079-6772
+      - name: Wei Liao
+        orcid: http://orcid.org/0000-0001-9987-3546
+      - name: Deirel P. Linares
+        orcid: http://orcid.org/0000-0002-2144-8184
+      - name: Conor Liston
+        orcid: http://orcid.org/0000-0002-1639-5401
+      - name: Michael V. Lombardo
+        orcid: http://orcid.org/0000-0001-6780-8619
+      - name: Jinglei Lv
+        orcid: http://orcid.org/0000-0002-4906-2646
+      - name: Charles Lynch
+        orcid: http://orcid.org/0000-0003-1936-9740
+      - name: Travis T. Mallard
+        orcid: http://orcid.org/0000-0002-3265-3001
+      - name: Machteld Marcelis
+        orcid: http://orcid.org/0000-0003-0045-9244
+      - name: Ross D. Markello
+        orcid: http://orcid.org/0000-0003-1057-1336
+      - name: Bernard Mazoyer
+        orcid: http://orcid.org/0000-0003-0970-2837
+      - name: Philip McGuire
+        orcid: http://orcid.org/0000-0003-4381-0532
+      - name: Michael J. Meaney
+        orcid: null
+      - name: Andrea Mechelli
+        orcid: http://orcid.org/0000-0002-6770-2934
+      - name: Nenad Medic
+        orcid: http://orcid.org/0000-0002-4633-9515
+      - name: Bratislav Misic
+        orcid: http://orcid.org/0000-0003-0307-2862
+      - name: Sarah E Morgan
+        orcid: http://orcid.org/0000-0002-1261-5884
+      - name: David Mothersill
+        orcid: null
+      - name: Joel Nigg
+        orcid: null
+      - name: Marcus Q.W. Ong
+        orcid: http://orcid.org/0000-0003-1799-7671
+      - name: Cynthia Ortinau
+        orcid: http://orcid.org/0000-0003-0851-0796
+      - name: Rik Ossenkoppele
+        orcid: http://orcid.org/0000-0003-1584-7477
+      - name: Minhui Ouyang
+        orcid: null
+      - name: Lena Palaniyappan
+        orcid: http://orcid.org/0000-0003-1640-7182
+      - name: Leo Paly
+        orcid: null
+      - name: Pedro M. Pan
+        orcid: http://orcid.org/0000-0002-1943-6520
+      - name: Christos Pantelis
+        orcid: http://orcid.org/0000-0002-9565-0238
+      - name: Min Tae M. Park
+        orcid: http://orcid.org/0000-0002-4268-7432
+      - name: Tomas Paus
+        orcid: http://orcid.org/0000-0003-1495-9338
+      - name: Zdenka Pausova
+        orcid: http://orcid.org/0000-0002-7784-1380
+      - name: Alexa Pichet Binette
+        orcid: http://orcid.org/0000-0001-5218-3337
+      - name: Karen Pierce
+        orcid: http://orcid.org/0000-0001-7690-1030
+      - name: Xing Qian
+        orcid: http://orcid.org/0000-0002-7784-4688
+      - name: Anqi Qiu
+        orcid: http://orcid.org/0000-0002-0215-6338
+      - name: Jiang Qiu
+        orcid: http://orcid.org/0000-0003-3839-4167
+      - name: Armin Raznahan
+        orcid: http://orcid.org/0000-0002-5622-1190
+      - name: Timothy Rittman
+        orcid: http://orcid.org/0000-0003-1063-6937
+      - name: Caitlin K. Rollins
+        orcid: http://orcid.org/0000-0002-0500-0056
+      - name: Rafael Romero-Garcia
+        orcid: http://orcid.org/0000-0002-5199-4573
+      - name: Lisa Ronan
+        orcid: http://orcid.org/0000-0001-8580-921X
+      - name: Monica D. Rosenberg
+        orcid: http://orcid.org/0000-0001-6179-4025
+      - name: David H. Rowitch
+        orcid: http://orcid.org/0000-0002-0079-0060
+      - name: Giovanni A. Salum
+        orcid: http://orcid.org/0000-0002-7537-7289
+      - name: Theodore D. Satterthwaite
+        orcid: http://orcid.org/0000-0001-7072-9399
+      - name: H. L. Schaare
+        orcid: null
+      - name: Russell J Schachar
+        orcid: null
+      - name: Michael Scholl
+        orcid: http://orcid.org/0000-0001-7800-1781
+      - name: Aaron P. Schultz
+        orcid: http://orcid.org/0000-0002-0418-0999
+      - name: Gunter Schumann
+        orcid: http://orcid.org/0000-0002-7740-6469
+      - name: David Sharp
+        orcid: http://orcid.org/0000-0002-6915-1283
+      - name: Russell T. Shinohara
+        orcid: http://orcid.org/0000-0001-8627-8203
+      - name: Ingmar Skoog
+        orcid: http://orcid.org/0000-0002-9803-3438
+      - name: Christopher D. Smyser
+        orcid: null
+      - name: Reisa A. Sperling
+        orcid: http://orcid.org/0000-0003-1535-6133
+      - name: Dan J. Stein
+        orcid: http://orcid.org/0000-0002-0186-6872
+      - name: Aleks Stolicyn
+        orcid: null
+      - name: John Suckling
+        orcid: http://orcid.org/0000-0002-5098-1527
+      - name: Gemma Sullivan
+        orcid: http://orcid.org/0000-0003-1499-3536
+      - name: Yasuyuki Taki
+        orcid: http://orcid.org/0000-0003-3691-1159
+      - name: Benjamin Thyreau
+        orcid: http://orcid.org/0000-0001-6748-8192
+      - name: Roberto Toro
+        orcid: http://orcid.org/0000-0002-6671-858X
+      - name: Kamen A. Tsvetanov
+        orcid: http://orcid.org/0000-0002-3178-6363
+      - name: Nicholas B. Turk-Browne
+        orcid: http://orcid.org/0000-0001-7519-3001
+      - name: Jetro J Tuulari
+        orcid: http://orcid.org/0000-0002-1797-8000
+      - name: Christophe Tzourio
+        orcid: http://orcid.org/0000-0002-6517-2984
+      - name: Etienne Vachon-Presseau
+        orcid: null
+      - name: Mitchell J. Valdes-Sosa
+        orcid: http://orcid.org/0000-0002-1580-8374
+      - name: Pedro A. Valdes-Sosa
+        orcid: http://orcid.org/0000-0001-5485-2661
+      - name: Sofie L. Valk
+        orcid: null
+      - name: Therese van Amelsvoort
+        orcid: null
+      - name: Simon N. Vandekar
+        orcid: http://orcid.org/0000-0002-7457-9073
+      - name: Lana Vasung
+        orcid: null
+      - name: Petra E Vertes
+        orcid: null
+      - name: Lindsay W. Victoria
+        orcid: http://orcid.org/0000-0001-7693-5839
+      - name: Sylvia Villeneuve
+        orcid: http://orcid.org/0000-0003-2338-0467
+      - name: Arno Villringer
+        orcid: http://orcid.org/0000-0003-2604-2404
+      - name: Konrad Wagstyl
+        orcid: http://orcid.org/0000-0003-3439-5808
+      - name: Yin-Shan S. Wang
+        orcid: null
+      - name: Simon K Warfield
+        orcid: http://orcid.org/0000-0002-7659-3880
+      - name: Varun Warrier
+        orcid: http://orcid.org/0000-0003-4532-8571
+      - name: Eric Westman
+        orcid: http://orcid.org/0000-0002-3115-2977
+      - name: Margaret L. Westwater
+        orcid: http://orcid.org/0000-0002-2918-0979
+      - name: Heather C. Whalley
+        orcid: http://orcid.org/0000-0002-4505-8869
+      - name: A. V. Witte
+        orcid: http://orcid.org/0000-0001-9054-6688
+      - name: Ning Yang
+        orcid: http://orcid.org/0000-0002-6354-3534
+      - name: B. T.T. Yeo
+        orcid: http://orcid.org/0000-0002-9649-8311
+      - name: H. J. Yun
+        orcid: null
+      - name: Andrew Zalesky
+        orcid: http://orcid.org/0000-0003-2298-9908
+      - name: Heather J. Zar
+        orcid: null
+      - name: Anna Zettergren
+        orcid: http://orcid.org/0000-0002-9145-9444
+      - name: Juan H. Zhou
+        orcid: http://orcid.org/0000-0002-0180-8648
+      - name: Hisham Ziauddeen
+        orcid: http://orcid.org/0000-0003-4044-1719
+      - name: Andre Zugman
+        orcid: http://orcid.org/0000-0002-6126-7759
+      - name: Xi-Nian Zuo
+        orcid: http://orcid.org/0000-0001-9110-585X
+      - name: AIBL
+        orcid: null
+      - name: Alzheimer's Disease Neuroimaging Initiative
+        orcid: null
+      - name: Alzheimer's Disease Repository Without Borders Investigators
+        orcid: null
+      - name: ASRB
+        orcid: null
+      - name: CALM Team
+        orcid: null
+      - name: Cam-CAN
+        orcid: null
+      - name: CCNP, 3R-BRAIN
+        orcid: null
+      - name: COBRE
+        orcid: null
+      - name: ENIGMA Developmental Brain Age working group
+        orcid: null
+      - name: FinnBrain
+        orcid: null
+      - name: Harvard Aging Brain Study
+        orcid: null
+      - name: IMAGEN
+        orcid: null
+      - name: KNE96
+        orcid: null
+      - name: NSPN
+        orcid: null
+      - name: OASIS-3
+        orcid: null
+      - name: OpenPain Project
+        orcid: null
+      - name: POND
+        orcid: null
+      - name: The PREVENT-AD Research Group
+        orcid: null
+      - name: VETSA
+        orcid: null
+      - name: Edward T. Bullmore
+        orcid: http://orcid.org/0000-0002-8955-8283
+      - name: Aaron F. Alexander-Bloch
+        orcid: http://orcid.org/0000-0001-6554-1893
+  comment:
+    dislikes: 0
+    thread: "8584753014"
+    numReports: 0
+    likes: 0
+    id: "5415091636"
+    createdAt: 2021-06-10T15:24:54
+    author:
+      username: muratbilgel
+      about: ""
+      name: Murat Bilgel
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/muratbilgel/
+      url: ""
+      location: ""
+      id: "69406908"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: 'Very impressive sample size and a monumental study! I think you
+      will find this recent paper "The Brain Chart of Aging" by Habes et al.
+      relevant:
+      https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.12178'
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.06.08.447489v1
+  tweets:
+    - created_at: Fri Jun 11 20:19:19 +0000 2021
+      id: 1403446769158078500
+      id_str: "1403446769158078465"
+      text: >-
+        💬 bioRxiv comment on "Brain charts for the human lif..."
+
+
+        "Very impressive sample size and a monumental study! I th… https://t.co/kw7bfFj62h
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/kw7bfFj62h
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jun 11 20:19:19 +0000 2021
+      id: 1403446770777079800
+      id_str: "1403446770777079811"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/SUapionEUQ
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/SUapionEUQ
+      in_reply_to_status_id: 1403446769158078500
+      in_reply_to_status_id_str: "1403446769158078465"
