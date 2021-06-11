@@ -16511,3 +16511,103 @@
           - url: https://t.co/SUapionEUQ
       in_reply_to_status_id: 1403446769158078500
       in_reply_to_status_id_str: "1403446769158078465"
+- preprint:
+    id: "145290"
+    doi: 10.1101/2021.06.08.447603
+    first_posted: 2021-06-09
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.08.447603v1
+    url: https://api.rxivist.org/v1/papers/145290
+    title: PRDM9 losses in vertebrates are coupled to the loss of at least three
+      other meiotic genes
+    category: evolutionary-biology
+    abstract: "In most mammals and likely throughout vertebrates, the gene PRDM9
+      specifies the locations of meiotic double strand breaks; in mice and
+      humans at least, it also aids in their repair. For both roles, many of the
+      molecular partners remain unknown. Here, we take a phylogenetic approach
+      to identify genes that may be interacting with PRDM9, by leveraging the
+      fact that PRDM9 arose before the origin of vertebrates, but was lost many
+      times, either partially or entirely--and with it, its role in
+      recombination. As a first step, we characterize PRDM9 domain composition
+      across 379 vertebrate species, inferring at least eight independent
+      losses. We then use the interdigitation of PRDM9 orthologs across
+      vertebrates to test whether it co-evolved with any of 241 candidate genes
+      co-expressed with PRDM9 in mice or associated with recombination
+      phenotypes in mammals. Accounting for the phylogenetic relationship among
+      species, we identify three genes whose presence and absence is
+      unexpectedly coincident with that of PRDM9: ZCWPW1, which was recently
+      shown to be recruited to sites of PRDM9 binding and to facilitate double
+      strand break repair; TEX15, which has also been suggested to play a role
+      in repair; and ZCWPW2, the paralog of ZCWPW1. ZCWPW2 is expected to be
+      recruited to sites of PRDM9 binding as well; its tight coevolution with
+      PRDM9 across vertebrates suggests that it is a key interactor, with a role
+      either in recruiting the recombination machinery or in double strand break
+      repair."
+    authors:
+      - name: Maria Izabel Alves Cavassim
+        orcid: http://orcid.org/0000-0001-9726-1431
+      - name: Zachary Baker
+        orcid: http://orcid.org/0000-0002-1540-0731
+      - name: Carla Hoge
+        orcid: http://orcid.org/0000-0001-9798-9684
+      - name: Mikkel Schierup
+        orcid: http://orcid.org/0000-0002-5028-1790
+      - name: Molly Schumer
+        orcid: http://orcid.org/0000-0002-2075-5668
+      - name: Molly Przeworski
+        orcid: http://orcid.org/0000-0002-5369-9009
+  comment:
+    dislikes: 0
+    thread: "8582336970"
+    numReports: 0
+    likes: 0
+    id: "5416676121"
+    createdAt: 2021-06-11T20:51:51
+    author:
+      name: Maria Izabel Cavassim Alves
+      url: ""
+      profileUrl: ""
+      emailHash: ""
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: "Thanks to Dr. Todd Jackman (Villanova), who emailed us a comment
+      on our preprint, we have realized that there is an error in the
+      distribution of TEX15 orthologs that we reconstructed: whereas we
+      initially only detected the presence of a partial PRDM9 ortholog in Anolis
+      carolinensis, there is in fact a complete TEX15 ortholog. As a result, the
+      evidence for co-evolution of TEX15 and PRDM9 is less compelling (p-value =
+      0.058 in Table 1). We will be updating the preprint shortly to reflect
+      this change."
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.06.08.447603v1
+  tweets:
+    - created_at: Fri Jun 11 22:20:14 +0000 2021
+      id: 1403477201358569500
+      id_str: "1403477201358569481"
+      text: >-
+        💬 bioRxiv comment on "PRDM9 losses in vertebrates ar..."
+
+
+        "Thanks to Dr. Todd Jackman (Villanova), who emailed us a… https://t.co/gwwvBqEra0
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/gwwvBqEra0
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jun 11 22:20:15 +0000 2021
+      id: 1403477202272931800
+      id_str: "1403477202272931848"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/W0XMPA4V1Y
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/W0XMPA4V1Y
+      in_reply_to_status_id: 1403477201358569500
+      in_reply_to_status_id_str: "1403477201358569481"
