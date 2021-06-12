@@ -16895,3 +16895,99 @@
           - url: https://t.co/jSRgf2dinT
       in_reply_to_status_id: 1403718101401747500
       in_reply_to_status_id_str: "1403718101401747456"
+- preprint:
+    id: "145322"
+    doi: 10.1101/2021.06.07.21258447
+    first_posted: 2021-06-09
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.07.21258447v1
+    url: https://api.rxivist.org/v1/papers/145322
+    title: Breakthrough infection with SARS-CoV-2 and its predictors among
+      healthcare workers in a medical college and hospital complex in Delhi,
+      India
+    category: public-and-global-health
+    abstract: >-
+      IntroductionThe study objective was to determine the breakthrough
+      infection rate of Covid-19 (SARS-CoV-2) infection in those vaccinated with
+      either BBV152 or AZD1222 (ChAdOx1-S) vaccine among healthcare workers
+      (HCWs).
+
+
+      MethodsA cross-sectional analysis was conducted a medical college and hospital complex in Delhi, India through telephonic interviews among HCWs who had received at-least one dose of a Covid-19 vaccine during January to March 2021. Breakthrough infections were operationally defined as occurrence of Covid-19 infection [&ge;]14 days after administration of two doses of either Covid-19 vaccine.
+
+
+      ResultsWe enrolled 326 HCWs with mean (SD) age of 29.1 (85.9) years including 212 (65%) males. Two hundred eighty (90.9%) HCWs were fully vaccinated while 46 (14.1%) were partially vaccinated. There were 168 (51.5%) BBV152 and 158 (48.5%) AZD1222 (ChAdOx1-S) recipients.
+
+
+      A total of 36 (11%, 95% C.I. 8.1, 14.9) breakthrough infections were reported in the HCWs. The median (IQR) time until incidence of Covid-19 infection since receiving second dose of either Covid-19 vaccine was 46 (28.2, 54.7) days. Furthermore, Covid-19 infections occurred in 65 (19.9%, 95% C.I 15.9, 24.6) HCWs vaccinated with at-least one dose of vaccine but prior to receiving their second dose or <14 days post second dose. Most breakthrough infection cases (94.4%) were mild and did not require supplemental oxygen therapy. HCWs with past history of natural Covid-19 infection with recovery were 4.5 times less likely to experience a Covid-19 infection after partial vaccination.
+
+
+      ConclusionNearly one in nine HCWs experienced a Covid-19 breakthrough infection in the present study.
+    authors:
+      - name: Pragya Sharma
+        orcid: http://orcid.org/0000-0003-4492-2720
+      - name: Suruchi Mishra
+        orcid: http://orcid.org/0000-0001-8693-0273
+      - name: Saurav Basu
+        orcid: http://orcid.org/0000-0003-1336-8720
+      - name: Neha Tanwar
+        orcid: null
+      - name: Rajesh Kumar
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8583178511"
+    numReports: 0
+    likes: 0
+    id: "5415782982"
+    createdAt: 2021-06-11T03:08:36
+    author:
+      username: kelsigmund
+      about: ""
+      name: Kel Sigmund
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/kelsigmund/
+      url: ""
+      location: ""
+      id: "370765100"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      1. Do you know if the relative lack of severe manifestations among the
+      vaccinees with breakthrough covid 19 was associated with the occurrence of
+      prior Covid 19 infection before undergoing vaccination?
+
+      2. Do you have data  on the demographics of the vaccinee recipients, especially risk factors for severe disease and age because it would be interesting to know if the vaccine truly mitigated the severity of disease or the vaccinated population is younger and healthier than most being health care workers.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.06.07.21258447v1
+  tweets:
+    - created_at: Sat Jun 12 16:32:26 +0000 2021
+      id: 1403752062454796300
+      id_str: "1403752062454796289"
+      text: >-
+        💬 medRxiv comment on "Breakthrough infection with SA..."
+
+
+        "1. Do you know if the relative lack of severe manifestat… https://t.co/YVuntPuV2h
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/YVuntPuV2h
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jun 12 16:32:26 +0000 2021
+      id: 1403752063172022300
+      id_str: "1403752063172022272"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/moFyyu9wkW
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/moFyyu9wkW
+      in_reply_to_status_id: 1403752062454796300
+      in_reply_to_status_id_str: "1403752062454796289"
