@@ -17095,3 +17095,57 @@
           - url: https://t.co/B5DO7aAXhF
       in_reply_to_status_id: 1403780430256611300
       in_reply_to_status_id_str: "1403780430256611328"
+- preprint:
+    id: 93510
+    metric: 15
+    title: FDR control in GWAS with population structure
+    url: https://api.rxivist.org/v1/papers/93510
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.08.04.236703v1
+    doi: 10.1101/2020.08.04.236703
+    category: genomics
+    first_posted: 2020-08-04
+    abstract: We present a comprehensive statistical framework to analyze data from
+      genome-wide association studies of polygenic traits, producing distinct
+      and interpretable discoveries while controlling the false discovery rate.
+      This approach leverages sophisticated multivariate models, correcting for
+      linkage disequilibrium, and accounts for population structure and
+      relatedness, adapting to the characteristics of the samples at hand. A key
+      element is the recognition that the observed genotypes can be considered
+      as a random sample from an appropriate model, encapsulating our knowledge
+      of genetic inheritance and human populations. This allows us to generate
+      imperfect copies (knockoffs) of these variables which serve as ideal
+      negative controls; knockoffs are indistinguishable from the original
+      genotypes in distribution, and independent from the phenotype. In sharp
+      contrast with state-of-the-art methods, the validity of our inference in
+      no way depends on assumptions about the unknown relation between genotypes
+      and phenotype. We develop and leverage a model for the genotypes that
+      accounts for arbitrary and unknown population structure, which may be due
+      to diverse ancestries or familial relatedness. We build a pipeline that is
+      robust to the most prominent possible confounders, facilitating the
+      discovery of causal variants. Validity and effectiveness are demonstrated
+      by extensive simulations with real data, as well as by the analysis of
+      several phenotypes in the UK Biobank. Finally, fast software is made
+      available for researchers to apply the proposed methodology to
+      Biobank-scale data sets.
+    authors:
+      - name: Matteo Sesia
+      - name: Stephen Bates
+      - name: Emmanuel Candès
+      - name: Jonathan Marchini
+      - name: Chiara Sabatti
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Sat Jun 12 20:16:24 +0000 2021
+      id: 1403808424450740200
+      id_str: "1403808424450740232"
+      text: |-
+        🔥 bioRxiv Genomics preprint by M. Sesia et al:
+
+        "FDR control in GWAS with population structure"… https://t.co/eLAlcZOa5l
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/eLAlcZOa5l
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
