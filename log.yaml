@@ -16706,3 +16706,89 @@
           - url: https://t.co/jC8jwWp8Ph
       in_reply_to_status_id: 1403516717054279700
       in_reply_to_status_id_str: "1403516717054279689"
+- preprint:
+    id: "145628"
+    doi: 10.1101/2021.06.10.447951
+    first_posted: 2021-06-10
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.10.447951v1
+    url: https://api.rxivist.org/v1/papers/145628
+    title: "Safety and Potency of COVIran Barekat Inactivated Vaccine Candidate for
+      SARS-CoV-2: A Preclinical Study"
+    category: immunology
+    abstract: There is an urgent demand to manufacture an effective and safe vaccine
+      to prevent SARS-CoV2 infection, which resulted in a global pandemic. In
+      this study, we developed an inactivated whole-virus SARS-CoV-2 candidate
+      vaccine named COVIran Barekat. Immunization at two different doses (3
+      microgram or 5 microgram per dose) elicited a high level of SARS-CoV-2
+      specific neutralizing antibodies in mice, rabbits, and non-human primates.
+      The results show the safety profile in studied animals (include guinea
+      pig, rabbit, mice, and monkeys). Rhesus macaques were immunized with the
+      two-dose of 5 microgram and microgram of the COVIran Barekat vaccine and
+      showed highly efficient protection against 104 TCID50 of SARS-CoV-2
+      intratracheal challenge compared with the control group. These results
+      highlight the COVIran Barekat vaccine as a potential candidate to induce a
+      strong and potent immune response which may be a promising and feasible
+      vaccine to protect against SARS-CoV2 infection.
+    authors:
+      - name: Asghar Abdoli
+        orcid: null
+      - name: Reza Aalizadeh
+        orcid: null
+      - name: Hossein Aminianfar
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8586047747"
+    numReports: 0
+    likes: 0
+    id: "5416670070"
+    createdAt: 2021-06-11T20:46:22
+    author:
+      username: seyyedmmiri
+      about: ""
+      name: Seyyed M Miri
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/seyyedmmiri/
+      url: http://www.drmiri.com
+      location: ""
+      id: "347657184"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      No Conflict of interest.
+
+      although some of the authors are working in private companies, there is no coflict of interest in this article. We recomment authors to declare it.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.06.10.447951v1
+  tweets:
+    - created_at: Sat Jun 12 12:29:50 +0000 2021
+      id: 1403691009486344200
+      id_str: "1403691009486344192"
+      text: |-
+        💬 bioRxiv comment on "Safety and Potency of COVIran ..."
+
+        "No Conflict of interest.
+        although some of the authors ar… https://t.co/6ywO70xisM
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/6ywO70xisM
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jun 12 12:29:50 +0000 2021
+      id: 1403691010312507400
+      id_str: "1403691010312507395"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/AMwMzS6zrj
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/AMwMzS6zrj
+      in_reply_to_status_id: 1403691009486344200
+      in_reply_to_status_id_str: "1403691009486344192"
