@@ -16792,3 +16792,106 @@
           - url: https://t.co/AMwMzS6zrj
       in_reply_to_status_id: 1403691009486344200
       in_reply_to_status_id_str: "1403691009486344192"
+- preprint:
+    id: "145454"
+    doi: 10.1101/2021.06.09.447681
+    first_posted: 2021-06-10
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.09.447681v1
+    url: https://api.rxivist.org/v1/papers/145454
+    title: Heightened condition dependent expression of structural colouration in
+      the faces, but not wings, of male and female flies
+    category: evolutionary-biology
+    abstract: Structurally coloured sexual signals are a conspicuous and widespread
+      class of ornament used in mate choice, though the extent to which they
+      encode information on the quality of their bearers is not fully resolved.
+      Theory predicts that signalling traits under strong sexual selection as
+      honest indicators should evolve to be more developmentally integrated and
+      exaggerated than nonsexual traits, thereby leading to heightened condition
+      dependence. Here we test this prediction through examination of the
+      sexually dimorphic faces and wings of the cursorial fly Lispe cana. Males
+      and females possess structural UV-white and golden faces, respectively,
+      and males present their faces and wings to females during close-range,
+      ground-based courtship displays, thereby creating the opportunity for
+      mutual inspection. Across a field-collected sample of individuals, we
+      found that the appearance of the faces of both sexes scaled positively
+      with individual condition, though along separate axes. Males in better
+      condition expressed brighter faces as modelled according to conspecific
+      flies, whereas condition scaled with facial saturation in females. We
+      found no such relationships for their wing interference pattern nor
+      abdomens, with the latter included as a nonsexual control. Our results
+      suggest that the structurally coloured faces, but not the iridescent
+      wings, of male and female Lispe cana are reliable guides to individual
+      quality and support the broader potential for structural colours as honest
+      signals. They also highlight the potential for mutual mate choice in this
+      system, while arguing for one of several alternate signalling roles for
+      wing interferences patterns among the myriad taxa which bear them.
+    authors:
+      - name: Thomas E. White
+        orcid: http://orcid.org/0000-0002-3976-1734
+      - name: Amy Locke
+        orcid: null
+      - name: Tanya Latty
+        orcid: http://orcid.org/0000-0002-7469-8590
+  comment:
+    dislikes: 0
+    thread: "8584512567"
+    numReports: 0
+    likes: 0
+    id: "5414775544"
+    createdAt: 2021-06-10T09:34:35
+    author:
+      username: marcrobinsonrechavi
+      about: ""
+      name: Marc RobinsonRechavi
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/marcrobinsonrechavi/
+      url: ""
+      location: ""
+      id: "67492738"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Under Data availability, the authors write:
+
+
+
+      <blockquote>All underlying data and code will be persistently archived upon acceptance</blockquote>
+
+
+
+      This is a publication, i.e. it is made public as part of the scientific record and is citable, thus I strongly invite the authors to make the corresponding data and code available without delay.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.06.09.447681v1
+  tweets:
+    - created_at: Sat Jun 12 14:17:29 +0000 2021
+      id: 1403718101401747500
+      id_str: "1403718101401747456"
+      text: |-
+        💬 bioRxiv comment on "Heightened condition dependent..."
+
+        "Under Data availability, the authors write:
+
+        &lt;blockquote… https://t.co/RbcxTsoa1u
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/RbcxTsoa1u
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jun 12 14:17:30 +0000 2021
+      id: 1403718102312001500
+      id_str: "1403718102312001545"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/jSRgf2dinT
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/jSRgf2dinT
+      in_reply_to_status_id: 1403718101401747500
+      in_reply_to_status_id_str: "1403718101401747456"
