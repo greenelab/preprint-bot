@@ -16611,3 +16611,98 @@
           - url: https://t.co/W0XMPA4V1Y
       in_reply_to_status_id: 1403477201358569500
       in_reply_to_status_id_str: "1403477201358569481"
+- preprint:
+    id: "130341"
+    doi: 10.1101/2021.02.20.432090
+    first_posted: 2021-02-20
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.02.20.432090v1
+    url: https://api.rxivist.org/v1/papers/130341
+    title: "Preprints in motion: tracking changes between posting and journal
+      publication"
+    category: scientific-communication-and-education
+    abstract: Amidst the COVID-19 pandemic, preprints in the biomedical sciences are
+      being posted and accessed at unprecedented rates, drawing widespread
+      attention from the general public, press and policymakers for the first
+      time. This phenomenon has sharpened longstanding questions about the
+      reliability of information shared prior to journal peer review. Does the
+      information shared in preprints typically withstand the scrutiny of peer
+      review, or are conclusions likely to change in the version of record? We
+      assessed preprints that had been posted and subsequently published in a
+      journal between 1st January and 30th April 2020, representing the initial
+      phase of the pandemic response. We utilised a combination of automatic and
+      manual annotations to quantify how an article changed between the
+      preprinted and published version. We found that the total number of figure
+      panels and tables changed little between preprint and published articles.
+      Moreover, the conclusions of 6% of non-COVID-19-related and 15% of
+      COVID-19-related abstracts undergo a discrete change by the time of
+      publication, but the majority of these changes do not reverse the main
+      message of the paper.
+    authors:
+      - name: Jessica K Polka
+        orcid: http://orcid.org/0000-0001-6610-9293
+      - name: Gautam Dey
+        orcid: http://orcid.org/0000-0003-1416-6223
+      - name: Mate Palfy
+        orcid: http://orcid.org/0000-0003-2532-9438
+      - name: Federico Nanni
+        orcid: http://orcid.org/0000-0003-2484-4331
+      - name: Liam Brierley
+        orcid: http://orcid.org/0000-0002-3026-4723
+      - name: Nicholas Fraser
+        orcid: http://orcid.org/0000-0002-7582-6339
+      - name: Jonathon Alexis Coates
+        orcid: http://orcid.org/0000-0001-9039-9219
+  comment:
+    dislikes: 0
+    thread: "8465389038"
+    numReports: 0
+    likes: 0
+    id: "5416670758"
+    createdAt: 2021-06-11T20:46:55
+    author:
+      username: jessicapolka
+      about: Director, ASAPbio
+      name: Jessica Polka
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/jessicapolka/
+      url: http://jessicapolka.com
+      location: Boston, MA
+      id: "63061838"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: "My co-authors and I welcome additional public comments on this
+      work, ideally by the end of June, 2021! #FeedbackASAP"
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.02.20.432090v2
+  tweets:
+    - created_at: Sat Jun 12 00:57:16 +0000 2021
+      id: 1403516717054279700
+      id_str: "1403516717054279689"
+      text: >-
+        💬 bioRxiv comment on "Preprints in motion: tracking ..."
+
+
+        "My co-authors and I welcome additional public comments o… https://t.co/4iBsjg6e0H
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/4iBsjg6e0H
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jun 12 00:57:16 +0000 2021
+      id: 1403516717909909500
+      id_str: "1403516717909909507"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/jC8jwWp8Ph
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/jC8jwWp8Ph
+      in_reply_to_status_id: 1403516717054279700
+      in_reply_to_status_id_str: "1403516717054279689"
