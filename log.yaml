@@ -17894,3 +17894,59 @@
           - url: https://t.co/B5DO7aAXhF
       in_reply_to_status_id: 1404142936086954000
       in_reply_to_status_id_str: "1404142936086953991"
+- preprint:
+    id: 145879
+    metric: 32
+    title: Harnessing methylotrophs as a bacterial platform to reduce adverse
+      effects of the use of the heavy lanthanide gadolinium in magnetic
+      resonance imaging
+    url: https://api.rxivist.org/v1/papers/145879
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.12.448192v1
+    doi: 10.1101/2021.06.12.448192
+    category: microbiology
+    first_posted: 2021-06-12
+    abstract: Gadolinium is a key component of magnetic resonance imaging contrast
+      agents that are critical tools for enhanced detection and diagnosis of
+      tissue and vascular abnormalities. Untargeted post-injection deposition of
+      gadolinium in vivo, and association with diseases like nephrogenic
+      systemic fibrosis, has alerted regulatory agencies to re-evaluate their
+      widespread use and generated calls for safer gadolinium-based contrast
+      agents (GBCAs). Increasing anthropogenic gadolinium in surface water has
+      also raised concerns of potential bioaccumulation in plants and animals.
+      Methylotrophic bacteria can acquire, transport, store and use light
+      lanthanides as part of a cofactor complex with pyrroloquinoline quinone
+      (PQQ), an essential component of XoxF-type methanol dehydrogenases (MDHs),
+      a critical enzyme for methylotrophic growth with methanol. We report
+      robust gadolinium-dependent methanol growth of a genetic variant of
+      Methylorubrum extorquens AM1, named evo-HLn, for evolved for heavy
+      lanthanides. Genetic adaptation of evo-HLn resulted in increased xox1
+      promoter and XoxF MDH activities, transport and storage of Gd3+, and
+      augmented biosynthesis of PQQ. Gadolinium-grown cells exhibited a shorter
+      T1 relaxation time compared to cells with lanthanum or no lanthanide when
+      analyzed by MRI. In addition, evo-HLn was able to grow on methanol using
+      the GBCA Gd-DTPA as the sole gadolinium source, showing the potential of
+      this strain for the development of novel GBCAs and gadolinium recovery
+      from medical waste and/or wastewater.
+    authors:
+      - name: Nathan Michael Good
+      - name: Harvey Lee
+      - name: Emily R Hawker
+      - name: Assaf Gilad
+      - name: Norma Cecilia Martinez-Gomez
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Sun Jun 13 20:15:39 +0000 2021
+      id: 1404170622666559500
+      id_str: "1404170622666559493"
+      text: >-
+        🔥 bioRxiv Microbiology preprint by N. M. Good et al:
+
+
+        "Harnessing methylotrophs as a bacterial platform to reduce a… https://t.co/bwlfhZQRQ8
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/bwlfhZQRQ8
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
