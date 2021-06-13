@@ -17572,3 +17572,120 @@
           - url: https://t.co/B5DO7aAXhF
       in_reply_to_status_id: 1404053540616683500
       in_reply_to_status_id_str: "1404053540616683529"
+- preprint:
+    id: "144132"
+    doi: 10.1101/2021.05.28.21258012
+    first_posted: 2021-05-31
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.28.21258012v1
+    url: https://api.rxivist.org/v1/papers/144132
+    title: Observational Study on 255 Mechanically Ventilated Covid Patients at the
+      Beginning of the USA Pandemic
+    category: pharmacology-and-therapeutics
+    abstract: "Abstract Introduction: This observational study looked at 255 COVID19
+      patients who required invasive mechanical ventilation (IMV) during the
+      first two months of the US pandemic. Through comprehensive, longitudinal
+      evaluation and new consideration of all the data, we were able to better
+      describe and understand factors affecting outcome after intubation.
+      Methods: All vital signs, laboratory values, and medication
+      administrations (time, date, dose, and route) were collected and
+      organized. Further, each patient's prior medical records, including PBM
+      data and available ECG, were reviewed by a physician. These data were
+      incorporated into time-series database for statistical analysis. Results:
+      By discharge or Day 90, 78.2% of the cohort expired. The most common
+      pre-existing conditions were hypertension, (63.5%), diabetes (59.2%) and
+      obesity (50.4%). Age correlated with death. Comorbidities and clinical
+      status on presentation were not predictive of outcome. Admission markers
+      of inflammation were universally elevated (>96%). The cohort's weight
+      range was nearly 7-fold. Causal modeling establishes that weight-adjusted
+      HCQ and AZM therapy improves survival by over 100%. QTc prolongation did
+      not correlate with cumulative HCQ dose or HCQ serum levels. Discussion:
+      This detailed approach gives us better understanding of risk factors,
+      prognostic indicators, and outcomes of Covid patients needing IMV. Few
+      variables were related to outcome. By considering more factors and using
+      new methods, we found that when increased doses of co-administered HCQ and
+      AZM were associated with >100% increase in survival. Comparison of
+      absolute with weight-adjusted cumulative doses proves administration
+      [&ge;]80 mg/kg of HCQ with > 1 gm AZM increases survival in IMV-requiring
+      Covid patients by over 100%. According to our data, HCQ is not associated
+      with prolongation. Studies, which reported QTc prolongation secondary to
+      HCQ, need to be re-evaluated more stringently and with controls. The
+      weight ranges of Covid patient cohorts are substantially greater than
+      those of most antibiotic RCTs. Future clinical trials need to consider the
+      weight variance of hospitalized Covid patients and need to study
+      therapeutics more thoughtfully."
+    authors:
+      - name: Leon G Smith
+        orcid: null
+      - name: Nicolas Mendoza
+        orcid: null
+      - name: Stephen Smith
+        orcid: http://orcid.org/0000-0002-9158-6136
+      - name: David P Dobesh
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8564791155"
+    numReports: 0
+    likes: 4
+    id: "5414774986"
+    createdAt: 2021-06-10T09:33:28
+    author:
+      username: marcelomazocco
+      about: Alguém perdido em algum lugar
+      name: Marcelo Mazocco
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/marcelomazocco/
+      url: ""
+      location: Mundo, estranho mundo.
+      id: "154637687"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Stephen, can you assure that not even around 7 out of the 224 patients to
+      whom were given HCQ did get included in the "success" group by cumulative
+      dosages (the 18 survivors that took >3g HCQ + >1g AZM) JUST BECAUSE they
+      survived and therefore had more time to consolidate those dosages, and not
+      the other way around?
+
+
+      Because if that is the case, I believe you got a problem of statistical significance. That would leave us with just 3 survivors above general average. And by 7 out of 224, that might be the case.
+
+
+      Another issue: 87% of all patients received HCQ in some form but what was the percentage of those in the survivors group? I couldn't find the number but I suspect this result is something to look at. It should be higher than 87% if any form of it works in any way. As is also something to look at the randomized double blinded studies that compare those who took HCQ+AZM to those who didn't, in a more broad way, so that we can compare the effects. I suspect that this study not being blinded or double blinded could have also skewed the results by some amount, and that is another issue.
+
+
+      One more issue: I find it quite weird that you had 78% death rate when the average north american death rate for intubated patients of covid is around 46% for what I've seen. Even using a few medications that supposedly work. There must be something else at play here, probably also skewing the results.
+    forum: medrxiv
+    points: 4
+    link: https://www.medrxiv.org/content/10.1101/2021.05.28.21258012v1
+  tweets:
+    - created_at: Sun Jun 13 14:17:35 +0000 2021
+      id: 1404080512478634000
+      id_str: "1404080512478633986"
+      text: >-
+        💬 medRxiv comment on "Observational Study on 255 Mec..."
+
+
+        "Stephen, can you assure that not even around 7 out of th… https://t.co/naT7enVoJI
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/naT7enVoJI
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jun 13 14:17:35 +0000 2021
+      id: 1404080513321681000
+      id_str: "1404080513321680899"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/B5DO7aAXhF
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/B5DO7aAXhF
+      in_reply_to_status_id: 1404080512478634000
+      in_reply_to_status_id_str: "1404080512478633986"
