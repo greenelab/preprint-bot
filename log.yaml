@@ -18256,3 +18256,124 @@
           - url: https://t.co/oTURmeVcNy
       in_reply_to_status_id: 1404242191770427400
       in_reply_to_status_id_str: "1404242191770427396"
+- preprint:
+    id: "144132"
+    doi: 10.1101/2021.05.28.21258012
+    first_posted: 2021-05-31
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.28.21258012v1
+    url: https://api.rxivist.org/v1/papers/144132
+    title: Observational Study on 255 Mechanically Ventilated Covid Patients at the
+      Beginning of the USA Pandemic
+    category: pharmacology-and-therapeutics
+    abstract: "Abstract Introduction: This observational study looked at 255 COVID19
+      patients who required invasive mechanical ventilation (IMV) during the
+      first two months of the US pandemic. Through comprehensive, longitudinal
+      evaluation and new consideration of all the data, we were able to better
+      describe and understand factors affecting outcome after intubation.
+      Methods: All vital signs, laboratory values, and medication
+      administrations (time, date, dose, and route) were collected and
+      organized. Further, each patient's prior medical records, including PBM
+      data and available ECG, were reviewed by a physician. These data were
+      incorporated into time-series database for statistical analysis. Results:
+      By discharge or Day 90, 78.2% of the cohort expired. The most common
+      pre-existing conditions were hypertension, (63.5%), diabetes (59.2%) and
+      obesity (50.4%). Age correlated with death. Comorbidities and clinical
+      status on presentation were not predictive of outcome. Admission markers
+      of inflammation were universally elevated (>96%). The cohort's weight
+      range was nearly 7-fold. Causal modeling establishes that weight-adjusted
+      HCQ and AZM therapy improves survival by over 100%. QTc prolongation did
+      not correlate with cumulative HCQ dose or HCQ serum levels. Discussion:
+      This detailed approach gives us better understanding of risk factors,
+      prognostic indicators, and outcomes of Covid patients needing IMV. Few
+      variables were related to outcome. By considering more factors and using
+      new methods, we found that when increased doses of co-administered HCQ and
+      AZM were associated with >100% increase in survival. Comparison of
+      absolute with weight-adjusted cumulative doses proves administration
+      [&ge;]80 mg/kg of HCQ with > 1 gm AZM increases survival in IMV-requiring
+      Covid patients by over 100%. According to our data, HCQ is not associated
+      with prolongation. Studies, which reported QTc prolongation secondary to
+      HCQ, need to be re-evaluated more stringently and with controls. The
+      weight ranges of Covid patient cohorts are substantially greater than
+      those of most antibiotic RCTs. Future clinical trials need to consider the
+      weight variance of hospitalized Covid patients and need to study
+      therapeutics more thoughtfully."
+    authors:
+      - name: Leon G Smith
+        orcid: null
+      - name: Nicolas Mendoza
+        orcid: null
+      - name: Stephen Smith
+        orcid: http://orcid.org/0000-0002-9158-6136
+      - name: David P Dobesh
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8564791155"
+    numReports: 0
+    likes: 3
+    id: "5416539078"
+    createdAt: 2021-06-11T18:53:43
+    author:
+      username: SemperCogitens
+      about: ""
+      name: SemperCogitens
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/SemperCogitens/
+      url: ""
+      location: Third planet from the sun, Milky Way galaxy, Laniakea Supercluster
+      id: "14179515"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      A couple of things people really need to note here:
+
+      1) This is PRE-publication. It hasn't been peer-reviewed. Everything on this website is such. It cannot be regarded the same as something which has gone through the full process with a respected journal.
+
+      2) This is an observational study (retrospective cohort). It is NOT a randomized, placebo-controlled clinical trial. Only the RCT can prove causation. This is hypothesis-generating research only. It does not PROVE HCQ works, merely suggests that. 
+
+
+      3) If you dig in a bit, they define "treatment" to include only 37 of the advertised 250ish patients in the cohort, specifically those receiving >3,000mg HCQ and >1g azithromycin. Small sample sizes should always be viewed with extreme skepticism. Less than 30ish and your p-value is essentially meaningless. 
+
+
+      4) The overall mortality rate of the total group was ~80%! These people were old, unhealthy to begin with, admitted to the hospital after nearly a week of progressing symptoms, required ICU care, intubation, and mechanical ventilation. These were very sick patients.
+
+
+      5) Clinically, we see a pattern for the treatment of ARDS and secondary pneumonia, not COVID. High dose corticosteroids work (we know this for ARDS), tocilizumab, a potent anti-inflammatory works (we have some data for this in ARDS as well). And azithromycin is a very common drug to treat bacterial pneumonias that often pop up secondary to lung disease like this.
+
+
+
+      So, please avoid jumping to unsupported conclusions. If we want real answers, we have to keep our skepticism, and be very careful in our analysis. The key here is we need corroborating studies. An April 2020 study at the VA showed exactly the opposite effect of HCQ in a similar patient population (though the VA obviously serves more males).
+    forum: medrxiv
+    points: 3
+    link: https://www.medrxiv.org/content/10.1101/2021.05.28.21258012v1
+  tweets:
+    - created_at: Mon Jun 14 12:30:47 +0000 2021
+      id: 1404416021658734600
+      id_str: "1404416021658734593"
+      text: |-
+        💬 medRxiv comment on "Observational Study on 255 Mec..."
+
+        "A couple of things people really need to note here:
+        1) T… https://t.co/OQamnWxBKV
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/OQamnWxBKV
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jun 14 12:30:47 +0000 2021
+      id: 1404416022367588400
+      id_str: "1404416022367588357"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/B5DO7aAXhF
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/B5DO7aAXhF
+      in_reply_to_status_id: 1404416021658734600
+      in_reply_to_status_id_str: "1404416021658734593"
