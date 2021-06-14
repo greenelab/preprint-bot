@@ -18701,3 +18701,62 @@
           - url: https://t.co/B5DO7aAXhF
       in_reply_to_status_id: 1404504957840199700
       in_reply_to_status_id_str: "1404504957840199682"
+- preprint:
+    id: 136557
+    metric: 21
+    title: Driving potent neutralization of a SARS-CoV-2 Variant of Concern with a
+      heterotypic boost
+    url: https://api.rxivist.org/v1/papers/136557
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.04.03.438330v1
+    doi: 10.1101/2021.04.03.438330
+    category: immunology
+    first_posted: 2021-04-05
+    abstract: The emergence of SARS-CoV-2 Variants of Concern (VOCs) with mutations
+      in key neutralizing antibody epitopes threatens to undermine vaccines
+      developed against the pandemic founder variant (Wu-Hu-1). Widespread
+      vaccine rollout and continued transmission are creating a population that
+      has antibody responses of varying potency to Wu-Hu-1. Against this
+      background, it is critical to assess the outcomes of subsequent
+      immunization with variant antigens. It is not yet known whether
+      heterotypic vaccine boosts would be compromised by original antigenic sin,
+      where pre-existing responses to a prior variant dampen responses to a new
+      one, or whether the primed memory B cell repertoire would bridge the gap
+      between Wu-Hu-1 and VOCs. Here, we show that a single adjuvanted dose of
+      receptor binding domain (RBD) protein from VOC 501Y.V2 (B.1.351) drives an
+      extremely potent neutralizing antibody response capable of
+      cross-neutralizing both Wu-Hu-1 and 501Y.V2 in rhesus macaques previously
+      immunized with Wu-Hu-1 spike protein. Passive immunization with plasma
+      sampled following this boost protected K18-hACE2 mice from lethal
+      challenge with a 501Y.V2 clinical isolate, whereas only partial protection
+      was afforded by plasma sampled after two Wu-Hu-1 spike immunizations.
+    authors:
+      - name: Daniel J Sheward
+      - name: Marco Mandolesi
+      - name: Egon Urgard
+      - name: Changil Kim
+      - name: Leo Hanke
+      - name: Laura Perez Vidakovics
+      - name: Alec Pankow
+      - name: Natalie L. Smith
+      - name: Xaquin Castro Dopico
+      - name: Gerald M McInerney
+      - name: Jonathan M Coquet
+      - name: Gunilla Karlsson Hedestam
+      - name: Ben Murrell
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Mon Jun 14 20:15:59 +0000 2021
+      id: 1404533094288433200
+      id_str: "1404533094288433155"
+      text: >-
+        🔥 bioRxiv Immunology preprint by D. J. Sheward et al:
+
+
+        "Driving potent neutralization of a SARS-CoV-2 Variant of Co… https://t.co/55F89xssBq
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/55F89xssBq
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
