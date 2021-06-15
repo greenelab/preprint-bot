@@ -19492,3 +19492,58 @@
           - url: https://t.co/652MU30MFJ
       in_reply_to_status_id: 1404867894781964300
       in_reply_to_status_id_str: "1404867894781964289"
+- preprint:
+    id: 146065
+    metric: 34
+    title: Mapping the Genetic Landscape of DNA Double-strand Break Repair
+    url: https://api.rxivist.org/v1/papers/146065
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.14.448344v1
+    doi: 10.1101/2021.06.14.448344
+    category: genomics
+    first_posted: 2021-06-14
+    abstract: Cells repair DNA double-strand breaks (DSBs) through a complex set of
+      pathways that are critical for maintaining genomic integrity. Here we
+      present Repair-seq, a high-throughput screening approach that measures the
+      effects of thousands of genetic perturbations on the distribution of
+      mutations introduced at targeted DNA lesions. Using Repair-seq, we
+      profiled DSB repair outcomes induced by two programmable nucleases (Cas9
+      and Cas12a) after knockdown of 476 genes involved in DSB repair or
+      associated processes in the presence or absence of oligonucleotides for
+      homology-directed repair (HDR). The resulting data enabled principled,
+      data-driven inference of DSB end joining and HDR pathways and demonstrated
+      that repair outcomes with superficially similar sequence architectures can
+      have markedly different genetic dependencies. Systematic interrogation of
+      these dependencies then uncovered unexpected relationships among DSB
+      repair genes and isolated incompletely characterized repair mechanisms.
+      This work provides a foundation for understanding the complex pathways of
+      DSB repair and for optimizing genome editing across modalities.
+    authors:
+      - name: Jeffrey A Hussmann
+      - name: Jia Ling
+      - name: Purnima Ravisankar
+      - name: Jun Yan
+      - name: Ann Cirincione
+      - name: Albert Xu
+      - name: Danny Simpson
+      - name: Dian Yang
+      - name: Anne Bothmer
+      - name: Cecilia Cotta-Ramusino
+      - name: Jonathan S Weissman
+      - name: Britt Adamson
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Tue Jun 15 20:15:54 +0000 2021
+      id: 1404895460456870000
+      id_str: "1404895460456869890"
+      text: >-
+        🔥 bioRxiv Genomics preprint by J. A. Hussmann et al:
+
+
+        "Mapping the Genetic Landscape of DNA Double-strand Break Rep… https://t.co/nNv1SfPslO
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/nNv1SfPslO
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
