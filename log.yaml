@@ -19200,3 +19200,98 @@
           - url: https://t.co/X1vn2rwJ4z
       in_reply_to_status_id: 1404779597422530600
       in_reply_to_status_id_str: "1404779597422530565"
+- preprint:
+    id: "142286"
+    doi: 10.1101/2021.05.17.444558
+    first_posted: 2021-05-18
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.05.17.444558v1
+    url: https://api.rxivist.org/v1/papers/142286
+    title: Polarized Dishevelled dissolution and condensation drives embryonic axis
+      specification in oocytes
+    category: cell-biology
+    abstract: The organismal body axes that are formed during embryogenesis are
+      intimately linked to intrinsic asymmetries established at the cellular
+      scale in oocytes. Here, we report an axis-defining event in meiotic
+      oocytes of the sea star Patiria miniata. Dishevelled is a cytoplasmic Wnt
+      pathway effector required for axis development in diverse species, but the
+      mechanisms governing its function and distribution remain poorly defined.
+      Using time-lapse imaging, we find that Dishevelled localizes uniformly to
+      puncta throughout the cell cortex in Prophase I-arrested oocytes, but
+      becomes enriched at the vegetal pole following meiotic resumption through
+      a dissolution-condensation mechanism. This process is driven by an initial
+      disassembly phase of Dvl puncta, followed by selective reformation of Dvl
+      assemblies at the vegetal pole. Rather than being driven by Wnt signaling,
+      this localization behavior is coupled to meiotic cell cycle progression
+      and influenced by Lamp1+ endosome association and Frizzled receptors
+      pre-localized within the oocyte cortex. Our results reveal a cell
+      cycle-linked mechanism by which maternal cellular polarity is transduced
+      to the embryo through spatially-regulated Dishevelled dynamics.
+    authors:
+      - name: Zak Swartz
+        orcid: null
+      - name: Tzer Han Tan
+        orcid: null
+      - name: Margherita Perillo
+        orcid: null
+      - name: Nikta Fakhri
+        orcid: null
+      - name: Gary M. Wessel
+        orcid: http://orcid.org/0000-0002-1210-9279
+      - name: Athula Wikramanayake
+        orcid: null
+      - name: Iain M Cheeseman
+        orcid: http://orcid.org/0000-0002-3829-5612
+  comment:
+    dislikes: 0
+    thread: "8529219331"
+    numReports: 0
+    likes: 0
+    id: "5420500019"
+    createdAt: 2021-06-15T11:04:54
+    author:
+      username: iaincheeseman
+      about: ""
+      name: Iain Cheeseman
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/iaincheeseman/
+      url: ""
+      location: ""
+      id: "370970146"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: "My co-authors and I welcome additional public comments on this
+      work. Thanks! #FeedbackASAP"
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.05.17.444558v1
+  tweets:
+    - created_at: Tue Jun 15 14:18:32 +0000 2021
+      id: 1404805525741650000
+      id_str: "1404805525741649921"
+      text: >-
+        💬 bioRxiv comment on "Polarized Dishevelled dissolut..."
+
+
+        "My co-authors and I welcome additional public comments o… https://t.co/CNFKSZbNKB
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/CNFKSZbNKB
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jun 15 14:18:32 +0000 2021
+      id: 1404805526609858600
+      id_str: "1404805526609858568"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/8jyX0H819K
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/8jyX0H819K
+      in_reply_to_status_id: 1404805525741650000
+      in_reply_to_status_id_str: "1404805525741649921"
