@@ -19396,3 +19396,99 @@
           - url: https://t.co/oTURmfcNF6
       in_reply_to_status_id: 1404840013838241800
       in_reply_to_status_id_str: "1404840013838241799"
+- preprint:
+    id: "143204"
+    doi: 10.1101/2021.05.18.21257385
+    first_posted: 2021-05-25
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.18.21257385v1
+    url: https://api.rxivist.org/v1/papers/143204
+    title: Mask mandate and use efficacy in state-level COVID-19 containment
+    category: epidemiology
+    abstract: "Background: Containment of the COVID-19 pandemic requires
+      evidence-based strategies to reduce transmission. Because COVID-19 can
+      spread via respired droplets, many states have mandated mask use in public
+      settings. Randomized control trials have not clearly demonstrated mask
+      efficacy against respiratory viruses, but observational studies suggest
+      greater mask compliance may be associated with lower infection rates. We
+      hypothesized that statewide mask mandates and mask use are associated with
+      lower COVID-19 case growth rates in the United States. Methods: We
+      calculated total COVID-19 case growth and mask use for the continental
+      United States with data from the Centers for Disease Control and
+      Prevention and Institute for Health Metrics and Evaluation. We estimated
+      post-mask mandate case growth in non-mandate states using median issuance
+      dates of neighboring states with mandates. Results: Case growth was not
+      significantly different between mandate and non-mandate states at low or
+      high transmission rates, and surges were equivocal. Mask use predicted
+      lower case growth at low, but not high transmission rates. Growth rates
+      were comparable between states in the top and bottom mask use quintiles
+      adjusted for normalized total cases early in the pandemic and unadjusted
+      after peak Fall-Winter infections. Mask use did not predict Summer 2020
+      case growth for non-Northeast states or Fall-Winter 2020 growth for all
+      states. Conclusions: Mask mandates and use are not associated with slower
+      state-level COVID-19 spread during COVID-19 growth surges. COVID-19
+      containment requires future research and implementation of existing
+      efficacious strategies."
+    authors:
+      - name: Damian Guerra
+        orcid: http://orcid.org/0000-0002-6621-4656
+      - name: Daniel J Guerra
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8550177462"
+    numReports: 0
+    likes: 1
+    id: "5418847111"
+    createdAt: 2021-06-13T22:52:58
+    author:
+      username: derekgard
+      about: ""
+      name: Deplorable D
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/derekgard/
+      url: ""
+      location: ""
+      id: "125999308"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: The flu is interesting.  Either, many COVID cases were counted as
+      the flu, or SARS-CoV-2 was the dominant virus this year and thus the flu
+      was not able to infect many people.  I suspect we will learn it is a
+      combination of both.  Many, many people were declared COVID positive based
+      only on symptoms.  My doctor declared I likely had covid and I did not
+      even go to the office or take a test.  I had a headache, fever, and a
+      cough... Viola!  Covid!!
+    forum: medrxiv
+    points: 1
+    link: https://www.medrxiv.org/content/10.1101/2021.05.18.21257385v1
+  tweets:
+    - created_at: Tue Jun 15 18:26:21 +0000 2021
+      id: 1404867894781964300
+      id_str: "1404867894781964289"
+      text: >-
+        💬 medRxiv comment on "Mask mandate and use efficacy ..."
+
+
+        "The flu is interesting.  Either, many COVID cases were c… https://t.co/wQxNnbXdu7
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/wQxNnbXdu7
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jun 15 18:26:22 +0000 2021
+      id: 1404867895620890600
+      id_str: "1404867895620890624"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/652MU30MFJ
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/652MU30MFJ
+      in_reply_to_status_id: 1404867894781964300
+      in_reply_to_status_id_str: "1404867894781964289"
