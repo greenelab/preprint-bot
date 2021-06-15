@@ -19080,3 +19080,123 @@
           - url: https://t.co/B5DO7aAXhF
       in_reply_to_status_id: 1404605908165042200
       in_reply_to_status_id_str: "1404605908165042176"
+- preprint:
+    id: "134064"
+    doi: 10.1101/2021.03.18.436038
+    first_posted: 2021-03-19
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.03.18.436038v1
+    url: https://api.rxivist.org/v1/papers/134064
+    title: Transcriptomic analysis of temporal shifts in berry development between
+      two grapevine cultivars of the Pinot family reveals potential genes
+      controlling ripening time
+    category: developmental-biology
+    abstract: "Background: Grapevine cultivars of the Pinot family represent
+      clonally propagated mutants with major phenotypic and physiological
+      differences, such as different colour or shifted ripening time, as well as
+      changes in important viticultural traits. Specifically, the cultivars
+      'Pinot Noir' (PN) and 'Pinot Noir Precoce' (PNP, early ripening) flower at
+      the same time, but vary in the beginning of berry ripening (veraison) and,
+      consequently, harvest time. In addition to genotype, seasonal climatic
+      conditions (i.e. high temperatures) also affect ripening times. To reveal
+      possible regulatory genes that affect the timing of veraison onset, we
+      investigated differences in gene expression profiles between PN and PNP
+      throughout berry development with a closely meshed time series and over
+      two separate years. Results: The difference in the duration of berry
+      formation between PN and PNP was quantified to be approximately two weeks
+      under the growth conditions applied, using plant material with a proven PN
+      and PNP clonal relationship. Clusters of co-expressed genes and
+      differentially expressed genes (DEGs) were detected which reflect the
+      shift in the timing of veraison onset. Functional annotation of these DEGs
+      fit to observed phenotypic and physiological changes during berry
+      development. In total, we observed 3,342 DEGs in 2014 and 2,745 DEGs in
+      2017 between PN and PNP, with 1,923 DEGs across both years. Among these,
+      388 DEGs were identified as veraison-specific and 12 were considered as
+      berry ripening time regulatory candidates. The expression profiles
+      revealed two candidate genes for ripening time control which we designated
+      VviRTIC1 and VviRTIC2 (VIT_210s0071g01145 and VIT_200s0366g00020,
+      respectively). These genes likely contribute the phenotypic differences
+      observed between PN and PNP. Conclusions: Many of the 1,923 DEGs show
+      highly similar expression profiles in both cultivars if the patterns are
+      aligned according to developmental stage. In our work, putative genes
+      differentially expressed between PNP and PN which could control ripening
+      time as well as veraison-specific genes were identified. We point out
+      connections of these genes to molecular events during berry development
+      and discuss potential candidate genes which may control ripening time. Two
+      of these candidates were observed to be differentially expressed in the
+      early berry development phase. Several down-regulated genes during berry
+      ripening are annotated as auxin response factors / ARFs. Conceivably,
+      general changes in auxin signaling may cause the earlier ripening
+      phenotype of PNP."
+    authors:
+      - name: Jens Theine
+        orcid: http://orcid.org/0000-0002-6042-373X
+      - name: Daniela Holtgräwe
+        orcid: http://orcid.org/0000-0002-1062-4576
+      - name: Katja Herzog
+        orcid: null
+      - name: Florian Schwander
+        orcid: null
+      - name: Anna Kicherer
+        orcid: null
+      - name: Ludger Hausmann
+        orcid: http://orcid.org/0000-0002-4046-9626
+      - name: Prisca Viehöver
+        orcid: http://orcid.org/0000-0003-3286-4121
+      - name: Reinhard Töpfer
+        orcid: http://orcid.org/0000-0003-1569-2495
+      - name: Bernd Weisshaar
+        orcid: http://orcid.org/0000-0002-7635-3473
+  comment:
+    dislikes: 0
+    thread: "8500231074"
+    numReports: 0
+    likes: 0
+    id: "5420435524"
+    createdAt: 2021-06-15T09:18:58
+    author:
+      name: Jens Theine
+      url: ""
+      profileUrl: ""
+      emailHash: ""
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Dear Adaobi Okafor,
+
+      thanks for your interest and your question!
+
+      We revised our manuscript, and in the new version, we tried to make it clearer which kind of reads were used in each analysis (see material and methods). Tank you for your input! Greets, Jens
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.03.18.436038v2
+  tweets:
+    - created_at: Tue Jun 15 12:35:30 +0000 2021
+      id: 1404779597422530600
+      id_str: "1404779597422530565"
+      text: |-
+        💬 bioRxiv comment on "Transcriptomic analysis of tem..."
+
+        "Dear Adaobi Okafor,
+        thanks for your interest and your qu… https://t.co/d7QezCQSCt
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/d7QezCQSCt
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jun 15 12:35:30 +0000 2021
+      id: 1404779598324408300
+      id_str: "1404779598324408327"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/X1vn2rwJ4z
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/X1vn2rwJ4z
+      in_reply_to_status_id: 1404779597422530600
+      in_reply_to_status_id_str: "1404779597422530565"
