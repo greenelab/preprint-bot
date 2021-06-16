@@ -20291,3 +20291,53 @@
           - url: https://t.co/oTURmeVcNy
       in_reply_to_status_id: 1405230010399694800
       in_reply_to_status_id_str: "1405230010399694854"
+- preprint:
+    id: 146175
+    metric: 14
+    title: Zinc2+ ion inhibits SARS-CoV-2 main protease and viral replication in
+      vitro.
+    url: https://api.rxivist.org/v1/papers/146175
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.15.448551v1
+    doi: 10.1101/2021.06.15.448551
+    category: biochemistry
+    first_posted: 2021-06-15
+    abstract: Zinc deficiency is linked to poor prognosis in COVID-19 patients while
+      clinical trials with Zinc demonstrate better clinical outcome. The
+      molecular target and mechanistic details of anti-coronaviral (SARS-CoV2)
+      activity of Zinc remain obscure. We show that ionic Zinc not only inhibits
+      SARS-CoV-2 main protease (Mpro) with nanomolar affinity, but also viral
+      replication. We present the first crystal structure of Mpro-Zinc2+ complex
+      at 1.9 [A] and provide the structural basis of viral replication
+      inhibition.
+    authors:
+      - name: Love Panchariya
+      - name: Wajahat Ali Khan
+      - name: Shobhan Kuila
+      - name: Kirtishila Sonkar
+      - name: Sibasis Sahoo
+      - name: Archita Ghoshal
+      - name: Ankit Kumar
+      - name: Dileep Kumar Verma
+      - name: Abdul Hasan
+      - name: Shubhashis Das
+      - name: Jitendra K. Thakur
+      - name: Rajkumar Halder
+      - name: Sujatha Sunil
+      - name: Arockiasamy Arulandu
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Wed Jun 16 20:16:13 +0000 2021
+      id: 1405257928777535500
+      id_str: "1405257928777535493"
+      text: >-
+        🔥 bioRxiv Biochemistry preprint by L. Panchariya et al:
+
+
+        "Zinc2+ ion inhibits SARS-CoV-2 main protease and viral re… https://t.co/1PVkVSvKQa
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/1PVkVSvKQa
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
