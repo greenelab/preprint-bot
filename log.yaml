@@ -19962,3 +19962,113 @@
           - url: https://t.co/oTURmfcNF6
       in_reply_to_status_id: 1405140903543533600
       in_reply_to_status_id_str: "1405140903543533571"
+- preprint:
+    id: "145889"
+    doi: 10.1101/2021.06.10.21258647
+    first_posted: 2021-06-13
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.10.21258647v1
+    url: https://api.rxivist.org/v1/papers/145889
+    title: Seasonal variation in SARS-CoV-2 transmission in temperate climates
+    category: epidemiology
+    abstract: "While seasonal variation has a known influence on the transmission of
+      several respiratory viral infections, its role in SARS-CoV-2 transmission
+      remains unclear. As previous analyses have not accounted for the
+      implementation of non-pharmaceutical interventions (NPIs) in the first
+      year of the pandemic, they may yield biased estimates of seasonal effects.
+      Building on two state-of-the-art observational models and datasets, we
+      adapt a fully Bayesian method for estimating the association between
+      seasonality and transmission in 143 temperate European regions. We find
+      strong seasonal patterns, consistent with a reduction in the time-variable
+      Rt of 42.1% (95% CI: 24.7% - 53.4%) from the peak of winter to the peak of
+      summer. These results imply that the seasonality of SARS-CoV-2
+      transmission is comparable in magnitude to the most effective individual
+      NPIs but less than the combined effect of multiple interventions."
+    authors:
+      - name: Tomas Gavenciak
+        orcid: http://orcid.org/0000-0003-1119-2426
+      - name: Joshua Teperowski Monrad
+        orcid: http://orcid.org/0000-0002-7377-2074
+      - name: Gavin Leech
+        orcid: http://orcid.org/0000-0002-9298-1488
+      - name: Mrinank Sharma
+        orcid: http://orcid.org/0000-0002-4304-7963
+      - name: Soren Mindermann
+        orcid: http://orcid.org/0000-0002-0315-9821
+      - name: Jan Markus Brauner
+        orcid: http://orcid.org/0000-0002-1588-5724
+      - name: Samir Bhatt
+        orcid: http://orcid.org/0000-0002-0891-4611
+      - name: Jan Kulveit
+        orcid: http://orcid.org/0000-0002-3791-8355
+  comment:
+    dislikes: 0
+    thread: "8590472452"
+    numReports: 0
+    likes: 0
+    id: "5421702437"
+    createdAt: 2021-06-16T09:11:37
+    author:
+      username: jankulveit
+      about: ""
+      name: Jan Kulveit
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/jankulveit/
+      url: ""
+      location: ""
+      id: "104437483"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      1. While what exact interventions are tracked and what are the results is
+      not  not part of this investigation - however, please note the underlying
+      studies are in fact "compatible", only estimating different effects. Eg.
+      in case of schools, the 1st wave study is estimating the difference
+      between "schools open without any precautions in pre-pandemic state" and
+      "schools closed". The 2nd wave study is estimating the difference between
+      "schools open will all the safety measures implemented in autumn, which
+      often included cohorts, improved ventilation, testing, screening for
+      symptoms, changes in class layout etc." and "schools closed". If we expect
+      the safety measures have some effect, the estimated effect sizes must be
+      different, which is indeed the case.
+
+
+      2. Effect of vaccination was negligible in the study period. The most vaccinated country in the dataset, UK, had about 5% of the population vaccinated mid-Jan (and most UK regions excluded from the study due to VOC)
+
+
+      3. cos(t) seasonality is a common functional form used for modelling seasonality. Note that e.g. average daily insolation could be well approximated by the first and second term in the Fourier series, leading also to the cos(t) form.
+
+      As mentioned in the preprint, school calendars are included in the school NPI (given the irregularity of school calendars in 2020, I would argue this is the correct choice)
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.06.10.21258647v1
+  tweets:
+    - created_at: Wed Jun 16 14:18:39 +0000 2021
+      id: 1405167946092191700
+      id_str: "1405167946092191750"
+      text: >-
+        💬 medRxiv comment on "Seasonal variation in SARS-CoV..."
+
+
+        "1. While what exact interventions are tracked and what a… https://t.co/44sxFdEZVm
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/44sxFdEZVm
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed Jun 16 14:18:39 +0000 2021
+      id: 1405167946989772800
+      id_str: "1405167946989772803"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/Bv6GzFFKho
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/Bv6GzFFKho
+      in_reply_to_status_id: 1405167946092191700
+      in_reply_to_status_id_str: "1405167946092191750"
