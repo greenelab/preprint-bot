@@ -20650,3 +20650,141 @@
           - url: https://t.co/VMNRCEvTvr
       in_reply_to_status_id: 1405329319719747600
       in_reply_to_status_id_str: "1405329319719747588"
+- preprint:
+    id: "144132"
+    doi: 10.1101/2021.05.28.21258012
+    first_posted: 2021-05-31
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.28.21258012v1
+    url: https://api.rxivist.org/v1/papers/144132
+    title: Observational Study on 255 Mechanically Ventilated Covid Patients at the
+      Beginning of the USA Pandemic
+    category: pharmacology-and-therapeutics
+    abstract: "Abstract Introduction: This observational study looked at 255 COVID19
+      patients who required invasive mechanical ventilation (IMV) during the
+      first two months of the US pandemic. Through comprehensive, longitudinal
+      evaluation and new consideration of all the data, we were able to better
+      describe and understand factors affecting outcome after intubation.
+      Methods: All vital signs, laboratory values, and medication
+      administrations (time, date, dose, and route) were collected and
+      organized. Further, each patient's prior medical records, including PBM
+      data and available ECG, were reviewed by a physician. These data were
+      incorporated into time-series database for statistical analysis. Results:
+      By discharge or Day 90, 78.2% of the cohort expired. The most common
+      pre-existing conditions were hypertension, (63.5%), diabetes (59.2%) and
+      obesity (50.4%). Age correlated with death. Comorbidities and clinical
+      status on presentation were not predictive of outcome. Admission markers
+      of inflammation were universally elevated (>96%). The cohort's weight
+      range was nearly 7-fold. Causal modeling establishes that weight-adjusted
+      HCQ and AZM therapy improves survival by over 100%. QTc prolongation did
+      not correlate with cumulative HCQ dose or HCQ serum levels. Discussion:
+      This detailed approach gives us better understanding of risk factors,
+      prognostic indicators, and outcomes of Covid patients needing IMV. Few
+      variables were related to outcome. By considering more factors and using
+      new methods, we found that when increased doses of co-administered HCQ and
+      AZM were associated with >100% increase in survival. Comparison of
+      absolute with weight-adjusted cumulative doses proves administration
+      [&ge;]80 mg/kg of HCQ with > 1 gm AZM increases survival in IMV-requiring
+      Covid patients by over 100%. According to our data, HCQ is not associated
+      with prolongation. Studies, which reported QTc prolongation secondary to
+      HCQ, need to be re-evaluated more stringently and with controls. The
+      weight ranges of Covid patient cohorts are substantially greater than
+      those of most antibiotic RCTs. Future clinical trials need to consider the
+      weight variance of hospitalized Covid patients and need to study
+      therapeutics more thoughtfully."
+    authors:
+      - name: Leon G Smith
+        orcid: null
+      - name: Nicolas Mendoza
+        orcid: null
+      - name: Stephen Smith
+        orcid: http://orcid.org/0000-0002-9158-6136
+      - name: David P Dobesh
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8564791155"
+    numReports: 0
+    likes: 1
+    id: "5421162600"
+    createdAt: 2021-06-15T20:42:31
+    author:
+      username: joegrane
+      about: ""
+      name: Joe Grane
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/joegrane/
+      url: ""
+      location: ""
+      id: "229597815"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Wasn't the "VA" study just a review of health records without the all of
+      the dosing analysis in this, Smith, et al. study. 
+
+
+      Some of the main points in Smith, et al are that you have so many obese patients.  Doses of HCQ and AZT need to be weight dependent.  
+
+
+      "no Covid study has examined the effects of these differences in weight on response to HCQ therapy or HCQ adverse effects."
+
+
+      Furthermore they noticed that the cumulative dose had a big effect on the outcome.   They explain that HCQ has a long half-life but it also takes a long time to get optimal amounts into the lungs. 
+
+
+      "We found that when the cumulative doses of two drugs, HCQ and AZM, were above a certain level, patients had a survival rate 2.9 times the other patients...HCQ cumulative dose > 80 mg/kg works substantially better. "
+
+
+      "Patients receiving >3g HCQ/>1g AZM had 3.26 times lower risk of mortality  than those who did not receive these <b>doses</b> [HR = .307,95% CI = 0.183 – 0.516, p < .001]. Patients receiving TOZ had 2.00 times lower risk of death than patients who did not receive the <b>medicine</b> [HR = .50, 95% CI = 0.36 – 0.69, p < .001]. 
+
+
+      Their statements about patient EKGs were striking.  They were particularly critical of the FDA's April 2020 warning on the issue. 
+
+
+      "there was no correlation between HCQ cumulative dose and QTc delta (r = -0.170).... No patient experienced  torsades de pointes...given the data presented here, the studies reporting HCQ’s effect of QTc intervals need to be reevaluated."
+
+
+      Apparently Smith, et al were looking for ways to make HCQ helpful to Covid patients--a seemingly unusual interest. 
+
+
+      In contrast Boulware, et al concluded HCQ was not beneficial for post exposure prophylaxis when started within 4 days.   However several other groups reanalyzed the data and concluded HCQ <b>was</b> beneficial when started within 3 days. 
+
+      https://www.medrxiv.org/content/10.1101/2020.11.29.20235218v1
+
+      https://arxiv.org/ftp/arxiv/papers/2007/2007.09477.pdf
+
+      https://www.longdom.org/open-access/hydroxychloroquine-and-interferons-for-the-prophylaxis-and-early-treatment-of-covid19current-clinical-advances.pdf
+    forum: medrxiv
+    points: 1
+    link: https://www.medrxiv.org/content/10.1101/2021.05.28.21258012v1
+  tweets:
+    - created_at: Thu Jun 17 12:35:28 +0000 2021
+      id: 1405504365847273500
+      id_str: "1405504365847273474"
+      text: >-
+        💬 medRxiv comment on "Observational Study on 255 Mec..."
+
+
+        "Wasn't the "VA" study just a review of health records wi… https://t.co/GfPmX413NC
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/GfPmX413NC
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jun 17 12:35:28 +0000 2021
+      id: 1405504366661021700
+      id_str: "1405504366661021704"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/B5DO7aAXhF
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/B5DO7aAXhF
+      in_reply_to_status_id: 1405504365847273500
+      in_reply_to_status_id_str: "1405504365847273474"
