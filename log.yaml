@@ -21244,3 +21244,59 @@
           - url: https://t.co/y7vrYUchJL
       in_reply_to_status_id: 1405592374097678300
       in_reply_to_status_id_str: "1405592374097678338"
+- preprint:
+    id: 146371
+    metric: 14
+    title: Visualizing looping of two endogenous genomic loci using synthetic
+      zinc-finger proteins with anti-FLAG and anti-HA frankenbodies in living
+      cells
+    url: https://api.rxivist.org/v1/papers/146371
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.16.448697v1
+    doi: 10.1101/2021.06.16.448697
+    category: cell-biology
+    first_posted: 2021-06-16
+    abstract: In eukaryotic nuclei, chromatin loops mediated through cohesin are
+      critical structures that regulate gene expression and DNA replication.
+      Here we demonstrate a new method to visualize endogenous genomic loci
+      using synthetic zinc-finger proteins harboring repeat epitope tags (ZF
+      probes) for signal amplification via binding of tag-specific intracellular
+      antibodies, or frankenbodies, fused with fluorescent proteins. We achieve
+      this in two steps. First, we develop an anti-FLAG frankenbody that can
+      bind FLAG-tagged proteins in diverse live-cell environments. The anti-FLAG
+      frankenbody complements the anti-HA frankenbody, enabling two-color signal
+      amplification from FLAG and HA-tagged proteins. Second, we develop a pair
+      of cell-permeable ZF probes that specifically bind two endogenous
+      chromatin loci predicted to be involved in chromatin looping. By coupling
+      our anti-FLAG and anti-HA frankenbodies with FLAG- and HA-tagged ZF
+      probes, we simultaneously visualize the dynamics of the two loci in single
+      living cells. This reveals close association between the two loci in the
+      majority of cells, but the loci markedly separate upon the triggered
+      degradation of the cohesin subunit RAD21. Our ability to image two
+      endogenous genomic loci simultaneously in single living cells provides a
+      proof-of-principle that ZF probes coupled with frankenbodies are useful
+      new tools for exploring genome dynamics in multiple colors.
+    authors:
+      - name: Yang Liu
+      - name: Ning Zhao
+      - name: Masato T Kanemaki
+      - name: Yotaro Yamamoto
+      - name: Yoshifusa Sadamura
+      - name: Timothy J Stasevich
+      - name: Hiroshi Kimura
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Thu Jun 17 20:16:23 +0000 2021
+      id: 1405620357667725300
+      id_str: "1405620357667725313"
+      text: >-
+        🔥 bioRxiv Cell-biology preprint by Y. Liu et al:
+
+
+        "Visualizing looping of two endogenous genomic loci using synthet… https://t.co/rl5xLjQGxD
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/rl5xLjQGxD
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
