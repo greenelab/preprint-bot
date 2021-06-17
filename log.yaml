@@ -20879,3 +20879,265 @@
           - url: https://t.co/f3KTDOqWtS
       in_reply_to_status_id: 1405530328588906500
       in_reply_to_status_id_str: "1405530328588906508"
+- preprint:
+    id: "134759"
+    doi: 10.1101/2021.03.12.21253115
+    first_posted: 2021-03-24
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.03.12.21253115v1
+    url: https://api.rxivist.org/v1/papers/134759
+    title: Genome-wide study of DNA methylation in Amyotrophic Lateral Sclerosis
+      identifies differentially methylated loci and implicates metabolic,
+      inflammatory and cholesterol pathways
+    category: neurology
+    abstract: Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative
+      disease with an estimated heritability of around 50%. DNA methylation
+      patterns can serve as biomarkers of (past) exposures and disease
+      progression, as well as providing a potential mechanism that mediates
+      genetic or environmental risk. Here, we present a blood-based
+      epigenome-wide association study (EWAS) meta-analysis in 10,462 samples
+      (7,344 ALS patients and 3,118 controls), representing the largest
+      case-control study of DNA methylation for any disease to date. We
+      identified a total of 45 differentially methylated positions (DMPs)
+      annotated to 42 genes, which are enriched for pathways and traits related
+      to metabolism, cholesterol biosynthesis, and immunity. We show that
+      DNA-methylation-based proxies for HDL-cholesterol, BMI, white blood cell
+      (WBC) proportions and alcohol intake were independently associated with
+      ALS. Integration of these results with our latest GWAS showed that
+      cholesterol biosynthesis was causally related to ALS. Finally, we found
+      that DNA methylation levels at several DMPs and blood cell proportion
+      estimates derived from DNA methylation data, are associated with survival
+      rate in patients, and could represent indicators of underlying disease
+      processes.
+    authors:
+      - name: Paul J. Hop
+        orcid: http://orcid.org/0000-0002-9007-7436
+      - name: Ramona A.J. Zwamborn
+        orcid: http://orcid.org/0000-0003-3952-5042
+      - name: Eilis Hannon
+        orcid: http://orcid.org/0000-0001-6840-072X
+      - name: Gemma L Shireby
+        orcid: null
+      - name: Marta F Nabais
+        orcid: http://orcid.org/0000-0002-9545-5889
+      - name: Emma M Walker
+        orcid: null
+      - name: Wouter van Rheenen
+        orcid: http://orcid.org/0000-0002-5860-1533
+      - name: Joke J.F.A. van Vugt
+        orcid: http://orcid.org/0000-0002-4161-4004
+      - name: Annelot M. Dekker
+        orcid: null
+      - name: Henk-Jan Westeneng
+        orcid: null
+      - name: Gijs H. Tazelaar
+        orcid: null
+      - name: Kristel R. van Eijk
+        orcid: null
+      - name: Matthieu Moisse
+        orcid: http://orcid.org/0000-0001-8880-9311
+      - name: Denis Baird
+        orcid: null
+      - name: Ahmad Al Khleifat
+        orcid: http://orcid.org/0000-0002-7406-9831
+      - name: Alfredo Iacoangeli
+        orcid: null
+      - name: Nicola Ticozzi
+        orcid: null
+      - name: Antonia Ratti
+        orcid: http://orcid.org/0000-0002-4264-6614
+      - name: Jonathan Cooper-Knock
+        orcid: null
+      - name: Karen E. Morrison
+        orcid: http://orcid.org/0000-0003-0216-5717
+      - name: Pamela J. Shaw
+        orcid: null
+      - name: A. Nazli Basak
+        orcid: http://orcid.org/0000-0001-6977-2517
+      - name: Adriano Chiò
+        orcid: http://orcid.org/0000-0001-9579-5341
+      - name: Andrea Calvo
+        orcid: http://orcid.org/0000-0002-5122-7243
+      - name: Cristina Moglia
+        orcid: http://orcid.org/0000-0001-7377-7222
+      - name: Antonio Canosa
+        orcid: null
+      - name: Maura Brunetti
+        orcid: http://orcid.org/0000-0001-9547-904X
+      - name: Maurizio Grassano
+        orcid: http://orcid.org/0000-0001-6714-6897
+      - name: Marc Gotkine
+        orcid: http://orcid.org/0000-0003-2541-6232
+      - name: Yossef Lerner
+        orcid: null
+      - name: Michal Zabari
+        orcid: null
+      - name: Patrick Vourc'h
+        orcid: null
+      - name: Philippe Corcia
+        orcid: null
+      - name: Philippe Couratier
+        orcid: null
+      - name: Jesus S. Mora Pardina
+        orcid: http://orcid.org/0000-0001-6633-5354
+      - name: Teresa Salas
+        orcid: null
+      - name: Patrick Dion
+        orcid: null
+      - name: Jay P. Ross
+        orcid: http://orcid.org/0000-0002-8183-2524
+      - name: Robert D. Henderson
+        orcid: http://orcid.org/0000-0002-2820-8183
+      - name: Susan Mathers
+        orcid: http://orcid.org/0000-0001-8445-1594
+      - name: Pamela A. McCombe
+        orcid: http://orcid.org/0000-0003-2704-8517
+      - name: Merrilee Needham
+        orcid: http://orcid.org/0000-0001-6591-1444
+      - name: Garth Nicholson
+        orcid: http://orcid.org/0000-0001-9694-066X
+      - name: Dominic B. Rowe
+        orcid: http://orcid.org/0000-0003-0912-2146
+      - name: Roger Pamphlett
+        orcid: http://orcid.org/0000-0003-3326-7273
+      - name: Karen A. Mather
+        orcid: http://orcid.org/0000-0003-4143-8941
+      - name: Perminder S. Sachdev
+        orcid: http://orcid.org/0000-0002-9595-3220
+      - name: Sarah Furlong
+        orcid: http://orcid.org/0000-0001-5914-500X
+      - name: Fleur C. Garton
+        orcid: http://orcid.org/0000-0002-1490-5930
+      - name: Anjali K. Henders
+        orcid: http://orcid.org/0000-0003-3672-1451
+      - name: Tian Lin
+        orcid: http://orcid.org/0000-0002-5981-1911
+      - name: Shyuan T. Ngo
+        orcid: http://orcid.org/0000-0002-1388-2108
+      - name: Frederik J. Steyn
+        orcid: http://orcid.org/0000-0002-4782-3608
+      - name: Leanne Wallace
+        orcid: http://orcid.org/0000-0003-4310-7572
+      - name: Kelly L. Williams
+        orcid: http://orcid.org/0000-0001-6319-9473
+      - name: BIOS Consortium
+        orcid: null
+      - name: Brain MEND Consortium
+        orcid: null
+      - name: Miguel Mitne Neto
+        orcid: http://orcid.org/0000-0001-8252-3531
+      - name: Ruben J. Cauchi
+        orcid: null
+      - name: Ian P. Blair
+        orcid: http://orcid.org/0000-0003-3083-0075
+      - name: Matthew C. Kiernan
+        orcid: http://orcid.org/0000-0001-9054-026X
+      - name: Vivian Drory
+        orcid: null
+      - name: Monica Povedano
+        orcid: null
+      - name: Mamede de Carvalho
+        orcid: http://orcid.org/0000-0001-7556-0158
+      - name: Susana Pinto
+        orcid: http://orcid.org/0000-0002-0727-5897
+      - name: Markus Weber
+        orcid: http://orcid.org/0000-0002-5538-9274
+      - name: Guy Rouleau
+        orcid: null
+      - name: Vincenzo Silani
+        orcid: http://orcid.org/0000-0002-7698-3854
+      - name: John E. Landers
+        orcid: null
+      - name: Christopher E. Shaw
+        orcid: null
+      - name: Peter M. Andersen
+        orcid: http://orcid.org/0000-0003-0094-5429
+      - name: Allan F McRae
+        orcid: http://orcid.org/0000-0001-5286-5485
+      - name: Michael A. van Es
+        orcid: null
+      - name: R. J. Pasterkamp
+        orcid: http://orcid.org/0000-0003-1631-6440
+      - name: Naomi R. Wray
+        orcid: http://orcid.org/0000-0001-7421-3357
+      - name: Russell L. McLaughlin
+        orcid: http://orcid.org/0000-0003-3915-2135
+      - name: Orla Hardiman
+        orcid: http://orcid.org/0000-0003-2610-1291
+      - name: Kevin P. Kenna
+        orcid: null
+      - name: Ellen Tsai
+        orcid: null
+      - name: Heiko Runz
+        orcid: http://orcid.org/0000-0002-2133-7345
+      - name: Ammar Al-Chalabi
+        orcid: http://orcid.org/0000-0002-4924-7712
+      - name: Leonard H. van den Berg
+        orcid: http://orcid.org/0000-0002-6559-3965
+      - name: Philip Van Damme
+        orcid: http://orcid.org/0000-0002-4010-2357
+      - name: Jonathan Mill
+        orcid: http://orcid.org/0000-0003-1115-3224
+      - name: Jan H. Veldink
+        orcid: http://orcid.org/0000-0001-5572-9657
+  comment:
+    dislikes: 0
+    thread: "8450211689"
+    numReports: 0
+    likes: 0
+    id: "5421384561"
+    createdAt: 2021-06-16T00:33:08
+    author:
+      username: debrakumar
+      about: ""
+      name: Debra Kumar
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/debrakumar/
+      url: ""
+      location: ""
+      id: "370999365"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      I am c9 positive and recently had my dna age calculated. To my utter
+      disappointment my biological age 63 is higher than my chronological age
+      59. 
+
+
+      In January I did a comprehensive blood test through Boston Heath Diagnostics. My LDL came back higher than normal but other lipids normal, or rather high. HDL was 103, total cholesterol 248. I’ve always been proud of my optimal cholesterol numbers but now I’m thinking egads am I barreling toward symptom onset? Inflammation, Oxidation and Metabolic all optimal. Interestingly my WBC came in low at 3.48. 
+
+
+      I am a dog walker and walk on average 6 miles daily. I don’t smoke, and drink moderately. I’m living what I consider an ideal healthy lifestyle only to find it will kill me 😩
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.03.12.21253115v1
+  tweets:
+    - created_at: Thu Jun 17 16:34:33 +0000 2021
+      id: 1405564531527630800
+      id_str: "1405564531527630852"
+      text: >-
+        💬 medRxiv comment on "Genome-wide study of DNA methy..."
+
+
+        "I am c9 positive and recently had my dna age calculated.… https://t.co/wnLB8KABrN
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/wnLB8KABrN
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jun 17 16:34:33 +0000 2021
+      id: 1405564532328652800
+      id_str: "1405564532328652802"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/JHd0DpyAbZ
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/JHd0DpyAbZ
+      in_reply_to_status_id: 1405564531527630800
+      in_reply_to_status_id_str: "1405564531527630852"
