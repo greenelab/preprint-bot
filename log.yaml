@@ -20788,3 +20788,94 @@
           - url: https://t.co/B5DO7aAXhF
       in_reply_to_status_id: 1405504365847273500
       in_reply_to_status_id_str: "1405504365847273474"
+- preprint:
+    id: "127819"
+    doi: 10.1101/2021.02.02.429376
+    first_posted: 2021-02-02
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.02.02.429376v1
+    url: https://api.rxivist.org/v1/papers/127819
+    title: Spc1 regulates substrate selection for signal peptidase
+    category: biochemistry
+    abstract: Signal peptidase (SPase) cleaves the signal sequences (SSs) of
+      secretory precursors. It contains an evolutionarily conserved membrane
+      protein subunit, Spc1 that is dispensable for the catalytic activity of
+      SPase, and its role remains elusive. In the present study, we investigated
+      the function of yeast Spc1. First, we set up an in vivo SPase cleavage
+      assay using secretory protein CPY variants with SSs modified in the n and
+      h regions. When comparing the SS cleavage efficiencies of these variants
+      in cells with or without Spc1, we found that signal-anchored sequences
+      become more susceptible to cleavage by SPase without Spc1. Further,
+      SPase-mediated processing of transmembrane (TM) segments in model membrane
+      proteins was reduced upon overexpression of Spc1. Spc1 was
+      co-immunoprecipitated with membrane proteins carrying uncleaved
+      signal-anchored or TM segments. These results suggest a role of Spc1 in
+      shielding TM segments from SPase action, thereby contributing to accurate
+      substrate selection for SPase.
+    authors:
+      - name: Chewon Yim
+        orcid: null
+      - name: Yeonji Chung
+        orcid: null
+      - name: Jeesoo Kim
+        orcid: null
+      - name: IngMarie Nilsson
+        orcid: http://orcid.org/0000-0002-7981-3201
+      - name: Jong-Seo Kim
+        orcid: http://orcid.org/0000-0002-8909-8440
+      - name: Hyun (Joy) Kim
+        orcid: http://orcid.org/0000-0003-2076-9020
+  comment:
+    dislikes: 0
+    thread: "8381891088"
+    numReports: 0
+    likes: 0
+    id: "5421511068"
+    createdAt: 2021-06-16T03:10:21
+    author:
+      username: disqus_nio721O19c
+      about: ""
+      name: Joy Kim
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_nio721O19c/
+      url: ""
+      location: ""
+      id: "371004584"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: This manuscript is now accepted for publication in  Journal of Cell
+      Science, under the revised title of "Spc1 regulates the signal
+      peptidase-mediated processing of membrane proteins".
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.02.02.429376v1
+  tweets:
+    - created_at: Thu Jun 17 14:18:38 +0000 2021
+      id: 1405530328588906500
+      id_str: "1405530328588906508"
+      text: >-
+        💬 bioRxiv comment on "Spc1 regulates substrate selec..."
+
+
+        "This manuscript is now accepted for publication in  Jour… https://t.co/NcA0IfxpsM
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/NcA0IfxpsM
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jun 17 14:18:38 +0000 2021
+      id: 1405530329910186000
+      id_str: "1405530329910185997"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/f3KTDOqWtS
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/f3KTDOqWtS
+      in_reply_to_status_id: 1405530328588906500
+      in_reply_to_status_id_str: "1405530328588906508"
