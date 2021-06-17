@@ -21433,3 +21433,99 @@
           - url: https://t.co/kMhj6aHKoB
       in_reply_to_status_id: 1405621537701572600
       in_reply_to_status_id_str: "1405621537701572613"
+- preprint:
+    id: "129669"
+    doi: 10.1101/2021.02.16.431537
+    first_posted: 2021-02-17
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.02.16.431537v1
+    url: https://api.rxivist.org/v1/papers/129669
+    title: "Simons Collaborative Marine Atlas Project (Simons CMAP): an open-source
+      portal to share, visualize and analyze ocean data"
+    category: ecology
+    abstract: Simons Collaborative Marine Atlas Project (Simons CMAP) is an
+      open-source data portal that interconnects large, complex, and diverse
+      public data sets currently dispersed in different formats across different
+      Oceanography discipline-specific databases. Simons CMAP is designed to
+      streamline the retrieval of custom subsets of data, the generation of data
+      visualizations, and the analyses of diverse data, thus expanding the power
+      of these potentially underutilized data sets for cross-disciplinary
+      studies of ocean processes. We describe a unified architecture that allows
+      numerical model outputs, satellite products, and field observations to be
+      readily shared, mined, and integrated regardless of data set size or
+      resolution. A current focus of Simons CMAP is integration of physical,
+      chemical, and biological data sets essential for characterizing the
+      biogeography of key marine microbes across ocean basins and seasonal
+      cycles. Using a practical example, we demonstrate how our unifying data
+      harmonization plans significantly simplifies and allows for systematic
+      data integration across all Simons CMAP data sets.
+    authors:
+      - name: Mohammad Dehghani Ashkezari
+        orcid: null
+      - name: Norland Raphael Hagen
+        orcid: null
+      - name: Michael Denholtz
+        orcid: null
+      - name: Andrew Neang
+        orcid: null
+      - name: Tansy Clay Burns
+        orcid: null
+      - name: Rhonda Lynn Morales
+        orcid: null
+      - name: Charlotte Lee
+        orcid: null
+      - name: Christopher Hill
+        orcid: null
+      - name: E Virginia Armbrust
+        orcid: http://orcid.org/0000-0001-7865-5101
+  comment:
+    dislikes: 0
+    thread: "8402443966"
+    numReports: 0
+    likes: 0
+    id: "5421351237"
+    createdAt: 2021-06-15T23:54:35
+    author:
+      name: Mohammad Dehghani Ashkezari
+      url: ""
+      profileUrl: ""
+      emailHash: ""
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: |-
+      This article is now published on Limnology and Oceanography Methods: 
+
+      https://doi.org/10.1002/lom3.10439
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.02.16.431537v1
+  tweets:
+    - created_at: Thu Jun 17 22:20:10 +0000 2021
+      id: 1405651511057735700
+      id_str: "1405651511057735680"
+      text: >-
+        💬 bioRxiv comment on "Simons Collaborative Marine At..."
+
+
+        "This article is now published on Limnology and Oceanogra… https://t.co/dEzzI7MNYY
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/dEzzI7MNYY
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jun 17 22:20:10 +0000 2021
+      id: 1405651511783329800
+      id_str: "1405651511783329795"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/Z1Eyrg4LhJ
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/Z1Eyrg4LhJ
+      in_reply_to_status_id: 1405651511057735700
+      in_reply_to_status_id_str: "1405651511057735680"
