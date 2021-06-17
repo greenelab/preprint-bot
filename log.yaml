@@ -21300,3 +21300,136 @@
           - url: https://t.co/rl5xLjQGxD
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "143641"
+    doi: 10.1101/2021.05.27.445799
+    first_posted: 2021-05-27
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.05.27.445799v1
+    url: https://api.rxivist.org/v1/papers/143641
+    title: The type 3 secretion system requires actin polymerization to open
+      translocon pores
+    category: microbiology
+    abstract: Many bacterial pathogens require a type 3 secretion system (T3SS) to
+      establish a niche. Host contact activates bacterial T3SS assembly of a
+      translocon pore in the host plasma membrane. Following pore formation, the
+      T3SS docks onto the translocon pore. Docking establishes a continuous
+      passage that enables the translocation of virulence proteins, effectors,
+      into the host cytosol. Here we investigate the contribution of actin
+      polymerization to T3SS-mediated translocation. Using the T3SS model
+      organism Shigella flexneri, we show that actin polymerization is required
+      for assembling the translocon pore in an open conformation, thereby
+      enabling effector translocation. Opening of the pore channel is associated
+      with a conformational change to the pore, which is dependent upon actin
+      polymerization and a coiled-coil domain in the pore protein IpaC. An IpaC
+      mutant is identified that shows actin polymerization-dependent pore
+      opening is distinct from the previously described actin
+      polymerization-dependent ruffles that are required for bacterial
+      internalization. Moreover, actin polymerization is not required for other
+      pore functions, including docking or pore protein insertion into the
+      plasma membrane. Thus, activation of the T3SS is a multilayered process in
+      which host signals are sensed by the translocon pore leading to the
+      activation of effector translocation.
+    authors:
+      - name: Brian C Russo
+        orcid: http://orcid.org/0000-0001-6433-5617
+      - name: Jeffrey K. Duncan-Lowey
+        orcid: http://orcid.org/0000-0002-3615-9596
+      - name: Poyin Chen
+        orcid: null
+      - name: Marcia B. Goldberg
+        orcid: http://orcid.org/0000-0003-4266-9733
+  comment:
+    dislikes: 0
+    thread: "8556745945"
+    numReports: 0
+    likes: 0
+    id: "5421353339"
+    createdAt: 2021-06-15T23:57:01
+    author:
+      username: alejandroheuck
+      about: ""
+      name: Alejandro Heuck
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/alejandroheuck/
+      url: ""
+      location: ""
+      id: "337114827"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Some comments that may help the authors 
+
+
+
+      1) Fig. 2b, what cells are shown in this figure? The legend mentioned MEFs Vim+/+ and Vim-/-, but it is not indicated in the panel,
+
+
+
+      2) Fig. 5g. The authors claim that based on the reduced hemoglobin release observed for Q308P (40%) the “pore formed by IpaC Q308P is partially closed” . If the mechanism of RBC lysis is osmotic lysis, a pore large enough to allow water to go through will trigger RBC lysis. The overall hemoglobin release reflect the number of RBC with at least one pore, it would not be directly related to the size of the formed pores as suggested. 
+
+
+
+      3) Interaction of IpaC with intermediate filaments (IFs) was tested in solution (yeast cytosol) (Nat. Microb. 2016), where IpaC does not adopt its native membrane-inserted conformation (as in translocon pores). While those experiments suggested a potential interaction between IpaC and IFs, there are not data showing a direct interaction between IpaC and the IFs in functional translocons. While This is very difficult to show, but one should be careful when using this assumption (or model) to interpret new experiments.
+
+
+
+      4) The authors claim that "actin polymerization induces conformational changes to the T3SS translocon pore" . However, it is the inhibition of actin polymerization by CytD that affects the proper assembly of the translocon in the target cell membrane. In the absence of CytD, the translocon assembles properly and actin is polymerized.
+
+
+
+      5) check lines 251-252 for number of mutants and repeated ones
+
+
+
+      6) line 382 was E. coli induced with IPTG?
+
+
+
+      7) line 387, what was the ratio RBC/bacteria used during the hemolysis assay?
+
+
+
+      8) line 415, did the authors consider the possibility of separating detergent resistant membranes containing translocators in the pellet under this experimental conditions?
+
+
+
+      9) line 430, labeling should be insertion
+
+
+
+      10) line 436 define F buffer
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.05.27.445799v1
+  tweets:
+    - created_at: Thu Jun 17 20:21:04 +0000 2021
+      id: 1405621537701572600
+      id_str: "1405621537701572613"
+      text: |-
+        💬 bioRxiv comment on "The type 3 secretion system re..."
+
+        "Some comments that may help the authors 
+
+        1) Fig. 2b, wh… https://t.co/eyUsDTtuFK
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/eyUsDTtuFK
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jun 17 20:21:04 +0000 2021
+      id: 1405621538741801000
+      id_str: "1405621538741800966"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/kMhj6aHKoB
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/kMhj6aHKoB
+      in_reply_to_status_id: 1405621537701572600
+      in_reply_to_status_id_str: "1405621537701572613"
