@@ -21141,3 +21141,106 @@
           - url: https://t.co/JHd0DpyAbZ
       in_reply_to_status_id: 1405564531527630800
       in_reply_to_status_id_str: "1405564531527630852"
+- preprint:
+    id: "80333"
+    doi: 10.1101/2020.04.16.044461
+    first_posted: 2020-04-18
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.04.16.044461v2
+    url: https://api.rxivist.org/v1/papers/80333
+    title: "RootPainter: Deep Learning Segmentation of Biological Images with
+      Corrective Annotation"
+    category: plant-biology
+    abstract: >-
+      We present RootPainter, a GUI-based software tool for the rapid training
+      of deep neural networks for use in biological image analysis. RootPainter
+      facilitates both fully-automatic and semi-automatic image segmentation. We
+      investigate the effectiveness of RootPainter using three plant image
+      datasets, evaluating its potential for root length extraction from chicory
+      roots in soil, biopore counting and root nodule counting from scanned
+      roots. We also use RootPainter to compare dense annotations to corrective
+      ones which are added during the training based on the weaknesses of the
+      current model.
+
+
+      ### Competing Interest Statement
+
+
+      The authors have declared no competing interest.
+    authors:
+      - name: Abraham George Smith
+        orcid: http://orcid.org/0000-0001-9782-2825
+      - name: Eusun Han
+        orcid: http://orcid.org/0000-0001-6338-2454
+      - name: Jens Petersen
+        orcid: null
+      - name: Niels Alvin Faircloth Olsen
+        orcid: null
+      - name: Christian Giese
+        orcid: null
+      - name: Miriam Athmann
+        orcid: http://orcid.org/0000-0001-7294-5976
+      - name: Dorte Bodin Dresboell
+        orcid: http://orcid.org/0000-0001-6374-7257
+      - name: Kristian Thorup-Kristensen
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8022160861"
+    numReports: 0
+    likes: 0
+    id: "5423322062"
+    createdAt: 2021-06-17T15:57:46
+    author:
+      username: disqus_n8cbT9ldjl
+      about: ""
+      name: Abraham Smith
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_n8cbT9ldjl/
+      url: ""
+      location: ""
+      id: "371075591"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      For users without a suitable GPU, a tutorial is now available for
+      installing and running the RootPainter server with Google Colab:
+
+
+      https://colab.research.google.com/drive/104narYAvTBt-X4QEDrBSOZm_DRaAKHtA
+
+
+      The tutorial also includes extra instructions on how to get started with annotation and using the client software.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.04.16.044461v2
+  tweets:
+    - created_at: Thu Jun 17 18:25:11 +0000 2021
+      id: 1405592374097678300
+      id_str: "1405592374097678338"
+      text: >-
+        💬 bioRxiv comment on "RootPainter: Deep Learning Seg..."
+
+
+        "For users without a suitable GPU, a tutorial is now avai… https://t.co/xnPqOznWl7
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/xnPqOznWl7
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jun 17 18:25:11 +0000 2021
+      id: 1405592375016231000
+      id_str: "1405592375016230914"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/y7vrYUchJL
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/y7vrYUchJL
+      in_reply_to_status_id: 1405592374097678300
+      in_reply_to_status_id_str: "1405592374097678338"
