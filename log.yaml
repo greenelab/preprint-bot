@@ -20551,3 +20551,102 @@
           - url: https://t.co/oTURmfcNF6
       in_reply_to_status_id: 1405289014601470000
       in_reply_to_status_id_str: "1405289014601469952"
+- preprint:
+    id: "141624"
+    doi: 10.1101/2021.05.13.21256805
+    first_posted: 2021-05-14
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.13.21256805v1
+    url: https://api.rxivist.org/v1/papers/141624
+    title: "Impact of the COVID-19 pandemic on the mental health and wellbeing of
+      parents with young children: a qualitative interview study"
+    category: psychiatry-and-clinical-psychology
+    abstract: "Background Parents have faced unique challenges during the
+      coronavirus disease 2019 (COVID-19) pandemic, including mobility
+      constraints, isolation measures, working from home, and the closure of
+      schools and childcare facilities. There is presently a lack of in-depth
+      qualitative research exploring how these changes have affected parents
+      mental health and wellbeing. Methods Semi-structured qualitative
+      interviews with 29 parents of young children. Interviews were analysed
+      using reflexive thematic analysis. Results We identified five
+      superordinate themes affecting participant mental health and wellbeing: 1)
+      navigation of multiple responsibilities and change inside the home; 2)
+      disruption to home life; 3) changes to usual support networks; 4) changes
+      in personal relationships; and 5) use of coping strategies. Participants
+      described stress and exhaustion from navigating multiple pressures and
+      conflicting responsibilities with home, schooling, and work, without their
+      usual support networks and in the context of disrupted routines. Family
+      roles and relationships were sometimes tested, however, many parents
+      identified coping strategies that protected their wellbeing including
+      access to outdoor space, spending time away from family, and avoiding
+      conflict and pandemic-related media coverage. Conclusions Employers must
+      be cognisant of the challenges that the pandemic has placed on parents,
+      particularly women and lone parents. Flexible working arrangements and
+      support might therefore relieve stress and increase productivity. Coping
+      strategies identified by parents in this study could be harnessed and
+      encouraged by employers and policymakers to promote positive wellbeing
+      during times of stress throughout the pandemic and beyond."
+    authors:
+      - name: Jo Dawes
+        orcid: http://orcid.org/0000-0003-0248-4160
+      - name: Tom May
+        orcid: http://orcid.org/0000-0003-3077-523X
+      - name: Alison Ruth McKinlay
+        orcid: http://orcid.org/0000-0002-3271-3502
+      - name: Daisy Fancourt
+        orcid: http://orcid.org/0000-0002-6952-334X
+      - name: Alexandra Burton
+        orcid: http://orcid.org/0000-0002-4433-3902
+  comment:
+    dislikes: 0
+    thread: "8520660691"
+    numReports: 0
+    likes: 0
+    id: "5421532684"
+    createdAt: 2021-06-16T03:43:19
+    author:
+      username: mariumamir
+      about: ""
+      name: Marium Amir
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/mariumamir/
+      url: ""
+      location: ""
+      id: "371005558"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: please can you help me find additional file 1 for complete
+      interview guide questions and subquestions
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.05.13.21256805v1
+  tweets:
+    - created_at: Thu Jun 17 00:59:54 +0000 2021
+      id: 1405329319719747600
+      id_str: "1405329319719747588"
+      text: >-
+        💬 medRxiv comment on "Impact of the COVID-19 pandemi..."
+
+
+        "please can you help me find additional file 1 for comple… https://t.co/bQb8vp0IlU
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/bQb8vp0IlU
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jun 17 00:59:54 +0000 2021
+      id: 1405329320512532500
+      id_str: "1405329320512532481"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/VMNRCEvTvr
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/VMNRCEvTvr
+      in_reply_to_status_id: 1405329319719747600
+      in_reply_to_status_id_str: "1405329319719747588"
