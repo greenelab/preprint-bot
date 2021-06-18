@@ -21724,3 +21724,108 @@
           - url: https://t.co/Ket5qTJtX1
       in_reply_to_status_id: 1405865761168580600
       in_reply_to_status_id_str: "1405865761168580612"
+- preprint:
+    id: "146269"
+    doi: 10.1101/2021.06.15.448399
+    first_posted: 2021-06-16
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.15.448399v1
+    url: https://api.rxivist.org/v1/papers/146269
+    title: "15 years of introgression studies: quantifying gene flow across
+      Eukaryotes"
+    category: evolutionary-biology
+    abstract: With the rise of affordable next generation sequencing technology,
+      introgression - or the exchange of genetic materials between taxa - is
+      widely perceived to be a ubiquitous phenomenon in nature. Although this
+      claim is supported by several keystone studies, no thorough assessment on
+      the frequency of introgression in nature has been performed to date. In
+      this manuscript, we aim to address this knowledge gap by providing a
+      meta-analysis of the most comprehensive survey of introgression studies in
+      Eukaryotes to date (724 papers with claims of introgression). We first
+      examined the evidence given to support introgression, and if/how the lines
+      of evidence have changed across time. We then collated a single statistic,
+      Patterson's D, that quantifies the strength of introgression across 123
+      studies to further assess how taxonomic group, divergence time, and
+      aspects of life history influence introgression. We find three main
+      results. Studies on introgression are much more frequent in plants and
+      mammals than any other taxonomic group. The study of introgression has
+      shifted from a largely qualitative assessment of whether introgression
+      happens, to a focus on when and how much introgression has occurred across
+      taxa. The most-often used introgression statistic, Patterson's D, shows
+      several intriguing patterns suggesting introgression reports may be biased
+      by both differences in reporting criteria and sequencing technology, but
+      may also differ across taxonomic systems and throughout the process of
+      speciation. Together, these results suggest the need for a unified
+      approach to quantifying introgression in natural communities, and
+      highlight important areas of future research that can be better assessed
+      once this unified approach is met.
+    authors:
+      - name: Andrius J Dagilis
+        orcid: http://orcid.org/0000-0003-2013-0825
+      - name: David Peede
+        orcid: http://orcid.org/0000-0002-4826-0464
+      - name: Jenn M. Coughlan
+        orcid: null
+      - name: Gaston I Jofre
+        orcid: null
+      - name: Emmanuel R R D'Agostino
+        orcid: http://orcid.org/0000-0003-0829-6435
+      - name: Heidi Mavengere
+        orcid: http://orcid.org/0000-0002-6207-1088
+      - name: Alexander D Tate
+        orcid: null
+      - name: Daniel R Matute
+        orcid: http://orcid.org/0000-0002-8494-8012
+  comment:
+    dislikes: 0
+    thread: "8596763671"
+    numReports: 0
+    likes: 0
+    id: "5423877722"
+    createdAt: 2021-06-18T00:21:09
+    author:
+      username: disqus_wB6yZCthij
+      about: ""
+      name: Daniel Ricardo Matute
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_wB6yZCthij/
+      url: ""
+      location: ""
+      id: "32322521"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: "Data and scripts: https://github.com/adagilis/introgression_meta_biorxiv"
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.06.15.448399v1
+  tweets:
+    - created_at: Fri Jun 18 14:23:30 +0000 2021
+      id: 1405893943347368000
+      id_str: "1405893943347367938"
+      text: |-
+        💬 bioRxiv comment on "15 years of introgression stud..."
+
+        "Data and scripts: "
+
+        https://t.co/ecr2gSrWeb
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/ecr2gSrWeb
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jun 18 14:23:31 +0000 2021
+      id: 1405893943963889700
+      id_str: "1405893943963889667"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/jgg5psObr4
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/jgg5psObr4
+      in_reply_to_status_id: 1405893943347368000
+      in_reply_to_status_id_str: "1405893943347367938"
