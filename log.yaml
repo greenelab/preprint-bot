@@ -21829,3 +21829,93 @@
           - url: https://t.co/jgg5psObr4
       in_reply_to_status_id: 1405893943347368000
       in_reply_to_status_id_str: "1405893943347367938"
+- preprint:
+    id: "135104"
+    doi: 10.1101/2021.03.25.437032
+    first_posted: 2021-03-26
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.03.25.437032v1
+    url: https://api.rxivist.org/v1/papers/135104
+    title: Dynamic distortion of the orientation representational space after
+      learning in the mouse primary visual cortex
+    category: neuroscience
+    abstract: Learning is an essential cognitive mechanism that supports behavioral
+      adaptation through neural processing adjustments. Learning was shown to
+      modify sensory integration, yet the nature of those modifications and the
+      computational advantages they confer remain unclear. By comparing the
+      responses of primary visual cortex (V1) neurons evoked by oriented stimuli
+      in naive mice and mice performing an orientation discrimination task, we
+      found that the representations of rewarded and non-rewarded cues were
+      sparser, more accurate and more stable in trained mice. This improved
+      representation was associated with a distortion of the V1 orientation
+      space such that stimuli close to the task cues were represented as the
+      task stimuli themselves. This distortion was context-dependent, as it was
+      absent in trained mice passively viewing the cues. Hence, visual
+      processing in V1 was dynamically adapted to enhance the reliability of the
+      representation of the learned cues and favor stimulus generalization in
+      the task-relevant computational space.
+    authors:
+      - name: Julien Corbo
+        orcid: http://orcid.org/0000-0002-1251-0572
+      - name: John P McClure
+        orcid: http://orcid.org/0000-0002-9261-4995
+      - name: Orhan Batuhan Erkat
+        orcid: null
+      - name: Pierre-Olivier Polack
+        orcid: http://orcid.org/0000-0003-1716-6595
+  comment:
+    dislikes: 0
+    thread: "8452938327"
+    numReports: 0
+    likes: 0
+    id: "5423784127"
+    createdAt: 2021-06-17T22:30:54
+    author:
+      username: sashaburckhardt
+      about: ""
+      name: Sasha Burckhardt
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/sashaburckhardt/
+      url: ""
+      location: ""
+      id: "371090525"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: 'Typo? "We found a lower amount of APrE per neuron and per trial in
+      the naïve than in the trained group (mean ± standard deviation; naïve:
+      0.93±0.16; trained: 0.86±0.15; effect size: Hedge’s g = 0.48)." Based on
+      the numbers and the subsequent conclusions, APrE should be greater in
+      naive mice, no?'
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.03.25.437032v1
+  tweets:
+    - created_at: Fri Jun 18 16:33:39 +0000 2021
+      id: 1405926695966814200
+      id_str: "1405926695966814215"
+      text: >-
+        💬 bioRxiv comment on "Dynamic distortion of the orie..."
+
+
+        "Typo? "We found a lower amount of APrE per neuron and pe… https://t.co/N5Psembs4C
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/N5Psembs4C
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jun 18 16:33:40 +0000 2021
+      id: 1405926697095110700
+      id_str: "1405926697095110656"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/yCphlKhVWI
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/yCphlKhVWI
+      in_reply_to_status_id: 1405926695966814200
+      in_reply_to_status_id_str: "1405926695966814215"
