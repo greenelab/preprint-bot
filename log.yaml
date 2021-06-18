@@ -21919,3 +21919,100 @@
           - url: https://t.co/yCphlKhVWI
       in_reply_to_status_id: 1405926695966814200
       in_reply_to_status_id_str: "1405926695966814215"
+- preprint:
+    id: "136905"
+    doi: 10.1101/2021.04.06.21254949
+    first_posted: 2021-04-07
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.04.06.21254949v1
+    url: https://api.rxivist.org/v1/papers/136905
+    title: Suboptimal response to COVID-19 mRNA vaccines in hematologic malignancies
+      patients
+    category: infectious-diseases
+    abstract: Studies describing SARS-CoV-2 immune responses following mRNA
+      vaccination in hematology malignancy (HM) patients are virtually
+      non-existent. We measured SARS-CoV-2 IgG production in 67 HM patients who
+      received 2 mRNA vaccine doses. We found that 46% of HM patients did not
+      produce antibodies and were therefore vaccine non-responders. Patients
+      with B-cell CLL were at a particularly high risk, as only 23% had
+      detectable antibodies despite the fact that nearly 70% of these patients
+      were not undergoing cancer therapy. HM patients should be counseled about
+      the ongoing risk of COVID-19 despite vaccination. Routine measurement of
+      post-vaccine antibodies in HM patients should be considered. Novel
+      strategies are needed to prevent COVID-19 in these individuals.
+    authors:
+      - name: Mounzer Agha
+        orcid: null
+      - name: Maggie Blake
+        orcid: null
+      - name: Charles Chilleo
+        orcid: null
+      - name: Alan H. Wells
+        orcid: http://orcid.org/0000-0002-1637-8150
+      - name: Ghady Haidar
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8469418204"
+    numReports: 0
+    likes: 0
+    id: "5424567845"
+    createdAt: 2021-06-18T16:19:49
+    author:
+      username: disqus_hSMGlNb5cU
+      about: ""
+      name: Jim D
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_hSMGlNb5cU/
+      url: ""
+      location: ""
+      id: "39549736"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Hi, I have CLL, asymptomatic and very low count. I had the Pfizer vaccine,
+      both doses.  My arm was sore for 3 weeks after the first shot even tho I
+      moved it around alot.  On the third day after my second shot, it seemed
+      that my shingles was reactivated, big pain, couldn't sleep. My PCP sent me
+      to emergency for CT scan. Other than spike in white cell count, nothing
+      showed from the scan. I shared the info about this study with PCP and
+      Hemotology oncologist to try to get a quantitative antibody test.  I have
+      not heard back, other than those tests are extremely difficult to
+      get.  Also then with further reading, I learned that even with a
+      quantitative test, I would not learn much since there is no standard for
+      determining what number is safe.
+
+      My question is:  has there been any new info since this study was posted.  Thanks. J
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.04.06.21254949v1
+  tweets:
+    - created_at: Fri Jun 18 18:23:57 +0000 2021
+      id: 1405954452910133200
+      id_str: "1405954452910133262"
+      text: >-
+        💬 medRxiv comment on "Suboptimal response to COVID-1..."
+
+
+        "Hi, I have CLL, asymptomatic and very low count. I had t… https://t.co/9BZML0pymg
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/9BZML0pymg
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jun 18 18:23:57 +0000 2021
+      id: 1405954453640040400
+      id_str: "1405954453640040450"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/pP8N7PQ9pn
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/pP8N7PQ9pn
+      in_reply_to_status_id: 1405954452910133200
+      in_reply_to_status_id_str: "1405954452910133262"
