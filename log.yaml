@@ -22016,3 +22016,51 @@
           - url: https://t.co/pP8N7PQ9pn
       in_reply_to_status_id: 1405954452910133200
       in_reply_to_status_id_str: "1405954452910133262"
+- preprint:
+    id: 28610
+    metric: 253
+    title: Gender balance in time-keeping at life science conferences
+    url: https://api.rxivist.org/v1/papers/28610
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/267120v2
+    doi: 10.1101/267120
+    category: scientific-communication-and-education
+    first_posted: 2018-02-19
+    abstract: Scientific conferences are biased against women when selecting
+      speakers, but recent studies showed a positive trend where the ratio of
+      invited female speakers had increased. We have recorded speaking times at
+      11 different conferences during 2016-2017 to analyze which factors
+      influenced a speaker's time keeping. Men and women went over time 47% and
+      41% of the talks, respectively. In a regression analysis, it was found
+      that the most important factors that influences how long a presenter spoke
+      was 1) their allocated time, 2) their career stage and 3) the level of
+      time keeping enforcement. It was also found that gender and the size of
+      the conference contributed significantly towards the speaker's timing.
+      Male speakers exceeded their allocated time more frequently than female
+      speakers, especially at large conferences (60% vs 49%). Since conferences
+      are an important arena for science dissemination this might have a
+      negative impact on female scientist's careers.
+    authors:
+      - name: Petra Edlund
+      - name: Erin M. Tranfield
+      - name: Vera van Noort
+      - name: Karen Siu Ting
+      - name: Sofia Tapani
+      - name: Johanna L. Hoog
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Fri Jun 18 20:16:19 +0000 2021
+      id: 1405982730270261200
+      id_str: "1405982730270261251"
+      text: >-
+        🔥 bioRxiv Scientific-communication-and-education preprint by P. Edlund
+        et al:
+
+
+        "Gender balance in time-keeping at l… https://t.co/MAOks59bJb
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/MAOks59bJb
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
