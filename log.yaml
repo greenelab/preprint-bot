@@ -21628,3 +21628,99 @@
           - url: https://t.co/oTURmfcNF6
       in_reply_to_status_id: 1405692607636787200
       in_reply_to_status_id_str: "1405692607636787201"
+- preprint:
+    id: "131218"
+    doi: 10.1101/2021.02.17.21251905
+    first_posted: 2021-02-22
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.02.17.21251905v1
+    url: https://api.rxivist.org/v1/papers/131218
+    title: Methodological Approach for Wastewater Based Epidemiological Studies for
+      SARS-CoV-2
+    category: epidemiology
+    abstract: Post COVID-19 outbreak, wastewater-based epidemiology (WBE) studies as
+      surveillance system is becoming an emerging interest due to its functional
+      advantage as tool for early warning signal and to catalyze effective
+      disease management strategies based on the community diagnosis. A
+      comprehensive attempt was made in this study to define a methodological
+      approach for conducting WBE studies in the framework of
+      identifying/selection of surveillance sites, standardizing sampling
+      policy, designing sampling protocols to improve sensitivity, adopting
+      safety protocol, and interpreting the data. The methodology was applied to
+      a community and studied its epidemiological status with reference to
+      occurrence, persistence, and variation of SARS-CoV-2 genome load in
+      wastewater system to understand the prevalence of infection. Hourly and
+      daily grab samples were analyzed and compared with the composite samples
+      over a surveillance window of 7 days. Based on the SARS-CoV-2 RNA
+      copies/L, faeces shedding, and volume of sewage generated the infected
+      individuals and the population who are in active phase in the studied
+      community was estimated.
+    authors:
+      - name: Harishankar Kopperi
+        orcid: null
+      - name: Athmakuri Tharak
+        orcid: null
+      - name: Manupati Hemalatha
+        orcid: null
+      - name: Uday Kiran
+        orcid: null
+      - name: C. G. Gokulan
+        orcid: null
+      - name: Rakesh K Mishra
+        orcid: http://orcid.org/0000-0001-6636-7380
+      - name: S Venkata Mohan
+        orcid: http://orcid.org/0000-0001-5564-4135
+  comment:
+    dislikes: 0
+    thread: "8409440100"
+    numReports: 0
+    likes: 0
+    id: "5423376051"
+    createdAt: 2021-06-17T16:40:52
+    author:
+      username: svenkatamohan
+      about: ""
+      name: S Venkata Mohan
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/svenkatamohan/
+      url: ""
+      location: ""
+      id: "370434512"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: This pre-print has been peer-reviewed and published in
+      ‘Environmental Technology & Innovation’,
+      doi.org/10.1016/j.eti.2021.101696.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.02.17.21251905v1
+  tweets:
+    - created_at: Fri Jun 18 12:31:31 +0000 2021
+      id: 1405865761168580600
+      id_str: "1405865761168580612"
+      text: >-
+        💬 medRxiv comment on "Methodological Approach for Wa..."
+
+
+        "This pre-print has been peer-reviewed and published in ‘… https://t.co/lUb3CHi1Ld
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/lUb3CHi1Ld
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jun 18 12:31:32 +0000 2021
+      id: 1405865762003247000
+      id_str: "1405865762003247106"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/Ket5qTJtX1
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/Ket5qTJtX1
+      in_reply_to_status_id: 1405865761168580600
+      in_reply_to_status_id_str: "1405865761168580612"
