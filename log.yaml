@@ -22575,3 +22575,97 @@
           - url: https://t.co/siLHUqeQpV
       in_reply_to_status_id: 1406227716546891800
       in_reply_to_status_id_str: "1406227716546891776"
+- preprint:
+    id: "126574"
+    doi: 10.1101/2021.01.24.427995
+    first_posted: 2021-01-26
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.01.24.427995v1
+    url: https://api.rxivist.org/v1/papers/126574
+    title: Novel bisubstrate inhibitors for protein N-terminal acetyltransferase D
+    category: biochemistry
+    abstract: Protein N-terminal acetyltransferase D (NatD, NAA40) that specifically
+      acetylates the alpha-N-terminus of histone H4 and H2A has been implicated
+      in various diseases, but no inhibitor has been reported for this important
+      enzyme. Based on the acetyl transfer mechanism of NatD, we designed and
+      prepared a series of highly potent NatD bisubstrate inhibitors by
+      covalently linking coenzyme A to different peptide substrates via an
+      acetyl or propionyl spacer. The most potent bisubstrate inhibitor
+      displayed an apparent Ki value of 1.0 nM. Biochemical studies indicated
+      that bisubstrate inhibitor is competitive to the peptide substrate and
+      noncompetitive to the cofactor, suggesting NatD undergoes an ordered Bi-Bi
+      mechanism. We also demonstrated that these inhibitors are highly specific
+      towards NatD, displaying about 1,000-fold selectivity over other closely
+      related acetyltransferases. High-resolution crystal structures of NatD
+      bound to two of these inhibitors revealed the molecular basis for their
+      selectivity and inhibition mechanism, providing a rational path for future
+      inhibitor development.
+    authors:
+      - name: Youchao Deng
+        orcid: null
+      - name: Sunbin Deng
+        orcid: http://orcid.org/0000-0001-7798-4317
+      - name: Yi-Hsun Ho
+        orcid: null
+      - name: Sarah M Gardner
+        orcid: null
+      - name: Zhi Huang
+        orcid: http://orcid.org/0000-0001-6982-8285
+      - name: Ronen Marmorstein
+        orcid: http://orcid.org/0000-0003-4373-4752
+      - name: Rong Huang
+        orcid: http://orcid.org/0000-0002-1477-3165
+  comment:
+    dislikes: 0
+    thread: "8371985004"
+    numReports: 0
+    likes: 0
+    id: "5423697135"
+    createdAt: 2021-06-17T21:04:42
+    author:
+      username: disqus_GHKotnPlDZ
+      about: ""
+      name: Huanglab
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_GHKotnPlDZ/
+      url: ""
+      location: ""
+      id: "352654011"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Final version has been published on J Med Chem.
+      https://pubs.acs.org/doi/pdf/10.1021/acs.jmedchem.1c00141
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.01.24.427995v1
+  tweets:
+    - created_at: Sat Jun 19 14:17:13 +0000 2021
+      id: 1406254746302705700
+      id_str: "1406254746302705667"
+      text: |-
+        💬 bioRxiv comment on "Novel bisubstrate inhibitors f..."
+
+        "Final version has been published on J Med Chem. "
+
+        https://t.co/DWqqo3H00Z
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/DWqqo3H00Z
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jun 19 14:17:13 +0000 2021
+      id: 1406254747179384800
+      id_str: "1406254747179384837"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/Q7XlNqcPHh
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/Q7XlNqcPHh
+      in_reply_to_status_id: 1406254746302705700
+      in_reply_to_status_id_str: "1406254746302705667"
