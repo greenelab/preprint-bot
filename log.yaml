@@ -22489,3 +22489,89 @@
           - url: https://t.co/4lT0fD4fj5
       in_reply_to_status_id: 1406054557030006800
       in_reply_to_status_id_str: "1406054557030006784"
+- preprint:
+    id: "122874"
+    doi: 10.1101/2020.12.24.424328
+    first_posted: 2020-12-24
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2020.12.24.424328v1
+    url: https://api.rxivist.org/v1/papers/122874
+    title: Development of a continuous fluorescence-based assay for N-terminal
+      acetyltransferase D
+    category: biochemistry
+    abstract: N-terminal acetylation catalyzed by N-terminal acetyltransferases
+      (NATs) has various biological functions in protein regulation. N-terminal
+      acetyltransferase D (NatD) is one of the most specific NAT with only
+      histone H4 and H2A proteins as the known substrates. Dysregulation of NatD
+      has been implicated in colorectal and lung cancer progression, implying
+      its therapeutic potential in cancers. However, there is no reported
+      inhibitor for NatD yet. To facilitate the discovery of small-molecule NatD
+      inhibitors, we report the development of a fluorescence-based
+      acetyltransferase assay in 384-well high-throughput screening (HTS) format
+      through monitoring the formation of coenzyme A. The fluorescent signal is
+      generated from the adduct in the reaction between coenzyme A and
+      fluorescent probe ThioGlo4. The assay exhibited a Z-factor of 0.77 and a
+      coefficient of variation of 6%, indicating it is a robust assay for HTS. A
+      pilot screen of 1280 pharmacologically active compounds and subsequent
+      validation identified two hits, confirming the application of this
+      fluorescence assay in HTS.
+    authors:
+      - name: Yi-Hsun Ho
+        orcid: null
+      - name: Lan Chen
+        orcid: http://orcid.org/0000-0003-4520-5109
+      - name: Rong Huang
+        orcid: http://orcid.org/0000-0002-1477-3165
+  comment:
+    dislikes: 0
+    thread: "8329212395"
+    numReports: 0
+    likes: 0
+    id: "5423698241"
+    createdAt: 2021-06-17T21:05:43
+    author:
+      username: disqus_GHKotnPlDZ
+      about: ""
+      name: Huanglab
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_GHKotnPlDZ/
+      url: ""
+      location: ""
+      id: "352654011"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Final version has been published https://www.mdpi.com/1422-0067/22/2/594
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.12.24.424328v1
+  tweets:
+    - created_at: Sat Jun 19 12:29:48 +0000 2021
+      id: 1406227716546891800
+      id_str: "1406227716546891776"
+      text: |-
+        💬 bioRxiv comment on "Development of a continuous fl..."
+
+        "Final version has been published "
+
+        https://t.co/cSSC6iQRjq
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/cSSC6iQRjq
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jun 19 12:29:48 +0000 2021
+      id: 1406227717247410200
+      id_str: "1406227717247410177"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/siLHUqeQpV
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/siLHUqeQpV
+      in_reply_to_status_id: 1406227716546891800
+      in_reply_to_status_id_str: "1406227716546891776"
