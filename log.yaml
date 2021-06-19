@@ -22769,3 +22769,117 @@
           - url: https://t.co/oTURmeVcNy
       in_reply_to_status_id: 1406288541018099700
       in_reply_to_status_id_str: "1406288541018099716"
+- preprint:
+    id: "137204"
+    doi: 10.1101/2021.04.06.21254993
+    first_posted: 2021-04-09
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.04.06.21254993v1
+    url: https://api.rxivist.org/v1/papers/137204
+    title: "Reopening Italy's Schools in September 2020: A Bayesian Estimation of
+      the Change in the Growth Rate of New SARS-CoV-2 Cases"
+    category: public-and-global-health
+    abstract: "Abstract Objectives: CoViD-19's second wave started a debate on the
+      potential role of schools as a primary factor in the contagion resurgence.
+      Two opposite positions appeared: those convinced that schools played a
+      major role in spreading SARS-CoV-2 infections and those who were not. We
+      studied the growth rate of the total number of SARS-CoV-2 infections in
+      all the Italian regions, before and after the school reopening (September
+      - October 2020), investigating the hypothesis of an association between
+      schools and the resurgence of the virus in Italy. Methods: Using Bayesian
+      piecewise linear regression to scrutinize the number of daily SARS-CoV-2
+      infections in each Italian, we looked for an estimate of a changepoint in
+      the growth rate of those confirmed cases. We compared the changepoints
+      with the school opening dates, for each Italian region. The regression
+      allows to discuss the change in steepness of the infection curve, before
+      and after the changepoint. Results: In 15 out of 21 Italian regions (71%),
+      an estimated change in the rate of growth of the total number of daily
+      SARS-CoV-2 infection cases occurred after an average of 16.66 days (CI 95%
+      14.47 to 18.73) since the school reopening. The number of days required
+      for the SARS-CoV-2 daily cases to double went from an average of 47.50
+      days (CI 95% 37.18 to 57.61) before the changepoint to an average of 7.72
+      days (CI 95% 7.00 to 8.48) after it. Conclusion: Studying the rate of
+      growth of daily SARS-CoV-2 cases in all the Italian regions provides some
+      evidence in favor of a link between school reopening and the resurgence of
+      the virus in Italy. The number of factors that could have played a role
+      are too many to give a definitive answer. Still, the temporal
+      correspondence warrants for a controlled experiment to clarify how much
+      reopening schools mattered."
+    authors:
+      - name: Luca Casini
+        orcid: http://orcid.org/0000-0002-3468-6974
+      - name: Marco Roccetti
+        orcid: http://orcid.org/0000-0003-1264-8595
+  comment:
+    dislikes: 0
+    thread: "8471585559"
+    numReports: 0
+    likes: 0
+    id: "5423619227"
+    createdAt: 2021-06-17T19:58:09
+    author:
+      username: marcoroccetti
+      about: ""
+      name: Marco Roccetti
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/marcoroccetti/
+      url: ""
+      location: ""
+      id: "371081903"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      We thank Maurizio for the careful reading of our paper and his interesting
+      comment.
+
+
+      We do agree that elections and workers are two factors of a certain relevance that, besides school reopenings, deserve attention and further investigations. We have already maintained this in our paper (abstract, limitations, discussion, conclusion).
+
+
+      Nonetheless, Maurizio should give more credit to the following facts:
+
+      - elections were held on two different days (sun 20 and mon 21), hence the number of participants should be distributed over two different days
+
+      - Italian students and school personell (11 million people on a national basis) go to school each and every day (mon-fri/sat)
+
+      - Mobility reports by Google tag workplaces (Google News. https://news.google.com/covid19/map?hl=it&gl=IT&ceid=IT%3Ait&mid=%2Fm%2F03rjj)
+
+      The revised version of our paper, which is going to appear on a renowned International medical journal, discusses all those points above.
+
+
+      Sincerely,
+
+      The Authors
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.04.06.21254993v1
+  tweets:
+    - created_at: Sat Jun 19 18:23:18 +0000 2021
+      id: 1406316678598873000
+      id_str: "1406316678598873088"
+      text: >-
+        💬 medRxiv comment on "Reopening Italy's Schools in S..."
+
+
+        "We thank Maurizio for the careful reading of our paper a… https://t.co/tjifDZkyVj
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/tjifDZkyVj
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jun 19 18:23:19 +0000 2021
+      id: 1406316679576105000
+      id_str: "1406316679576104962"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/cIRnxwxLG0
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/cIRnxwxLG0
+      in_reply_to_status_id: 1406316678598873000
+      in_reply_to_status_id_str: "1406316678598873088"
