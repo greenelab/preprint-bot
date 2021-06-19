@@ -22950,3 +22950,176 @@
           - url: https://t.co/wIzVNG3Vdl
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "109817"
+    doi: 10.1101/2020.04.28.20083576
+    first_posted: 2020-05-05
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2020.04.28.20083576v1
+    url: https://api.rxivist.org/v1/papers/109817
+    title: "Global Economic Cost of Deaths Attributable to Ambient Air Pollution:
+      Disproportionate Burden on the Ageing Population"
+    category: health-economics
+    abstract: "Summary Background The health impacts of ambient air pollution impose
+      large costs on society. While all people are exposed to air pollution,
+      older individuals tend to be disproportionally affected. As a result,
+      there is growing concern about the public health impacts of air pollution
+      as many countries undergo rapid population ageing. We investigated the
+      spatial and temporal variation in the health economic cost of deaths
+      attributable to ambient air pollution, and its interaction with population
+      ageing from 2000 to 2016 at global and regional levels. Methods We
+      developed an age-adjusted measure of the value of a statistical life year
+      (VSLY) to estimate the health economic cost attributable to ambient PM2.5
+      pollution using the Global Burden of Disease 2017 data and country-level
+      socioeconomic information. First, we estimated the global age- and
+      cause-specific mortality and years of life lost (YLL) attributable to
+      PM2.5 pollution using the global exposure mortality model (GEMM) and
+      global estimates of exposure derived from ground monitoring, satellite
+      retrievals and chemical transport model simulations at 0.1 by 0.1 degree
+      (~11 km at the equator) resolution. Second, for each year between 2000 and
+      2016, we translated the YLL within each age-group into a health-related
+      economic cost using a country-specific, age-adjusted measure of VSLY.
+      Third, we decomposed the major driving factors that contributed to the
+      temporal change in health costs related to PM2.5. Finally, we conducted a
+      sensitivity test to analyze the variability of the estimated health costs
+      to four alternative valuation measures. We identified the uncertainty
+      intervals (UIs) from 1000 draws of the parameters and exposure-response
+      functions by age, cause, country and year. All economic values are
+      reported in 2011 purchasing-power-parity-adjusted US dollars. Findings
+      Globally, 8.42 million (95% UI: 6.50, 10.52) deaths and 163.68 million
+      (116.03, 219.44) YLL were attributable to ambient PM2.5 in 2016. The
+      average attributable mortality for the older population was 12 times
+      higher than for those younger than 60 years old. In 2016, the global
+      health economic cost of ambient PM2.5 pollution for the older population
+      was US$2.40 trillion (1.89, 2.93) accounting for 59% of the cost for the
+      total population. The health cost for the older population alone was
+      equivalent to 2.1% (1.7%, 2.6%) of global gross domestic product (GDP) in
+      2016. While the economic cost per capita for the older population was
+      US$2739 (2160, 3345) in 2016, the cost per capita for the younger
+      population was only US$268 (205, 335). From 2000 to 2016, the annual
+      global health economic cost for the total population increased from
+      US$2.37 trillion (1.88, 2.87) to US$4.09 trillion (3.19, 5.05).
+      Decomposing the factors that contributed to the rise in health economic
+      costs, we found that increases in GDP per capita, population ageing,
+      population growth, age-specific mortality reduction, and PM2.5 exposure
+      changed the total health economic cost by 77%, 21.2%, 15.6%, -41.1% and
+      -0.2%, respectively. Compared to using an age-invariant VSLY or an
+      age-invariant value of a statistical life (VSL), the estimates of the
+      older population share of the total health economic cost using an
+      age-adjusted VSLY was 2 and 18 percentage points lower, respectively.
+      Interpretation The health economic cost borne by the older population
+      almost doubled between 2000 and 2016, driven primarily by GDP growth,
+      population ageing and population growth. Compared to younger individuals,
+      air pollution leads to disproportionately higher health costs amongst the
+      older population, even after accounting for their relatively shorter
+      remaining life expectancy and increased disability. The age-specific
+      estimates of health economic cost inform the optimal design of air
+      pollution reduction strategies and allocation of healthcare resources. The
+      positive relationship between age and economic costs suggests that
+      countries with severe air pollution and rapid aging rates would
+      particularly benefit from improving their air quality. In addition,
+      strategies aimed at enhancing healthcare services, especially for the
+      older population, may be beneficial for reducing the costs of ambient air
+      pollution."
+    authors:
+      - name: Hao Yin
+        orcid: http://orcid.org/0000-0002-8382-1239
+      - name: Michael Brauer
+        orcid: http://orcid.org/0000-0002-9103-9343
+      - name: Junfeng (Jim) Zhang
+        orcid: null
+      - name: Wenjia Cai
+        orcid: null
+      - name: Stale Navrud
+        orcid: http://orcid.org/0000-0002-6627-4595
+      - name: Richard Burnett
+        orcid: http://orcid.org/0000-0001-6772-4239
+      - name: Courtney Howard
+        orcid: null
+      - name: Zhu Deng
+        orcid: null
+      - name: Daniel M. Kammen
+        orcid: http://orcid.org/0000-0003-2984-7777
+      - name: Hans Joachim Schellnhuber
+        orcid: http://orcid.org/0000-0001-7453-4935
+      - name: Kai Chen
+        orcid: null
+      - name: Haidong Kan
+        orcid: http://orcid.org/0000-0002-1871-8999
+      - name: Zhanming Chen
+        orcid: null
+      - name: Bin Chen
+        orcid: null
+      - name: Ning Zhang
+        orcid: http://orcid.org/0000-0003-2775-1755
+      - name: Zhifu Mi
+        orcid: null
+      - name: DMaris Coffman
+        orcid: null
+      - name: Yiming Wei
+        orcid: null
+      - name: Aaron Cohen
+        orcid: http://orcid.org/0000-0002-4610-9912
+      - name: Dabo Guan
+        orcid: null
+      - name: Qiang Zhang
+        orcid: http://orcid.org/0000-0002-8359-3715
+      - name: Peng Gong
+        orcid: null
+      - name: Zhu Liu
+        orcid: http://orcid.org/0000-0002-1266-6059
+  comment:
+    dislikes: 0
+    thread: "8008482879"
+    numReports: 0
+    likes: 0
+    id: "5423342628"
+    createdAt: 2021-06-17T16:13:50
+    author:
+      username: hao_yin
+      about: ""
+      name: Hao Yin
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/hao_yin/
+      url: ""
+      location: ""
+      id: "371076485"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: "Note: Contents in this draft are our preliminary results. The
+      final results of this study are published on the journal, Lancet Planetary
+      Health, please check out our online peer reviewed paper:
+      https://doi.org/10.1016/S2542-5196(21)00131-5"
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2020.04.28.20083576v1
+  tweets:
+    - created_at: Sat Jun 19 20:19:36 +0000 2021
+      id: 1406345944153604000
+      id_str: "1406345944153604096"
+      text: >-
+        💬 medRxiv comment on "Global Economic Cost of Deaths..."
+
+
+        "Note: Contents in this draft are our preliminary results… https://t.co/s5yEwoG8rS
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/s5yEwoG8rS
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jun 19 20:19:36 +0000 2021
+      id: 1406345944963104800
+      id_str: "1406345944963104770"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/kI6wKRNfJE
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/kI6wKRNfJE
+      in_reply_to_status_id: 1406345944153604000
+      in_reply_to_status_id_str: "1406345944153604096"
