@@ -22883,3 +22883,70 @@
           - url: https://t.co/cIRnxwxLG0
       in_reply_to_status_id: 1406316678598873000
       in_reply_to_status_id_str: "1406316678598873088"
+- preprint:
+    id: 125045
+    metric: 109
+    title: "An insight into neurotoxic and toxicity of spike fragments SARS-CoV-2 by
+      exposure environment: A threat to aquatic health?"
+    url: https://api.rxivist.org/v1/papers/125045
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.01.11.425914v1
+    doi: 10.1101/2021.01.11.425914
+    category: molecular-biology
+    first_posted: 2021-01-13
+    abstract: The Spike protein (S protein) is a critical component in the infection
+      of the new coronavirus (SARS-CoV-2). The objective of this work was to
+      evaluate whether peptides from S protein could cause negative impact in
+      the aquatic animals. The aquatic toxicity of SARS-CoV-2 spike protein
+      peptides derivatives has been evaluated in tadpoles (n = 50 tadpoles / 5
+      replicates of 10 animals) from species Physalaemus cuvieri
+      (Leptodactylidae). After synthesis, purification, and characterization of
+      peptides (PSDP2001, PSDP2002, PSDP2003) an aquatic contamination has been
+      simulatedwith these peptides during 24 hours of exposure in two
+      concentrations (100 and 500 ng/mL). The control group (C) was composed of
+      tadpoles kept in polyethylene containers containing de-chlorinated water.
+      Oxidative stress, antioxidant biomarkers and neurotoxicity activity were
+      assessed. In both concentrations, PSPD2002 and PSPD2003 increased catalase
+      and superoxide dismutase antioxidants enzymes activities, as well as
+      oxidative stress (nitrite levels, hydrogen peroxide and reactive oxygen
+      species). All three peptides also increased acetylcholinesterase activity
+      in the highest concentration. These peptides showed molecular interactions
+      in silico with acetylcholinesterase and antioxidant enzymes. Aquatic
+      particle contamination of SARS-CoV-2 has neurotoxics effects in P. cuvieri
+      tadpoles. These findings indicate that the COVID-19 can constitute
+      environmental impact or biological damage potential.
+    authors:
+      - name: Ives Charlie-Silva
+      - name: Amanda Araujo
+      - name: Abraao Guimaraes
+      - name: Flavio Veras
+      - name: Helyson Braz
+      - name: Leticia Pontes
+      - name: Roberta Jorge
+      - name: Marco Belo
+      - name: Bianca Fernandes
+      - name: Rafael H. Nóbrega
+      - name: Giovane Galdino
+      - name: Antonio Condino-Neto
+      - name: Jorge Galindo-Villegas
+      - name: Glaucia Machodo-Santelli
+      - name: Paulo Sanches
+      - name: Rafael Rezende
+      - name: Eduardo Cilli
+      - name: Guilherme Malafaia
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Sat Jun 19 20:15:46 +0000 2021
+      id: 1406344978708807700
+      id_str: "1406344978708807680"
+      text: >-
+        🔥 bioRxiv Molecular-biology preprint by I. Charlie-Silva et al:
+
+
+        "An insight into neurotoxic and toxicity of spike… https://t.co/wIzVNG3Vdl
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/wIzVNG3Vdl
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
