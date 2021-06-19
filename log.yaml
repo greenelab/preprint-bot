@@ -22297,3 +22297,195 @@
           - url: https://t.co/dJAkyRxqBb
       in_reply_to_status_id: 1406013786331488300
       in_reply_to_status_id_str: "1406013786331488265"
+- preprint:
+    id: "118473"
+    doi: 10.1101/2020.10.30.20217364
+    first_posted: 2020-11-03
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2020.10.30.20217364v1
+    url: https://api.rxivist.org/v1/papers/118473
+    title: "Honey and Nigella sativa against COVID-19 in Pakistan (HNS-COVID-PK): A
+      multi-center placebo-controlled randomized clinical trial"
+    category: infectious-diseases
+    abstract: "BACKGROUND: No definitive treatment exists for Coronavirus Disease
+      2019 (COVID-19). Honey and Nigella sativa (HNS) have established antiviral
+      properties. Hence, we investigated the efficacy of HNS against COVID-19.
+      METHODS: We conducted a multicenter, placebo-controlled, randomized
+      clinical trial at 4 centers in Pakistan. RT-PCR confirmed COVID-19 adults
+      showing moderate or severe disease were enrolled in the study. Patients
+      presenting with multi-organ failure, ventilator support, and chronic
+      diseases (except diabetes mellitus and hypertension) were excluded.
+      Patients were randomly assigned in 1:1 ratio to receive either honey (1
+      gm/Kg/day) and Nigella sativa seeds (80 mg/Kg/day) or placebo up-to 13
+      days along with standard care. The outcomes included symptom alleviation,
+      viral clearance, and 30-day mortality in the intention-to-treat
+      population. This trial was registered with ClinicalTrials.gov,
+      NCT04347382. FINDINGS Three hundred and thirteen patients - 210 moderate
+      and 103 severe - underwent randomization from April 30 to July 29, 2020.
+      Among these, 107 were assigned to HNS whereas 103 to placebo for moderate
+      cases. For severe cases, 50 were given HNS, and 53 were given placebos.
+      HNS resulted in ~50% reduction in time taken to alleviate symptoms as
+      compared to placebo (Moderate (4 versus 7 days), Hazard Ratio [HR]: 6.11;
+      95% Confidence Interval [CI]: 4.23-8.84, P<0.0001 and severe (6 versus 13
+      days) HR: 4.04; 95% CI, 2.46-6.64, P<0.0001). HNS also cleared the virus 4
+      days earlier than the placebo group in moderate (6 versus 10 days, HR:
+      5.53; 95% CI: 3.76-8.14, P<0.0001) and severe cases (8.5 versus 12 days,
+      HR: 4.32; 95% CI: 2.62-7.13, P<0.0001). HNS further led to a better
+      clinical score on day 6 with normal activity resumption in 63.6% versus
+      10.9% among moderate cases (OR: 0.07; 95% CI: 0.03-0.13, P<0.0001) and
+      hospital discharge in 50% versus 2.8% in severe cases (OR: 0.03; 95% CI:
+      0.01-0.09, P<0.0001). In severe cases, mortality rate was four-fold lower
+      in HNS group than placebo (4% versus 18.87%, OR: 0.18; 95% CI: 0.02-0.92,
+      P=0.029). No HNS-related adverse effects were observed. INTERPRETATION HNS
+      significantly improved symptoms, viral clearance, and mortality in
+      COVID-19 patients. Thus, HNS represents an affordable over the counter
+      therapy and can either be used alone or in combination with other
+      treatments to achieve potentiating effects against COVID-19. FUNDING:
+      Funded by Smile Welfare Organization, Shaikh Zayed Medical Complex, and
+      Services Institute of Medical Sciences."
+    authors:
+      - name: Sohaib Ashraf
+        orcid: http://orcid.org/0000-0003-3127-3557
+      - name: Shoaib Ashraf
+        orcid: http://orcid.org/0000-0002-1218-4877
+      - name: Moneeb Ashraf
+        orcid: http://orcid.org/0000-0002-5769-9524
+      - name: Muhammad Ahmad Imran
+        orcid: http://orcid.org/0000-0003-3358-229X
+      - name: Larab Kalsoom
+        orcid: http://orcid.org/0000-0003-1075-6285
+      - name: Uzma Nasim Siddiqui
+        orcid: null
+      - name: Iqra Farooq
+        orcid: null
+      - name: Zaigham Habib
+        orcid: null
+      - name: Sidra Ashraf
+        orcid: http://orcid.org/0000-0002-4254-2583
+      - name: Muhammad Ghufran
+        orcid: null
+      - name: Muhammad Kiwan Akram
+        orcid: http://orcid.org/0000-0002-8415-9363
+      - name: Nighat Majeed
+        orcid: http://orcid.org/0000-0003-0238-7520
+      - name: Zain ul Abdin
+        orcid: null
+      - name: Rutaba Akmal
+        orcid: null
+      - name: Sundas Rafique
+        orcid: null
+      - name: Khawar Nawaz
+        orcid: null
+      - name: Muhammad Ismail Khalid Yousaf
+        orcid: null
+      - name: Sohail Ahmad
+        orcid: null
+      - name: Muhammad Sarmad Shahab
+        orcid: null
+      - name: Muhammad Faisal Nadeem
+        orcid: http://orcid.org/0000-0002-1356-103X
+      - name: Abubakar Hilal
+        orcid: null
+      - name: Arz Muhammad
+        orcid: null
+      - name: Zeeshan Shoukat
+        orcid: null
+      - name: Ayesha Khaqan
+        orcid: null
+      - name: Kanwal Hayat
+        orcid: null
+      - name: Shahroz Arshad
+        orcid: null
+      - name: Muhammad Hassan
+        orcid: null
+      - name: Abeer bin Awais
+        orcid: null
+      - name: Abdur Rehman Virk
+        orcid: null
+      - name: Ammara Ahmad
+        orcid: null
+      - name: Tayyab Mughal
+        orcid: null
+      - name: Muhammad Umer
+        orcid: null
+      - name: Muhammad Suhail
+        orcid: null
+      - name: Sibgha Zulfiqar
+        orcid: null
+      - name: Saulat Sarfraz
+        orcid: null
+      - name: Imran Anwar
+        orcid: http://orcid.org/0000-0002-8540-0139
+      - name: Ayesha Humayun
+        orcid: null
+      - name: Muhammad Azam
+        orcid: null
+      - name: Hui Zheng
+        orcid: null
+      - name: Amber Malik
+        orcid: null
+      - name: Mahmood Ayyaz
+        orcid: http://orcid.org/0000-0003-1957-383X
+      - name: Ali Ahmad
+        orcid: http://orcid.org/0000-0001-7689-7115
+      - name: Talha Mahmud
+        orcid: http://orcid.org/0000-0003-4585-0765
+      - name: Qazi Abdul Saboor
+        orcid: null
+      - name: Muhammad Ashraf
+        orcid: null
+      - name: Mateen Izhar
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8296231249"
+    numReports: 0
+    likes: 0
+    id: "5424035373"
+    createdAt: 2021-06-18T04:01:15
+    author:
+      username: nimaarabani
+      about: ""
+      name: NA
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/nimaarabani/
+      url: ""
+      location: ""
+      id: "367790418"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: What is the status currently (two months later) for publishing?
+      Have lower impact journals been approached? Thank you,
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2020.10.30.20217364v4
+  tweets:
+    - created_at: Sat Jun 19 01:01:44 +0000 2021
+      id: 1406054557030006800
+      id_str: "1406054557030006784"
+      text: >-
+        💬 medRxiv comment on "Honey and Nigella sativa again..."
+
+
+        "What is the status currently (two months later) for publ… https://t.co/B0kRRYx70L
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/B0kRRYx70L
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jun 19 01:01:44 +0000 2021
+      id: 1406054557889749000
+      id_str: "1406054557889748996"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/4lT0fD4fj5
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/4lT0fD4fj5
+      in_reply_to_status_id: 1406054557030006800
+      in_reply_to_status_id_str: "1406054557030006784"
