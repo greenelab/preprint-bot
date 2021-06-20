@@ -23705,3 +23705,99 @@
           - url: https://t.co/oTURmfcNF6
       in_reply_to_status_id: 1406650838873825300
       in_reply_to_status_id_str: "1406650838873825285"
+- preprint:
+    id: "144531"
+    doi: 10.1101/2021.05.28.21257602
+    first_posted: 2021-06-02
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.28.21257602v1
+    url: https://api.rxivist.org/v1/papers/144531
+    title: "Prevalence of persistent symptoms in children during the COVID-19
+      pandemic: evidence from a household cohort study in England and Wales"
+    category: pediatrics
+    abstract: Using data from 4678 children participating in VirusWatch, a UK
+      household cohort study, we estimated the prevalence of persistent symptoms
+      as 1.7%, and 4.6% in children with a history of SARS-CoV-2 infection.
+      Persistent symptoms prevalence was higher in girls, teenagers and children
+      with long-term conditions.
+    authors:
+      - name: Faith Miller
+        orcid: null
+      - name: Vincent Nguyen
+        orcid: null
+      - name: Annalan MD Navaratnam
+        orcid: null
+      - name: Madhumita Shrotri
+        orcid: http://orcid.org/0000-0001-9791-122X
+      - name: Jana Kovar
+        orcid: null
+      - name: Andrew C Hayward
+        orcid: null
+      - name: Ellen Benard Fragaszy
+        orcid: http://orcid.org/0000-0002-0178-6098
+      - name: Robert William Aldridge
+        orcid: http://orcid.org/0000-0003-0542-0816
+      - name: Virus Watch Collaborative
+        orcid: null
+      - name: Pia Hardelid
+        orcid: http://orcid.org/0000-0002-0154-1306
+  comment:
+    dislikes: 0
+    thread: "8569851205"
+    numReports: 0
+    likes: 0
+    id: "5422463379"
+    createdAt: 2021-06-16T21:14:35
+    author:
+      username: disqus_rVRQnS9tHX
+      about: ""
+      name: Amanda
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_rVRQnS9tHX/
+      url: ""
+      location: ""
+      id: "63796687"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      hi -  i think there is a typo!  This says 8/174 -- yet earlier it said
+      175.
+
+
+      The overall prevalence of persistent symptoms was 1.7% (80/4678 children; 95% CI 1.4%, 2.1%), and 4.6% (8/174 children; 95% CI 2.0%, 8.9%) in children who had a history of SARS-CoV-2 infection before persistent symptom onset.
+
+
+      Also ages 2-11 were overrepresented versus 12-17
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.05.28.21257602v1
+  tweets:
+    - created_at: Sun Jun 20 18:23:15 +0000 2021
+      id: 1406679050798743600
+      id_str: "1406679050798743552"
+      text: >-
+        💬 medRxiv comment on "Prevalence of persistent sympt..."
+
+
+        "hi -  i think there is a typo!  This says 8/174 -- yet e… https://t.co/oXdqVDqmU6
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/oXdqVDqmU6
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jun 20 18:23:15 +0000 2021
+      id: 1406679051616542700
+      id_str: "1406679051616542729"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/aTbggLf7Td
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/aTbggLf7Td
+      in_reply_to_status_id: 1406679050798743600
+      in_reply_to_status_id_str: "1406679050798743552"
