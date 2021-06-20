@@ -23496,3 +23496,110 @@
           - url: https://t.co/B5DO7aAXhF
       in_reply_to_status_id: 1406590159336976400
       in_reply_to_status_id_str: "1406590159336976386"
+- preprint:
+    id: "146219"
+    doi: 10.1101/2021.06.15.21258346
+    first_posted: 2021-06-15
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.15.21258346v1
+    url: https://api.rxivist.org/v1/papers/146219
+    title: "Antibody response after a single dose of ChAdOx1-nCOV (Covishield)
+      vaccine in subjects with prior SARS-CoV2 infection: Is a single dose
+      sufficient?"
+    category: infectious-diseases
+    abstract: "It is crucial to know whether a single dose of vaccine against
+      SARS-CoV-2 is sufficient to elicit immune response in previously infected
+      people in India. A total of 121 participants (baseline seropositive 46 and
+      seronegative 75) were included to study the immune response to
+      ChAdOx1-nCOV (Covishield) vaccine in previously infected or uninfected
+      people. IgG antibodies were estimated at three different time intervals,
+      i.e. pre-vaccination, 25-35 days post 1st vaccination and 25-35 days post
+      2nd vaccination. The IgG antibody titre was significantly high among
+      previous seropositive subjects with single dose of vaccine compared to
+      seronegative group with both doses of vaccine respectively
+      (Mean:4.59,SD:1.04 vs Mean:3.08 SD:1.22, p-value: <0.0001). In conclusion,
+      a single dose of Covishield vaccine might be sufficient to induce an
+      effective immune response n subjects with prior SARS-CoV2 infection.
+      Stratifying vacinees based on their SARS-CoV2 IgG antibody titre before
+      vaccination would help in meeting the increasing vaccine demand and could
+      be effective to circumvent further wave of the pandemic in India."
+    authors:
+      - name: Biswajyoti Borkakoty
+        orcid: null
+      - name: Mandakini Das Sarmah
+        orcid: null
+      - name: Chandra Kanta Bhattacharjee
+        orcid: null
+      - name: Nargis Bali
+        orcid: null
+      - name: Gayatri Gogoi
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8595892758"
+    numReports: 0
+    likes: 0
+    id: "5422519244"
+    createdAt: 2021-06-16T22:10:09
+    author:
+      username: disqus_Mhs4dqSRaR
+      about: ""
+      name: Alberto
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_Mhs4dqSRaR/
+      url: ""
+      location: ""
+      id: "291576185"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      What the figures show is not well explained in the abstract or the text
+      itself. Basically they show that people who were previously infected had a
+      level of antibodies at baseline (prior to vaccination) which is roughly
+      equal to those not previously infected after two doses. After one dose,
+      they exceed that level.
+
+
+
+      Furthermore it also shows that most of the persons not previously infected don't benefit from a second dose, since the average is roughly the same after one and two doses. Only a small subset of the subjects seem to get some benefit from a second dose.
+
+
+
+      Therefor, it seems a more logical conclusion that persons previously infected should not need to take the vaccine and that people previously infected should take just one dose (with a few exceptions).
+
+
+
+      Always remember that in medicine, when you need to take something you should take it. But when you don't need to take it, you shouldn't take it.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.06.15.21258346v1
+  tweets:
+    - created_at: Sun Jun 20 14:17:23 +0000 2021
+      id: 1406617177906684000
+      id_str: "1406617177906683914"
+      text: >-
+        💬 medRxiv comment on "Antibody response after a sing..."
+
+
+        "What the figures show is not well explained in the abstr… https://t.co/QGYsoVkJGg
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/QGYsoVkJGg
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jun 20 14:17:23 +0000 2021
+      id: 1406617178904928300
+      id_str: "1406617178904928256"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/2POKShETLv
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/2POKShETLv
+      in_reply_to_status_id: 1406617177906684000
+      in_reply_to_status_id_str: "1406617177906683914"
