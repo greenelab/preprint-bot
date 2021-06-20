@@ -23843,3 +23843,101 @@
           - url: https://t.co/tc3QcsSZJ3
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "145889"
+    doi: 10.1101/2021.06.10.21258647
+    first_posted: 2021-06-13
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.10.21258647v1
+    url: https://api.rxivist.org/v1/papers/145889
+    title: Seasonal variation in SARS-CoV-2 transmission in temperate climates
+    category: epidemiology
+    abstract: "While seasonal variation has a known influence on the transmission of
+      several respiratory viral infections, its role in SARS-CoV-2 transmission
+      remains unclear. As previous analyses have not accounted for the
+      implementation of non-pharmaceutical interventions (NPIs) in the first
+      year of the pandemic, they may yield biased estimates of seasonal effects.
+      Building on two state-of-the-art observational models and datasets, we
+      adapt a fully Bayesian method for estimating the association between
+      seasonality and transmission in 143 temperate European regions. We find
+      strong seasonal patterns, consistent with a reduction in the time-variable
+      Rt of 42.1% (95% CI: 24.7% - 53.4%) from the peak of winter to the peak of
+      summer. These results imply that the seasonality of SARS-CoV-2
+      transmission is comparable in magnitude to the most effective individual
+      NPIs but less than the combined effect of multiple interventions."
+    authors:
+      - name: Tomas Gavenciak
+        orcid: http://orcid.org/0000-0003-1119-2426
+      - name: Joshua Teperowski Monrad
+        orcid: http://orcid.org/0000-0002-7377-2074
+      - name: Gavin Leech
+        orcid: http://orcid.org/0000-0002-9298-1488
+      - name: Mrinank Sharma
+        orcid: http://orcid.org/0000-0002-4304-7963
+      - name: Sören Mindermann
+        orcid: http://orcid.org/0000-0002-0315-9821
+      - name: Jan Markus Brauner
+        orcid: http://orcid.org/0000-0002-1588-5724
+      - name: Samir Bhatt
+        orcid: http://orcid.org/0000-0002-0891-4611
+      - name: Jan Kulveit
+        orcid: http://orcid.org/0000-0002-3791-8355
+  comment:
+    dislikes: 0
+    thread: "8590472452"
+    numReports: 0
+    likes: 0
+    id: "5422312410"
+    createdAt: 2021-06-16T19:10:44
+    author:
+      username: jindrichweiss
+      about: ""
+      name: J W
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/jindrichweiss/
+      url: ""
+      location: ""
+      id: "338108045"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      ad 1, I am not sure how compatible the studies are. I understand Your
+      explanation of the differencies, still they can work as underlying set
+      only if done with exact same interventions, same countries etc
+
+      ad 2 My mistake, did not realise the early end of the second study, it just shows how pure data are on the whole year, taking into account the gradual spread and chaotic treatment of the first year and the variants evolved later
+
+      ad 3 Sure, if You do not have any other idea and no supporting data how to incorporate a would be periodic behaviour, cos(t) may be the first choice. However, with the multicountry studies You indeed have a reasonable data not only on seasonality, but also on the differences between each of them.  You can use the daily temperatures and percentage of local sunshine hours. It is just a pitty not to use them and not to see the fundamental driving force.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.06.10.21258647v1
+  tweets:
+    - created_at: Sun Jun 20 20:19:21 +0000 2021
+      id: 1406708270673404000
+      id_str: "1406708270673403907"
+      text: >-
+        💬 medRxiv comment on "Seasonal variation in SARS-CoV..."
+
+
+        "ad 1, I am not sure how compatible the studies are. I un… https://t.co/wTJTBtgfRS
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/wTJTBtgfRS
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jun 20 20:19:21 +0000 2021
+      id: 1406708271386402800
+      id_str: "1406708271386402824"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/Bv6GzFFKho
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/Bv6GzFFKho
+      in_reply_to_status_id: 1406708270673404000
+      in_reply_to_status_id_str: "1406708270673403907"
