@@ -23801,3 +23801,45 @@
           - url: https://t.co/aTbggLf7Td
       in_reply_to_status_id: 1406679050798743600
       in_reply_to_status_id_str: "1406679050798743552"
+- preprint:
+    id: 146647
+    metric: 11
+    title: Multiplexed bioluminescence microscopy via phasor analysis
+    url: https://api.rxivist.org/v1/papers/146647
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.18.448905v1
+    doi: 10.1101/2021.06.18.448905
+    category: bioengineering
+    first_posted: 2021-06-18
+    abstract: Microscopic bioluminescence imaging has been historically challenging
+      due to a lack of detection methods and easily resolved probes. Here we
+      combine bioluminescence with phasor analysis, an optical method commonly
+      used to distinguish spectrally similar fluorophores. Bioluminescent phasor
+      enabled rapid differentiation of multiple luciferase reporters and
+      resonance energy transfer processes. The merger of bioluminescence and
+      phasor analysis provides a platform for routine, time-lapse imaging of
+      collections of cellular features.
+    authors:
+      - name: Zi Yao
+      - name: Caroline K. Brennan
+      - name: Lorenzo Scipioni
+      - name: Hongtao Chen
+      - name: Kevin Ng
+      - name: Michelle Digman
+      - name: Jennifer A. Prescher
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Sun Jun 20 20:15:36 +0000 2021
+      id: 1406707325776371700
+      id_str: "1406707325776371714"
+      text: >-
+        🔥 bioRxiv Bioengineering preprint by Z. Yao et al:
+
+
+        "Multiplexed bioluminescence microscopy via phasor analysis"… https://t.co/tc3QcsSZJ3
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/tc3QcsSZJ3
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
