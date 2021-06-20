@@ -23941,3 +23941,150 @@
           - url: https://t.co/Bv6GzFFKho
       in_reply_to_status_id: 1406708270673404000
       in_reply_to_status_id_str: "1406708270673403907"
+- preprint:
+    id: "137532"
+    doi: 10.1101/2021.04.10.21254672
+    first_posted: 2021-04-12
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.04.10.21254672v1
+    url: https://api.rxivist.org/v1/papers/137532
+    title: "Inhaled budesonide for COVID-19 in people at higher risk of adverse
+      outcomes in the community: interim analyses from the PRINCIPLE trial"
+    category: primary-care-research
+    abstract: BACKGROUND Inhaled budesonide has shown efficacy for treating COVID-19
+      in the community but has not yet been tested in effectiveness trials.
+      METHODS We performed a multicenter, open-label, multi-arm, adaptive
+      platform randomized controlled trial involving people aged [&ge;]65 years,
+      or [&ge;]50 years with comorbidities, and unwell [&le;]14 days with
+      suspected COVID-19 in the community (PRINCIPLE). Participants were
+      randomized to usual care, usual care plus inhaled budesonide (800g twice
+      daily for 14 days), or usual care plus other interventions. The co-primary
+      endpoints are time to first self-reported recovery, and
+      hospitalization/death related to COVID-19, both measured over 28 days from
+      randomisation and analysed using Bayesian models. RESULTS The trial opened
+      on April 2, 2020. Randomization to inhaled budesonide began on November
+      27, 2020 and was stopped on March 31, 2021 based on an interim analysis
+      using data from March 4, 2021. Here, we report updated interim analysis
+      data from March 25, 2021, at which point the trial had randomized 4663
+      participants with suspected COVID-19. Of these, 2617 (56.1%) tested
+      SARS-CoV-2 positive and contributed data to this interim budesonide
+      primary analysis; 751 budesonide, 1028 usual care and 643 to other
+      interventions. Time to first self-reported recovery was shorter in the
+      budesonide group compared to usual care (hazard ratio 1.208 [95% BCI 1.076
+      - 1.356], probability of superiority 0.999, estimated benefit [95% BCI] of
+      3.011 [1.134 - 5.41] days). Among those in the interim budesonide primary
+      analysis who had the opportunity to contribute data for 28 days follow up,
+      there were 59/692 (8.5%) COVID-19 related hospitalizations/deaths in the
+      budesonide group vs 100/968 (10.3%) in the usual care group (estimated
+      percentage benefit, 2.1% [95% BCI -0.7% - 4.8%], probability of
+      superiority 0.928). CONCLUSIONS In this updated interim analysis, inhaled
+      budesonide reduced time to recovery by a median of 3 days in people with
+      COVID-19 with risk factors for adverse outcomes. Once 28 day follow up is
+      complete for all participants randomized to budesonide, final analyses of
+      time to recovery and hospitalization/death will be published. (Funded by
+      the National Institute of Health Research/ United Kingdom Research
+      Innovation [MC_PC_19079]; PRINCIPLE ISRCTN number, ISRCTN86534580.)
+    authors:
+      - name: The PRINCIPLE Trial Collaborative Group
+        orcid: null
+      - name: Ly-Mee Yu
+        orcid: http://orcid.org/0000-0003-0331-7364
+      - name: Mona Bafadhel
+        orcid: http://orcid.org/0000-0002-9993-2478
+      - name: Jienchi Dorward
+        orcid: http://orcid.org/0000-0001-6072-1430
+      - name: Gail Hayward
+        orcid: http://orcid.org/0000-0003-0852-627X
+      - name: Benjamin R Saville
+        orcid: null
+      - name: Oghenekome Gbinigie
+        orcid: http://orcid.org/0000-0002-2963-4491
+      - name: Oliver van Hecke
+        orcid: http://orcid.org/0000-0002-6229-5057
+      - name: Emma Ogburn
+        orcid: http://orcid.org/0000-0001-7643-572X
+      - name: Philip H Evans
+        orcid: http://orcid.org/0000-0002-5277-3545
+      - name: Nicholas PB Thomas
+        orcid: http://orcid.org/0000-0003-0460-6870
+      - name: Mahendra G Patel
+        orcid: http://orcid.org/0000-0001-6703-3542
+      - name: Nicholas Berry
+        orcid: http://orcid.org/0000-0001-8701-3258
+      - name: Michelle A. Detry
+        orcid: http://orcid.org/0000-0002-2794-1439
+      - name: Christina T. Saunders
+        orcid: http://orcid.org/0000-0003-4325-9568
+      - name: Mark Fitzgerald
+        orcid: http://orcid.org/0000-0002-8912-1663
+      - name: Victoria Harris
+        orcid: http://orcid.org/0000-0002-3345-2826
+      - name: Simon de Lusignan
+        orcid: http://orcid.org/0000-0002-8553-2641
+      - name: Monique I Andersson
+        orcid: http://orcid.org/0000-0003-0619-1074
+      - name: Peter J Barnes
+        orcid: null
+      - name: Richard EK Russell
+        orcid: http://orcid.org/0000-0002-3890-7201
+      - name: Dan V Nicolau
+        orcid: http://orcid.org/0000-0002-7758-226X
+      - name: Sanjay Ramakrishnan
+        orcid: http://orcid.org/0000-0002-3003-7918
+      - name: FD Richard Hobbs
+        orcid: http://orcid.org/0000-0001-7976-7172
+      - name: Christopher C Butler
+        orcid: http://orcid.org/0000-0002-0102-3453
+  comment:
+    dislikes: 0
+    thread: "8474798347"
+    numReports: 0
+    likes: 0
+    id: "5422254081"
+    createdAt: 2021-06-16T18:24:27
+    author:
+      username: disqus_xQiC0jt6OF
+      about: ""
+      name: David McAllister
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_xQiC0jt6OF/
+      url: ""
+      location: ""
+      id: "249320956"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Given that randomisation to budesonide was stopped in March, are we
+      expecting the updated findings soon?
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.04.10.21254672v1
+  tweets:
+    - created_at: Sun Jun 20 22:19:04 +0000 2021
+      id: 1406738395444007000
+      id_str: "1406738395444006921"
+      text: >-
+        💬 medRxiv comment on "Inhaled budesonide for COVID-1..."
+
+
+        "Given that randomisation to budesonide was stopped in Ma… https://t.co/46Kl3RIVxr
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/46Kl3RIVxr
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jun 20 22:19:04 +0000 2021
+      id: 1406738396303741000
+      id_str: "1406738396303740930"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/JvKM41Z00e
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/JvKM41Z00e
+      in_reply_to_status_id: 1406738395444007000
+      in_reply_to_status_id_str: "1406738395444006921"
