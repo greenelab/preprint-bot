@@ -23284,3 +23284,106 @@
           - url: https://t.co/zdork41vHy
       in_reply_to_status_id: 1406375939160871000
       in_reply_to_status_id_str: "1406375939160870918"
+- preprint:
+    id: "113637"
+    doi: 10.1101/2020.07.03.20145797
+    first_posted: 2020-07-06
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2020.07.03.20145797v1
+    url: https://api.rxivist.org/v1/papers/113637
+    title: Dengue antibodies can cross-react with SARS-CoV-2 and vice versa-Antibody
+      detection kits can give false-positive results for both viruses in regions
+      where both COVID-19 and Dengue co-exist
+    category: infectious-diseases
+    abstract: Five of thirteen Dengue antibody- positive serum samples, dated 2017
+      (pre-dating the COVID-19 outbreak) produced false-positive results in
+      SARS-CoV-2 IgG/IgM rapid strip tests. Our results emphasize the importance
+      of NAT and/or virus antigen tests to complement sero-surveillance for
+      definitive diagnosis of COVID-19/Dengue in regions where both viruses are
+      co-endemic.
+    authors:
+      - name: Himadri Nath
+        orcid: http://orcid.org/0000-0003-2213-6278
+      - name: Abinash Mallick
+        orcid: http://orcid.org/0000-0002-3837-4935
+      - name: Subrata Roy
+        orcid: http://orcid.org/0000-0002-3031-6116
+      - name: Soumi Sukla
+        orcid: http://orcid.org/0000-0003-2267-8595
+      - name: Keya Basu
+        orcid: http://orcid.org/0000-0002-3960-2469
+      - name: Abhishek De
+        orcid: http://orcid.org/0000-0001-5998-2430
+      - name: Subhajit Biswas
+        orcid: http://orcid.org/0000-0002-9001-7150
+  comment:
+    dislikes: 0
+    thread: "8112723131"
+    numReports: 0
+    likes: 0
+    id: "5422971348"
+    createdAt: 2021-06-17T09:47:55
+    author:
+      username: disqus_boDeDSYRlm
+      about: ""
+      name: Subhajit Biswas
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_boDeDSYRlm/
+      url: https://iicb.res.in/faculty/subhajit-biswas
+      location: Kolkata, India
+      id: "353187409"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Dear Readers,
+
+
+      I am pleased to inform you that the above preprint posted in <b>medRxiv</b> has now been accepted and published by the "<b>Journal of Medical Microbiology</b>". Please see link below:
+
+
+      Title: <b>Archived dengue serum samples produced false-positive results in SARS-CoV-2 lateral flow-based rapid antibody tests</b>
+
+
+      Link: https://www.microbiologyresearch.org/content/journal/jmm/10.1099/jmm.0.001369
+
+
+      Best wishes to all; stay safe.
+
+
+      Yours sincerely,
+
+      Subhajit Biswas (Corresponding Author).
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2020.07.03.20145797v1
+  tweets:
+    - created_at: Sun Jun 20 01:04:23 +0000 2021
+      id: 1406417613031366700
+      id_str: "1406417613031366657"
+      text: |-
+        💬 medRxiv comment on "Dengue antibodies can cross-re..."
+
+        "Dear Readers,
+
+        I am pleased to inform you that the above… https://t.co/WaZJULiKq3
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/WaZJULiKq3
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jun 20 01:04:23 +0000 2021
+      id: 1406417613874413600
+      id_str: "1406417613874413569"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/SGdsWjiVuU
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/SGdsWjiVuU
+      in_reply_to_status_id: 1406417613031366700
+      in_reply_to_status_id_str: "1406417613031366657"
