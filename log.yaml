@@ -24429,3 +24429,108 @@
           - url: https://t.co/ry977eRqjw
       in_reply_to_status_id: 1406980850055626800
       in_reply_to_status_id_str: "1406980850055626760"
+- preprint:
+    id: "131375"
+    doi: 10.1101/2021.02.23.21252259
+    first_posted: 2021-02-25
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.02.23.21252259v1
+    url: https://api.rxivist.org/v1/papers/131375
+    title: A Novel and Expanding SARS-CoV-2 Variant, B.1.526, Identified in New York
+    category: epidemiology
+    abstract: Recent months have seen surges of SARS-CoV-2 infection across the
+      globe along with considerable viral evolution1-3. Extensive mutations in
+      the spike protein may threaten efficacy of vaccines and therapeutic
+      monoclonal antibodies4. Two signature mutations of concern are E484K,
+      which plays a crucial role in the loss of neutralizing activity of
+      antibodies, and N501Y, a driver of rapid worldwide transmission of the
+      B.1.1.7 lineage. Here, we report the emergence of a novel variant lineage
+      B.1.526 that contains E484K and its alarming rise to dominance in New York
+      City in recent months. This variant is partially or completely resistant
+      to two therapeutic monoclonal antibodies in clinical use. It is also less
+      susceptible to neutralization by convalescent plasma or vaccinee sera by
+      4.1-fold or 3.3-3.6-fold, respectively. The B.1.526 lineage has now been
+      reported from at least 32 states in the US and numerous other countries.
+      B.1526 has been outpacing B.1.1.7 in Northern Manhattan, and both variants
+      have been spreading throughout New York with comparable estimated doubling
+      times. Such transmission dynamics, together with its resistance to
+      therapeutic antibodies, would warrant B.1.526 as a SARS-CoV-2 variant of
+      concern.
+    authors:
+      - name: Medini K Annavajhala
+        orcid: http://orcid.org/0000-0002-9229-8849
+      - name: Hiroshi Mohri
+        orcid: http://orcid.org/0000-0003-1850-5165
+      - name: Pengfei Wang
+        orcid: http://orcid.org/0000-0003-2454-7652
+      - name: Jason E. Zucker
+        orcid: null
+      - name: Zizhang Sheng
+        orcid: http://orcid.org/0000-0002-3253-3309
+      - name: Angela Gomez-Simmonds
+        orcid: http://orcid.org/0000-0001-5078-7137
+      - name: Trevor Bedford
+        orcid: http://orcid.org/0000-0002-4039-5794
+      - name: David D Ho
+        orcid: http://orcid.org/0000-0003-1627-149X
+      - name: Anne-Catrin Uhlemann
+        orcid: http://orcid.org/0000-0002-9798-4768
+  comment:
+    dislikes: 0
+    thread: "8589278250"
+    numReports: 0
+    likes: 0
+    id: "5427198993"
+    createdAt: 2021-06-21T01:41:23
+    author:
+      username: downtownpete
+      about: ""
+      name: Downtown-Pete
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/downtownpete/
+      url: ""
+      location: ""
+      id: "334120123"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Just one question about this statement in your"Materials&Methods":
+      .."between November 1, 2020 and March 5, 2020.." : I assume you mean March
+      2021? 
+
+      It would make a difference, if the statement as currently written (March 2020)
+
+      is indeed correct.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.02.23.21252259v3
+  tweets:
+    - created_at: Mon Jun 21 16:32:54 +0000 2021
+      id: 1407013669213401000
+      id_str: "1407013669213401088"
+      text: >-
+        💬 medRxiv comment on "A Novel and Expanding SARS-CoV..."
+
+
+        "Just one question about this statement in your"Materials… https://t.co/g3ztAOok0w
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/g3ztAOok0w
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jun 21 16:32:54 +0000 2021
+      id: 1407013670190665700
+      id_str: "1407013670190665729"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/0HBOQ8pBh5
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/0HBOQ8pBh5
+      in_reply_to_status_id: 1407013669213401000
+      in_reply_to_status_id_str: "1407013669213401088"
