@@ -24686,3 +24686,112 @@
           - url: https://t.co/a6nsYElqE7
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "144777"
+    doi: 10.1101/2021.06.01.21258176
+    first_posted: 2021-06-04
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.01.21258176v1
+    url: https://api.rxivist.org/v1/papers/144777
+    title: "Necessity of COVID-19 Vaccination in Previously Infected Individuals: A
+      Retrospective Cohort Study"
+    category: infectious-diseases
+    abstract: "Background: There are good reasons to expect natural infection to
+      provide protection against future infection with SARS-CoV-2. The purpose
+      of this study was to evaluate the necessity of COVID-19 vaccination in
+      persons previously infected with SARS-CoV-2. Methods: Employees of the
+      Cleveland Clinic Health System working in Ohio on Dec 16, 2020, the day
+      COVID-19 vaccination was started, were included. Any subject who tested
+      positive for SARS-CoV-2 at least 42 days earlier was considered previously
+      infected. One was considered vaccinated 14 days after receipt of the
+      second dose of a SARS-CoV-2 mRNA vaccine. The cumulative incidence of
+      SARS-CoV-2 infection over the next four months, among previously infected
+      subjects who received the vaccine, was compared with those of previously
+      infected subjects who remained unvaccinated, previously uninfected
+      subjects who received the vaccine, and previously uninfected subjects who
+      remained unvaccinated. Results: Among the 52238 included employees, 1220
+      (47%) of 2579 previously infected subjects received the vaccine, compared
+      with 29461 (59%) of 49659 not previously infected. The cumulative
+      incidence of SARS-CoV-2 infection did not differ among previously infected
+      unvaccinated subjects, previously infected subjects who were vaccinated,
+      and previously uninfected subjects who were vaccinated, and was much lower
+      than that of previously uninfected subjects who remained unvaccinated. Not
+      one of the 1359 previously infected subjects who remained unvaccinated had
+      a SARS-CoV-2 infection over the duration of the study. Conclusion:
+      Individuals who have had SARS-CoV-2 infection are unlikely to benefit from
+      COVID-19 vaccination, and vaccines can be safely prioritized to those who
+      have not been infected before."
+    authors:
+      - name: Nabin K. Shrestha
+        orcid: http://orcid.org/0000-0001-6766-9874
+      - name: Patrick C. Burke
+        orcid: null
+      - name: Amy S. Nowacki
+        orcid: null
+      - name: Paul Terpeluk
+        orcid: null
+      - name: Steven M. Gordon
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8574386276"
+    numReports: 0
+    likes: 0
+    id: "5427114372"
+    createdAt: 2021-06-20T23:38:30
+    author:
+      username: rantalbott
+      about: Software engineer, debater, debunker of myths
+      name: Ran Talbott
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/rantalbott/
+      url: ""
+      location: Rural Arizona
+      id: "59100570"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      It's confusing and uncertain.
+
+
+      <b>All </b>of the studies show that antibody levels decline somewhat over time, so there's some concern that immunity <b>might </b>eventually wear off, as it does with some diseases. But the studies have only lasted for 4-6 months, so it's too soon to tell. It does look like the doctor's advice that "you definitely don't need a vaccine until at least 6 months" is sound. It'll <b>probably </b>turn out that immunity lasts longer, maybe even for life, but we don't know yet. 
+
+
+      A word about "immunity": vaccines or survival don't mean that you won't get infected (again). What they do is "educate" your immune system so it <b>immediately </b>springs into action, instead of waiting to recognize that "Hey! This thing is hurting me!". Notice that nearly all the cases reported in the vaccine trials are asymptomatic, only a small number are "mild", and <b>none </b>have been severe or fatal.
+
+
+      To allay your concerns, the fact that your parents were only recently infected means that there are <b>tens of millions</b> of people who are <b>way </b>ahead of them on whatever curve there might be. So, if it does turn out that resistance declines too much, they'll get lots of warning.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.06.01.21258176v2
+  tweets:
+    - created_at: Mon Jun 21 20:19:35 +0000 2021
+      id: 1407070717070426000
+      id_str: "1407070717070426121"
+      text: |-
+        💬 medRxiv comment on "Necessity of COVID-19 Vaccinat..."
+
+        "It's confusing and uncertain.
+
+        &lt;b&gt;All &lt;/b&gt;of the studies… https://t.co/9SG2GzFdom
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/9SG2GzFdom
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jun 21 20:19:35 +0000 2021
+      id: 1407070717791948800
+      id_str: "1407070717791948804"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/oTURmeVcNy
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/oTURmeVcNy
+      in_reply_to_status_id: 1407070717070426000
+      in_reply_to_status_id_str: "1407070717070426121"
