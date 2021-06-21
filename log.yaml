@@ -24341,3 +24341,91 @@
           - url: https://t.co/SUng8fEx6Z
       in_reply_to_status_id: 1406953023943889000
       in_reply_to_status_id_str: "1406953023943888900"
+- preprint:
+    id: "146667"
+    doi: 10.1101/2021.06.18.449005
+    first_posted: 2021-06-18
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.18.449005v1
+    url: https://api.rxivist.org/v1/papers/146667
+    title: Extensive protein dosage compensation in aneuploid human cancers
+    category: genomics
+    abstract: Aneuploidy is a hallmark of human cancers, but the effects of
+      aneuploidy on protein expression remain poorly understood. To uncover how
+      chromosome copy number changes influence the cancer proteome, we have
+      conducted an analysis of hundreds of human cancer cell lines with matched
+      copy number, RNA expression, and protein expression data. We found that a
+      majority of proteins exhibit dosage compensation and fail to change by the
+      degree expected based on chromosome copy number alone. We uncovered a
+      variety of gene groups that were recurrently buffered upon both chromosome
+      gain and loss, including protein complex subunits and cell cycle genes.
+      Several genetic and biophysical factors were predictive of protein
+      buffering, highlighting complex post-translational regulatory mechanisms
+      that maintain appropriate gene product dosage. Finally, we established
+      that chromosomal aneuploidy has an unexpectedly moderate effect on the
+      expression of oncogenes and tumor suppressors, demonstrating that these
+      key cancer drivers can be subject to dosage compensation as well. In
+      total, our comprehensive analysis of aneuploidy and dosage compensation
+      across cancers will help identify the key driver genes encoded on altered
+      chromosomes and will shed light on the overall consequences of aneuploidy
+      during tumor development.
+    authors:
+      - name: Klaske Marijke Schukken
+        orcid: http://orcid.org/0000-0002-7311-2164
+      - name: Jason Meyer Sheltzer
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8601596298"
+    numReports: 0
+    likes: 0
+    id: "5427418306"
+    createdAt: 2021-06-21T08:33:48
+    author:
+      username: benjaminssimpson
+      about: ""
+      name: Benjamin S. Simpson
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/benjaminssimpson/
+      url: ""
+      location: ""
+      id: "371243767"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Fascinating stuff, a great paper. May I ask, in the full paper do
+      you plan on releasing the full list of scaling and non-scaling genes as
+      supplementary? I have a few areas I would love to check. I am sure there
+      are many who would do the same.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.06.18.449005v1
+  tweets:
+    - created_at: Mon Jun 21 14:22:29 +0000 2021
+      id: 1406980850055626800
+      id_str: "1406980850055626760"
+      text: >-
+        💬 bioRxiv comment on "Extensive protein dosage compe..."
+
+
+        "Fascinating stuff, a great paper. May I ask, in the full… https://t.co/zBHyGBdX2A
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/zBHyGBdX2A
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jun 21 14:22:29 +0000 2021
+      id: 1406980850902839300
+      id_str: "1406980850902839302"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/ry977eRqjw
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/ry977eRqjw
+      in_reply_to_status_id: 1406980850055626800
+      in_reply_to_status_id_str: "1406980850055626760"
