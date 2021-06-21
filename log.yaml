@@ -24629,3 +24629,60 @@
           - url: https://t.co/ry977eRqjw
       in_reply_to_status_id: 1407041659049758700
       in_reply_to_status_id_str: "1407041659049758720"
+- preprint:
+    id: 145508
+    metric: 232
+    title: A rat model of pregnancy in the male parabiont
+    url: https://api.rxivist.org/v1/papers/145508
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.09.447686v1
+    doi: 10.1101/2021.06.09.447686
+    category: developmental-biology
+    first_posted: 2021-06-10
+    abstract: >-
+      Male pregnancy is a unique phenomenon in syngnathidae which refers to the
+      incubation of embryos or fetuses by males. However, whether male mammalian
+      animals have the potential to conceive and maintain pregnancy remains
+      unclear. Here, we constructed a rat model of male pregnancy by a four-step
+      strategy: a heterosexual parabiotic pair was firstly produced by
+      surgically joining a castrated male rat and a female rat. Uterus
+      transplantation (UTx) was then performed on the male parabiont 8 weeks
+      later. After recovery, blastocyst-stage embryos were transplanted to the
+      grafted uterus of male parabiont and the native uterus of female
+      parabiont. Caesarean section was performed at embryonic day (ED) 21.5. The
+      success rate of modeling was only 3.68%, but 10 pups could still be
+      delivered from male parabionts and developed. Our experiment reveals the
+      possibility of normal embryonic development in male mammalian animals, and
+      it may have a profound impact on reproductive biology.
+
+
+      One-sentence summaryA rat model of male pregnancy can be constructed in four steps.
+
+
+      Graphical abstract
+
+
+      O_FIG O_LINKSMALLFIG WIDTH=200 HEIGHT=152 SRC="FIGDIR/small/447686v1_ufig1.gif" ALT="Figure 1">
+
+      View larger version (44K):
+
+      org.highwire.dtl.DTLVardef@1a0146aorg.highwire.dtl.DTLVardef@9c4329org.highwire.dtl.DTLVardef@fd652borg.highwire.dtl.DTLVardef@1fd0120_HPS_FORMAT_FIGEXP  M_FIG C_FIG
+    authors:
+      - name: Rongjia Zhang
+      - name: Yuhuan Liu
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Mon Jun 21 20:15:55 +0000 2021
+      id: 1407069792264241200
+      id_str: "1407069792264241156"
+      text: >-
+        🔥 bioRxiv Developmental-biology preprint by R. Zhang et al:
+
+
+        "A rat model of pregnancy in the male parabiont"… https://t.co/a6nsYElqE7
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/a6nsYElqE7
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
