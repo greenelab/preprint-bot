@@ -24233,3 +24233,111 @@
           - url: https://t.co/c9MZWrtLby
       in_reply_to_status_id: 1406780518256029700
       in_reply_to_status_id_str: "1406780518256029702"
+- preprint:
+    id: "120702"
+    doi: 10.1101/2020.12.07.414144
+    first_posted: 2020-12-08
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2020.12.07.414144v1
+    url: https://api.rxivist.org/v1/papers/120702
+    title: Cortical depth-dependent human fMRI of resting-state networks using EPIK
+    category: neuroscience
+    abstract: Recent laminar-fMRI studies have provided substantial understanding of
+      the evoked cortical responses in multiple sub-systems; in contrast, the
+      laminar component of resting-state networks spread over the whole brain
+      remains largely unknown. Here, we used EPIK, which offers unprecedented
+      coverage at sub-millimetre resolution, to investigate cortical broad
+      resting-state dynamics with depth specificity. After verifying laminar
+      activation profiles in response to a motor task, we observed that the
+      amplitude of the resting state fluctuations was larger in the superficial
+      layers of the cortical ribbon, and that these superficial layers had a
+      stronger local functional connectivity (regional homogeneity) in sulci but
+      not in gyri. Cortical-depth dependent correlation and coherence analysis
+      revealed that resting-state connections involved mostly the supragranular
+      layers of the cortex, although the preferred laminae through which
+      networks communicated was variable. Using a second resting-state scan as
+      control data and comparing the results obtained during task performance
+      with the resting-state condition, we identified a modified distribution of
+      layer-specific responses that seemed dependent on brain state, both in the
+      ROIs presumably involved in the motor task, and in those supporting
+      resting-state networks. Whole-brain evaluation of laminar-fMRI encompasses
+      unprecedented computational challenges; nonetheless, it enables a new
+      dimension of the human cerebral cortex to be investigated from a global
+      view, which may be key in the characterization of neurological disorders
+      from a novel perspective.
+    authors:
+      - name: Patricia Pais-Roldan
+        orcid: http://orcid.org/0000-0002-9381-3048
+      - name: Seong Dae Yun
+        orcid: http://orcid.org/0000-0001-7398-1899
+      - name: Nicola Palomero-Gallagher
+        orcid: http://orcid.org/0000-0003-4463-8578
+      - name: Jon N Shah
+        orcid: http://orcid.org/0000-0002-8151-6169
+  comment:
+    dislikes: 0
+    thread: "8390205801"
+    numReports: 0
+    likes: 0
+    id: "5427400589"
+    createdAt: 2021-06-21T07:56:54
+    author:
+      username: patriciapaisroldan
+      about: ""
+      name: Patricia Pais-Roldan
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/patriciapaisroldan/
+      url: ""
+      location: ""
+      id: "371242288"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Dear Sebastian Dresbach, Lonike Faes, Johannes Franz, Omer Faruk Gulban, 
+
+      Renzo Huber, Miriam Heynckes, Alessandra Pizzuti and Till Steinbach,
+
+
+
+      Thank you very much for your detailed revision of our article and the kind words of appreciation. We highly appreciate the constructive criticism, which will definitely improve the quality of the manuscript.
+
+
+
+      With best regards,
+
+
+
+      Partricia Pais-Roldán, Seong Dae Yun, Nicola Palomero-Gallagher, and Jon Shah
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.12.07.414144v2
+  tweets:
+    - created_at: Mon Jun 21 12:31:55 +0000 2021
+      id: 1406953023943889000
+      id_str: "1406953023943888900"
+      text: >-
+        💬 bioRxiv comment on "Cortical depth-dependent human..."
+
+
+        "Dear Sebastian Dresbach, Lonike Faes, Johannes Franz, Om… https://t.co/CH4rbB8Oon
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/CH4rbB8Oon
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jun 21 12:31:55 +0000 2021
+      id: 1406953024631738400
+      id_str: "1406953024631738378"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/SUng8fEx6Z
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/SUng8fEx6Z
+      in_reply_to_status_id: 1406953023943889000
+      in_reply_to_status_id_str: "1406953023943888900"
