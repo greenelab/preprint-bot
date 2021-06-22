@@ -25565,3 +25565,99 @@
           - url: https://t.co/GyUUWHm4l5
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "82342"
+    doi: 10.1101/2020.05.04.077545
+    first_posted: 2020-05-05
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.05.04.077545v1
+    url: https://api.rxivist.org/v1/papers/82342
+    title: Heritable functional architecture in human visual cortex
+    category: neuroscience
+    abstract: How much of the functional organization of our visual system is
+      inherited? Here we tested the heritability of retinotopic maps in human
+      visual cortex using functional magnetic resonance imaging. We demonstrate
+      that retinotopic organization shows a closer correspondence in monozygotic
+      (MZ) compared to dizygotic (DZ) twin pairs, suggesting a partial genetic
+      determination. Using population receptive field (pRF) analysis to examine
+      the preferred spatial location and selectivity of these neuronal
+      populations, we estimate a heritability around 30% for polar angle
+      preferences and spatial selectivity, as quantified by pRF size, in
+      extrastriate areas V2 and V3. Our findings are consistent with
+      heritability in both the macroscopic arrangement of visual regions and
+      stimulus tuning properties of visual cortex. This could constitute a
+      neural substrate for variations in a range of perceptual effects, which
+      themselves have been found to be at least partially genetically
+      determined. These findings also add convergent evidence for the hypothesis
+      that functional map topology is linked with cortical morphology.
+    authors:
+      - name: Ivan Alvarez
+        orcid: http://orcid.org/0000-0003-2815-2666
+      - name: Nonie J Finlayson
+        orcid: null
+      - name: Shwe Ei
+        orcid: null
+      - name: Benjamin de Haas
+        orcid: http://orcid.org/0000-0003-1722-7757
+      - name: John A. Greenwood
+        orcid: http://orcid.org/0000-0002-6184-0818
+      - name: D. Samuel Schwarzkopf
+        orcid: http://orcid.org/0000-0003-3686-1622
+  comment:
+    dislikes: 0
+    thread: "8486196868"
+    numReports: 0
+    likes: 0
+    id: "5428448923"
+    createdAt: 2021-06-22T02:49:46
+    author:
+      username: dsamuelschwarzkopf
+      about: ""
+      name: D Samuel Schwarzkopf
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/dsamuelschwarzkopf/
+      url: ""
+      location: ""
+      id: "118608058"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: |-
+      Now published in Neuroimage:
+
+      https://doi.org/10.1016/j.neuroimage.2021.118286
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.05.04.077545v4
+  tweets:
+    - created_at: Tue Jun 22 20:19:58 +0000 2021
+      id: 1407433198481588200
+      id_str: "1407433198481588234"
+      text: |-
+        💬 bioRxiv comment on "Heritable functional architect..."
+
+        "Now published in Neuroimage:
+
+        "
+
+        https://t.co/iR4BLmGvvj
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/iR4BLmGvvj
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jun 22 20:19:58 +0000 2021
+      id: 1407433199253344300
+      id_str: "1407433199253344257"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/PAszAlbALv
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/PAszAlbALv
+      in_reply_to_status_id: 1407433198481588200
+      in_reply_to_status_id_str: "1407433198481588234"
