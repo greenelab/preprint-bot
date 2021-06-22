@@ -25661,3 +25661,101 @@
           - url: https://t.co/PAszAlbALv
       in_reply_to_status_id: 1407433198481588200
       in_reply_to_status_id_str: "1407433198481588234"
+- preprint:
+    id: "122819"
+    doi: 10.1101/2020.12.23.424196
+    first_posted: 2020-12-24
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2020.12.23.424196v1
+    url: https://api.rxivist.org/v1/papers/122819
+    title: Evidence that pain sensitivity is rhythmic in humans, mainly driven by
+      the endogenous circadian system and little by sleep
+    category: neuroscience
+    abstract: >-
+      Pain intensity has been reported to fluctuate during the day in some
+      experimental and clinical conditions, but the mechanisms underlying these
+      fluctuations are unknown. Although the circadian timing system is known to
+      regulate a wide range of physiological functions, its implication in pain
+      regulation is unknown. We show here, using highly controlled laboratory
+      constant routine conditions, that pain sensitivity is rhythmic over the
+      24-hours and strongly controlled by the endogenous circadian timing
+      system. We find that pain sensitivity follows a sinusoidal circadian
+      rhythmicity, with a maximum in the middle of the night and a minimum in
+      the afternoon. We also find a weak homeostatic control of pain
+      sensitivity, with a linear increase over the 34 hours of prolonged
+      wakefulness, which parallels that of sleep pressure. Using mathematical
+      modelling, we describe that the circadian system accounts for 80% of the
+      full magnitude of pain sensitivity over the 24 hours, and that
+      sleep-related processes account for only 20%. This result reveals that
+      nocturnal analgesia is predominantly induced by the circadian system and
+      has been wrongly attributed only to sleep. Our findings highlight the need
+      to consider the time of day in pain assessment, and suggest that
+      personalized circadian medicine may be a promising approach to pain
+      management.
+
+
+      Significance statementWe discovered that sensitivity to pain is rhythmic in healthy humans, that sensitivity is maximal at night and minimal in the afternoon. Contrarily to the current thinking that sleep is the best painkiller, we find that the 24-h rhythmicity of sensitivity to pain is mainly controlled by a biological circadian clock in our body, and very little by our sleep. Our article reveals the neurobiological mechanisms involved in driving the rhythmicity of pain perception in humans, with the main time-piece located in the brain (the suprachiasmatic nuclei in the hypothalamus). Our findings challenge the current vision of pain physiology, and reveal the need to consider time-of-day and internal biological time for pain evaluation and pain management.
+    authors:
+      - name: I Daguet
+        orcid: null
+      - name: V Raverot
+        orcid: null
+      - name: D Bouhassira
+        orcid: null
+      - name: C Gronfier
+        orcid: http://orcid.org/0000-0002-6549-799X
+  comment:
+    dislikes: 0
+    thread: "8329136468"
+    numReports: 0
+    likes: 0
+    id: "5429152365"
+    createdAt: 2021-06-22T17:53:40
+    author:
+      name: Anon_Reader
+      url: ""
+      profileUrl: ""
+      emailHash: ""
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      I think an argument could be made for both a similar and different
+      profile, but I would predict that the profiles would be the same between
+      hot/cold pain modalities. I'm not sure if the same would stand for
+      mechnical/electric/chemical pain, however.
+
+
+      Another question I have for you is why you chose to only examine males in this study?
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.12.23.424196v1
+  tweets:
+    - created_at: Tue Jun 22 22:19:36 +0000 2021
+      id: 1407463309159305200
+      id_str: "1407463309159305216"
+      text: >-
+        💬 bioRxiv comment on "Evidence that pain sensitivity..."
+
+
+        "I think an argument could be made for both a similar and… https://t.co/X6mnzIQO6i
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/X6mnzIQO6i
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jun 22 22:19:37 +0000 2021
+      id: 1407463309935251500
+      id_str: "1407463309935251456"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/GRwb8n4s0B
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/GRwb8n4s0B
+      in_reply_to_status_id: 1407463309159305200
+      in_reply_to_status_id_str: "1407463309159305216"
