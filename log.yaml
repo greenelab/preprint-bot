@@ -25047,3 +25047,137 @@
           - url: https://t.co/fIgXlfTSzw
       in_reply_to_status_id: 1407141051685539800
       in_reply_to_status_id_str: "1407141051685539849"
+- preprint:
+    id: "144731"
+    doi: 10.1101/2021.05.25.21257256
+    first_posted: 2021-06-04
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.25.21257256v1
+    url: https://api.rxivist.org/v1/papers/144731
+    title: Identification of ultra-rare genetic variants in Pediatric Acute Onset
+      Neuropsychiatric Syndrome (PANS) by exome and whole genome sequencing
+    category: genetic-and-genomic-medicine
+    abstract: "Pediatric acute onset neuropsychiatric syndrome (PANS) is viewed as
+      an autoimmune/autoinflammatory condition characterized by the abrupt onset
+      of severe neurological and psychiatric symptoms, in particular
+      obsessive-compulsive disorder (OCD), tics, anxiety, mood swings,
+      irritability, and restricted eating, often triggered by infections.
+      However, direct evidence of autoimmunity, infections, or a proinflammatory
+      state is often lacking, and there is no unifying pathogenic pathway. This
+      could be due to underlying genetic heterogeneity, which could lead to the
+      development of PANS through different cellular and molecular pathways.
+      Unfortunately, little is known about the genetic basis of PANS.
+      Consequently, we carried out whole exome sequencing (WES) on a U.S. cohort
+      of 386 cases who met diagnostic criteria for PANS, including 133 family
+      triads, and whole genome sequencing (WGS) on ten cases from the European
+      Union, who were selected for WGS because of severe PANS symptoms. We
+      focused on identifying potentially deleterious genetic variants that were
+      either de novo or ultra-rare with a minor allele frequency (MAF) < 0.001.
+      Candidate mutations were found in 11 genes: PPM1D, SGCE, PLCG2, NLRC4,
+      CACNA1B, SHANK3, CHK2, GRIN2A, RAG1, GABRG2, and SYNGAP1 in a total of 20
+      cases, which included two sets of siblings, and two or more unrelated
+      subjects with ultra-rare variants in SGCE, NLRC4, RAG1, and SHANK3. The
+      PANS candidate genes we identified separate into two broad functional
+      categories. One group regulates peripheral innate and adaptive immune
+      responses (e.g., PPM1D, CHK2, NLRC4, RAG1, PLCG2), some of which also
+      influence microglia function. Another is expressed primarily at neuronal
+      synapses or directly modulates synaptic function (SHANK3, SYNGAP1, GRIN2A,
+      GABRG2, CACNA1B, SGCE). These neuronal PANS candidate genes are often
+      mutated in autism spectrum disorder, developmental disorders, and
+      myoclonus-dystonia. In fact, eight out of 20 cases in this study developed
+      PANS superimposed on a preexisting neurodevelopmental disorder. There is,
+      however, clinical overlap between these two groups and some crossover
+      expression (e.g., some neuronal genes are expressed in immune cells and
+      vice versa) that diminishes the neuronal/immune dichotomy. Genes in both
+      categories are also highly expressed in the enteric nervous system, and in
+      the choroid plexus and brain vasculature, suggesting they might contribute
+      to a breach in the blood-CSF barrier and blood-brain barrier (BBB) that
+      would permit the entry of autoantibodies, inflammatory cytokines,
+      chemokines, prostaglandins, and autoantibodies into the brain. Thus, PANS
+      is a genetically heterogeneous condition that can occur as a stand-alone
+      neuropsychiatric condition or co-morbid with neurodevelopmental disorders,
+      with candidate genes functioning at several levels of the
+      neuroinflammatory axis."
+    authors:
+      - name: herbert lachman
+        orcid: null
+      - name: Rosario Trifiletti
+        orcid: null
+      - name: Olivia Manusama
+        orcid: null
+      - name: Deyou Zheng
+        orcid: http://orcid.org/0000-0003-4354-5337
+      - name: Alberto Spalice
+        orcid: null
+      - name: Pietro Chiurazzi
+        orcid: null
+      - name: Allan Schornagel
+        orcid: null
+      - name: Andreea Serban
+        orcid: null
+      - name: Rogier van Wijck
+        orcid: null
+      - name: Sigrid Swagemakers
+        orcid: null
+      - name: Peter van der Spek
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8573239421"
+    numReports: 0
+    likes: 0
+    id: "5428488558"
+    createdAt: 2021-06-22T03:53:16
+    author:
+      username: disqus_m7AaRv6WrC
+      about: ""
+      name: Bob Horvath
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_m7AaRv6WrC/
+      url: ""
+      location: ""
+      id: "200934392"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Thank you for this paper - parents of PANS patients are grateful to see
+      this kind of genetics work being done on PANS.  May I ask:
+
+
+      1) What was the total number of variants meeting the criteria described (at lines 141-144 of the document for the European samples, and lines 154-158 for the U.S samples)?
+
+
+      2) Presumably, the list of candidate genes (described at lines 161-162) were all the genes that encompassed the variant lists in 1) above, with the possible exception of MTHC2 and BID that are mentioned as additions.  What was the total number of  candidate genes considered, before the list was narrowed to the 11 listed?
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.05.25.21257256v1
+  tweets:
+    - created_at: Tue Jun 22 12:35:31 +0000 2021
+      id: 1407316318534123500
+      id_str: "1407316318534123521"
+      text: >-
+        💬 medRxiv comment on "Identification of ultra-rare g..."
+
+
+        "Thank you for this paper - parents of PANS patients are… https://t.co/FG0Xpwqumd
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/FG0Xpwqumd
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jun 22 12:35:31 +0000 2021
+      id: 1407316319486320600
+      id_str: "1407316319486320640"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/aTfASqZ9E1
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/aTfASqZ9E1
+      in_reply_to_status_id: 1407316318534123500
+      in_reply_to_status_id_str: "1407316318534123521"
