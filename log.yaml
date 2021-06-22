@@ -25384,3 +25384,126 @@
           - url: https://t.co/98lMvrkDuI
       in_reply_to_status_id: 1407376663843909600
       in_reply_to_status_id_str: "1407376663843909632"
+- preprint:
+    id: "137502"
+    doi: 10.1101/2021.04.11.439338
+    first_posted: 2021-04-11
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.04.11.439338v1
+    url: https://api.rxivist.org/v1/papers/137502
+    title: Emergent RNA-RNA interactions can promote stability in a nascent
+      phototrophic endosymbiosis
+    category: evolutionary-biology
+    abstract: "Eukaryote-eukaryote endosymbiosis was responsible for the spread of
+      chloroplast (plastid) organelles. Stability is required for the metabolic
+      and genetic integration that drives the establishment of new organelles,
+      yet the mechanisms which act to stabilise nascent endosymbioses - between
+      two fundamentally selfish biological organisms - are unclear. Theory
+      suggests that enforcement mechanisms, which punish misbehaviour, may act
+      to stabilise such interactions by resolving conflict. However, how such
+      mechanisms can emerge in a nascent endosymbiosis has yet to be explored.
+      Here, we propose that endosymbiont-host RNA-RNA interactions, arising from
+      digestion of the endosymbiont population, can result in a cost to host
+      growth for breakdown of the endosymbiosis. Using the model nascent
+      endosymbiosis, Paramecium bursaria - Chlorella spp., we demonstrate that
+      this mechanism is dependent on the host RNA-interference (RNAi) system. We
+      reveal through small RNA (sRNA) sequencing that endosymbiont-derived mRNA
+      released upon endosymbiont digestion can be processed by the host RNAi
+      system into 23-nt sRNA. We predict multiple regions of shared sequence
+      identity between endosymbiont and host mRNA, and demonstrate through
+      delivery of synthetic endosymbiont sRNA that exposure to these regions can
+      knock-down expression of complementary host genes, resulting in a cost to
+      host growth. This process of host gene knock-down in response to
+      endosymbiont-derived RNA processing by host RNAi factors, which we term
+      'RNAi-collisions', represents a mechanism which can promote stability in a
+      nascent eukaryote-eukaryote endosymbiosis. By imposing a cost for
+      breakdown of the endosymbiosis, endosymbiont-host RNA-RNA interactions may
+      drive maintenance of the symbiosis across fluctuating ecological
+      conditions and symbiotic status. SIGNIFICANCE STATEMENT: Stable
+      endosymbiosis between eukaryotic microbes has driven the evolution of
+      further cellular complexity. Yet the mechanisms which can act to stabilise
+      a nascent eukaryote-eukaryote endosymbiosis are unclear. Using the model
+      nascent endosymbiotic system, Paramecium bursaria-Chlorella, we
+      demonstrate that endosymbiont-host RNA-RNA interactions can drive a cost
+      to host growth upon endosymbiont digestion, punishing the host for
+      misbehaviour. These RNA-RNA interactions are facilitated by the host
+      RNA-interference system. For endosymbiont mRNA sharing a high-level of
+      sequence identity with host transcripts, this process can result in host
+      gene knock-down. We propose that these endosymbiont-host RNA-RNA
+      interactions-'RNAi collisions'-represent a viable enforcement mechanism to
+      sanction the host for breakdown of the endosymbiosis, promoting the
+      stability of a nascent endosymbiotic interaction."
+    authors:
+      - name: Benjamin H Jenkins
+        orcid: http://orcid.org/0000-0002-3803-6418
+      - name: Finlay Maguire
+        orcid: http://orcid.org/0000-0002-1203-9514
+      - name: Guy Leonard
+        orcid: null
+      - name: Joshua D Eaton
+        orcid: null
+      - name: Steven West
+        orcid: null
+      - name: Benjamin E. Housden
+        orcid: http://orcid.org/0000-0001-9134-4279
+      - name: David S Milner
+        orcid: null
+      - name: Thomas A Richards
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8519819237"
+    numReports: 0
+    likes: 0
+    id: "5428472904"
+    createdAt: 2021-06-22T03:26:06
+    author:
+      username: senjie_lin
+      about: Marine ecology, genomics, CRISPR/Cas9, dinoflagellates, microbes, HABs,
+        symbioses (coral-dinoflagellate, dinoflagellate-alga, protist-alga,
+        alga-microbe)
+      name: Senjie Lin
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/senjie_lin/
+      url: https://marinesciences.uconn.edu/person/senjie-lin
+      location: ""
+      id: "351459876"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: "That is exciting finding, offering support for the postulation
+      that Symbiodiniaceae might use its  miRNA to influence coral host's gene
+      expression (DOI: 10.1126/science.aad0408). Looks like a perfect example of
+      adaptive co-evolution."
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.04.11.439338v2
+  tweets:
+    - created_at: Tue Jun 22 18:23:51 +0000 2021
+      id: 1407403979890376700
+      id_str: "1407403979890376710"
+      text: >-
+        💬 bioRxiv comment on "Emergent RNA-RNA interactions ..."
+
+
+        "That is exciting finding, offering support for the postu… https://t.co/hMBqdSU4d3
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/hMBqdSU4d3
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jun 22 18:23:51 +0000 2021
+      id: 1407403980632756200
+      id_str: "1407403980632756228"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/xTWVd0gmHw
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/xTWVd0gmHw
+      in_reply_to_status_id: 1407403979890376700
+      in_reply_to_status_id_str: "1407403979890376710"
