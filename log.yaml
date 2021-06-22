@@ -25286,3 +25286,101 @@
           - url: https://t.co/knqqWKm1xW
       in_reply_to_status_id: 1407342318135517200
       in_reply_to_status_id_str: "1407342318135517190"
+- preprint:
+    id: "127738"
+    doi: 10.1101/2021.02.01.429253
+    first_posted: 2021-02-02
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.02.01.429253v1
+    url: https://api.rxivist.org/v1/papers/127738
+    title: Combining chemogenomic and gene-dose assays to investigate drug synergy
+    category: genomics
+    abstract: From the earliest days of using natural remedies to modern
+      applications of clinically tested medications, combining therapies for
+      disease treatment has been standard practice. Combination treatments can
+      exhibit synergistic effects, broadly defined as a greater-than-additive
+      effect of two or more therapeutic agents. Indeed, clinicians often use
+      their experience and expertise to tailor such combinations in the hopes of
+      maximizing the therapeutic effect. Alongside these efforts, computational
+      studies into understanding and predicting the biophysical underpinnings of
+      how synergy is achieved have benefitted from high-throughput screening and
+      computational biology. One challenge is how to best design and analyze the
+      results of synergy studies performed at scale, especially because the
+      number of possible combinations to test quickly becomes unmanageable, and
+      the tools to analyze the resulting data are quite new. Nevertheless, the
+      benefits of such studies are clear -- by combining multiple drugs in the
+      treatment of infectious disease and cancer, for instance, one can lessen
+      host toxicity and simultaneously reduce the likelihood of resistance to
+      treatment. In this study, we extend the widely validated chemogenomic
+      HIPHOP assay to drug combinations. We identify a class of
+      ''combination-specific sensitive strains'' that suggest mechanisms for the
+      synergies we observe and further suggest focused follow-up studies.
+    authors:
+      - name: Hamid Gaikani
+        orcid: http://orcid.org/0000-0002-1795-2927
+      - name: Andrew M Smith
+        orcid: http://orcid.org/0000-0003-1141-2978
+      - name: Anna Y. Lee
+        orcid: null
+      - name: Guri Giaever
+        orcid: null
+      - name: Corey Nislow
+        orcid: http://orcid.org/0000-0002-4016-8874
+  comment:
+    dislikes: 0
+    thread: "8381452007"
+    numReports: 0
+    likes: 0
+    id: "5428514394"
+    createdAt: 2021-06-22T04:41:27
+    author:
+      username: hamidgaikani
+      about: ""
+      name: Hamid Gaikani
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/hamidgaikani/
+      url: ""
+      location: ""
+      id: "363818919"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      This preprint was peer-reviewed in "Frontiers in Fungal Biology" and is
+      currently available under the title of "<b>Systematic prediction of
+      antifungal drug synergy by chemogenomic screening in Saccharomyces
+      cerevisiae</b>"
+
+      doi: 10.3389/ffunb.2021.683414
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.02.01.429253v1
+  tweets:
+    - created_at: Tue Jun 22 16:35:19 +0000 2021
+      id: 1407376663843909600
+      id_str: "1407376663843909632"
+      text: >-
+        💬 bioRxiv comment on "Combining chemogenomic and gen..."
+
+
+        "This preprint was peer-reviewed in "Frontiers in Fungal… https://t.co/1aC63cUavr
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/1aC63cUavr
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jun 22 16:35:19 +0000 2021
+      id: 1407376664670134300
+      id_str: "1407376664670134279"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/98lMvrkDuI
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/98lMvrkDuI
+      in_reply_to_status_id: 1407376663843909600
+      in_reply_to_status_id_str: "1407376663843909632"
