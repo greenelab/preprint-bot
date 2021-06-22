@@ -25181,3 +25181,108 @@
           - url: https://t.co/aTfASqZ9E1
       in_reply_to_status_id: 1407316318534123500
       in_reply_to_status_id_str: "1407316318534123521"
+- preprint:
+    id: "146945"
+    doi: 10.1101/2021.06.21.449268
+    first_posted: 2021-06-21
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.21.449268v1
+    url: https://api.rxivist.org/v1/papers/146945
+    title: Artemisinin-based hybrids produce intracellular proteasome inhibitors
+      that overcome resistance in Plasmodium falciparum
+    category: microbiology
+    abstract: Artemisinin resistant Plasmodium falciparum (Pf) is spreading despite
+      combination chemotherapy (ACT). Here we report the design of artezomibs,
+      single-molecule hybrids of an artemisinin and a Pf-selective proteasome
+      inhibitor. Artezomibs exert a novel mode of action inside the malaria
+      parasites. The artemisinin component covalently modifies parasite
+      proteins, which become substrates of the Pf proteasome. The proteasomal
+      degradation products that bear the proteasome inhibitor component of the
+      hybrid then inhibit Pf proteasomes, including those with mutations that
+      reduce binding affinity of the proteasome inhibitor component on its own.
+      We demonstrated that artezomibs circumvent both artemisinin resistance
+      conferred by Kelch13 polymorphism and resistance to the proteasome
+      inhibitor associated with mutations in Pf proteasomes. This mode of action
+      may enable the use of a single molecule with one pharmacokinetic profile
+      to prevent the emergence of resistance.
+    authors:
+      - name: Wenhu Zhan
+        orcid: null
+      - name: Yi Jing Liu
+        orcid: null
+      - name: Changmei Yang
+        orcid: null
+      - name: Hao Zhang
+        orcid: http://orcid.org/0000-0001-7043-5438
+      - name: Jacob C Harris
+        orcid: null
+      - name: Rong Wang
+        orcid: null
+      - name: Songbiao Zhu
+        orcid: null
+      - name: Julian Sherman
+        orcid: null
+      - name: George Sukenick
+        orcid: null
+      - name: Ana Rodriguez
+        orcid: http://orcid.org/0000-0002-0060-3405
+      - name: Haiteng Deng
+        orcid: http://orcid.org/0000-0001-9496-1280
+      - name: Carl F Nathan
+        orcid: null
+      - name: Laura A Kirkman
+        orcid: null
+      - name: Gang Lin
+        orcid: http://orcid.org/0000-0003-4797-7073
+  comment:
+    dislikes: 0
+    thread: "8607647676"
+    numReports: 0
+    likes: 0
+    id: "5428849431"
+    createdAt: 2021-06-22T13:41:59
+    author:
+      username: disqus_ecOFDFI5gZ
+      about: ""
+      name: Wenhu
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_ecOFDFI5gZ/
+      url: ""
+      location: ""
+      id: "371301397"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Hope a drug based on this concept could eradicate malaria one day!!!
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.06.21.449268v1
+  tweets:
+    - created_at: Tue Jun 22 14:18:50 +0000 2021
+      id: 1407342318135517200
+      id_str: "1407342318135517190"
+      text: >-
+        💬 bioRxiv comment on "Artemisinin-based hybrids prod..."
+
+
+        "Hope a drug based on this concept could eradicate malari… https://t.co/ifQlPfnRJC
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/ifQlPfnRJC
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jun 22 14:18:50 +0000 2021
+      id: 1407342319049838600
+      id_str: "1407342319049838602"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/knqqWKm1xW
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/knqqWKm1xW
+      in_reply_to_status_id: 1407342318135517200
+      in_reply_to_status_id_str: "1407342318135517190"
