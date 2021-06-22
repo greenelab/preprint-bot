@@ -25507,3 +25507,61 @@
           - url: https://t.co/xTWVd0gmHw
       in_reply_to_status_id: 1407403979890376700
       in_reply_to_status_id_str: "1407403979890376710"
+- preprint:
+    id: 146837
+    metric: 18
+    title: Large-scale neural recordings with single-cell resolution in human cortex
+      using high-density Neuropixels probes
+    url: https://api.rxivist.org/v1/papers/146837
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.20.449152v1
+    doi: 10.1101/2021.06.20.449152
+    category: neuroscience
+    first_posted: 2021-06-21
+    abstract: Recent advances in multi-electrode array technology have made it
+      possible to monitor large neuronal ensembles at high resolution. In
+      humans, however, current approaches either restrict recordings to only a
+      few neurons per penetrating electrode or combine the signals of thousands
+      of neurons in local field potential (LFP) recordings. Here, we describe a
+      set of techniques which enable simultaneous recording from over 200
+      well-isolated cortical single units in human participants during
+      intraoperative neurosurgical procedures using Neuropixels silicon probes.
+      We characterized a diversity of extracellular waveforms with eight
+      separable single unit classes, with differing firing rates, positions
+      along the length of the linear electrode array, spatial spread of the
+      waveform, and modulation by LFP events such as inter-ictal discharges and
+      burst suppression. While some additional challenges remain in creating a
+      turn-key system capable of recording, Neuropixels technology could pave
+      the way to studying human-specific cognitive processes and their
+      dysfunction at unprecedented spatiotemporal resolution.
+    authors:
+      - name: Angelique C Paulk
+      - name: Yoav Kfir
+      - name: Arjun Khanna
+      - name: Martina Mustroph
+      - name: Eric M. Trautmann
+      - name: Dan J Soper
+      - name: Sergey D. Stavisky
+      - name: Marleen Welkenhuysen
+      - name: Barundeb Dutta
+      - name: Krishna V. Shenoy
+      - name: Leigh R. Hochberg
+      - name: Mark Richardson
+      - name: Ziv M Williams
+      - name: Sydney S Cash
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Tue Jun 22 20:16:06 +0000 2021
+      id: 1407432227437355000
+      id_str: "1407432227437355009"
+      text: >-
+        🔥 bioRxiv Neuroscience preprint by A. C. Paulk et al:
+
+
+        "Large-scale neural recordings with single-cell resolution i… https://t.co/GyUUWHm4l5
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/GyUUWHm4l5
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
