@@ -25759,3 +25759,102 @@
           - url: https://t.co/GRwb8n4s0B
       in_reply_to_status_id: 1407463309159305200
       in_reply_to_status_id_str: "1407463309159305216"
+- preprint:
+    id: "60393"
+    doi: 10.1101/763888
+    first_posted: 2019-09-10
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/763888v2
+    url: https://api.rxivist.org/v1/papers/60393
+    title: MRI of Capn15 knockout mice and analysis of Capn15 distribution reveal
+      possible roles in brain development and plasticity
+    category: neuroscience
+    abstract: The Small Optic Lobe (SOL) family of calpains are intracellular
+      cysteine proteases that are expressed in the nervous system and play an
+      important role in neuronal development in both Drosophila, where loss of
+      this calpain leads to the eponymous small optic lobes, and in mouse and
+      human, where loss of this calpain leads to eye anomalies. Some human
+      individuals with biallelic variants in CAPN15 also have developmental
+      delay and autism. However, neither the specific effect of the loss of the
+      Capn15 protein on brain development nor the brain regions where this
+      calpain is expressed in the adult is known. Here we show using small
+      animal MRI that mice with the complete loss of Capn15 have smaller brains
+      overall with larger decreases in the thalamus and subregions of the
+      hippocampus. These losses are not seen in Capn15 conditional KO mice where
+      Capn15 is knocked out only in excitatory neurons in the adult. Based on
+      {beta}-galactosidase expression in an insert strain where lacZ is
+      expressed under the control of the Capn15 promoter, we show that Capn15 is
+      expressed in adult mice, particularly in neurons involved in plasticity
+      such as the hippocampus, lateral amygdala and Purkinje neurons, and
+      partially in other non-characterized cell types. The regions of the brain
+      in the adult where Capn15 is expressed do not correspond well to the
+      regions of the brain most affected by the complete knockout suggesting
+      distinct roles of Capn15 in brain development and adult brain function.
+    authors:
+      - name: Congyao Zha
+        orcid: null
+      - name: Carole Abi Farah
+        orcid: null
+      - name: Vladimir Fonov
+        orcid: http://orcid.org/0000-0003-3402-7749
+      - name: David Rudko
+        orcid: null
+      - name: Wayne S Sossin
+        orcid: http://orcid.org/0000-0003-1927-9315
+  comment:
+    dislikes: 0
+    thread: "8431565903"
+    numReports: 0
+    likes: 0
+    id: "5429119368"
+    createdAt: 2021-06-22T17:28:05
+    author:
+      username: wsossin
+      about: ""
+      name: wsossin
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/wsossin/
+      url: ""
+      location: ""
+      id: "371310614"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      This paper is now published.
+
+      Neuroscience. 2021 Jun 15;465:128-141. doi: 10.1016/j.neuroscience.2021.04.023. Epub 2021 May 2.
+
+      PMID: 33951504
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/763888v3
+  tweets:
+    - created_at: Wed Jun 23 00:54:30 +0000 2021
+      id: 1407502290311815200
+      id_str: "1407502290311815171"
+      text: |-
+        💬 bioRxiv comment on "MRI of Capn15 knockout mice an..."
+
+        "This paper is now published.
+        Neuroscience. 2021 Jun 15;4… https://t.co/JOO8gWh6cy
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/JOO8gWh6cy
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed Jun 23 00:54:31 +0000 2021
+      id: 1407502291322609700
+      id_str: "1407502291322609665"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/KWGBph5caF
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/KWGBph5caF
+      in_reply_to_status_id: 1407502290311815200
+      in_reply_to_status_id_str: "1407502290311815171"
