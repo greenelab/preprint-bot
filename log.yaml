@@ -26333,3 +26333,126 @@
           - url: https://t.co/K8Q1WI0eSk
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "146973"
+    doi: 10.1101/2021.06.21.449261
+    first_posted: 2021-06-22
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.21.449261v1
+    url: https://api.rxivist.org/v1/papers/146973
+    title: Analysis of scientific journalism in Nature reveals gender and regional
+      disparities in coverage
+    category: scientific-communication-and-education
+    abstract: "Scientific journalism is a critical way in which the public can
+      remain informed and benefit from new scientific findings. Such journalism
+      also shapes the public's view of the current state of scientific findings
+      and legitimizes experts. Those covering science can only cite and quote a
+      limited number of sources. Sources may be identified by the journalist's
+      research or by recommendations by other scientists. In both cases, biases
+      may influence who is identified and ultimately included as an expert. We
+      analyzed 22,001 non-research articles published by Nature to quantify
+      possible disparities. Our analysis considered three possible sources of
+      disparity: gender, name origin, and country affiliation. To explore these
+      sources of disparity, we extracted cited authors' names and affiliations,
+      as well as extracted names of quoted speakers. While citations and
+      quotations within a piece do not reflect the entire information-gathering
+      process, they can provide insight into the demographics of visible
+      sources. We then used the extracted names to predict gender and name
+      origin of the cited authors and speakers. In order to appropriately
+      quantify the level of difference, we must identify a suitable reference
+      set for comparison. We chose first and last authors within primary
+      research articles in Nature and a subset of Springer Nature articles in
+      the same time period as our comparator. In our analysis, we found a skew
+      towards male quotation in Nature journalism-related articles, but
+      quotation is trending toward equal representation at a faster rate than
+      first and last authorship in academic publishing. Interestingly, we found
+      that the gender disparity in quotes was column-dependent, with the
+      \"Career Features\" column reaching gender parity. Our name origin
+      analysis found a significant over-representation of names with predicted
+      Celtic/English origin and under-representation of names with a predicted
+      East Asian origin. This finding was observed both in extracted quotes and
+      journal citations, but dampened in citations. Finally, we performed an
+      analysis to identify how countries vary in the way that they're described
+      in scientific journalism. We focused on two groups of countries: countries
+      that are often mentioned in articles, but do not often have affiliated
+      authors cited, and countries that have affiliated authors that are often
+      cited, but the country is not typically mentioned. We found that the
+      articles in which the less cited countries occur tend to have more
+      agricultural, extraction-related, and political terms, whereas articles
+      including highly cited countries have broader scientific terms. This
+      discrepancy indicates a possible lack of regional diversity in the
+      reporting of scientific output."
+    authors:
+      - name: Natalie R Davidson
+        orcid: http://orcid.org/0000-0002-1745-8072
+      - name: Casey S Greene
+        orcid: http://orcid.org/0000-0001-8713-9213
+  comment:
+    dislikes: 0
+    thread: "8608088225"
+    numReports: 0
+    likes: 0
+    id: "5430478900"
+    createdAt: 2021-06-23T17:51:51
+    author:
+      username: natalierdavidson
+      about: ""
+      name: Natalie R Davidson
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/natalierdavidson/
+      url: ""
+      location: ""
+      id: "371356687"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Hi Stefano! Thanks for your interest in our work! You bring up an
+      excellent point that <i>Nature</i> publications are likely a biased sample
+      of the scientific community. We partially address this in some of our
+      supplementary analyses, mainly supplementary figures 2A and 4. We took an
+      additional comparative dataset of a random subset of papers published by
+      <i>Springer Nature</i>. In these analyses, we observe what you suspected
+      in your comment -- the disparity may be more significant when comparing
+      against other journals. 
+
+
+      For our predicted gender analysis, we find that authorship in <i>Springer Nature</i> is closer to parity than <i>Nature</i>, but still far from parity. We also found that the proportion of predicted male quotes has a larger disparity than first authors in <i>Springer Nature</i>.
+
+
+      Regarding our predicted name origin analysis, let's look at supplementary figures 4 C and D. Here, when we compare springer last author vs. nature last author, we find springer last authors to be much more diverse. Specifically looking at the "East Asian" last author name origins, we see that <i>Springer Nature</i> last authors make up between 10-40%, whereas Nature last authors only make up between 15-25%.
+
+
+      An additional experiment would be to take multiple journals based in various countries, have multiple estimated impact factors, any other parameters that may be important, and perform the comparisons. The biggest problem with this, is that not all journals make this information readily available. If I were to do this, I would try to additionally pick journals published within <i>Springer Nature</i>, since their API is easy to use.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.06.21.449261v1
+  tweets:
+    - created_at: Wed Jun 23 20:18:16 +0000 2021
+      id: 1407795159257870300
+      id_str: "1407795159257870336"
+      text: >-
+        💬 bioRxiv comment on "Analysis of scientific journal..."
+
+
+        "Hi Stefano! Thanks for your interest in our work! You br… https://t.co/dXtb1gh1x8
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/dXtb1gh1x8
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed Jun 23 20:18:16 +0000 2021
+      id: 1407795160138731500
+      id_str: "1407795160138731527"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/D3rVy5WLz0
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/D3rVy5WLz0
+      in_reply_to_status_id: 1407795159257870300
+      in_reply_to_status_id_str: "1407795159257870336"
