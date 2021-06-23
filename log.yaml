@@ -26167,3 +26167,109 @@
           - url: https://t.co/D3rVy5WLz0
       in_reply_to_status_id: 1407736679511715800
       in_reply_to_status_id_str: "1407736679511715844"
+- preprint:
+    id: "114848"
+    doi: 10.1101/2020.07.30.20165365
+    first_posted: 2020-08-04
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2020.07.30.20165365v1
+    url: https://api.rxivist.org/v1/papers/114848
+    title: "Clearing the fog: Is HCQ effective in reducing COVID-19 progression: A
+      randomized controlled trial"
+    category: infectious-diseases
+    abstract: >-
+      BackgroundHydroxychloroquine (HCQ) has been considered to treat
+      Coronavirus disease 2019 (COVID-19) but data on efficacy is conflicting.
+      we analyzed the efficacy of HCQ) in addition to standard of care (SOC)
+      compared with SOC alone in reducing disease progression in Mild COVID-19
+
+
+      MethodsA single centre open label randomized controlled trial during 10th April to 31st May 2020 was conducted at Pak emirates Military Hospital (PEMH) Five hundred patients of both genders having age between 18-80 years with Mild COVID-19 were enrolled. Patients assigned to standard dose of HCQ plus SOC were 349 while 151 patients received SOC (control group). Primary outcome was progression of disease while secondary outcome was PCR negativity on day 7 and 14. The results were analyzed on SPSS version 23. P value <0.05 was considered significant.
+
+
+      ResultsMedian age of intervention group (34 {+/-} 11.778 years) and control group (34 {+/-} 9.813 years). Disease progressed in 16 patients, 11 (3.15%) were in intervention group as compared to 5 (3.35%) in control group, (P value = 0.865). PCR negativity in intervention and control groups were (day 7, 182 (52.1%) vs. 54 (35.7%) (P value = 0.001), (day 14, 244 (69.9%) vs. 110 (72.8%) (P value = 0.508). Consecutive PCR negativity at day 7 and 14 was observed in 240 (68.8%) in intervention group compared to 108 (71.5%) in control group. (P value = 0.231).
+
+
+      ConclusionAddition of HCQ to SOC in Mild COVID-19 neither stops disease progression nor help in early and sustained viral clearance.
+
+
+      Clinical Trial numberNCT04491994 available at ClinicalTrials.gov
+    authors:
+      - name: Sultan Mehmood Kamran
+        orcid: http://orcid.org/0000-0002-0048-6675
+      - name: Zill-e-Humayun Mirza
+        orcid: http://orcid.org/0000-0002-9121-4981
+      - name: Arshad Naseem
+        orcid: http://orcid.org/0000-0002-3985-4631
+      - name: Rizwan Azam
+        orcid: null
+      - name: Naqeeb Ullah
+        orcid: null
+      - name: Farrukh Saeed
+        orcid: null
+      - name: Wasim Alamgir
+        orcid: null
+      - name: Salman Saleem
+        orcid: null
+      - name: Shazia Nisar
+        orcid: http://orcid.org/0000-0002-0996-7029
+      - name: Mehmood Hussain
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8235429737"
+    numReports: 0
+    likes: 0
+    id: "5430144180"
+    createdAt: 2021-06-23T14:04:38
+    author:
+      username: david_sbabo
+      about: ""
+      name: David Sbabo
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/david_sbabo/
+      url: ""
+      location: ""
+      id: "78439348"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: |-
+      The name of this is
+      p-hacking.
+
+      If you want to test at day 7, do it from the start.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2020.07.30.20165365v2
+  tweets:
+    - created_at: Wed Jun 23 18:22:36 +0000 2021
+      id: 1407766050603741200
+      id_str: "1407766050603741184"
+      text: |-
+        💬 medRxiv comment on "Clearing the fog: Is HCQ effec..."
+
+        "The name of this is
+        p-hacking.
+
+        If you want to test at d… https://t.co/5RwaedpW50
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/5RwaedpW50
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed Jun 23 18:22:36 +0000 2021
+      id: 1407766051476193300
+      id_str: "1407766051476193281"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/kSowXAJLPp
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/kSowXAJLPp
+      in_reply_to_status_id: 1407766050603741200
+      in_reply_to_status_id_str: "1407766050603741184"
