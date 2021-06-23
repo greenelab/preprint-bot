@@ -26273,3 +26273,63 @@
           - url: https://t.co/kSowXAJLPp
       in_reply_to_status_id: 1407766050603741200
       in_reply_to_status_id_str: "1407766050603741184"
+- preprint:
+    id: 146736
+    metric: 24
+    title: SARS-CoV-2 mRNA Vaccine Induces Robust Specific and Cross-reactive IgG
+      and Unequal Strain-specific Neutralizing Antibodies in Naïve and
+      Previously Infected Recipients
+    url: https://api.rxivist.org/v1/papers/146736
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.19.449100v1
+    doi: 10.1101/2021.06.19.449100
+    category: immunology
+    first_posted: 2021-06-19
+    abstract: With the advance of SARS-CoV-2 vaccines, the outlook for overcoming
+      the global COVID-19 pandemic has improved. However, understanding of
+      immunity and protection offered by the SARS-CoV-2 vaccines against
+      circulating variants of concern (VOC) is rapidly evolving. We investigated
+      the mRNA vaccine-induced antibody responses against the referent WIV04
+      (Wuhan) strain, circulating variants, and human endemic coronaviruses in
+      168 naive and previously infected people at three-time points. Samples
+      were collected prior to vaccination, after the first and after the second
+      doses of one of the two available mRNA-based vaccines. After full
+      vaccination, both naive and previously infected participants developed
+      comparable robust SARS-CoV-2 specific spike IgG levels, modest IgM and IgA
+      binding antibodies, and varying degrees of HCoV cross-reactive antibodies.
+      However, the strength and frequency of neutralizing antibodies produced in
+      naive people were significantly lower than in the previously infected
+      group. We also found that 1/3rd of previously infected people had
+      undetectable neutralizing antibodies after the first vaccine dose; 40% of
+      this group developed neutralizing antibodies after the second dose. In all
+      subjects neutralizing antibodies produced against the B.1.351 and P.1
+      variants were weaker than those produced against the reference and B.1.1.7
+      strains. Our findings provide support for future booster vaccinations
+      modified to be active against the circulating variants.
+    authors:
+      - name: Tara M Narowski
+      - name: Kristin Raphel
+      - name: Lily E Adams
+      - name: Jenny Huang
+      - name: Nadja A. Vielot
+      - name: Ramesh Jadi
+      - name: Aravinda M de Silva
+      - name: Ralph S. Baric
+      - name: John E Lafleur
+      - name: Lakshmanane Premkumar
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Wed Jun 23 20:14:50 +0000 2021
+      id: 1407794297890652200
+      id_str: "1407794297890652170"
+      text: >-
+        🔥 bioRxiv Immunology preprint by T. M. Narowski et al:
+
+
+        "SARS-CoV-2 mRNA Vaccine Induces Robust Specific and Cross-… https://t.co/K8Q1WI0eSk
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/K8Q1WI0eSk
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
