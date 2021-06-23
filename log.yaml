@@ -25962,3 +25962,92 @@
           - url: https://t.co/B5DO7aAXhF
       in_reply_to_status_id: 1407675835461611500
       in_reply_to_status_id_str: "1407675835461611520"
+- preprint:
+    id: "147105"
+    doi: 10.1101/2021.06.22.449331
+    first_posted: 2021-06-22
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.22.449331v1
+    url: https://api.rxivist.org/v1/papers/147105
+    title: Homolog of ELAC2 is a central regulator of the mitochondrial unfolded
+      protein response
+    category: cell-biology
+    abstract: The mitochondrial unfolded protein response (UPRmt) has emerged as a
+      predominant mechanism that preserves mitochondrial function. Consequently,
+      multiple pathways likely exist to modulate UPRmt. We unexpectedly
+      discovered that the tRNA processing enzyme, homolog of ELAC2 (HOE-1), is
+      central to UPRmt regulation in Caenorhabditis elegans. We find that
+      nuclear HOE-1 is necessary and sufficient to robustly activate UPRmt. We
+      show that HOE-1 acts via transcription factors ATFS-1 and DVE-1 that are
+      crucial for UPRmt. Mechanistically, we show that HOE-1 likely mediates its
+      effects via tRNAs, as blocking tRNA export prevents HOE-1-induced UPRmt.
+      Interestingly, we find that HOE-1 does not act via the integrated stress
+      response, which can be activated by uncharged tRNAs, pointing towards its
+      reliance on a new mechanism. Finally, we show that the subcellular
+      localization of HOE-1 is responsive to mitochondrial stress and is subject
+      to negative regulation via ATFS-1. Together, we have discovered a novel
+      RNA-based cellular pathway that modulates UPRmt.
+    authors:
+      - name: James P Held
+        orcid: null
+      - name: Benjamin R Saunders
+        orcid: null
+      - name: Claudia V Pereria
+        orcid: null
+      - name: Maulik R Patel
+        orcid: http://orcid.org/0000-0003-3749-0122
+  comment:
+    dislikes: 0
+    thread: "8609234875"
+    numReports: 0
+    likes: 0
+    id: "5429546036"
+    createdAt: 2021-06-22T23:53:26
+    author:
+      username: disqus_ZRJca2PSPz
+      about: ""
+      name: Maulik Patel
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_ZRJca2PSPz/
+      url: ""
+      location: ""
+      id: "371324261"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: I am very proud to post this manuscript from my lab. It represents
+      more than 3 years of work on a project initiated and executed by an
+      extremely talented graduate student James Held in the lab. We would love
+      to receive helpful feedback on the manuscript! Thank you.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.06.22.449331v1
+  tweets:
+    - created_at: Wed Jun 23 14:16:37 +0000 2021
+      id: 1407704147974033400
+      id_str: "1407704147974033414"
+      text: >-
+        💬 bioRxiv comment on "Homolog of ELAC2 is a central ..."
+
+
+        "I am very proud to post this manuscript from my lab. It… https://t.co/dQBgmbl0R0
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/dQBgmbl0R0
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed Jun 23 14:16:37 +0000 2021
+      id: 1407704148733276200
+      id_str: "1407704148733276170"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/WAHRMSQ9BD
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/WAHRMSQ9BD
+      in_reply_to_status_id: 1407704147974033400
+      in_reply_to_status_id_str: "1407704147974033414"
