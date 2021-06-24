@@ -26724,3 +26724,131 @@
           - url: https://t.co/pcSi9pXLpS
       in_reply_to_status_id: 1407863363401625600
       in_reply_to_status_id_str: "1407863363401625601"
+- preprint:
+    id: "147028"
+    doi: 10.1101/2021.06.18.449051
+    first_posted: 2021-06-22
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.18.449051v1
+    url: https://api.rxivist.org/v1/papers/147028
+    title: Recovery of deleted deep sequencing data sheds more light on the early
+      Wuhan SARS-CoV-2 epidemic
+    category: evolutionary-biology
+    abstract: The origin and early spread of SARS-CoV-2 remains shrouded in mystery.
+      Here I identify a data set containing SARS-CoV-2 sequences from early in
+      the Wuhan epidemic that has been deleted from the NIH's Sequence Read
+      Archive. I recover the deleted files from the Google Cloud, and
+      reconstruct partial sequences of 13 early epidemic viruses. Phylogenetic
+      analysis of these sequences in the context of carefully annotated existing
+      data suggests that the Huanan Seafood Market sequences that are the focus
+      of the joint WHO-China report are not fully representative of the viruses
+      in Wuhan early in the epidemic. Instead, the progenitor of known
+      SARS-CoV-2 sequences likely contained three mutations relative to the
+      market viruses that made it more similar to SARS-CoV-2's bat coronavirus
+      relatives.
+    authors:
+      - name: Jesse D Bloom
+        orcid: http://orcid.org/0000-0003-1267-3408
+  comment:
+    dislikes: 1
+    thread: "8609030409"
+    numReports: 0
+    likes: 5
+    id: "5429850002"
+    createdAt: 2021-06-23T07:38:24
+    author:
+      username: acc_account
+      about: ""
+      name: ACC
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/acc_account/
+      url: ""
+      location: ""
+      id: "263854694"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      This work by Professor Jesse Bloom details a phylogenetic analysis of a
+      set of SARS-CoV-2 genomic sequences originally submitted to the Sequence
+      Read Archive, likely by the authors of Wang et al. 2020, in February -
+      March, 2020. Both a preprint, and a later paper (by Wang et al.), were
+      publicly available describing these sequences, including key aspects of
+      their genomic features. However, independently of the preprint or paper,
+      which make no direct reference to an NCBI submission, the sequences  been
+      marked for deletion on NCBI, but were re-obtained by Bloom via internet
+      backups of the data. While sharing more genomic data from the early
+      epidemic can be valuable, I believe the current version of this work makes
+      several errors that are important to address in both scientific content
+      and critically, in scientific communication.
+
+
+
+      In general, the work is vague or remiss about extremely important context and details about the sequences in question. To begin, the genomes obtained are consistently referred throughout the title and abstract (and indeed most of the text) as being from the "early" epidemic. This terminology is too vague, as it may invite the reader to assume that the genomes include  the earliest cases known - in fact, they are not, and were originally reported by Wang et al. 2020 to be from January 2020. Over 25 genomes had previously been obtained during 2019 for SARS-CoV-2. To properly interpret the context of this work, an emphasis on the timing is critical and should not be avoided in the abstract or title. 
+
+
+
+      Secondly, the abstract and title both strongly give the inaccurate impression that the re-obtained sequences alone newly demonstrate that the known and reported genetic diversity of viruses in the Huanan market was not representative of all circulating SARS-CoV-2 variants at the time. This is alluded to in the title, which says they "shed more light" on the early epidemic. Yet, this is not supported by the data in the manuscript: it was already known that the genetic diversity of viruses obtained from Huanan market cases was not representative of all genetic variants circulating at that time.  As can be seen most clearly in Figs 3 and 5, the new sequences obtained were not completely unique in sequence or unusual in case timing. There were already several reported publicly available similar genomes with for the most part identical sequences from the early epidemic. The author is certainly aware of this, as it is evident from the data presented and from the works cited (both Garry 2021 and Kumar et al. 2021 discuss this at length), but this key point is not emphasized in the title or abstract, and indeed is a  weakness of the importance of the work itself. 
+
+
+
+      Thirdly, in the introduction the work makes several key omissions about the timing of cases. The introduction directly suggests that the Huanan market is unlikely to be a site of zoonosis because a number of early cases could not be confirmed to be connected to the market; However, this was true of SARS-CoV-1 in Fushan as well. The author also neglects to mention that a significant fraction of cases were connected to *other* markets in the city, including the earliest cases (as described in the WHO report). And indeed, if there were multiple spillover events, e.g. from a shared wildlife supply chain that connected multiple markets throughout the city, even with perfect contact tracing data one would not expect all cases to be connected to one market.
+
+
+
+      Fourthly, I believe the inclusion of Figure 2 in this paper is highly unprofessional and misleading. This is a screenshot of an email from a scientist who is not associated with the papers or data described in the data; indeed, the only relevance between them seems to be a shared nationality of the author(s). Additionally, as of June 2021 the data described as 'deleted' in this screenshot is publicly available again on NCBI. While I understand that Bloom likely did not realize this mistake, it is difficult to justify the inclusion of this figure in a scientific work. 
+
+
+
+
+      Fifthly, and perhaps most importantly, I think the previous point happens to provide a fortuitous lesson about a key error that Bloom makes in assuming misconduct on the part of the Wang et al. 2020 authors. He writes "It therefore seems the sequences were deleted to obscure their existence". It is implicitly assumed that Bloom believed that to also be true of the data described in Figure 2 - hence its inclusion - but its recent re-publication on NCBI makes it abundantly clear that was not the case. To be honest, this is not surprising. Claims of scientific misconduct made from a distance, without knowledge of the details and circumstance surrounding the issue, have the potential to appear convincing despite having perfectly ordinary (or perhaps slightly less than ideal, but not nefarious) scientific rationale. 
+
+
+
+
+      Similarly, there is also evidence that scientific misconduct is also highly unlikely to be the case with the dataset that is described in this paper. Primarily, this is because the paper describing these sequences  was published in a journal several months later. If the authors were indeed trying to obscure their data, they would simply also not publish their paper in a public journal, or request it to not be published after submitting for review. If these sequences were removed for the purpose of obscurity, it is also worth noting that such an effort clearly flopped - because as described above, these sequences do not immediately provide any completely new knowledge about the genetic diversity of SARS-CoV-2 in the early pandemic. In both the preprint and the paper (the first submitted before data removal; the second published likely after), no mention of a BioProject accession is made, and instead it is said that the data is available upon reasonable request from the authors. If the writers initially intended for the data to be made public, standard practice would have included the BioProject reference (or even a placeholder) in the text. The fact that there was never such a reference makes it quite evident that there likely was a miscommunication between co-authors about whether the data was intended to be released to NCBI. 
+
+
+
+
+      The reality is that minor scientific missteps and less-than-ideal circumstances surround the sharing of scientific data all of the time. The process of publishing on scientific data is fraught with tiny details and hard work, the trainees responsible for it are often overworked, and there are often unfortunate but relatively ordinary scientific incentives to avoid making as much data public as should be. The rationale behind what data is and is not shared for scientific works are often nuanced, and sometimes quite personal. The scientific process would be better if it were not the case, but these forces are almost universal, and everyone encounters them in scientific work. In this circumstance, like in the circumstance outlined in Figure 2 of this work, these ordinary forces of scientific circumstance are almost certainly more likely the case than direct censorship or misconduct. It is unfortunate and alarming that this work as it currently stands baselessly contributes to an environment where many readers assume the latter depending on the country of origin of the original authors.
+
+
+
+
+      Minor point: 
+
+
+      At the bottom of page 5: "But although there are unusual aspects of RatG13's primary sequencing data". This statement is vague, the language is unscientific, and many interpretations of it would not be supported by the citations provided. I would recommend that Bloom change this sentence to present a coherent scientific statement if indeed there is a point about genome quality to be made there that is relevant to the text.
+    forum: biorxivstage
+    points: 4
+    link: https://www.biorxiv.org/content/10.1101/2021.06.18.449051v1
+  tweets:
+    - created_at: Thu Jun 24 12:31:19 +0000 2021
+      id: 1408040038386966500
+      id_str: "1408040038386966544"
+      text: >-
+        💬 bioRxiv comment on "Recovery of deleted deep seque..."
+
+
+        "This work by Professor Jesse Bloom details a phylogeneti… https://t.co/h0xRuaoOdm
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/h0xRuaoOdm
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jun 24 12:31:20 +0000 2021
+      id: 1408040039464853500
+      id_str: "1408040039464853514"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/BSMtowYvFU
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/BSMtowYvFU
+      in_reply_to_status_id: 1408040038386966500
+      in_reply_to_status_id_str: "1408040038386966544"
