@@ -27201,3 +27201,72 @@
           - url: https://t.co/6G3GiVeipg
       in_reply_to_status_id: 1408128988099264500
       in_reply_to_status_id_str: "1408128988099264522"
+- preprint:
+    id: 94129
+    metric: 9
+    title: Structural basis for VIPP1 oligomerization and maintenance of thylakoid
+      membrane integrity
+    url: https://api.rxivist.org/v1/papers/94129
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.08.11.243204v1
+    doi: 10.1101/2020.08.11.243204
+    category: plant-biology
+    first_posted: 2020-08-11
+    abstract: >-
+      Vesicle-inducing protein in plastids (VIPP1) is essential for the
+      biogenesis and maintenance of thylakoid membranes, which transform light
+      into life. However, it is unknown how VIPP1 performs its vital
+      membrane-shaping function. Here, we use cryo-electron microscopy to
+      determine structures of cyanobacterial VIPP1 rings, revealing how VIPP1
+      monomers flex and interweave to form basket-like assemblies of different
+      symmetries. Three VIPP1 monomers together coordinate a non-canonical
+      nucleotide binding pocket that is required for VIPP1 oligomerization.
+      Inside the ring's lumen, amphipathic helices from each monomer align to
+      form large hydrophobic columns, enabling VIPP1 to bind and curve
+      membranes. In vivo point mutations in these hydrophobic surfaces cause
+      extreme thylakoid swelling under high light, indicating an essential role
+      of VIPP1 lipid binding in resisting stress-induced damage. Our study
+      provides a structural basis for understanding how the oligomerization of
+      VIPP1 drives the biogenesis of thylakoid membranes and protects these
+      life-giving membranes from environmental stress.
+
+
+      ### Competing Interest Statement
+
+
+      The authors have declared no competing interest.
+    authors:
+      - name: Tilak Kumar Gupta
+      - name: Sven Klumpe
+      - name: Karin Gries
+      - name: Steffen Heinz
+      - name: Wojciech Wietrzynski
+      - name: Norikazu Ohnishi
+      - name: Justus Niemeyer
+      - name: Miroslava Schaffer
+      - name: Anna Rast
+      - name: Mike Strauss
+      - name: Juergen M Plitzko
+      - name: Wolfgang Baumeister
+      - name: Till Rudack
+      - name: Wataru Sakamoto
+      - name: Jörg Nickelsen
+      - name: Jan M. Schuller
+      - name: Michael Schroda
+      - name: Benjamin D. Engel
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Thu Jun 24 20:08:08 +0000 2021
+      id: 1408154998614204400
+      id_str: "1408154998614204418"
+      text: >-
+        🔥 bioRxiv Plant-biology preprint by T. K. Gupta et al:
+
+
+        "Structural basis for VIPP1 oligomerization and maintenance… https://t.co/0pufELD3ya
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/0pufELD3ya
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
