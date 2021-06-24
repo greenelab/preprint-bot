@@ -26560,3 +26560,167 @@
           - url: https://t.co/B5DO7aAXhF
       in_reply_to_status_id: 1407825262356713500
       in_reply_to_status_id_str: "1407825262356713474"
+- preprint:
+    id: "146297"
+    doi: 10.1101/2021.06.15.21258542
+    first_posted: 2021-06-16
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.15.21258542v1
+    url: https://api.rxivist.org/v1/papers/146297
+    title: "Casirivimab and imdevimab in patients admitted to hospital with COVID-19
+      (RECOVERY): a randomised, controlled, open-label, platform trial"
+    category: infectious-diseases
+    abstract: "Background: REGEN-COV is a combination of 2 monoclonal antibodies
+      (casirivimab and imdevimab) that bind to two different sites on the
+      receptor binding domain of the SARS-CoV-2 spike protein. We aimed to
+      evaluate the efficacy and safety of REGEN-COV in patients admitted to
+      hospital with COVID-19. Methods: In this randomised, controlled,
+      open-label platform trial, several possible treatments were compared with
+      usual care in patients hospitalised with COVID-19. Eligible and consenting
+      patients were randomly allocated (1:1) to either usual standard of care
+      alone (usual care group) or usual care plus a single dose of REGEN-COV 8g
+      (casirivimab 4g and imdevimab 4g) by intravenous infusion (REGEN-COV
+      group). The primary outcome was 28-day mortality assessed first among
+      patients without detectable antibodies to SARS-CoV-2 at randomisation
+      (seronegative) and then in the overall population. Findings: Between 18
+      September 2020 and 22 May 2021, 9785 patients were randomly allocated to
+      receive usual care plus REGEN-COV or usual care alone, including 3153
+      (32%) seronegative patients, 5272 (54%) seropositive patients and 1360
+      (14%) patients with unknown baseline antibody status. In the primary
+      efficacy population of seronegative patients, 396 (24%) of 1633 patients
+      allocated to REGEN-COV and 451 (30%) of 1520 patients allocated to usual
+      care died within 28 days (rate ratio 0.80; 95% CI 0.70-0.91; p=0.0010). In
+      an analysis involving all randomised patients (regardless of baseline
+      antibody status), 944 (20%) of 4839 patients allocated to REGEN-COV and
+      1026 (21%) of 4946 patients allocated to usual care died within 28 days
+      (rate ratio 0.94; 95% CI 0.86-1.03; p=0.17). The proportional effect of
+      REGEN-COV on mortality differed significantly between seropositive and
+      seronegative patients (p value for heterogeneity = 0.001). Interpretation:
+      In patients hospitalised with COVID-19, the monoclonal antibody
+      combination of casirivimab and imdevimab (REGEN-COV) reduced 28-day
+      mortality among patients who were seronegative at baseline."
+    authors:
+      - name: Peter W Horby
+        orcid: http://orcid.org/0000-0002-9822-1586
+      - name: Marion Mafham
+        orcid: http://orcid.org/0000-0003-0562-3963
+      - name: Leon Peto
+        orcid: http://orcid.org/0000-0002-4100-2163
+      - name: Mark Campbell
+        orcid: http://orcid.org/0000-0002-9759-0232
+      - name: Guilherme Pessoa-Amorim
+        orcid: http://orcid.org/0000-0002-4050-6191
+      - name: Enti Spata
+        orcid: http://orcid.org/0000-0002-7207-2076
+      - name: Natalie Staplin
+        orcid: http://orcid.org/0000-0003-4482-4418
+      - name: Jonathan R Emberson
+        orcid: http://orcid.org/0000-0001-7792-9422
+      - name: Benjamin Prudon
+        orcid: null
+      - name: Paul Hine
+        orcid: null
+      - name: Thomas Brown
+        orcid: null
+      - name: Christopher A Green
+        orcid: http://orcid.org/0000-0002-1984-4014
+      - name: Rahuldeb Sarkar
+        orcid: http://orcid.org/0000-0002-4343-8526
+      - name: Purav Desai
+        orcid: null
+      - name: Bryan Yates
+        orcid: null
+      - name: Tom Bewick
+        orcid: null
+      - name: Simon Tiberi
+        orcid: null
+      - name: Tim Felton
+        orcid: null
+      - name: J Kenneth Baillie
+        orcid: http://orcid.org/0000-0001-5258-793X
+      - name: Maya H Buch
+        orcid: http://orcid.org/0000-0002-8962-5642
+      - name: Lucy C Chappell
+        orcid: http://orcid.org/0000-0001-6219-3379
+      - name: Jeremy N Day
+        orcid: http://orcid.org/0000-0002-7843-6280
+      - name: Saul N Faust
+        orcid: http://orcid.org/0000-0003-3410-7642
+      - name: Thomas Jaki
+        orcid: http://orcid.org/0000-0002-1096-188X
+      - name: Katie Jeffery
+        orcid: http://orcid.org/0000-0002-6506-2689
+      - name: Edmund Juszczak
+        orcid: http://orcid.org/0000-0001-5500-2247
+      - name: Wei Shen Lim
+        orcid: http://orcid.org/0000-0002-7694-3051
+      - name: Alan Montgomery
+        orcid: http://orcid.org/0000-0003-0450-1606
+      - name: Andrew Mumford
+        orcid: http://orcid.org/0000-0002-5523-511X
+      - name: Kathryn Rowan
+        orcid: http://orcid.org/0000-0001-8217-5602
+      - name: Guy Thwaites
+        orcid: http://orcid.org/0000-0002-2858-2087
+      - name: David M Weinreich
+        orcid: null
+      - name: Richard Haynes
+        orcid: http://orcid.org/0000-0002-1179-0023
+      - name: Martin J Landray
+        orcid: http://orcid.org/0000-0001-6646-827X
+  comment:
+    dislikes: 0
+    thread: "8596736056"
+    numReports: 0
+    likes: 0
+    id: "5430307669"
+    createdAt: 2021-06-23T15:59:54
+    author:
+      username: disqus_vNPXLcKZbq
+      about: ""
+      name: Alain Tremblay
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_vNPXLcKZbq/
+      url: ""
+      location: ""
+      id: "371354809"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Do the authors have more information regarding the seropositive
+      cases. Are these believed to be seropositive due to late phase of acute
+      illness, prior SARS-Cov-2 infection, or prior vaccination? Since the trial
+      recruited well into the vaccination effort in the UK, vaccination status
+      of participants should be reported as well. Thanks for this great effort!
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.06.15.21258542v1
+  tweets:
+    - created_at: Thu Jun 24 00:49:17 +0000 2021
+      id: 1407863363401625600
+      id_str: "1407863363401625601"
+      text: >-
+        💬 medRxiv comment on "Casirivimab and imdevimab in p..."
+
+
+        "Do the authors have more information regarding the serop… https://t.co/WhbLEew5KB
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/WhbLEew5KB
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jun 24 00:49:17 +0000 2021
+      id: 1407863364169224200
+      id_str: "1407863364169224192"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/pcSi9pXLpS
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/pcSi9pXLpS
+      in_reply_to_status_id: 1407863363401625600
+      in_reply_to_status_id_str: "1407863363401625601"
