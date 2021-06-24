@@ -27394,3 +27394,127 @@
           - url: https://t.co/eQVSQuTGsy
       in_reply_to_status_id: 1408157028246339600
       in_reply_to_status_id_str: "1408157028246339590"
+- preprint:
+    id: "114898"
+    doi: 10.1101/2020.07.31.20166116
+    first_posted: 2020-08-04
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2020.07.31.20166116v1
+    url: https://api.rxivist.org/v1/papers/114898
+    title: "Face masks to prevent transmission of respiratory diseases: Systematic
+      review and meta-analysis of randomized controlled trials"
+    category: epidemiology
+    abstract: Objectives. To examine the effect of face mask intervention in
+      respiratory infections across different exposure settings and age groups.
+      Design. Systematic review and meta-analysis. Data sources. PubMed,
+      Cochrane Central Register of Controlled Trials, and Web of Science were
+      searched for randomized controlled trials investigating the effect of face
+      masks on respiratory infections published by November 18th 2020. We
+      followed PRISMA guidelines. Eligibility criteria for selecting studies.
+      Randomized controlled trials investigating face masks in respiratory
+      infections across different exposure settings. Two reviewers performed the
+      search, extracted data, and assessed the risk of bias. Random effects
+      meta-analysis with risk ratio, adjusted odds ratios, and number needed to
+      treat were performed. Findings by source control or wearer protection, age
+      groups, exposure settings, and role of non-compliance were evaluated.
+      Results. Seventeen studies were included, (N=11,601 cases and N=10,286
+      controls, follow-up from 4 days to 19 months). Fourteen trials included
+      adults and children and three trials included children only. Twelve
+      studies showed non-compliance in treatment and eleven in control group.
+      Four studies supported the use of face masks. Meta-analysis across all
+      studies with risk ratios found no association with number of infections
+      (RR=0.957 [0.810 - 1.131], p=0.608). Meta-analysis using odds ratios
+      adjusted for age, sex, and vaccination (when available) showed protective
+      effect of face masks (OR=0.850 [0.736 - 0.982], p=0.027). Subgroup
+      meta-analysis with adjusted odds ratios found a decrease in respiratory
+      infections among adults (14 studies, OR = 0.829 [0.709-0.969], p=0.019) in
+      source control setting (OR = 0.845 [0.7375 - 0.969], p=0.0159) and when
+      face masks were used together with hand hygiene OR = 0.690 [0.568 -
+      0.838], p=0.0002). Overall between-study heterogeneity was large also in
+      the subgroup analyses. Conclusion. Despite the large between study
+      heterogeneity, compliance bias and differences by environmental settings,
+      the findings support the use of face masks to prevent respiratory
+      infections. PROSPERO registration number CRD42020205523.
+    authors:
+      - name: Hanna M Ollila
+        orcid: http://orcid.org/0000-0002-5302-6429
+      - name: Markku Partinen
+        orcid: null
+      - name: Jukka T Koskela
+        orcid: http://orcid.org/0000-0002-0154-7222
+      - name: Riikka Savolainen
+        orcid: null
+      - name: Anna Rotkirch
+        orcid: null
+      - name: Liisa T Laine
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8480829581"
+    numReports: 0
+    likes: 0
+    id: "5432007679"
+    createdAt: 2021-06-24T20:22:50
+    author:
+      username: disqus_rKdn7akaLf
+      about: ""
+      name: Mikko Heikkilä
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_rKdn7akaLf/
+      url: ""
+      location: ""
+      id: "363263236"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      It seems that the Adjusted Odds Ratios are not all adjusted for covariates
+      but are Crude Odds Ratios. This is for at least Macintyre 2015 and 2016
+      and Aiello 2010 and 2012 papers.
+
+
+      It is worth noting that even some of these are erroneous as for example Aiello et al. 2010 subtracted individuals with previous respiratory infections and therefore the intervention groups for mask and hand hygiene were actually 316 (367 in Ollila et al.) and for the mask only 347 (378 in Ollila et al.). As previously reported to Ollila et al for their first version (published 8/2020) if the aim is to define the effect of the mask as intervention using the results from both intervention groups does not render robust results.
+
+
+      Also, for the Abdin et al. 2005 paper the original intervention groups were 257 (mask and Health Education booklet), 292 (HE booklet only) and 446 (control). It is apparent that Ollila et al. used the compliance within the groups as redefining the groups: mask+HE booklet compliance 81.3% (209), HE booklet group compliance 51.7% (151) and control group using masks 33.6% (150). New intervention group 150+151+209=510 and control 995-510=485. Abdin et al. only reported the adjusted OR with these compliance based groups and no RR or OR based on the original Randomised Control Trial protocol. As Ollila et al. is by the authors a systematic review and meta-analysis of Randomised Control Trials these results should not be used as they have.
+
+
+      More, from the Simmerman et al. 2011 Ollila et al. chose only the Influenza Like Illness (ILI) results for their meta-analysis even though Simmerman et al. also reported PCR confirmed infections. For the sub-analysis with Adjusted Odds Ratios Ollila et al. preferred to use the PCR confirmed results from the same paper with OR 1.16 (95% CI 0.74-1.82) instead of the ILI results that were OR 2.15 (95% CI 1.27-3.62). The latter would push the pooled result much more towards the null hypothesis.
+
+
+      The same goes for the Cowling et al. 2009 where the authors reported respiratory infections based on three criteria: RT-PCR confirmed, Clinical definition 1 (2 symptoms) and Clinical definition 2 (3 symptoms). Ollila et al. only used the Clinical definition 2 results for their meta-analysis.
+
+
+      With these and all previously reported research flaws one can only conclude that the conclusions of Ollila et al. are not supported by the results if calculated correctly.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2020.07.31.20166116v3
+  tweets:
+    - created_at: Thu Jun 24 22:19:46 +0000 2021
+      id: 1408188123901800400
+      id_str: "1408188123901800456"
+      text: >-
+        💬 medRxiv comment on "Face masks to prevent transmis..."
+
+
+        "It seems that the Adjusted Odds Ratios are not all adjus… https://t.co/XgdZYwXL3E
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/XgdZYwXL3E
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jun 24 22:19:46 +0000 2021
+      id: 1408188124816105500
+      id_str: "1408188124816105476"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/fKpRLo8sEB
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/fKpRLo8sEB
+      in_reply_to_status_id: 1408188123901800400
+      in_reply_to_status_id_str: "1408188123901800456"
