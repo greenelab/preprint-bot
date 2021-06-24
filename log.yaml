@@ -27092,3 +27092,112 @@
           - url: https://t.co/cEfkKjZhu6
       in_reply_to_status_id: 1408100558494445600
       in_reply_to_status_id_str: "1408100558494445568"
+- preprint:
+    id: "125874"
+    doi: 10.1101/2021.01.16.21249924
+    first_posted: 2021-01-20
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.01.16.21249924v1
+    url: https://api.rxivist.org/v1/papers/125874
+    title: Sword of Damocles or choosing well. Population genetics sheds light into
+      the future of the COVID-19 pandemic and SARS-CoV-2 new mutant strains.
+    category: epidemiology
+    abstract: Abstract An immense scientific effort has been made worldwide due to
+      Covid-19s pandemic magnitude. It has made possible to identify almost
+      300,000 SARS-CoV-2 different genetic variants, connecting them with
+      clinical and epidemiological findings. Among this immense data collection,
+      that constitutes the biggest evolutionary experiment in history, is buried
+      the answer to what will happen in the future. Will new strains, more
+      contagious than the current ones or resistant to the vaccines, arise by
+      mutation? Although theoretic population genetics is, by far, the most
+      powerful tool we have to do an accurate prediction, it has been barely
+      used for the study of SARS-CoV-2 due to its conceptual difficulty. Having
+      in mind that the size of the SARS-CoV-2 population is astronomical we can
+      apply a discrete treatment, based on the branching process method,
+      Fokker-Plank equations and Kolmogoroffs forward equations, to calculate
+      the survival likelihood through time, to elucidate the likelihood to
+      become dominant genotypes and how long will this take, for new SARS-CoV-2
+      mutants depending on their selective advantage. Results show that most of
+      the new mutants that will arise in the SARS-CoV-2 meta-population will
+      stay at very low frequencies. However, some few new mutants, significantly
+      more infectious than current ones, will still emerge and become dominant
+      in the population favoured by a great selective advantage. Far from
+      showing a mutational meltdown, SARS-CoV-2 meta-population will increase
+      its fitness becoming more infective. There is a probability, small but
+      finite, that new mutants arise resistant to some vaccines. High infected
+      numbers and slow vaccination programs will significantly increase this
+      likelihood.
+    authors:
+      - name: Javier Garcia Garcia de Alcañiz
+        orcid: null
+      - name: Victoria Lopez-Rodas
+        orcid: null
+      - name: Eduardo Costas
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8363456675"
+    numReports: 0
+    likes: 0
+    id: "5429950731"
+    createdAt: 2021-06-23T10:31:57
+    author:
+      username: avantduel
+      about: I am the Master of the Unheard Of
+      name: Otto von Ruggins
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/avantduel/
+      url: http://www.ottovr.com
+      location: Brooklyn, NY
+      id: "28194417"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: As a retired High School English Teacher, my concern with this
+      Pre-print release is that at times it reads very poorly for a would be
+      scientific paper. There are numerous errors in syntax and sentences that
+      are not properly formatted. As much as I appreciate the findings of the
+      researchers, I am disappointed in the lack of editing prior to the
+      pre-print. I am willing to go through this paper and make corrections, but
+      I can also imagine a simple Word document Spelling and Grammer check would
+      also be a place to start. As an example, just try reading the paragraphs
+      prior to the endnotes from "4. Muller’s ratchet, 'mutational meltdown' and
+      fundamental principle of natural selection" on. You will encounter 'led'
+      which should be spelled 'lead', two non-sentences in a row, the word
+      'where' which was probably supposed to be 'were', which would have made
+      one of those phrases an actual sentence and more. Sadly, as I read this
+      informative document, every time I came across these errors, I cringed at
+      how it ever reached this stage with so many stumbling blocks to a proper
+      English read!
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.01.16.21249924v1
+  tweets:
+    - created_at: Thu Jun 24 18:24:47 +0000 2021
+      id: 1408128988099264500
+      id_str: "1408128988099264522"
+      text: >-
+        💬 medRxiv comment on "Sword of Damocles or choosing ..."
+
+
+        "As a retired High School English Teacher, my concern wit… https://t.co/E1NrBcETP8
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/E1NrBcETP8
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jun 24 18:24:47 +0000 2021
+      id: 1408128988917207000
+      id_str: "1408128988917207046"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/6G3GiVeipg
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/6G3GiVeipg
+      in_reply_to_status_id: 1408128988099264500
+      in_reply_to_status_id_str: "1408128988099264522"
