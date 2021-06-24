@@ -26988,3 +26988,107 @@
           - url: https://t.co/yeuDlfWnTt
       in_reply_to_status_id: 1408067046508617700
       in_reply_to_status_id_str: "1408067046508617729"
+- preprint:
+    id: "142591"
+    doi: 10.1101/2021.05.20.445036
+    first_posted: 2021-05-20
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.05.20.445036v1
+    url: https://api.rxivist.org/v1/papers/142591
+    title: RNA silencing by CRISPR in plants does not require Cas13
+    category: plant-biology
+    abstract: RNA-targeting CRISPR-Cas can provide potential advantages over DNA
+      editing, such as avoiding pleiotropic effects of genome editing, providing
+      precise spatiotemporal regulation and expanded function including
+      anti-viral immunity. Here, we report the use of CRISPR-Cas13 in plants to
+      reduce both viral and endogenous RNA. Unexpectedly, we discovered that
+      crRNA designed to guide Cas13 could, in the absence of the Cas13 protein,
+      cause substantial reduction in RNA levels as well. We demonstrate
+      Cas13-independent guide-induced gene silencing (GIGS) in three plant
+      species, including stable transgenic Arabidopsis. We determined that GIGS
+      utilizes endogenous RNAi machinery despite the fact that crRNA are unlike
+      canonical triggers of RNAi such as miRNA, hairpins or long double-stranded
+      RNA. These results suggest that GIGS offers a novel and flexible approach
+      to RNA reduction with potential benefits over existing technologies for
+      crop improvement. Our results demonstrate that GIGS is active across a
+      range of plant species, evidence similar to recent findings in an insect
+      system, which suggests that GIGS is potentially active across many
+      eukaryotes.
+    authors:
+      - name: Veerendra Sharma
+        orcid: null
+      - name: Sandeep R. Marla
+        orcid: http://orcid.org/0000-0001-5778-7850
+      - name: Wenguang Zheng
+        orcid: null
+      - name: Divya Mishra
+        orcid: http://orcid.org/0000-0003-1562-1718
+      - name: Jun Huang
+        orcid: null
+      - name: WEI ZHANG
+        orcid: null
+      - name: Geoffrey P Morris
+        orcid: http://orcid.org/0000-0002-3067-3359
+      - name: David Cook
+        orcid: http://orcid.org/0000-0002-2719-4701
+  comment:
+    dislikes: 0
+    thread: "8537385894"
+    numReports: 0
+    likes: 0
+    id: "5430016155"
+    createdAt: 2021-06-23T11:58:40
+    author:
+      username: disqus_8CxiYFjgeh
+      about: ""
+      name: Tom Jacobs
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_8CxiYFjgeh/
+      url: ""
+      location: ""
+      id: "198759940"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Interesting. I like the work. Just as you write, folks generally do not
+      include the Cas- or gRNA/crRNA-only controls anymore. This was done back
+      when CRISPR took off but it has largely been dropped. 
+
+
+      I wonder about the sRNA sequencing. Did you observe the intact DR + spacer in the reads, or only the processed forms? It looks like your library prep protocol would have excluded larger fragments. You mention the reads are 21-24 nt in length, but which part of the DR+spacer does that contain? Is it a single species? Or spread out across the 28-nt spacer? 
+
+
+      sRNAs should be produced along the entire length of your TRV vectors. Maybe what you are observing with the viral work is just the production of a functional siRNA from the viral RNA (standard VIGS) and not from a crRNA? Unless I missed it, all the results show that the presence of the crRNA vector is sufficient, but is there evidence that expression of the crRNA is required? I'm curious what would happen if you removed the U6 promoter and/or the DR. Or change the initiating nucleotide. That could establish that GIGS requires crRNA expression and not just presence.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.05.20.445036v1
+  tweets:
+    - created_at: Thu Jun 24 16:31:49 +0000 2021
+      id: 1408100558494445600
+      id_str: "1408100558494445568"
+      text: >-
+        💬 bioRxiv comment on "RNA silencing by CRISPR in pla..."
+
+
+        "Interesting. I like the work. Just as you write, folks g… https://t.co/taeuMPrz6K
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/taeuMPrz6K
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jun 24 16:31:49 +0000 2021
+      id: 1408100559467565000
+      id_str: "1408100559467565057"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/cEfkKjZhu6
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/cEfkKjZhu6
+      in_reply_to_status_id: 1408100558494445600
+      in_reply_to_status_id_str: "1408100558494445568"
