@@ -27925,3 +27925,114 @@
           - url: https://t.co/eP3Zz0ALNn
       in_reply_to_status_id: 1408429700381282300
       in_reply_to_status_id_str: "1408429700381282305"
+- preprint:
+    id: "144132"
+    doi: 10.1101/2021.05.28.21258012
+    first_posted: 2021-05-31
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.28.21258012v1
+    url: https://api.rxivist.org/v1/papers/144132
+    title: Observational Study on 255 Mechanically Ventilated Covid Patients at the
+      Beginning of the USA Pandemic
+    category: pharmacology-and-therapeutics
+    abstract: "Abstract Introduction: This observational study looked at 255 COVID19
+      patients who required invasive mechanical ventilation (IMV) during the
+      first two months of the US pandemic. Through comprehensive, longitudinal
+      evaluation and new consideration of all the data, we were able to better
+      describe and understand factors affecting outcome after intubation.
+      Methods: All vital signs, laboratory values, and medication
+      administrations (time, date, dose, and route) were collected and
+      organized. Further, each patient's prior medical records, including PBM
+      data and available ECG, were reviewed by a physician. These data were
+      incorporated into time-series database for statistical analysis. Results:
+      By discharge or Day 90, 78.2% of the cohort expired. The most common
+      pre-existing conditions were hypertension, (63.5%), diabetes (59.2%) and
+      obesity (50.4%). Age correlated with death. Comorbidities and clinical
+      status on presentation were not predictive of outcome. Admission markers
+      of inflammation were universally elevated (>96%). The cohort's weight
+      range was nearly 7-fold. Causal modeling establishes that weight-adjusted
+      HCQ and AZM therapy improves survival by over 100%. QTc prolongation did
+      not correlate with cumulative HCQ dose or HCQ serum levels. Discussion:
+      This detailed approach gives us better understanding of risk factors,
+      prognostic indicators, and outcomes of Covid patients needing IMV. Few
+      variables were related to outcome. By considering more factors and using
+      new methods, we found that when increased doses of co-administered HCQ and
+      AZM were associated with >100% increase in survival. Comparison of
+      absolute with weight-adjusted cumulative doses proves administration
+      [&ge;]80 mg/kg of HCQ with > 1 gm AZM increases survival in IMV-requiring
+      Covid patients by over 100%. According to our data, HCQ is not associated
+      with prolongation. Studies, which reported QTc prolongation secondary to
+      HCQ, need to be re-evaluated more stringently and with controls. The
+      weight ranges of Covid patient cohorts are substantially greater than
+      those of most antibiotic RCTs. Future clinical trials need to consider the
+      weight variance of hospitalized Covid patients and need to study
+      therapeutics more thoughtfully."
+    authors:
+      - name: Leon G Smith
+        orcid: null
+      - name: Nicolas Mendoza
+        orcid: null
+      - name: Stephen Smith
+        orcid: http://orcid.org/0000-0002-9158-6136
+      - name: David P Dobesh
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8564791155"
+    numReports: 0
+    likes: 0
+    id: "5432777880"
+    createdAt: 2021-06-25T13:49:58
+    author:
+      username: disqus_w8LdLejsM2
+      about: ""
+      name: Stephen Smith
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_w8LdLejsM2/
+      url: ""
+      location: ""
+      id: "371160113"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Yes, we looked high and low at different subgroups with different headers
+      or covariates. We couldn't find anything. That statisticians then used a
+      causal model, called Rubin, to determine what percent of the difference in
+      survival was "caused" by higher doses of HCQ and AZM. 
+
+      I understand the skepticism. I, at a minimum, hope people will rethink how they analyze HCQ/AZM data. As for pts in the ICU currently, I feel strongly HCQ/AZM at these higher doses should be used. You don't have much to lose. 
+
+      I haven't run the numbers over the past 6-8 months. It appears fewer hospitalized Covid pts get intubated, but the survival rate for those intubated appears even worse than before. This is just an observation or guess, which is from talking with the ICU staff, who told me their opinion, and our own observations.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.05.28.21258012v1
+  tweets:
+    - created_at: Fri Jun 25 16:31:38 +0000 2021
+      id: 1408462900746985500
+      id_str: "1408462900746985479"
+      text: >-
+        💬 medRxiv comment on "Observational Study on 255 Mec..."
+
+
+        "Yes, we looked high and low at different subgroups with… https://t.co/97D5DkqGr5
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/97D5DkqGr5
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jun 25 16:31:38 +0000 2021
+      id: 1408462901577453600
+      id_str: "1408462901577453569"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/B5DO7aAXhF
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/B5DO7aAXhF
+      in_reply_to_status_id: 1408462900746985500
+      in_reply_to_status_id_str: "1408462900746985479"
