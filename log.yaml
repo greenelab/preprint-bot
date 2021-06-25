@@ -28305,3 +28305,142 @@
           - url: https://t.co/652MU3io4j
       in_reply_to_status_id: 1408520391346229200
       in_reply_to_status_id_str: "1408520391346229249"
+- preprint:
+    id: "141246"
+    doi: 10.1101/2021.05.10.21256982
+    first_posted: 2021-05-11
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.10.21256982v1
+    url: https://api.rxivist.org/v1/papers/141246
+    title: "Precision Medicine Approach to Alzheimer's Disease: Successful
+      Proof-of-Concept Trial"
+    category: neurology
+    abstract: "Abstract Importance: Effective therapeutics for Alzheimer's disease
+      and mild cognitive impairment are needed. Objective: To determine whether
+      a precision medicine approach to Alzheimer's disease and mild cognitive
+      impairment, in which potential contributors to cognitive decline are
+      identified and targeted therapeutically, is effective enough in a
+      proof-of-concept trial to warrant a larger, randomized, controlled
+      clinical trial. Rationale: Previous clinical trials for Alzheimer's
+      disease have pre-determined a single treatment modality, such as a drug
+      candidate or therapeutic procedure, that may be unrelated to the primary
+      drivers of the neurodegenerative process. Therefore, increasing data set
+      size to include the potential contributors to cognitive decline for each
+      patient, and addressing the identified potential contributors, may
+      represent a more effective therapeutic strategy. Hypothesis: Alzheimer's
+      disease is a multi-factorial network dysfunction that results from a
+      chronic or repeated insufficiency of support for a neuroplasticity
+      network; thus factors that increase demand -- such as infections or toxin
+      exposure -- or reduce support -- such as reduced energetics or trophic
+      support -- may contribute to the neurodegenerative process. Rectifying
+      this hypothesized network dysfunction represents a rational approach to
+      the treatment of the cognitive decline associated with Alzheimer's disease
+      and mild cognitive impairment. Design: Twenty-five patients with
+      Alzheimer's disease or mild cognitive impairment, with Montreal Cognitive
+      Assessment (MoCA) scores of 19 or higher, were evaluated for markers of
+      inflammation, chronic infection, dysbiosis, insulin resistance, protein
+      glycation, vascular disease, nocturnal hypoxemia, hormone insufficiency or
+      dysregulation, nutrient deficiency, toxin or toxicant exposure (metals,
+      organic toxicants, and biotoxins), genetic predisposition to cognitive
+      decline, and other biochemical parameters associated with cognitive
+      decline. Brain magnetic resonance imaging with volumetrics was performed
+      at baseline and study conclusion. Patients were treated for nine months
+      with a personalized, precision medicine protocol that addressed each
+      patient's identified potentially contributory factors, and cognition was
+      assessed at t = 0, 3, 6, and 9 months. Trial registration and IRB
+      approval: The clinical trial was registered at clinicaltrials.gov
+      (NCT03883633), 1 and approved by the Advarra IRB. Support for the trial:
+      The trial was supported by a grant from the Four Winds Foundation via
+      Evanthea, LLC, and we are grateful to Diana Merriam and Gayle Brown for
+      their interest, discussions, and support. Main Outcome Measures: Trained
+      external raters evaluated the study subjects with the Montreal Cognitive
+      Assessment (MoCA), CNS Vital Signs (a computerized cognitive assessment
+      battery), AQ-21 (a subjective scale completed by the significant other or
+      study partner), and AQ-C change scale (a subjective scale of cognitive
+      improvement or decline, completed by the significant other or study
+      partner). Follow-up brain MRI with volumetrics was carried out at the
+      completion of the trial. Results: All outcome measures revealed
+      improvement: statistically highly significant improvement in MoCA scores,
+      CNS Vital Signs Neurocognitive Index, and AQ-C were documented. No serious
+      adverse events were recorded. Conclusions and Relevance: Based on the
+      cognitive improvements observed in this study of patients with Alzheimer's
+      disease or mild cognitive impairment, a larger, randomized, controlled
+      trial of the precision medicine therapeutic approach described herein is
+      warranted."
+    authors:
+      - name: Kat Toups
+        orcid: null
+      - name: Ann Hathaway
+        orcid: null
+      - name: Deborah Gordon
+        orcid: null
+      - name: Henrianna Chung
+        orcid: null
+      - name: Cyrus Raji
+        orcid: null
+      - name: Alan Boyd
+        orcid: null
+      - name: Benjamin D. Hill
+        orcid: null
+      - name: Sharon Hausman-Cohen
+        orcid: null
+      - name: Mouna Attarha
+        orcid: null
+      - name: Won Jong Chwa
+        orcid: null
+      - name: Michael Jarrett
+        orcid: null
+      - name: Dale E. Bredesen
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8516300633"
+    numReports: 0
+    likes: 0
+    id: "5432884371"
+    createdAt: 2021-06-25T15:21:28
+    author:
+      username: mishakogan
+      about: ""
+      name: Misha Kogan
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/mishakogan/
+      url: ""
+      location: ""
+      id: "369361615"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: This exact protocol, except that we do much lower cost genetic analysis.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.05.10.21256982v1
+  tweets:
+    - created_at: Fri Jun 25 22:19:45 +0000 2021
+      id: 1408550510433554400
+      id_str: "1408550510433554437"
+      text: >-
+        💬 medRxiv comment on "Precision Medicine Approach to..."
+
+
+        "This exact protocol, except that we do much lower cost g… https://t.co/YJo1ISX1s2
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/YJo1ISX1s2
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jun 25 22:19:46 +0000 2021
+      id: 1408550511251538000
+      id_str: "1408550511251537923"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/evATf0JYLA
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/evATf0JYLA
+      in_reply_to_status_id: 1408550510433554400
+      in_reply_to_status_id_str: "1408550510433554437"
