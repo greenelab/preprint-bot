@@ -27762,3 +27762,166 @@
           - url: https://t.co/B5DO7aAXhF
       in_reply_to_status_id: 1408402353133400000
       in_reply_to_status_id_str: "1408402353133400071"
+- preprint:
+    id: "121407"
+    doi: 10.1101/2020.12.13.422570
+    first_posted: 2020-12-13
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2020.12.13.422570v1
+    url: https://api.rxivist.org/v1/papers/121407
+    title: Uncovering novel mutational signatures by de novo extraction with
+      SigProfilerExtractor
+    category: bioinformatics
+    abstract: Mutational signature analysis is commonly performed in genomic studies
+      surveying cancer and normal somatic tissues. Here we present
+      SigProfilerExtractor, an automated tool for accurate de novo extraction of
+      mutational signatures for all types of somatic mutations. Benchmarking
+      with a total of 33 distinct scenarios encompassing 1,900 simulated
+      signatures operative in more than 60,000 unique synthetic genomes
+      demonstrates that SigProfilerExtractor outperforms thirteen other tools
+      across all datasets with and without noise. For simulations with 5% noise,
+      reflecting high-quality genomic datasets, SigProfilerExtractor outperforms
+      other approaches by elucidating between 20% and 50% more true positive
+      signatures while yielding more than 5-fold less false positive signatures.
+      Applying SigProfilerExtractor to 2,778 whole-genome sequenced cancers
+      reveals three previously missed mutational signatures. Two of the
+      signatures are confirmed in independent cohorts with one of these
+      signatures associating with tobacco smoking. In summary, this report
+      provides a reference tool for analysis of mutational signatures, a
+      comprehensive benchmarking of bioinformatics tools for extracting
+      mutational signatures, and several novel mutational signatures including a
+      signature putatively attributed to direct tobacco smoking mutagenesis in
+      bladder cancer and in normal bladder epithelium.
+    authors:
+      - name: S M Ashiqul Islam
+        orcid: http://orcid.org/0000-0002-5686-6474
+      - name: Yang Wu
+        orcid: http://orcid.org/0000-0002-1837-8330
+      - name: Marcos Diaz-Gay
+        orcid: null
+      - name: Erik N. Bergstrom
+        orcid: http://orcid.org/0000-0001-7740-022X
+      - name: Yudou He
+        orcid: null
+      - name: Mark Barnes
+        orcid: null
+      - name: Mike Vella
+        orcid: null
+      - name: Jingwei Wang
+        orcid: http://orcid.org/0000-0002-7408-8362
+      - name: Jon W Teague
+        orcid: null
+      - name: Peter Clapham
+        orcid: null
+      - name: Sarah Moody
+        orcid: http://orcid.org/0000-0003-4904-1041
+      - name: Sergey Senkin
+        orcid: http://orcid.org/0000-0001-5848-005X
+      - name: Yun Rose Li
+        orcid: null
+      - name: Laura Riva
+        orcid: null
+      - name: Tongwu Zhang
+        orcid: null
+      - name: Andreas J. Gruber
+        orcid: http://orcid.org/0000-0001-7664-4257
+      - name: Raviteja Vangara
+        orcid: null
+      - name: Christopher D Steele
+        orcid: http://orcid.org/0000-0002-6110-0086
+      - name: Burcak Otlu
+        orcid: null
+      - name: Azhar Khandekar
+        orcid: http://orcid.org/0000-0002-0521-1195
+      - name: Ammal Abbasi
+        orcid: http://orcid.org/0000-0003-0623-2243
+      - name: Laura Humphreys
+        orcid: null
+      - name: Natalia Syulyukina
+        orcid: null
+      - name: Samuel W Brady
+        orcid: null
+      - name: Boian Stoianov Alexandrov
+        orcid: null
+      - name: Nischalan Pillay
+        orcid: http://orcid.org/0000-0003-0579-4105
+      - name: Jinghui Zhang
+        orcid: http://orcid.org/0000-0003-3350-9682
+      - name: David J. Adams
+        orcid: http://orcid.org/0000-0002-7030-2288
+      - name: Inigo Marticorena
+        orcid: null
+      - name: David C Wedge
+        orcid: http://orcid.org/0000-0002-7572-3196
+      - name: Maria Teresa Landi
+        orcid: null
+      - name: Paul Brennan
+        orcid: http://orcid.org/0000-0002-0518-8714
+      - name: Michael R. Stratton
+        orcid: http://orcid.org/0000-0001-6035-153X
+      - name: Steven G Rozen
+        orcid: http://orcid.org/0000-0002-4288-0056
+      - name: Ludmil B Alexandrov
+        orcid: http://orcid.org/0000-0003-3596-4515
+  comment:
+    dislikes: 0
+    thread: "8523939620"
+    numReports: 0
+    likes: 0
+    id: "5429941058"
+    createdAt: 2021-06-23T10:16:32
+    author:
+      username: disqus_vcWkbrUPaz
+      about: Research Associate at MRC CU, University of Cambridge, UK
+      name: Andrea Degasperi
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_vcWkbrUPaz/
+      url: http://andreadegasperi.x10.mx
+      location: Cambridge, UK
+      id: "370968235"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Congratulations for this wonderful work! May I just make sure that
+      our approach implemented in the signature.tools.lib package is used
+      correctly? From the supplementary notes you provide it seems that the
+      guidance for using our method is not followed. We advise using at least 20
+      bootstraps with 200 repeats and filter of best runs with RTOL=0.001 (see
+      “what parameters should I use for signature extraction”,
+      https://github.com/Nik-Zainal-Group/signature.tools.lib#faq). However, in
+      the supplementary notes it is stated that 100 bootstraps with no filter is
+      used. Also, the default parameters shown in our package, in particular
+      repeats=10 is only meant for testing, not for practical purposes, as at
+      least 100 repeats are in general necessary for small medium problems.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.12.13.422570v2
+  tweets:
+    - created_at: Fri Jun 25 14:19:42 +0000 2021
+      id: 1408429700381282300
+      id_str: "1408429700381282305"
+      text: >-
+        💬 bioRxiv comment on "Uncovering novel mutational si..."
+
+
+        "Congratulations for this wonderful work! May I just make… https://t.co/oLL5iZWhyq
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/oLL5iZWhyq
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jun 25 14:19:42 +0000 2021
+      id: 1408429701174108200
+      id_str: "1408429701174108160"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/eP3Zz0ALNn
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/eP3Zz0ALNn
+      in_reply_to_status_id: 1408429700381282300
+      in_reply_to_status_id_str: "1408429700381282305"
