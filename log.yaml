@@ -28154,3 +28154,61 @@
           - url: https://t.co/B5DO7aAXhF
       in_reply_to_status_id: 1408491380633124900
       in_reply_to_status_id_str: "1408491380633124864"
+- preprint:
+    id: 147291
+    metric: 10
+    title: Increased lung cell entry of B.1.617.2 and evasion of antibodies induced
+      by infection and BNT162b2 vaccination
+    url: https://api.rxivist.org/v1/papers/147291
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.23.449568v1
+    doi: 10.1101/2021.06.23.449568
+    category: molecular-biology
+    first_posted: 2021-06-23
+    abstract: The delta variant of SARS-CoV-2, B.1.617.2, emerged in India and has
+      subsequently spread to over 80 countries. B.1.617.2 rapidly replaced
+      B.1.1.7 as the dominant virus in the United Kingdom, resulting in a steep
+      increase in new infections, and a similar development is expected for
+      other countries. Effective countermeasures require information on
+      susceptibility of B.1.617.2 to control by antibodies elicited by vaccines
+      and used for COVID-19 therapy. We show, using pseudotyping, that B.1.617.2
+      evades control by antibodies induced upon infection and BNT162b2
+      vaccination, although with lower efficiency as compared to B.1.351.
+      Further, we found that B.1.617.2 is resistant against Bamlanivimab, a
+      monoclonal antibody with emergency use authorization for COVID-19 therapy.
+      Finally, we show increased Calu-3 lung cell entry and enhanced
+      cell-to-cell fusion of B.1.617.2, which may contribute to augmented
+      transmissibility and pathogenicity of this variant. These results identify
+      B.1.617.2 as an immune evasion variant with increased capacity to enter
+      and fuse lung cells.
+    authors:
+      - name: Prerna Arora
+      - name: Nadine Krueger
+      - name: Amy Kempf
+      - name: Inga Nehlmeier
+      - name: Anzhalika Sidarovich
+      - name: Luise Graichen
+      - name: Anna-Sophie Moldenhauer
+      - name: Martin S Winkler
+      - name: Sebastian Schulz
+      - name: Hans-Martin Jaeck
+      - name: Metodi V Stankov
+      - name: Georg MN Behrens
+      - name: Stefan Poehlmann
+      - name: Markus Hoffmann
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Fri Jun 25 20:16:04 +0000 2021
+      id: 1408519384059068400
+      id_str: "1408519384059068434"
+      text: >-
+        🔥 bioRxiv Molecular-biology preprint by P. Arora et al:
+
+
+        "Increased lung cell entry of B.1.617.2 and evasion of ant… https://t.co/QQio8B75mz
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/QQio8B75mz
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
