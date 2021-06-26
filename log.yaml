@@ -28903,3 +28903,104 @@
           - url: https://t.co/5OTgDfjo0Q
       in_reply_to_status_id: 1408824921984098300
       in_reply_to_status_id_str: "1408824921984098311"
+- preprint:
+    id: "141912"
+    doi: 10.1101/2021.05.15.21257017
+    first_posted: 2021-05-17
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.15.21257017v1
+    url: https://api.rxivist.org/v1/papers/141912
+    title: Extended interval BNT162b2 vaccination enhances peak antibody generation
+      in older people
+    category: infectious-diseases
+    abstract: "Abstract Objectives: To assess the relative immunogenicity of
+      standard or extended interval BNT162b2 vaccination. Design: Population
+      based cohort study comparing immune responses 2 weeks after the second
+      vaccine, with appropriate time-matched samples in participants who
+      received standard or extended interval double vaccination. Setting:
+      Primary care networks, Birmingham, UK. December 2020 to April 2021.
+      Participants: 175 people aged over 80 years of age. All donors received
+      the BNT162b2 Pfizer/BioNTech vaccination and were vaccinated with either a
+      standard 3 week interval between doses or an extended interval schedule.
+      Main outcome measures: Peak quantitative spike-specific antibody and
+      cellular immune responses. Results: In donors without evidence of previous
+      infection the peak antibody response was 3.5-fold higher in donors who had
+      undergone delayed interval vaccination. Cellular immune responses were
+      3.6-fold lower. Conclusion: Peak antibody responses after the second
+      BNT162b2 vaccine are markedly enhanced in older people when this is
+      delayed to 12 weeks although cellular responses are lower. Extended
+      interval vaccination may therefore offer the potential to enhance and
+      extend humoral immunity. Further follow up is now required to assess long
+      term immunity and clinical protection."
+    authors:
+      - name: Helen M Parry
+        orcid: http://orcid.org/0000-0002-9707-8167
+      - name: Rachel Bruton
+        orcid: null
+      - name: Christine Stephens
+        orcid: null
+      - name: Kevin Brown
+        orcid: null
+      - name: Gayatri Amirthalingam
+        orcid: http://orcid.org/0000-0003-2078-0975
+      - name: Bassam Hallis
+        orcid: http://orcid.org/0000-0002-8461-0038
+      - name: Ashley Otter
+        orcid: null
+      - name: Jianmin Zuo
+        orcid: http://orcid.org/0000-0002-8341-465X
+      - name: Paul Moss
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8524358522"
+    numReports: 0
+    likes: 0
+    id: "5434068991"
+    createdAt: 2021-06-26T16:12:33
+    author:
+      username: disqus_S8W7k6Gyjj
+      about: ""
+      name: Daisy
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_S8W7k6Gyjj/
+      url: ""
+      location: ""
+      id: "64410198"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Why on earth wouldn’t they include all age groups?  Or at least
+      those 60 and up, who have lower immune response.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.05.15.21257017v1
+  tweets:
+    - created_at: Sat Jun 26 18:24:11 +0000 2021
+      id: 1408853616169980000
+      id_str: "1408853616169979911"
+      text: >-
+        💬 medRxiv comment on "Extended interval BNT162b2 vac..."
+
+
+        "Why on earth wouldn’t they include all age groups?  Or a… https://t.co/8cu4zjmGnM
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/8cu4zjmGnM
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jun 26 18:24:12 +0000 2021
+      id: 1408853616895611000
+      id_str: "1408853616895610880"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/x0AIV3f5Lu
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/x0AIV3f5Lu
+      in_reply_to_status_id: 1408853616169980000
+      in_reply_to_status_id_str: "1408853616169979911"
