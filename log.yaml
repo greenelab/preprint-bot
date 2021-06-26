@@ -29138,3 +29138,144 @@
           - url: https://t.co/lZgfiv6EmY
       in_reply_to_status_id: 1408882444187676700
       in_reply_to_status_id_str: "1408882444187676675"
+- preprint:
+    id: "146209"
+    doi: 10.1101/2021.06.11.21258690
+    first_posted: 2021-06-15
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.11.21258690v1
+    url: https://api.rxivist.org/v1/papers/146209
+    title: Brain imaging before and after COVID-19 in UK Biobank
+    category: neurology
+    abstract: There is strong evidence for brain-related pathologies in COVID-19,
+      some of which could be a consequence of viral neurotropism. The vast
+      majority of brain imaging studies so far have focused on qualitative,
+      gross pathology of moderate to severe cases, often carried out on
+      hospitalised patients. It remains unknown however whether the impact of
+      COVID-19 can be detected in milder cases, in a quantitative and automated
+      manner, and whether this can reveal a possible mechanism for the spread of
+      the disease. UK Biobank scanned over 40,000 participants before the start
+      of the COVID-19 pandemic, making it possible to invite back in 2021
+      hundreds of previously-imaged participants for a second imaging visit.
+      Here, we studied the effects of the disease in the brain using multimodal
+      data from 782 participants from the UK Biobank COVID-19 re-imaging study,
+      with 394 participants having tested positive for SARS-CoV-2 infection
+      between their two scans. We used structural and functional brain scans
+      from before and after infection, to compare longitudinal brain changes
+      between these 394 COVID-19 patients and 388 controls who were matched for
+      age, sex, ethnicity and interval between scans. We identified significant
+      effects of COVID-19 in the brain with a loss of grey matter in the left
+      parahippocampal gyrus, the left lateral orbitofrontal cortex and the left
+      insula. When looking over the entire cortical surface, these results
+      extended to the anterior cingulate cortex, supramarginal gyrus and
+      temporal pole. We further compared COVID-19 patients who had been
+      hospitalised (n=15) with those who had not (n=379), and while results were
+      not significant, we found comparatively similar findings to the COVID-19
+      vs control group comparison, with, in addition, a greater loss of grey
+      matter in the cingulate cortex, central nucleus of the amygdala and
+      hippocampal cornu ammonis (all |Z|>3). Our findings thus consistently
+      relate to loss of grey matter in limbic cortical areas directly linked to
+      the primary olfactory and gustatory system. Unlike in post hoc disease
+      studies, the availability of pre-infection imaging data helps avoid the
+      danger of pre-existing risk factors or clinical conditions being
+      mis-interpreted as disease effects. Since a possible entry point of the
+      virus to the central nervous system might be via the olfactory mucosa and
+      the olfactory bulb, these brain imaging results might be the in vivo
+      hallmark of the spread of the disease (or the virus itself) via olfactory
+      and gustatory pathways.
+    authors:
+      - name: Gwenaëlle Douaud
+        orcid: http://orcid.org/0000-0003-1981-391X
+      - name: Soojin Lee
+        orcid: http://orcid.org/0000-0002-6258-1280
+      - name: Fidel Alfaro-Almagro
+        orcid: http://orcid.org/0000-0002-9133-5951
+      - name: Christoph Arthofer
+        orcid: null
+      - name: Chaoyue Wang
+        orcid: null
+      - name: Frederik Lange
+        orcid: http://orcid.org/0000-0002-1736-7162
+      - name: Jesper L.R. Andersson
+        orcid: null
+      - name: Ludovica Griffanti
+        orcid: http://orcid.org/0000-0002-0540-9353
+      - name: Eugene Duff
+        orcid: null
+      - name: Saad Jbabdi
+        orcid: http://orcid.org/0000-0003-3234-5639
+      - name: Bernd Taschler
+        orcid: null
+      - name: Anderson Winkler
+        orcid: http://orcid.org/0000-0002-4169-9781
+      - name: Thomas E Nichols
+        orcid: http://orcid.org/0000-0002-4516-5103
+      - name: Rory Collins
+        orcid: null
+      - name: Paul M. Matthews
+        orcid: null
+      - name: Naomi Allen
+        orcid: http://orcid.org/0000-0003-1938-5038
+      - name: Karla L Miller
+        orcid: http://orcid.org/0000-0002-2511-3189
+      - name: Stephen M Smith
+        orcid: http://orcid.org/0000-0001-8166-069X
+  comment:
+    dislikes: 0
+    thread: "8595911767"
+    numReports: 0
+    likes: 0
+    id: "5434025885"
+    createdAt: 2021-06-26T15:33:38
+    author:
+      username: disqus_0gLdIZ7FlY
+      about: ""
+      name: Mari
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_0gLdIZ7FlY/
+      url: ""
+      location: ""
+      id: "204662037"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Stress does not cause these specific patterns of brain damage. We know a
+      lot about stress, and these do not look like the brain effects of stress
+      even from more traumatic incidents.
+
+
+
+      It's important not to have a panicked or credulous reaction to these results, but it's also important not to be overly skeptical when the evidence is clear and overwhelming that even mild cases of COVID cause specific patterns of brain damage.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.06.11.21258690v1
+  tweets:
+    - created_at: Sat Jun 26 22:19:05 +0000 2021
+      id: 1408912730283823000
+      id_str: "1408912730283823112"
+      text: >-
+        💬 medRxiv comment on "Brain imaging before and after..."
+
+
+        "Stress does not cause these specific patterns of brain d… https://t.co/SgccntEmFm
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/SgccntEmFm
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jun 26 22:19:06 +0000 2021
+      id: 1408912731097505800
+      id_str: "1408912731097505793"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/yeuDlfEN1V
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/yeuDlfEN1V
+      in_reply_to_status_id: 1408912730283823000
+      in_reply_to_status_id_str: "1408912730283823112"
