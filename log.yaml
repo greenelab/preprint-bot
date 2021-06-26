@@ -29004,3 +29004,61 @@
           - url: https://t.co/x0AIV3f5Lu
       in_reply_to_status_id: 1408853616169980000
       in_reply_to_status_id_str: "1408853616169979911"
+- preprint:
+    id: 141398
+    metric: 73
+    title: mRNA vaccine-induced SARS-CoV-2-specific T cells recognize B.1.1.7 and
+      B.1.351 variants but differ in longevity and homing properties depending
+      on prior infection status
+    url: https://api.rxivist.org/v1/papers/141398
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.05.12.443888v1
+    doi: 10.1101/2021.05.12.443888
+    category: immunology
+    first_posted: 2021-05-12
+    abstract: While mRNA vaccines are proving highly efficacious against SARS-CoV-2,
+      it is important to determine how booster doses and prior infection
+      influence the immune defense they elicit, and whether they protect against
+      variants. Focusing on the T cell response, we conducted a longitudinal
+      study of infection-naive and COVID-19 convalescent donors before
+      vaccination and after their first and second vaccine doses, using a
+      high-parameter CyTOF analysis to phenotype their SARS-CoV-2-specific T
+      cells. Vaccine-elicited spike-specific T cells responded similarly to
+      stimulation by spike epitopes from the ancestral, B.1.1.7 and B.1.351
+      variant strains, both in terms of cell numbers and phenotypes. In
+      infection-naive individuals, the second dose boosted the quantity but not
+      quality of the T cell response, while in convalescents the second dose
+      helped neither. Spike-specific T cells from convalescent vaccinees
+      differed strikingly from those of infection-naive vaccinees, with
+      phenotypic features suggesting superior long-term persistence and ability
+      to home to the respiratory tract including the nasopharynx. These results
+      provide reassurance that vaccine-elicited T cells respond robustly to the
+      B.1.1.7 and B.1.351 variants, confirm that convalescents may not need a
+      second vaccine dose, and suggest that vaccinated convalescents may have
+      more persistent nasopharynx-homing SARS-CoV-2-specific T cells compared to
+      their infection-naive counterparts.
+    authors:
+      - name: Jason Neidleman
+      - name: Xiaoyu Luo
+      - name: Matthew McGregor
+      - name: Guorui Xie
+      - name: Victoria Murray
+      - name: Warner C. Greene
+      - name: Sulggi A. Lee
+      - name: Nadia R. Roan
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Sat Jun 26 20:15:25 +0000 2021
+      id: 1408881605561700400
+      id_str: "1408881605561700357"
+      text: >-
+        🔥 bioRxiv Immunology preprint by J. Neidleman et al:
+
+
+        "mRNA vaccine-induced SARS-CoV-2-specific T cells recognize B… https://t.co/7dB0eDHMAn
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/7dB0eDHMAn
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
