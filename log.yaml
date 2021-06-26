@@ -29062,3 +29062,79 @@
           - url: https://t.co/7dB0eDHMAn
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "144192"
+    doi: 10.1101/2021.05.27.21257908
+    first_posted: 2021-06-01
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.27.21257908v1
+    url: https://api.rxivist.org/v1/papers/144192
+    title: Policy and Effectiveness of Covid-19 Response
+    category: epidemiology
+    abstract: A comparative analysis of selected national jurisdictions with respect
+      to Covid-19 policy response indicated that factors such as effective
+      communications and effective targeted intervention in the environments of
+      higher epidemiological risk can be the key factors in the overall
+      effectiveness of the epidemiological response minimizing both the impact
+      of the epidemics and disruptions in the life of the society.
+    authors:
+      - name: Serge Dolgikh
+        orcid: http://orcid.org/0000-0001-5929-8954
+  comment:
+    dislikes: 0
+    thread: "8566413973"
+    numReports: 0
+    likes: 0
+    id: "5434045473"
+    createdAt: 2021-06-26T15:55:06
+    author:
+      username: disqus_CLis2YV8Sy
+      about: Uppity Injun
+      name: Prospector
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_CLis2YV8Sy/
+      url: ""
+      location: Coldfoot, Alaska
+      id: "66780930"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Hindsight is 20/20. It was a naturally panicked reaction to the
+      quickly spreading virus, but I believe history will show us that those
+      nations and states that did not use draconian lockdown mandates will lag
+      in recovery as compared to those jurisdictions where leadership made
+      available the best information at the time to the public and allowed the
+      public to choose for themselves what is best. Within the U.S., this is
+      exactly what is playing out between the red and blue states.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.05.27.21257908v1
+  tweets:
+    - created_at: Sat Jun 26 20:18:45 +0000 2021
+      id: 1408882444187676700
+      id_str: "1408882444187676675"
+      text: >-
+        💬 medRxiv comment on "Policy and Effectiveness of Co..."
+
+
+        "Hindsight is 20/20. It was a naturally panicked reaction… https://t.co/o9Q31ZsutG
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/o9Q31ZsutG
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jun 26 20:18:45 +0000 2021
+      id: 1408882445089448000
+      id_str: "1408882445089447945"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/lZgfiv6EmY
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/lZgfiv6EmY
+      in_reply_to_status_id: 1408882444187676700
+      in_reply_to_status_id_str: "1408882444187676675"
