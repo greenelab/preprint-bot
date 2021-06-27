@@ -29825,3 +29825,55 @@
           - url: https://t.co/5OTgDf1N9i
       in_reply_to_status_id: 1409216001611337700
       in_reply_to_status_id_str: "1409216001611337733"
+- preprint:
+    id: 144340
+    metric: 62
+    title: The human language system does not support music processing
+    url: https://api.rxivist.org/v1/papers/144340
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.01.446439v1
+    doi: 10.1101/2021.06.01.446439
+    category: neuroscience
+    first_posted: 2021-06-01
+    abstract: "Language and music are two human-unique capacities whose relationship
+      remains debated. Some argue for overlap in processing mechanisms,
+      especially for structure processing, but others fail to find overlap.
+      Using fMRI, we examined the responses of language brain regions to diverse
+      music stimuli, and also probed the musical abilities of individuals with
+      severe aphasia. Across four experiments, we obtained a clear answer: music
+      does not recruit nor requires the language system. The language regions'
+      responses to music are generally low and never exceed responses elicited
+      by non-music auditory conditions, like animal sounds. Further, the
+      language regions are not sensitive to music structure: they show low
+      responses to both intact and scrambled music, and to melodies with vs.
+      without structural violations. Finally, individuals with aphasia who
+      cannot judge sentence grammaticality perform well on melody
+      well-formedness judgments. Thus the mechanisms that process structure in
+      language do not appear to support music processing."
+    authors:
+      - name: Xuanyi Chen
+      - name: Josef Affourtit
+      - name: Rachel Ryskin
+      - name: Tamar I Regev
+      - name: Samuel Norman-Haignere
+      - name: Olessia Jouravlev
+      - name: Saima Malik-Moraleda
+      - name: Hope Kean
+      - name: Rosemary Varley
+      - name: Evelina Fedorenko
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Sun Jun 27 20:15:28 +0000 2021
+      id: 1409244006270345200
+      id_str: "1409244006270345221"
+      text: >-
+        🔥 bioRxiv Neuroscience preprint by X. Chen et al:
+
+
+        "The human language system does not support music processing"… https://t.co/CcZrMGqPoL
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/CcZrMGqPoL
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
