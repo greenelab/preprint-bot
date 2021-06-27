@@ -29279,3 +29279,97 @@
           - url: https://t.co/yeuDlfEN1V
       in_reply_to_status_id: 1408912730283823000
       in_reply_to_status_id_str: "1408912730283823112"
+- preprint:
+    id: "147536"
+    doi: 10.1101/2021.06.22.21259342
+    first_posted: 2021-06-25
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.22.21259342v1
+    url: https://api.rxivist.org/v1/papers/147536
+    title: MONITORING SARS-COV-2 TRANSMISSION AND PREVALENCE IN POPULATIONS UNDER
+      REPEATED TESTING
+    category: epidemiology
+    abstract: We describe a repeat SARS-CoV-2 testing model for monitoring and
+      containing outbreaks in a residential community. The analysis is motivated
+      by the Ohio State University (OSU) approach to monitoring disease at its
+      Columbus, Ohio campus during the COVID-19 epidemic in autumn 2020. The
+      model is simple, yet flexible enough to accommodate changes in be- havior
+      over time and to eliminate bias due to a nonrandom testing scheme. Model
+      parameters are estimated from individual results of weekly SARS- CoV-2
+      testing of residents. Model output serves several purposes, including
+      estimating the effective reproduction number and monitoring prevalence to
+      help inform isolation and quarantine bed capacity. An extended version of
+      the model is also considered where the residential population (on-campus
+      students) is assumed to interact with another population for whom the
+      testing regime is more relaxed and possibly less frequent (off-campus
+      students or in- structional faculty and staff). To illustrate the model
+      application, we analyze both the synthetic data as well as the actual
+      student SARS-CoV-2 testing data collected at OSU Columbus campus.
+    authors:
+      - name: Matthew Wascher
+        orcid: null
+      - name: Patrick M Schnell
+        orcid: null
+      - name: Wasiur R Khudabukhsh
+        orcid: http://orcid.org/0000-0003-1803-0470
+      - name: Mikkel Quam
+        orcid: null
+      - name: Joseph H Tien
+        orcid: null
+      - name: Grzegorz A Rempala
+        orcid: http://orcid.org/0000-0002-6307-4555
+  comment:
+    dislikes: 0
+    thread: "8614658873"
+    numReports: 0
+    likes: 0
+    id: "5433889178"
+    createdAt: 2021-06-26T12:51:39
+    author:
+      username: grzegorzarempala
+      about: ""
+      name: Grzegorz A Rempala
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/grzegorzarempala/
+      url: ""
+      location: ""
+      id: "371491279"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: A paper from our group on modeling repeated testing on OSU campus.
+      We hope that the methodology can be used in other situations when
+      vaccination is not an option and repeated testing is requited.   Thanks to
+      all who contributed to data collection for this project !
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.06.22.21259342v1
+  tweets:
+    - created_at: Sun Jun 27 01:09:14 +0000 2021
+      id: 1408955547412484000
+      id_str: "1408955547412484102"
+      text: >-
+        💬 medRxiv comment on "MONITORING SARS-COV-2 TRANSMIS..."
+
+
+        "A paper from our group on modeling repeated testing on O… https://t.co/dyhrECbeCd
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/dyhrECbeCd
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jun 27 01:09:14 +0000 2021
+      id: 1408955548263981000
+      id_str: "1408955548263981058"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/vA34s4XncY
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/vA34s4XncY
+      in_reply_to_status_id: 1408955547412484000
+      in_reply_to_status_id_str: "1408955547412484102"
