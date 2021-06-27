@@ -29709,3 +29709,119 @@
           - url: https://t.co/G8ZDRQog2r
       in_reply_to_status_id: 1409187329554751500
       in_reply_to_status_id_str: "1409187329554751492"
+- preprint:
+    id: "146990"
+    doi: 10.1101/2021.06.21.21259286
+    first_posted: 2021-06-22
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.21.21259286v1
+    url: https://api.rxivist.org/v1/papers/146990
+    title: Predicting the mutational drivers of future SARS-CoV-2 variants of concern
+    category: infectious-diseases
+    abstract: SARS-CoV-2 evolution threatens vaccine- and natural infection-derived
+      immunity, and the efficacy of therapeutic antibodies. Herein we sought to
+      predict Spike amino acid changes that could contribute to future variants
+      of concern. We tested the importance of features comprising epidemiology,
+      evolution, immunology, and neural network-based protein sequence modeling.
+      This resulted in identification of the primary biological drivers of
+      SARS-CoV-2 intra-pandemic evolution. We found evidence that resistance to
+      population-level host immunity has increasingly shaped SARS-CoV-2
+      evolution over time. We identified with high accuracy mutations that will
+      spread, at up to four months in advance, across different phases of the
+      pandemic. Behavior of the model was consistent with a plausible causal
+      structure wherein epidemiological variables integrate the effects of
+      diverse and shifting drivers of viral fitness. We applied our model to
+      forecast mutations that will spread in the future, and characterize how
+      these mutations affect the binding of therapeutic antibodies. These
+      findings demonstrate that it is possible to forecast the driver mutations
+      that could appear in emerging SARS-CoV-2 variants of concern. This
+      modeling approach may be applied to any pathogen with genomic surveillance
+      data, and so may address other rapidly evolving pathogens such as
+      influenza, and unknown future pandemic viruses.
+    authors:
+      - name: M. Cyrus Maher
+        orcid: http://orcid.org/0000-0002-6666-3574
+      - name: Istvan Bartha
+        orcid: http://orcid.org/0000-0003-3360-1999
+      - name: Steven Weaver
+        orcid: http://orcid.org/0000-0002-6931-7191
+      - name: Julia Di Iulio
+        orcid: http://orcid.org/0000-0001-9343-127X
+      - name: Elena Ferri
+        orcid: http://orcid.org/0000-0002-8672-4733
+      - name: Leah Soriaga
+        orcid: http://orcid.org/0000-0001-5852-741X
+      - name: Florian A Lempp
+        orcid: http://orcid.org/0000-0001-6103-8078
+      - name: Brian L Hie
+        orcid: http://orcid.org/0000-0003-3224-8142
+      - name: Bryan Bryson
+        orcid: http://orcid.org/0000-0003-1716-6712
+      - name: Bonnie Berger
+        orcid: http://orcid.org/0000-0002-2724-7228
+      - name: David L Robertson
+        orcid: http://orcid.org/0000-0001-6338-0221
+      - name: Gyorgy Snell
+        orcid: null
+      - name: Davide Corti
+        orcid: http://orcid.org/0000-0002-5797-1364
+      - name: Herbert W Virgin
+        orcid: http://orcid.org/0000-0001-8580-7628
+      - name: Sergei Kosakovsky Pond
+        orcid: http://orcid.org/0000-0003-4817-4029
+      - name: Amalio Telenti
+        orcid: http://orcid.org/0000-0001-6290-7677
+  comment:
+    dislikes: 0
+    thread: "8608476295"
+    numReports: 0
+    likes: 0
+    id: "5433281234"
+    createdAt: 2021-06-25T20:59:11
+    author:
+      username: amaliotelenti
+      about: ""
+      name: amalio telenti
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/amaliotelenti/
+      url: ""
+      location: ""
+      id: "213667029"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: You are right - these studies are planned. We expect the approach
+      to be generalizable across the viral genomes and hopefully to other
+      pathogens provided sufficient data
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.06.21.21259286v1
+  tweets:
+    - created_at: Sun Jun 27 18:24:11 +0000 2021
+      id: 1409216001611337700
+      id_str: "1409216001611337733"
+      text: >-
+        💬 medRxiv comment on "Predicting the mutational driv..."
+
+
+        "You are right - these studies are planned. We expect the… https://t.co/OWXhmQWZ5Z
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/OWXhmQWZ5Z
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jun 27 18:24:11 +0000 2021
+      id: 1409216002420785200
+      id_str: "1409216002420785164"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/5OTgDf1N9i
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/5OTgDf1N9i
+      in_reply_to_status_id: 1409216001611337700
+      in_reply_to_status_id_str: "1409216001611337733"
