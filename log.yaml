@@ -29483,3 +29483,117 @@
           - url: https://t.co/B5DO7aAXhF
       in_reply_to_status_id: 1409126976623988700
       in_reply_to_status_id_str: "1409126976623988737"
+- preprint:
+    id: "144132"
+    doi: 10.1101/2021.05.28.21258012
+    first_posted: 2021-05-31
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.28.21258012v1
+    url: https://api.rxivist.org/v1/papers/144132
+    title: Observational Study on 255 Mechanically Ventilated Covid Patients at the
+      Beginning of the USA Pandemic
+    category: pharmacology-and-therapeutics
+    abstract: "Abstract Introduction: This observational study looked at 255 COVID19
+      patients who required invasive mechanical ventilation (IMV) during the
+      first two months of the US pandemic. Through comprehensive, longitudinal
+      evaluation and new consideration of all the data, we were able to better
+      describe and understand factors affecting outcome after intubation.
+      Methods: All vital signs, laboratory values, and medication
+      administrations (time, date, dose, and route) were collected and
+      organized. Further, each patient's prior medical records, including PBM
+      data and available ECG, were reviewed by a physician. These data were
+      incorporated into time-series database for statistical analysis. Results:
+      By discharge or Day 90, 78.2% of the cohort expired. The most common
+      pre-existing conditions were hypertension, (63.5%), diabetes (59.2%) and
+      obesity (50.4%). Age correlated with death. Comorbidities and clinical
+      status on presentation were not predictive of outcome. Admission markers
+      of inflammation were universally elevated (>96%). The cohort's weight
+      range was nearly 7-fold. Causal modeling establishes that weight-adjusted
+      HCQ and AZM therapy improves survival by over 100%. QTc prolongation did
+      not correlate with cumulative HCQ dose or HCQ serum levels. Discussion:
+      This detailed approach gives us better understanding of risk factors,
+      prognostic indicators, and outcomes of Covid patients needing IMV. Few
+      variables were related to outcome. By considering more factors and using
+      new methods, we found that when increased doses of co-administered HCQ and
+      AZM were associated with >100% increase in survival. Comparison of
+      absolute with weight-adjusted cumulative doses proves administration
+      [&ge;]80 mg/kg of HCQ with > 1 gm AZM increases survival in IMV-requiring
+      Covid patients by over 100%. According to our data, HCQ is not associated
+      with prolongation. Studies, which reported QTc prolongation secondary to
+      HCQ, need to be re-evaluated more stringently and with controls. The
+      weight ranges of Covid patient cohorts are substantially greater than
+      those of most antibiotic RCTs. Future clinical trials need to consider the
+      weight variance of hospitalized Covid patients and need to study
+      therapeutics more thoughtfully."
+    authors:
+      - name: Leon G Smith
+        orcid: null
+      - name: Nicolas Mendoza
+        orcid: null
+      - name: Stephen Smith
+        orcid: http://orcid.org/0000-0002-9158-6136
+      - name: David P Dobesh
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8564791155"
+    numReports: 0
+    likes: 1
+    id: "5432064748"
+    createdAt: 2021-06-24T21:12:53
+    author:
+      username: johnartuli
+      about: ""
+      name: John Artuli
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/johnartuli/
+      url: ""
+      location: ""
+      id: "369312159"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Cumulative dosing = immortal time bias.  
+
+      1) To get to 3g of HCQ, one needs to survive 5 days at the max FDA-approved dose of 600mg/day.  
+
+      2) For >80mg/kg of HCQ and >1g AZ), with an average weight of 89 kg and daily dose of 600mg/day that is ~6.7 mg/kg of HCQ per day on average. Thus to get to 80 mg/kg of HCQ, one needs to survive approx 12 days  (6.7*12 = 80).  Weights will be variable so maybe it's surviving 10-12 days.  Thus this comparison is comparing people who received a medicine for 10-12 days versus those who did not survive 10-12 days. That is why no one died before 10 days in the >80mg/kg HCQ group.  That is an immortal time bias.    
+
+
+      As 88% of people received hydroxychloroquine and 80% overall died, this does not seem that impressive of a therapy.   You have presented an immortal time bias.  The correct statistical analysis is a time-dependent Cox Regression which would eliminate the immortal time bias problem.   I assume you know this, but if you do the correct analysis, it does not show what you want it to show. 
+
+
+      Is Hydroxychloroquine + Azithromycin still used at your hospital at standard of care?
+    forum: medrxiv
+    points: 1
+    link: https://www.medrxiv.org/content/10.1101/2021.05.28.21258012v1
+  tweets:
+    - created_at: Sun Jun 27 14:17:18 +0000 2021
+      id: 1409153872417931300
+      id_str: "1409153872417931265"
+      text: |-
+        💬 medRxiv comment on "Observational Study on 255 Mec..."
+
+        "Cumulative dosing = immortal time bias.  
+        1) To get to 3… https://t.co/7yxg4b1fAq
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/7yxg4b1fAq
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jun 27 14:17:18 +0000 2021
+      id: 1409153873214902300
+      id_str: "1409153873214902274"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/B5DO7aAXhF
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/B5DO7aAXhF
+      in_reply_to_status_id: 1409153872417931300
+      in_reply_to_status_id_str: "1409153872417931265"
