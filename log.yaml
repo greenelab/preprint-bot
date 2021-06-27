@@ -29597,3 +29597,115 @@
           - url: https://t.co/B5DO7aAXhF
       in_reply_to_status_id: 1409153872417931300
       in_reply_to_status_id_str: "1409153872417931265"
+- preprint:
+    id: "146616"
+    doi: 10.1101/2021.06.11.21258733
+    first_posted: 2021-06-18
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.11.21258733v1
+    url: https://api.rxivist.org/v1/papers/146616
+    title: Impact estimation on COVID-19 infections following school reopening in
+      September 2020 in Italy
+    category: epidemiology
+    abstract: Background Since its outbreak, CoViD-19 (formally known as 2019-nCoV)
+      has been triggering many questions among public authorities, social
+      organisms and school officials, as to when students should be allowed to
+      return to school. Such a decision is critical and must take into account,
+      other than its beneficial effects, also those associated with an increased
+      exposition of the students to the virus, which, as a result, might spread
+      at a faster rate. To date, in Italy, a few studies have rigorously
+      investigated the correlation between school reopening and number of people
+      tested positive to CoViD-19. Therefore, this paper aims to provide an
+      assessment of such an impact as well as to illustrate the methodology
+      followed. Methods Official daily data on the cumulative number of people
+      tested positive to CoViD-19, in conjunction with external information
+      accounting for the different points in time schools reopened in the
+      various Italian regions, have been employed to build a stochastic model of
+      the type Seasonal Autoregressive Moving Average embodying external
+      information. Results There was a statistically significant increase in the
+      number of positive cases in all the Italian regions related to schools
+      reopening. Such an increase occurred, in average, about 18.9 days after
+      the schools have been reopened. Schools reopening have been significantly
+      contributed to the diffusion of the pandemic, with an overall estimated
+      impact of about 228,724 positive cases. Conclusions The results suggest
+      the need for strict control of all in-school activities. This could be
+      done by using, to a variable extent, all the non-pharmaceutical
+      interventions available, such as limited access to school spaces, no
+      overlapping practices between different sports in the same space,
+      universal masking, bubble-size classroom. However, in many cases, such
+      measures might not be a viable option, at least in the short run, nor be
+      reasonably applicable. Therefore, whenever the established safety criteria
+      could not be met, school buildings should remain closed.
+    authors:
+      - name: Livio Fenga
+        orcid: http://orcid.org/0000-0002-8185-2680
+      - name: Massimo Galli
+        orcid: http://orcid.org/0000-0001-8887-6215
+  comment:
+    dislikes: 0
+    thread: "8601010467"
+    numReports: 0
+    likes: 0
+    id: "5433784167"
+    createdAt: 2021-06-26T09:53:47
+    author:
+      username: mauriziorainisio
+      about: ""
+      name: Maurizio Rainisio
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/mauriziorainisio/
+      url: ""
+      location: ""
+      id: "346137793"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Once more a paper on the effect of school closure aimed at supporting the
+      strong belief that schools are one of the major causes of the CoViD-19
+      epidemic, trying to prove hypotheses that are set post hoc in a framework
+      where the very concept of hypothesis testing is meaningless.
+
+
+      The way how inferential statistics is used is embarrassing; the misuse of the word "significant" while no null hypothesis is predefined (nor could be), and, if any were implicit, it would be adapted to the situation post hoc (the parameter k is selected to maximize Student's t).
+
+
+      Causality is inferred, while just coincidence is measured, without any consideration for other possible concomitant events. E.g.: The national referendum involving 25 millions of voters on September 20-21, would prove a better predictor of the increase of the epidemic curve using exactly the same method.
+
+
+      Wording like "The estimated overall impact of schools reopening is quantified in around 227,724 positives" and the header "school related positives" without the benefit of doubt is not a scientifically sound way to approach the issue; statements of this kind should not be accepted by any scientific papers reviewer.
+
+
+      A more careful analysis of the data looking at the changes the Rt parameter (or growth rate) that is the trigger to any increase in absolute number of infections, would show that in most of the regions the school openings happened after clear signals of trend changes provided by a properly computed Rt.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.06.11.21258733v1
+  tweets:
+    - created_at: Sun Jun 27 16:30:15 +0000 2021
+      id: 1409187329554751500
+      id_str: "1409187329554751492"
+      text: >-
+        💬 medRxiv comment on "Impact estimation on COVID-19 ..."
+
+
+        "Once more a paper on the effect of school closure aimed… https://t.co/xYzsoJTCEJ
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/xYzsoJTCEJ
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jun 27 16:30:15 +0000 2021
+      id: 1409187330334859300
+      id_str: "1409187330334859271"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/G8ZDRQog2r
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/G8ZDRQog2r
+      in_reply_to_status_id: 1409187329554751500
+      in_reply_to_status_id_str: "1409187329554751492"
