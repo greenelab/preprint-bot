@@ -30478,3 +30478,94 @@
           - url: https://t.co/mGlWLJDADc
       in_reply_to_status_id: 1409552017174024200
       in_reply_to_status_id_str: "1409552017174024201"
+- preprint:
+    id: "147698"
+    doi: 10.1101/2021.06.25.450004
+    first_posted: 2021-06-26
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.25.450004v1
+    url: https://api.rxivist.org/v1/papers/147698
+    title: Dynamic rewiring of biological activity across genotype and lineage
+      revealed by context-dependent functional interactions
+    category: systems-biology
+    abstract: Coessentiality networks derived from CRISPR screens in cell lines
+      provide a powerful framework for identifying functional modules in the
+      cell and for inferring the role of uncharacterized genes. However, these
+      networks integrate signal across all underlying data, and can mask strong
+      interactions that occur in only a subset of the cell lines analyzed. Here
+      we decipher dynamic functional interactions by identifying significant
+      cellular contexts, primarily by oncogenic mutation, lineage, and tumor
+      type, and discovering coessentiality relationships that depend on these
+      contexts. We recapitulate well-known gene-context interactions such as
+      oncogene-mutation, paralog buffering, and tissue-specific essential genes,
+      show how mutation rewires known signal transduction pathways, including
+      RAS/RAF and IGF1R-PIK3CA, and illustrate the implications for drug
+      targeting. We further demonstrate how context-dependent functional
+      interactions can elucidate lineage-specific gene function, as illustrated
+      by the maturation of proreceptors IGF1R and MET by proteases FURIN and
+      CPD. This approach advances our understanding of context-dependent
+      interactions and how they can be gleaned from these data.
+    authors:
+      - name: Eiru Kim
+        orcid: http://orcid.org/0000-0002-1901-5670
+      - name: Veronica Gheorghe
+        orcid: null
+      - name: Traver Hart
+        orcid: http://orcid.org/0000-0002-1880-3341
+  comment:
+    dislikes: 0
+    thread: "8616679379"
+    numReports: 0
+    likes: 0
+    id: "5435984864"
+    createdAt: 2021-06-28T11:16:05
+    author:
+      username: hebasailem
+      about: ""
+      name: Heba Sailem
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/hebasailem/
+      url: ""
+      location: ""
+      id: "371577392"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Interesting work! KCML is a highly relevant work and discusses
+      similar ideas with a focus on gene function
+      (https://www.embopress.org/doi/full/10.15252/msb.20199083). KCML is a
+      machine learning approach for inferring context-dependent gene functions
+      based on siRNA and CRISPR screens (measuring viability or multi-parametric
+      phenotypes).
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.06.25.450004v1
+  tweets:
+    - created_at: Mon Jun 28 18:33:04 +0000 2021
+      id: 1409580623916941300
+      id_str: "1409580623916941314"
+      text: >-
+        💬 bioRxiv comment on "Dynamic rewiring of biological..."
+
+
+        "Interesting work! KCML is a highly relevant work and dis… https://t.co/uPKiVp93HO
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/uPKiVp93HO
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jun 28 18:33:04 +0000 2021
+      id: 1409580624831258600
+      id_str: "1409580624831258625"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/ojG5FT3RCZ
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/ojG5FT3RCZ
+      in_reply_to_status_id: 1409580623916941300
+      in_reply_to_status_id_str: "1409580623916941314"
