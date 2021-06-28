@@ -30631,3 +30631,98 @@
           - url: https://t.co/B2zfrD4rv4
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "147485"
+    doi: 10.1101/2021.06.24.449756
+    first_posted: 2021-06-25
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.24.449756v1
+    url: https://api.rxivist.org/v1/papers/147485
+    title: "The Clade Displacement Index: how to detect hotizontal gene transfers in
+      unrooted gene trees"
+    category: bioinformatics
+    abstract: "While most genes of any organism are inherited vertically - i.e. from
+      its parent organisms - sometimes they can be exchanged between unrelated
+      species in a process known as the horizontal gene transfer (HGT). Studies
+      of HGT contribute to our knowledge about the mechanisms of evolution,
+      including the emergence of new pathogens, and a great deal of effort has
+      been put into different methods of finding transferred genes. The golden
+      standard of HGT detection is the analysis of the incongruence between the
+      gene and the species trees. Those methods typically require rooted trees,
+      in which the direction of evolution is known. Gene trees are typically
+      unrooted, and rooting them is yet another step in HGT analysis, prone to
+      errors which may lead to wrong conclusions. A natural question arises: can
+      HGTs be detected in gene trees without rooting them at all? It turns out
+      that, for a particular, yet broad, class of transfers, the answer to this
+      question is: yes. It also turns out that the same methodology can be
+      applied to complement the bootstrap support in assessing the stability of
+      gene tree topology. In this article, we present the Clade Displacement
+      Index, a measure of shift of a given clade's location between two trees.
+      We derive algorithms to compute it and give several examples of its
+      applications to HGT detection and gene tree stability analysis. We finish
+      by pointing out directions for further studies and an example that shows
+      that not all HGTs are detectable without knowing the location of the root
+      of the gene tree. A Jupyter Notebook with the implementation and
+      applications of CDI described in this paper is available at
+      \\url{https://github.com/mciach/CDI}"
+    authors:
+      - name: Michał Aleksander Ciach
+        orcid: http://orcid.org/0000-0003-4961-7071
+  comment:
+    dislikes: 0
+    thread: "8614532600"
+    numReports: 0
+    likes: 0
+    id: "5435914043"
+    createdAt: 2021-06-28T09:17:42
+    author:
+      username: PalaeoSmith
+      about: Assistant Professor in Palaeontology
+      name: Martin R. Smith
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/PalaeoSmith/
+      url: https://community.dur.ac.uk/martin.smith
+      location: Durham University
+      id: "325420274"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: "This looks like an interesting approach; I wonder whether you've
+      considered an incorporating an information theoretic approaches for
+      comparing two splits?  I found that the use of Shannon information led to
+      an improvement on generalized RF distances based on split comparisons
+      (Smith (2020, Bioinformatics:
+      https://doi.org/10.1093/bioinformatics/btaa614 ), and wonder whether the
+      same might be true in this context?"
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.06.24.449756v1
+  tweets:
+    - created_at: Mon Jun 28 20:19:15 +0000 2021
+      id: 1409607348667125800
+      id_str: "1409607348667125760"
+      text: >-
+        💬 bioRxiv comment on "The Clade Displacement Index: ..."
+
+
+        "This looks like an interesting approach; I wonder whethe… https://t.co/g06DgPaU9N
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/g06DgPaU9N
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jun 28 20:19:16 +0000 2021
+      id: 1409607349782814700
+      id_str: "1409607349782814726"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/01kxRhsDCW
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/01kxRhsDCW
+      in_reply_to_status_id: 1409607348667125800
+      in_reply_to_status_id_str: "1409607348667125760"
