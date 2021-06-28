@@ -30387,3 +30387,94 @@
           - url: https://t.co/652MU3io4j
       in_reply_to_status_id: 1409517631003054000
       in_reply_to_status_id_str: "1409517631003054081"
+- preprint:
+    id: "86557"
+    doi: 10.1101/2020.06.08.140210
+    first_posted: 2020-06-08
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.06.08.140210v1
+    url: https://api.rxivist.org/v1/papers/86557
+    title: Neuromodulation Exerts Feedback and Feedforward Control of Action Selection
+    category: neuroscience
+    abstract: >-
+      To be effective, behavioral choices must result in actions that are
+      appropriate to an animal's needs and environmental circumstances. In
+      addition, the actions must be ones the animal can sustain until its needs
+      are met. This aligning of goals, action, and motivation requires the
+      coordinated activity of multiple brain circuits, but how such coordination
+      is achieved is poorly understood. Here, we show how the insect hormone
+      Bursicon coordinates the selection and sustains execution of a behavior in
+      newly emerged adult Drosophila. Such flies must expand and harden their
+      wings after metamorphosis, but they choose to delay expansion in confined
+      conditions. We show that the decision to expand is mediated by an
+      environmentally-sensitive, positive feedback loop in which Bursicon
+      promotes its own sustained release. Released Bursicon then modulates motor
+      neurons to promote wing expansion behavior. Bursicon thus exerts
+      feedforward and feedback control to coordinately select and motivate a
+      goal-directed action.
+
+
+      ### Competing Interest Statement
+
+
+      The authors have declared no competing interest.
+    authors:
+      - name: Fengqiu Diao
+        orcid: null
+      - name: Nathan Peabody
+        orcid: null
+      - name: Benjamin H. White
+        orcid: http://orcid.org/0000-0003-0612-8075
+  comment:
+    dislikes: 0
+    thread: "8066727689"
+    numReports: 0
+    likes: 0
+    id: "5436158572"
+    createdAt: 2021-06-28T14:28:04
+    author:
+      username: laurentseroude
+      about: ""
+      name: Laurent Seroude
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/laurentseroude/
+      url: ""
+      location: ""
+      id: "167235240"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Where one can find the Videos for this article?
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.06.08.140210v1
+  tweets:
+    - created_at: Mon Jun 28 16:39:23 +0000 2021
+      id: 1409552017174024200
+      id_str: "1409552017174024201"
+      text: |-
+        💬 bioRxiv comment on "Neuromodulation Exerts Feedbac..."
+
+        "Where one can find the Videos for this article?"
+
+        https://t.co/8sF4ovZC1l
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/8sF4ovZC1l
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jun 28 16:39:23 +0000 2021
+      id: 1409552017865982000
+      id_str: "1409552017865981960"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/mGlWLJDADc
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/mGlWLJDADc
+      in_reply_to_status_id: 1409552017174024200
+      in_reply_to_status_id_str: "1409552017174024201"
