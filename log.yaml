@@ -30075,3 +30075,99 @@
           - url: https://t.co/D3rVy5FaHs
       in_reply_to_status_id: 1409275108863139800
       in_reply_to_status_id_str: "1409275108863139842"
+- preprint:
+    id: "132435"
+    doi: 10.1101/2021.03.05.21252998
+    first_posted: 2021-03-08
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.03.05.21252998v1
+    url: https://api.rxivist.org/v1/papers/132435
+    title: COVID-19 mRNA vaccine is not detected in human milk
+    category: pediatrics
+    abstract: Several countries have recently approved the use of mRNA vaccines
+      against COVID-19 under an emergency use authorization. However, no
+      pregnant or lactating individuals were included in the Phase 3 clinical
+      trials of these vaccines despite belonging to a group at high risk for
+      severe complications of COVID-19 infection. We show here that the mRNA
+      from anti-COVID vaccines is not detected in human breast milk samples
+      collected 4-48 hours post-vaccine. These results strengthen the
+      recommendation of ABM and WHO that lactating individuals who receive the
+      anti-COVID-19 mRNA-based vaccine should continue to breastfeed their
+      infants uninterrupted.
+    authors:
+      - name: Yarden Golan
+        orcid: http://orcid.org/0000-0002-3043-3638
+      - name: Mary Prahl
+        orcid: null
+      - name: Arianna Cassidy
+        orcid: null
+      - name: Christine Y Lin
+        orcid: null
+      - name: Nadav Ahituv
+        orcid: http://orcid.org/0000-0002-7434-8144
+      - name: Valerie J Flaherman
+        orcid: null
+      - name: Stephanie L. Gaw
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8428869045"
+    numReports: 0
+    likes: 0
+    id: "5435542960"
+    createdAt: 2021-06-27T22:42:22
+    author:
+      username: drtanjaninkovic
+      about: ""
+      name: Dr Tanja Ninkovic
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/drtanjaninkovic/
+      url: ""
+      location: ""
+      id: "371556403"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: it is actually very relevant. spike protein is a transmembrane
+      protein. a human cell which gets the mRNA vaccine in it starts producing
+      the protein and gets killed by the immune system, and fully diggested.
+      spike will not float around. the mRNA in lipid particles can float around
+      and should be detected using the test they present here, if it goes into
+      the breastmilk. but i cannot judge if the timeframe is correct. the mRNA
+      vaccines are stable only for 8-10h in a body, some papers say, so i guess
+      the timeframe is correct, but i don't understand than why is this paper
+      not yet published. i can not getting a vaccine until i am sure that it is
+      not going into the milk, and i would love to see what is going on with
+      this research.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.03.05.21252998v1
+  tweets:
+    - created_at: Mon Jun 28 01:03:20 +0000 2021
+      id: 1409316450087567400
+      id_str: "1409316450087567363"
+      text: >-
+        💬 medRxiv comment on "COVID-19 mRNA vaccine is not d..."
+
+
+        "it is actually very relevant. spike protein is a transme… https://t.co/BTEKanooOx
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/BTEKanooOx
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jun 28 01:03:20 +0000 2021
+      id: 1409316451119362000
+      id_str: "1409316451119362049"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/Dml5mNWNsu
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/Dml5mNWNsu
+      in_reply_to_status_id: 1409316450087567400
+      in_reply_to_status_id_str: "1409316450087567363"
