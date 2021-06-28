@@ -30275,3 +30275,115 @@
           - url: https://t.co/oTURmeVcNy
       in_reply_to_status_id: 1409490511384223700
       in_reply_to_status_id_str: "1409490511384223747"
+- preprint:
+    id: "143204"
+    doi: 10.1101/2021.05.18.21257385
+    first_posted: 2021-05-25
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.18.21257385v1
+    url: https://api.rxivist.org/v1/papers/143204
+    title: Mask mandate and use efficacy in state-level COVID-19 containment
+    category: epidemiology
+    abstract: "Background: Containment of the COVID-19 pandemic requires
+      evidence-based strategies to reduce transmission. Because COVID-19 can
+      spread via respired droplets, many states have mandated mask use in public
+      settings. Randomized control trials have not clearly demonstrated mask
+      efficacy against respiratory viruses, but observational studies suggest
+      greater mask compliance may be associated with lower infection rates. We
+      hypothesized that statewide mask mandates and mask use are associated with
+      lower COVID-19 case growth rates in the United States. Methods: We
+      calculated total COVID-19 case growth and mask use for the continental
+      United States with data from the Centers for Disease Control and
+      Prevention and Institute for Health Metrics and Evaluation. We estimated
+      post-mask mandate case growth in non-mandate states using median issuance
+      dates of neighboring states with mandates. Results: Case growth was not
+      significantly different between mandate and non-mandate states at low or
+      high transmission rates, and surges were equivocal. Mask use predicted
+      lower case growth at low, but not high transmission rates. Growth rates
+      were comparable between states in the top and bottom mask use quintiles
+      adjusted for normalized total cases early in the pandemic and unadjusted
+      after peak Fall-Winter infections. Mask use did not predict Summer 2020
+      case growth for non-Northeast states or Fall-Winter 2020 growth for all
+      states. Conclusions: Mask mandates and use are not associated with slower
+      state-level COVID-19 spread during COVID-19 growth surges. COVID-19
+      containment requires future research and implementation of existing
+      efficacious strategies."
+    authors:
+      - name: Damian Guerra
+        orcid: http://orcid.org/0000-0002-6621-4656
+      - name: Daniel J Guerra
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8550177462"
+    numReports: 0
+    likes: 0
+    id: "5435365847"
+    createdAt: 2021-06-27T19:34:48
+    author:
+      username: rusbowden
+      about: ""
+      name: rusbowden
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/rusbowden/
+      url: ""
+      location: ""
+      id: "10245173"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      There is no question that they work. They work to keep much of the virus
+      from spreading. Below, I have already listed several of the studies that
+      show this -- including a global study with very different results. The WHO
+      is also ignoring this study as it calls for mask wearing just this week. 
+
+
+      Social distancing does not work 100% either. Neither do vaccines. Neither does good ventilation. The better the mask, the better the protection, the longer the social distancing, the better the protection. The better the ventilation or the more the rain and wind gusts, the better the protection. The consistency of taking precautions, the less the spread. If you wear a mask and then go home to a family with members who do not, you're in trouble. If you all wear masks all the time, and then attend a funeral and mask down, the virus has an in and will take it. People die from such carelessness by the hundreds of thousands. 
+
+
+      The only reason the virus has been spreading, is that people have not been taking precautions. That's pretty much what this study showed, the sabotage and inconsistency prevailed, such that a brainless virus outsmarted humans causing millions to suffer and get all sorts of organ damage, and millions in the world to die. Viruses work. That's what this study showed, nothing else. 
+
+
+      For the present strain, as need for better masks and not letting guards down is ever more important, a study such as this requires a virologist or epidemiologist on board to guide both how the study is performed, and what the results of the study actually can show -- how the study can help scientists, and beyond that, how the study can inform people while a deadly pandemic is killing them, their friends and relatives. It's not about appealing to people who would rather not wear a mask for whatever uninformed personal or political opinion they have been exposed to -- and that's who is using this study, the otherwsie uninformed. Science is not about news stories. 
+
+
+      Onefault of this study is too obvious, that the mandates in sister cities, such as Lowell versus the stricter Cambridge Massachusetts with more compliant citizenry, show incredibly different results. Still today, go to Cambridge, which is a denser city with the same population, and you will see far more people masked up than in Lowell, where the rebel factor has been extreme -- and its citizens paid for it, with their organs, and with their lives. We saw all this happen across the country, as communities in the same state stayed in the "red" or dangerous-to-go-out category, long after similar cities with stricter mandates or better compliance, did not. 
+
+
+      The study fails at the world level, where so many countries stayed far away from the extraordinarily deadly results that the USA got. We are a beacon of Covid-19 swill. Ultimately, in countries where people got together and governing was caring and effective, the pandemic was kept to a minimum. Every US state could have learned from New Zealand. This week, one person with Covid entered Australia, and the effected communities snapped into action, while in the US, we have just by count alone, 4000 cases of vaccinated people having caught contracted the virus, or need I mention the hundreds still dying each day, testament to the irresponsibility of reporting simething like this.
+
+
+      The study should have been looking for why they got the results they did. What did it really show? What was wrong with the study, as we already know masks work, and whatever was right with the study, what did it really show? Was it the extent to which sabotaging mask-wearing works? Was it that mask wearing was not as consistently performed as it could have been (a no brainer)? In other words, did people find funerals a good place to finally take masks off and spread the virus around? What good was all the hours of mask wearing? I saw couples (plural) under the cover of night, where the man was unmasked and his woman was not. What good was her mask?
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.05.18.21257385v1
+  tweets:
+    - created_at: Mon Jun 28 14:22:45 +0000 2021
+      id: 1409517631003054000
+      id_str: "1409517631003054081"
+      text: >-
+        💬 medRxiv comment on "Mask mandate and use efficacy ..."
+
+
+        "There is no question that they work. They work to keep m… https://t.co/wqNlDrFUIf
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/wqNlDrFUIf
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jun 28 14:22:45 +0000 2021
+      id: 1409517631737143300
+      id_str: "1409517631737143296"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/652MU3io4j
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/652MU3io4j
+      in_reply_to_status_id: 1409517631003054000
+      in_reply_to_status_id_str: "1409517631003054081"
