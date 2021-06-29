@@ -30817,3 +30817,119 @@
           - url: https://t.co/652MU30MFJ
       in_reply_to_status_id: 1409637472615551000
       in_reply_to_status_id_str: "1409637472615550979"
+- preprint:
+    id: "90273"
+    doi: 10.1101/2020.07.07.191742
+    first_posted: 2020-07-07
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.07.07.191742v1
+    url: https://api.rxivist.org/v1/papers/90273
+    title: The Connexin 43 Carboxyl Terminal Mimetic Peptide alphaCT1 Prompts
+      Differentiation of a Collagen Scar Matrix Resembling Unwounded Skin
+    category: cell-biology
+    abstract: >-
+      Phase II clinical trials have reported that acute treatment of surgical
+      skin wounds with the therapeutic peptide alphaCT1 improves cutaneous scar
+      appearance by 47% 9-months post-surgery - though mode-of-action remains
+      unknown. Scar matrix structure in biopsies 2 to 6 weeks post-wounding
+      treated topically with alphaCT1 or control treatments from human subjects,
+      Sprague-Dawley rats, and IAF hairless guinea pigs were compared. The sole
+      effect on scar structure was that alphaCT1-treated scars had less
+      alignment of collagen fibers relative to control wounds, a state that
+      resembles unwounded skin. This more random alignment was recapitulated in
+      both animal models, together with transient increases in collagen density,
+      although the guinea pig was found to more closely replicate the pattern of
+      response to alphaCT1 in human scars, compared to rat. Fibroblasts treated
+      with alphaCT1 in vitro showed decreased directionality and an agent-based
+      computational model parameterized with fibroblast motility data predicted
+      collagen alignments in simulated scars consistent with that observed
+      experimentally in human and the animal models. In conclusion, alphaCT1
+      prompts decreased directionality of fibroblast movement and the generation
+      of a 3D collagen matrix post-wounding that is similar to unwounded skin -
+      changes that correlate with long-term improvement in scar appearance.
+
+
+      ### Competing Interest Statement
+
+
+      GSG is CEO and President of FirstString Research Inc. CLG is Senior Director of Research and Development at FirstString Research Inc. RGG is a non-remunerated member of the Scientific Advisory Board of FirstString Research, which licensed α carboxyl terminus 1 peptide. GSG, RGG, LJJ, and CLG have ownership interests in FirstString Research Inc. The remaining authors have no disclosures to report.
+    authors:
+      - name: Jade Montgomery
+        orcid: null
+      - name: William J. Richardson
+        orcid: http://orcid.org/0000-0001-8678-9716
+      - name: J. Matthew Rhett
+        orcid: http://orcid.org/0000-0003-2608-3767
+      - name: Francis Bustos
+        orcid: null
+      - name: Katherine Degen
+        orcid: null
+      - name: Gautam S. Ghatnekar
+        orcid: http://orcid.org/0000-0003-2578-9039
+      - name: Christina L. Grek
+        orcid: null
+      - name: Spencer Marsh
+        orcid: null
+      - name: L. Jane Jourdan
+        orcid: null
+      - name: Jeffrey W. Holmes
+        orcid: http://orcid.org/0000-0001-9125-7220
+      - name: Robert G. Gourdie
+        orcid: http://orcid.org/0000-0001-6021-0796
+  comment:
+    dislikes: 0
+    thread: "8114731662"
+    numReports: 0
+    likes: 0
+    id: "5436699980"
+    createdAt: 2021-06-28T21:36:15
+    author:
+      username: robertgourdie
+      about: ""
+      name: Robert Gourdie
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/robertgourdie/
+      url: ""
+      location: ""
+      id: "156948610"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: A revised manuscript has been accepted for publications at the
+      FASEB Journal -  Montgomery J, Richardson WJ, Rhett JM, Bustos F, Degen K,
+      Ghatnekar GS, Grek CL, Jourdan LJ, Holmes JW, and RG Gourdie. The Cx43
+      Carboxyl Terminal Mimetic alpaCT1 Prompts Collagen Organization in Human
+      Scar Granulation Tissue Resembling Unwounded Dermis. FASEB Journal, in
+      press, 2021. doi:10.1096/fj.202001881R
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.07.07.191742v1
+  tweets:
+    - created_at: Tue Jun 29 00:59:02 +0000 2021
+      id: 1409677757638799400
+      id_str: "1409677757638799360"
+      text: >-
+        💬 bioRxiv comment on "The Connexin 43 Carboxyl Termi..."
+
+
+        "A revised manuscript has been accepted for publications… https://t.co/89z0Ih7erv
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/89z0Ih7erv
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jun 29 00:59:02 +0000 2021
+      id: 1409677758666469400
+      id_str: "1409677758666469389"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/R4yTqSBt4A
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/R4yTqSBt4A
+      in_reply_to_status_id: 1409677757638799400
+      in_reply_to_status_id_str: "1409677757638799360"
