@@ -31150,3 +31150,188 @@
           - url: https://t.co/XH0ArtpodZ
       in_reply_to_status_id: 1409879959489978400
       in_reply_to_status_id_str: "1409879959489978375"
+- preprint:
+    id: "147318"
+    doi: 10.1101/2021.06.19.21259117
+    first_posted: 2021-06-23
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.19.21259117v1
+    url: https://api.rxivist.org/v1/papers/147318
+    title: Systematic single-variant and gene-based association testing of 3,700
+      phenotypes in 281,850 UK Biobank exomes
+    category: genetic-and-genomic-medicine
+    abstract: Genome-wide association studies have successfully discovered thousands
+      of common variants associated with human diseases and traits, but the
+      landscape of rare variation in human disease has not been explored at
+      scale. Exome sequencing studies of population biobanks provide an
+      opportunity to systematically evaluate the impact of rare coding variation
+      across a wide range of phenotypes to discover genes and allelic series
+      relevant to human health and disease. Here, we present results from
+      systematic association analyses of 3,700 phenotypes using single-variant
+      and gene tests of 281,850 individuals in the UK Biobank with exome
+      sequence data. We find that the discovery of genetic associations is
+      tightly linked to frequency as well as correlated with metrics of
+      deleteriousness and natural selection. We highlight biological findings
+      elucidated by these data and release the dataset as a public resource
+      alongside a browser framework for rapidly exploring rare variant
+      association results.
+    authors:
+      - name: Konrad Karczewski
+        orcid: http://orcid.org/0000-0003-2878-4671
+      - name: Matthew Solomonson
+        orcid: http://orcid.org/0000-0002-5344-9026
+      - name: Katherine R Chao
+        orcid: http://orcid.org/0000-0003-2897-2410
+      - name: Julia K Goodrich
+        orcid: http://orcid.org/0000-0003-0480-1924
+      - name: Grace Tiao
+        orcid: http://orcid.org/0000-0001-9864-8275
+      - name: Wenhan Lu
+        orcid: null
+      - name: Bridget Riley-Gillis
+        orcid: null
+      - name: Ellen Tsai
+        orcid: http://orcid.org/0000-0002-5625-1189
+      - name: Hye In Kim
+        orcid: null
+      - name: Xiuwen Zheng
+        orcid: http://orcid.org/0000-0002-1390-0708
+      - name: Fedik Rahimov
+        orcid: null
+      - name: Sahar Esmaeeli
+        orcid: null
+      - name: A Jason Grundstad
+        orcid: null
+      - name: Mark Reppell
+        orcid: null
+      - name: Jeff Waring
+        orcid: null
+      - name: Howard Jacob
+        orcid: null
+      - name: David Sexton
+        orcid: null
+      - name: Paola G. Bronson
+        orcid: http://orcid.org/0000-0001-9996-9812
+      - name: Xing Chen
+        orcid: http://orcid.org/0000-0002-6740-9535
+      - name: Xinli Hu
+        orcid: null
+      - name: Jacqueline I Goldstein
+        orcid: http://orcid.org/0000-0003-1902-6916
+      - name: Daniel King
+        orcid: null
+      - name: Chris Vittal
+        orcid: null
+      - name: Timothy Poterba
+        orcid: http://orcid.org/0000-0003-1287-3434
+      - name: Duncan S Palmer
+        orcid: http://orcid.org/0000-0002-0824-0047
+      - name: Claire Churchhouse
+        orcid: http://orcid.org/0000-0003-3140-6452
+      - name: Daniel P Howrigan
+        orcid: http://orcid.org/0000-0002-7721-4838
+      - name: Wei Zhou
+        orcid: http://orcid.org/0000-0001-7719-0859
+      - name: Nicholas A Watts
+        orcid: null
+      - name: Kevin Nguyen
+        orcid: null
+      - name: Huy Nguyen
+        orcid: null
+      - name: Cara Mason
+        orcid: null
+      - name: Christopher Farnham
+        orcid: null
+      - name: Charlotte Tolonen
+        orcid: null
+      - name: Laura D Gauthier
+        orcid: null
+      - name: Namrata Gupta
+        orcid: null
+      - name: Daniel G MacArthur
+        orcid: http://orcid.org/0000-0002-5771-2290
+      - name: Heidi L Rehm
+        orcid: http://orcid.org/0000-0002-6025-0015
+      - name: Cotton Seed
+        orcid: null
+      - name: Anthony Philippakis
+        orcid: null
+      - name: Mark Daly
+        orcid: http://orcid.org/0000-0002-0949-8752
+      - name: J Wade Davis
+        orcid: null
+      - name: Heiko Runz
+        orcid: http://orcid.org/0000-0002-2133-7345
+      - name: Melissa R. Miller
+        orcid: null
+      - name: Benjamin M Neale
+        orcid: http://orcid.org/0000-0003-1513-6077
+  comment:
+    dislikes: 0
+    thread: "8611420055"
+    numReports: 0
+    likes: 0
+    id: "5436827730"
+    createdAt: 2021-06-28T23:40:06
+    author:
+      username: alexpoliakov
+      about: ""
+      name: Alex Poliakov
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/alexpoliakov/
+      url: ""
+      location: ""
+      id: "228799165"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Really cool! 
+
+
+      Why do we get different numbers of results for different genes? If I type in a gene symbol into the browser and then press "export data to csv" - I get different numbers of rows for different genes:
+
+
+      APOE:   1001 phenotypes
+
+      PCSK9: 1951 phenotypes
+
+      BRCA1: 1950 phenotypes
+
+      IL6:          978 phenotypes
+
+
+      At first we thought it might be a pvalue threshold but there are entries with pvalue=1 in all cases...
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.06.19.21259117v1
+  tweets:
+    - created_at: Tue Jun 29 16:31:22 +0000 2021
+      id: 1409912384534294500
+      id_str: "1409912384534294539"
+      text: |-
+        💬 medRxiv comment on "Systematic single-variant and ..."
+
+        "Really cool! 
+
+        Why do we get different numbers of result… https://t.co/m6AMy0VA1U
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/m6AMy0VA1U
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jun 29 16:31:22 +0000 2021
+      id: 1409912385285013500
+      id_str: "1409912385285013516"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/1z26odUPKc
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/1z26odUPKc
+      in_reply_to_status_id: 1409912384534294500
+      in_reply_to_status_id_str: "1409912384534294539"
