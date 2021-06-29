@@ -31044,3 +31044,109 @@
           - url: https://t.co/M9ds9DVYq7
       in_reply_to_status_id: 1409852694085312500
       in_reply_to_status_id_str: "1409852694085312515"
+- preprint:
+    id: "93054"
+    doi: 10.1101/2020.07.31.230987
+    first_posted: 2020-07-31
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.07.31.230987v3
+    url: https://api.rxivist.org/v1/papers/93054
+    title: Global variation in the SARS-CoV-2 proteome reveals the mutational
+      hotspots in the drug and vaccine candidates
+    category: bioinformatics
+    abstract: >-
+      To accelerate the drug and vaccine development against the severe acute
+      respiratory syndrome virus 2 (SARS-CoV-2), a comparative analysis of
+      SARS-CoV-2 proteome has been performed in two phases by considering
+      manually curated 31389 whole genome sequences from 84 countries. Among the
+      9 mutations that occur at a high significance (T85I-NPS2, L37F-NSP6,
+      P323L-NSP12, D614G-spike, Q57H-ORF3a, G251V-ORF3a, L84S-ORF8,
+      R203K-nucleocapsid and G204R-nucleocapsid), R203K-nucleocapsid and
+      G204R-nucleocapsid are co-occurring (dependent) mutations and P323L-NSP12
+      and D614G-spike often appear simultaneously. Other notable variations that
+      appear with a moderate to low significance are, M85-NSP1 deletion,
+      D268-NSP2 deletion, 112 amino acids deletion in ORF8, a phenylalanine
+      insertion amidst F34-F36 (NSP6) and several co-existing (dependent)
+      substitution/deletion (I559V & P585S in NSP2, P504L & Y541C in NSP13, G82
+      & H83 deletions in NSP1 and K141, S142 & F143 deletions in NSP2)
+      mutations. P323L-NSP12, D614G-spike, L37F-NSP6, L84S-ORF8 and the
+      sequences deficient of the high significant mutations have led to 4 major
+      SARS-CoV-2 clades. The top 5 countries bearing all the high significant
+      and majority of the moderate significant mutations are: USA, England,
+      Wales, Australia and Scotland. Further, the majority of the significant
+      mutations have evolved in the first phase and have already transmitted
+      around the globe indicating the positive selection pressure. Among the 26
+      SARS-CoV-2 proteins, nucleocapsid protein, ORF3a, ORF8, RNA dependent RNA
+      polymerase and spike exhibit a higher heterogeneity compared with the rest
+      of the proteins. However, NSP9, NSP10, NSP8, the envelope protein and NSP4
+      are highly resistant to mutations and can be exploited for drug/vaccine
+      development.
+
+
+      ### Competing Interest Statement
+
+
+      The authors have declared no competing interest.
+    authors:
+      - name: L Ponoop Prasad Patro
+        orcid: null
+      - name: Chakkarai Sathyaseelan
+        orcid: null
+      - name: Patil Pranita Uttamrao
+        orcid: null
+      - name: Thenmalarchelvi Rathinavelan
+        orcid: http://orcid.org/0000-0002-1142-0583
+  comment:
+    dislikes: 0
+    thread: "8154742983"
+    numReports: 0
+    likes: 0
+    id: "5437076523"
+    createdAt: 2021-06-29T05:06:44
+    author:
+      username: lponoopprasadpatro
+      about: ""
+      name: L PONOOP PRASAD Patro
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/lponoopprasadpatro/
+      url: ""
+      location: ""
+      id: "371617814"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: The preprint has been now published with doi
+      https://doi.org/10.1016/j.meegid.2021.104973 and a link will be
+      forthcoming in the current page.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.07.31.230987v3
+  tweets:
+    - created_at: Tue Jun 29 14:22:31 +0000 2021
+      id: 1409879959489978400
+      id_str: "1409879959489978375"
+      text: >-
+        💬 bioRxiv comment on "Global variation in the SARS-C..."
+
+
+        "The preprint has been now published with doi  and a link… https://t.co/nTElwFpobR
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/nTElwFpobR
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jun 29 14:22:31 +0000 2021
+      id: 1409879960513302500
+      id_str: "1409879960513302541"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/XH0ArtpodZ
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/XH0ArtpodZ
+      in_reply_to_status_id: 1409879959489978400
+      in_reply_to_status_id_str: "1409879959489978375"
