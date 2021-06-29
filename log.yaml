@@ -31432,3 +31432,59 @@
           - url: https://t.co/LeXfACb2fq
       in_reply_to_status_id: 1409940890668482600
       in_reply_to_status_id_str: "1409940890668482565"
+- preprint:
+    id: 147500
+    metric: 10
+    title: A novel flight style allowing the smallest featherwing beetles to excel
+    url: https://api.rxivist.org/v1/papers/147500
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.24.449497v1
+    doi: 10.1101/2021.06.24.449497
+    category: zoology
+    first_posted: 2021-06-25
+    abstract: Flight speed generally correlates positively with animal body size
+      [1]. Surprisingly, miniature featherwing beetles can fly at speeds and
+      accelerations of insects three times as large [2]. We show here that this
+      performance results from a previously unknown type of wing motion. Our
+      experiment combines three-dimensional reconstructions of morphology and
+      kinematics in one of the smallest insects, Paratuposa placentis (body
+      length 395 m). The flapping bristled wing follows a pronounced
+      figure-eight loop that consists of subperpendicular up and down strokes
+      followed by claps at stroke reversals, above and below the body.
+      Computational analyses suggest a functional decomposition of the flapping
+      cycle in two power half strokes producing a large upward force and two
+      down-dragging recovery half strokes. In contrast to heavier membranous
+      wings, the motion of bristled wings of the same size requires little
+      inertial power. Muscle mechanical power requirements thus remain positive
+      throughout the wing beat cycle, making elastic energy storage obsolete.
+      This novel flight style evolved during miniaturization may compensate for
+      costs associated with air viscosity and helps explain how extremely small
+      insects preserved superb aerial performance during miniaturization.
+      Incorporating this flight style in artificial flappers is a challenge for
+      designers of micro aerial vehicles.
+    authors:
+      - name: Sergey E. Farisenkov
+      - name: Dmitry Kolomenskiy
+      - name: Pyotr N. Petrov
+      - name: Nadejda A. Lapina
+      - name: Thomas Engels
+      - name: Fritz-Olaf Lehmann
+      - name: Ryo Onishi
+      - name: Hao Liu
+      - name: Alexey A. Polilov
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Tue Jun 29 20:15:51 +0000 2021
+      id: 1409968878835302400
+      id_str: "1409968878835302401"
+      text: >-
+        🔥 bioRxiv Zoology preprint by S. E. Farisenkov et al:
+
+
+        "A novel flight style allowing the smallest featherwing beet… https://t.co/YoO2Qj1Lby
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/YoO2Qj1Lby
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
