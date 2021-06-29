@@ -31488,3 +31488,93 @@
           - url: https://t.co/YoO2Qj1Lby
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "123186"
+    doi: 10.1101/2020.12.29.424677
+    first_posted: 2020-12-30
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2020.12.29.424677v1
+    url: https://api.rxivist.org/v1/papers/123186
+    title: Global cognitive performance is not influenced by diurnal rhythm
+    category: neuroscience
+    abstract: >-
+      ObjectiveThe human brain is influenced by different biological rhythms,
+      including the daily 24-hour (diurnal) cycle. Past studies have reported
+      evidence of variation in cognitive performance over the course of the day,
+      and of differences in the peak time for cognition in older age. Here, we
+      investigated these questions using two existing longitudinal studies of
+      healthy adults.
+
+
+      MethodsTime of neuropsychological battery testing was extracted from study records, and we analyzed cognitive performance measures from 4 domains (Vocabulary, Processing Speed, Fluid Reasoning, and Episodic Memory) in 543 healthy adults between the ages of 20 and 80. Time of day was dichotomized as morning (281 tested before noon), and afternoon (242 tested after noon).
+
+
+      ResultsMultivariate analyses controlling for both gender and years of education revealed no significant effect of time of testing (or its interaction with participant age) on cognitive performance. These results suggest that diurnal effects during time periods typically used to test human subjects are unlikely to have a meaningful effect on performance on the neuropsychological tests that are used for standard cognitive assessment.
+
+
+      ConclusionThis suggests that the effect of time of day on cognition in the context of aging may not be as ubiquitous as previously suggested, and thus is unlikely to represent a large confound in existing studies of cognition across the adult lifespan.
+    authors:
+      - name: Celine H De Jager
+        orcid: null
+      - name: Eleanna Varangis
+        orcid: http://orcid.org/0000-0002-2688-2297
+      - name: Yaakov Stern
+        orcid: http://orcid.org/0000-0001-7542-3241
+  comment:
+    dislikes: 0
+    thread: "8336309231"
+    numReports: 0
+    likes: 0
+    id: "5436375524"
+    createdAt: 2021-06-28T17:27:15
+    author:
+      username: disqus_s7SMsaXewm
+      about: ""
+      name: SkepticalScientist
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_s7SMsaXewm/
+      url: ""
+      location: ""
+      id: "39292732"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Interesting paper, but I think given the lack of information about
+      chronotype/circadian rhythms & the lack of control of when people came in
+      means I’m not sure I buy that this says much about time of day - just that
+      people generally circumvent detrimental outcomes to cognition by planning
+      to come in for experiments when they feel awake and ready to be tested.
+      I’d love to see a study using actigraphy x time of testing effects on
+      cognition at the same sort of scale as this study.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.12.29.424677v1
+  tweets:
+    - created_at: Tue Jun 29 20:19:17 +0000 2021
+      id: 1409969745055584300
+      id_str: "1409969745055584256"
+      text: >-
+        💬 bioRxiv comment on "Global cognitive performance i..."
+
+
+        "Interesting paper, but I think given the lack of informa… https://t.co/HLQzoM2CkE
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/HLQzoM2CkE
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jun 29 20:19:18 +0000 2021
+      id: 1409969746108326000
+      id_str: "1409969746108325889"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/qorwX1oYPW
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/qorwX1oYPW
+      in_reply_to_status_id: 1409969745055584300
+      in_reply_to_status_id_str: "1409969745055584256"
