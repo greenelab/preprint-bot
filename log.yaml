@@ -31578,3 +31578,113 @@
           - url: https://t.co/qorwX1oYPW
       in_reply_to_status_id: 1409969745055584300
       in_reply_to_status_id_str: "1409969745055584256"
+- preprint:
+    id: "116950"
+    doi: 10.1101/2020.09.22.20199521
+    first_posted: 2020-09-23
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2020.09.22.20199521v1
+    url: https://api.rxivist.org/v1/papers/116950
+    title: "APPLAUSE: Automatic Prediction of PLAcental health via U-net
+      Segmentation and statistical Evaluation"
+    category: obstetrics-and-gynecology
+    abstract: "Purpose: Artificial-intelligence population-based automated
+      quantification of placental maturation and health from a rapid functional
+      Magnetic Resonance scan. The placenta plays a crucial role for any
+      successful human pregnancy. Deviations from the normal dynamic maturation
+      throughout gestation are closely linked to major pregnancy complications.
+      Antenatal assessment in-vivo using T2* relaxometry has shown great promise
+      to inform management and possible interventions but clinical translation
+      is hampered by time consuming manual segmentation and analysis techniques
+      based on comparison against normative curves over gestation. Methods: This
+      study proposes a fully automatic pipeline to predict the biological age
+      and health of the placenta based on a rapid (sub-30 second) T2* scan in
+      two steps: Automatic segmentation using a U-Net and a Gaussian Process
+      regression model to characterize placental maturation and health. These
+      are trained and evaluated on 110 3T MRI placental data sets including 20
+      high-risk pregnancies diagnosed with pre-eclampsia and/or fetal growth
+      restriction. Results: Automatic segmentation achieves comparable
+      performance to human experts (mean DICE coefficients automatic-manual
+      0.76, Pearson Correlation Coefficient 0.986 for mean T2* within the
+      masks). The placental health prediction achieves an excellent ability to
+      differentiate early cases of placental insufficiency before 32 weeks. High
+      abnormality scores correlate with low birth weight, premature birth and
+      histopathological findings. Retrospective application on a different
+      cohort imaged at 1.5T illustrates the ability for direct clinical
+      translation. Conclusion: The presented automatic pipeline facilitates a
+      fast, robust and reliable prediction of placental maturation. It yields
+      human-interpretable and verifiable intermediate results and quantifies
+      uncertainties on the cohort-level and for individual predictions. The
+      proposed machine-learning pipeline runs in close to real-time and,
+      deployed in clinical settings, has the potential to become a cornerstone
+      of diagnosis and intervention of placental insufficiency."
+    authors:
+      - name: Maximilian Pietsch
+        orcid: http://orcid.org/0000-0002-5581-8489
+      - name: Alison Ho
+        orcid: null
+      - name: Alessia Bardanzellu
+        orcid: null
+      - name: Aya Mutaz Ahmad Zeidan
+        orcid: null
+      - name: Lucy C Chappell
+        orcid: http://orcid.org/0000-0001-6219-3379
+      - name: Joseph V. Hajnal
+        orcid: http://orcid.org/0000-0002-2690-5495
+      - name: Mary A. Rutherford
+        orcid: http://orcid.org/0000-0003-3361-1337
+      - name: Jana Hutter
+        orcid: http://orcid.org/0000-0003-3476-3500
+  comment:
+    dislikes: 0
+    thread: "8213199510"
+    numReports: 0
+    likes: 0
+    id: "5437175758"
+    createdAt: 2021-06-29T08:20:33
+    author:
+      username: disqus_WS81AqH3rO
+      about: ""
+      name: Max Pietsch
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_WS81AqH3rO/
+      url: ""
+      location: ""
+      id: "83220687"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: "For the peer-reviewed updated version of this paper, please see:
+      https://www.sciencedirect.com/science/article/pii/S1361841521001912"
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2020.09.22.20199521v1
+  tweets:
+    - created_at: Tue Jun 29 22:19:58 +0000 2021
+      id: 1410000112538075100
+      id_str: "1410000112538075138"
+      text: >-
+        💬 medRxiv comment on "APPLAUSE: Automatic Prediction..."
+
+
+        "For the peer-reviewed updated version of this paper, ple… https://t.co/2veHAsy8pB
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/2veHAsy8pB
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jun 29 22:19:58 +0000 2021
+      id: 1410000113339150300
+      id_str: "1410000113339150340"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/hqiasc1lb0
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/hqiasc1lb0
+      in_reply_to_status_id: 1410000112538075100
+      in_reply_to_status_id_str: "1410000112538075138"
