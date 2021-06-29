@@ -30933,3 +30933,114 @@
           - url: https://t.co/R4yTqSBt4A
       in_reply_to_status_id: 1409677757638799400
       in_reply_to_status_id_str: "1409677757638799360"
+- preprint:
+    id: "146930"
+    doi: 10.1101/2021.06.20.21259195
+    first_posted: 2021-06-21
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.20.21259195v1
+    url: https://api.rxivist.org/v1/papers/146930
+    title: Rapid displacement of SARS-CoV-2 variant B.1.1.7 by B.1.617.2 and P.1 in
+      the United States
+    category: infectious-diseases
+    abstract: The SARS-CoV-2 variant of concern B.1.617.2 displaced B.1.1.7 as the
+      dominant variant in England and other countries. This study aimed to
+      determine whether B.1.617.2 was also displacing B.1.1.7 in the United
+      States. We analyzed PCR testing results and viral sequencing results of
+      samples collected across the United States, and showed that B.1.1.7 was
+      rapidly being displaced and is no longer responsible for the majority of
+      new cases. The percentage of SARS-CoV-2 positive cases that are B.1.1.7
+      dropped from 70% in April 2021 to 42% in just 6 weeks. Our analysis showed
+      rapid growth of variants B.1.617.2 and P.1 as the primary drivers for this
+      displacement. Currently, the growth rate of B.1.617.2 was higher than P.1
+      in the US (0.61 vs. 0.22), which is consistent with reports from other
+      countries. Lastly, we showed that B.1.617.2 was growing faster in counties
+      with a lower vaccination rate.
+    authors:
+      - name: Alexandre Bolze
+        orcid: http://orcid.org/0000-0001-7399-2766
+      - name: Elizabeth T. Cirulli
+        orcid: null
+      - name: Shishi Luo
+        orcid: null
+      - name: Simon White
+        orcid: http://orcid.org/0000-0001-6375-2363
+      - name: Tyler Cassens
+        orcid: null
+      - name: Sharoni Jacobs
+        orcid: null
+      - name: Jason Nguyen
+        orcid: http://orcid.org/0000-0002-6812-9017
+      - name: Jimmy M Ramirez
+        orcid: null
+      - name: Efren Sandoval
+        orcid: null
+      - name: Xueqing Wang
+        orcid: http://orcid.org/0000-0002-2049-8403
+      - name: David Wong
+        orcid: null
+      - name: David Becker
+        orcid: null
+      - name: Marc Laurent
+        orcid: null
+      - name: James Lu
+        orcid: http://orcid.org/0000-0002-1873-7049
+      - name: Magnus Isaksson
+        orcid: null
+      - name: Nicole L. Washington
+        orcid: http://orcid.org/0000-0001-8936-9143
+      - name: William Lee
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8607080142"
+    numReports: 0
+    likes: 0
+    id: "5436962928"
+    createdAt: 2021-06-29T02:14:48
+    author:
+      username: disqus_3RfpD2OJtg
+      about: ""
+      name: JM V
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_3RfpD2OJtg/
+      url: ""
+      location: ""
+      id: "233198323"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: I presume growth rates are in units of "per week" ?
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.06.20.21259195v1
+  tweets:
+    - created_at: Tue Jun 29 12:34:10 +0000 2021
+      id: 1409852694085312500
+      id_str: "1409852694085312515"
+      text: |-
+        💬 medRxiv comment on "Rapid displacement of SARS-CoV..."
+
+        "I presume growth rates are in units of "per week" ?"
+
+        https://t.co/y6PABKRDxf
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/y6PABKRDxf
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jun 29 12:34:10 +0000 2021
+      id: 1409852694982848500
+      id_str: "1409852694982848515"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/M9ds9DVYq7
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/M9ds9DVYq7
+      in_reply_to_status_id: 1409852694085312500
+      in_reply_to_status_id_str: "1409852694085312515"
