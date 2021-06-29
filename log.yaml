@@ -31335,3 +31335,100 @@
           - url: https://t.co/1z26odUPKc
       in_reply_to_status_id: 1409912384534294500
       in_reply_to_status_id_str: "1409912384534294539"
+- preprint:
+    id: "48879"
+    doi: 10.1101/613711
+    first_posted: 2019-04-18
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/613711v1
+    url: https://api.rxivist.org/v1/papers/48879
+    title: Determination of clinical risk factors associated with inflammation in
+      hypertensive patients with type-2 diabetes mellitus
+    category: epidemiology
+    abstract: "Background: Obesity and chronic diseases associated with the
+      development of inflammation have remained unclear if the observed
+      inflammatory state in diabetic patients is due to excess adipose tissue
+      mass and/or directly associated with the diabetic state. Therefore, this
+      study determined the risk factors associated with inflammation in
+      hypertensive patients with type-2 diabetes mellitus. Methods: A total of
+      164 hypertensive diabetic patients aged 38 to 60 years were selected from
+      seven primary health care centers in Gaza city, Palestine. Interview and
+      questionnaire were employed to collect data related to age, gender,
+      smoking habits, and physical activity pattern. Besides, the selection of
+      patients depended on objective criteria. Results: The study involved 118
+      (72%) women and 46 (28%) men. The mean of age for all patients was 53.7 ±
+      0.46 years old. 76 patients (46.3%) were categorized as current smokers,
+      88 patients (53.7%) categorized as non-smokers. The baseline distribution
+      of patients according to physical activity has displayed that 130 (79.3%)
+      were low physically active patients, 28 (27.1%) were moderate, and 6
+      (3.7%) were highly physically active patients. A tertile of inflammation
+      feature with high sensitivity C-reactive protein (hs-CRP) was developed.
+      The highest tertile of hs-CRP was significantly associated with women,
+      higher obesity indices, metabolic dysregulation involving lipid profile
+      markers, fasting blood glucose (FBG) and blood pressure, higher
+      interleukin 6 (IL-6), and lower adiponectin. Via ordinal logistic
+      regression analysis, after adjusting for age, gender, smoking habits, and
+      physical activity; the risk factors for hs-CRP were the increased body
+      mass index [OR: 1.17, P=0.018], IL-6 [OR: 2.22, P=0.025] and FBG [OR:
+      1.01, P=0.007], as well as reduced adiponectin [OR: 0.81, P=0.002].
+      Conclusion: The inflammation state was affected by obesity and had been
+      related to altered adipokines levels of IL-6 and adiponectin, as well as
+      affected by the disease condition of diabetes, as evidenced by higher
+      serum level of FBG."
+    authors:
+      - name: Mohammed S. Ellulu
+        orcid: http://orcid.org/0000-0003-1671-799X
+  comment:
+    dislikes: 0
+    thread: "7366079178"
+    numReports: 0
+    likes: 0
+    id: "5437607291"
+    createdAt: 2021-06-29T16:25:35
+    author:
+      username: mohammedsellulu
+      about: ""
+      name: Mohammed S. Ellulu
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/mohammedsellulu/
+      url: ""
+      location: ""
+      id: "371591956"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: |-
+      The study published in the Current Medical Research and Opinion 
+      https://doi.org/10.1080/03007995.2021.1941826
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/613711v1
+  tweets:
+    - created_at: Tue Jun 29 18:24:38 +0000 2021
+      id: 1409940890668482600
+      id_str: "1409940890668482565"
+      text: >-
+        💬 bioRxiv comment on "Determination of clinical risk..."
+
+
+        "The study published in the Current Medical Research and… https://t.co/Gfaxi2u6tI
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/Gfaxi2u6tI
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jun 29 18:24:38 +0000 2021
+      id: 1409940891414958000
+      id_str: "1409940891414958080"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/LeXfACb2fq
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/LeXfACb2fq
+      in_reply_to_status_id: 1409940890668482600
+      in_reply_to_status_id_str: "1409940890668482565"
