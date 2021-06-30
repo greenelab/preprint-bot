@@ -31776,3 +31776,101 @@
           - url: https://t.co/BSMtoxg74u
       in_reply_to_status_id: 1410041732851548200
       in_reply_to_status_id_str: "1410041732851548165"
+- preprint:
+    id: "129781"
+    doi: 10.1101/2021.02.12.21251640
+    first_posted: 2021-02-18
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.02.12.21251640v1
+    url: https://api.rxivist.org/v1/papers/129781
+    title: Optimal Allocation of COVID-19 Vaccines in the Philippines
+    category: epidemiology
+    abstract: Vaccine allocation is a national concern especially for countries such
+      as the Philippines that have limited resources in acquiring COVID-19
+      vaccines. As such, certain groups are suggested to be prioritized for
+      vaccination to protect the most vulnerable before vaccinating others. Our
+      model suggests an allocation of vaccines such that COVID-19 deaths are
+      minimized while the prioritization framework is satisfied. Results of the
+      model show that a vaccine coverage of at least 50 to 70% of the population
+      can be enough for a community with limited supplies, and an increase in
+      vaccine supply is beneficial if initial coverage is less than the
+      specified target range. Also, among the vaccines considered in the study,
+      the one with 89.9% effectiveness and has a 183 Philippine peso (Php) price
+      per dose projected the least number of deaths. Compared to other model
+      variations and common allocation approaches, the model has achieved both
+      an optimal and equitable allocation. This will be helpful for policymakers
+      in determining a vaccine distribution for a resource-constrained
+      community.
+    authors:
+      - name: Christian Alvin H Buhat
+        orcid: http://orcid.org/0000-0003-4742-7688
+      - name: Destiny SM Lutero
+        orcid: null
+      - name: Yancee H. Olave
+        orcid: null
+      - name: Kemuel M Quindala
+        orcid: null
+      - name: Mary Grace P Recreo
+        orcid: null
+      - name: Dylan Antonio SJ Talabis
+        orcid: http://orcid.org/0000-0002-4468-688X
+      - name: Monica C. Torres
+        orcid: http://orcid.org/0000-0003-1628-0759
+      - name: Jerrold M. Tubay
+        orcid: http://orcid.org/0000-0003-4826-1966
+      - name: Jomar F Rabajante
+        orcid: http://orcid.org/0000-0002-0655-0893
+  comment:
+    dislikes: 0
+    thread: "8402897593"
+    numReports: 0
+    likes: 0
+    id: "5436131373"
+    createdAt: 2021-06-28T14:02:58
+    author:
+      username: jomarfajardorabajante
+      about: ""
+      name: Jomar Fajardo Rabajante
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/jomarfajardorabajante/
+      url: ""
+      location: ""
+      id: "51463798"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: The updated version of this manuscript is published in
+      https://link.springer.com/article/10.1007%2Fs40258-021-00667-z
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.02.12.21251640v1
+  tweets:
+    - created_at: Wed Jun 30 12:36:30 +0000 2021
+      id: 1410215667161342000
+      id_str: "1410215667161341957"
+      text: |-
+        💬 medRxiv comment on "Optimal Allocation of COVID-19..."
+
+        "The updated version of this manuscript is published in "
+
+        https://t.co/8xbXsyGCi4
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/8xbXsyGCi4
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed Jun 30 12:36:30 +0000 2021
+      id: 1410215667937255400
+      id_str: "1410215667937255424"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/oIaqJUet4r
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/oIaqJUet4r
+      in_reply_to_status_id: 1410215667161342000
+      in_reply_to_status_id_str: "1410215667161341957"
