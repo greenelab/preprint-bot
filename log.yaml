@@ -31688,3 +31688,91 @@
           - url: https://t.co/hqiasc1lb0
       in_reply_to_status_id: 1410000112538075100
       in_reply_to_status_id_str: "1410000112538075138"
+- preprint:
+    id: "147028"
+    doi: 10.1101/2021.06.18.449051
+    first_posted: 2021-06-22
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.18.449051v1
+    url: https://api.rxivist.org/v1/papers/147028
+    title: Recovery of deleted deep sequencing data sheds more light on the early
+      Wuhan SARS-CoV-2 epidemic
+    category: evolutionary-biology
+    abstract: The origin and early spread of SARS-CoV-2 remains shrouded in mystery.
+      Here I identify a data set containing SARS-CoV-2 sequences from early in
+      the Wuhan epidemic that has been deleted from the NIH's Sequence Read
+      Archive. I recover the deleted files from the Google Cloud, and
+      reconstruct partial sequences of 13 early epidemic viruses. Phylogenetic
+      analysis of these sequences in the context of carefully annotated existing
+      data further supports the idea that the Huanan Seafood Market sequences
+      are not fully representative of the viruses in Wuhan early in the
+      epidemic. Instead, the progenitor of currently known SARS-CoV-2 sequences
+      likely contained three mutations relative to the market viruses that made
+      it more similar to SARS-CoV-2's bat coronavirus relatives.
+    authors:
+      - name: Jesse D Bloom
+        orcid: http://orcid.org/0000-0003-1267-3408
+  comment:
+    dislikes: 0
+    thread: "8609030409"
+    numReports: 0
+    likes: 0
+    id: "5436280082"
+    createdAt: 2021-06-28T16:11:51
+    author:
+      username: jesse_bloom
+      about: ""
+      name: Jesse Bloom
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/jesse_bloom/
+      url: ""
+      location: ""
+      id: "81828378"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Thanks for the comments. I fully agree that there is relatively little
+      phylogenetic signal among early SARS-CoV-2 sequences, but this is an
+      unavoidable aspect of working with viral outbreak sequences that are all
+      closely related. Because the sequences all differ by just a few mutations,
+      there is never extremely strong phylogenetic support for any scenario, but
+      it is still possible to make informative analyses.
+
+
+      Furthermore, it is not true that there is no phylogenetic signal for rooting the tree. As discussed by Pipes and Nielsen (https://academic.oup.com/mbe/article/38/4/1537/6028993), outgroup rooting methods do lead to consistent placement of the root in clade A. The problem is that this root placement is statistically incompatible with the date-based root placements (again, see Pipes and Nielsen). The current study suggests an explanation for this inconsistency: possible biases in which early sequences are known. It also suggests the presence in clade A of an additional mutation towards the outgroup (T29095C) that further strengthens the idea that clade A may be the more ancestral one by providing a second scenario that moves some viruses in clade A three steps closer to the outgroup (the other scenario is proCoV2 by Kumar, Pond, et al https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8135569/ who also explain difficulties in rooting using just traditional phylogenetic approaches).
+
+
+      Also, see the discussion in the 2nd and 3rd to last paragraphs of the Discussion section of the pre-print. I explicitly explain (2nd to last) why I am presenting qualitative / visual conclusions rather than formal phylogenetic statistical hypothesis testing. I think we need to recognize that for outbreak sequences that are closely related (as you point out), the questions are not going to be fully resolved just by using advanced statistical phylogenetic algorithms, and we need to also maximize information from metadata about the sequences (such as I do in the pre-print for the four Guangdong sequences) and also pay attention to any information that suggests the extent to which available sequences may or may not be fully representative of circulating viruses.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.06.18.449051v1
+  tweets:
+    - created_at: Wed Jun 30 01:05:21 +0000 2021
+      id: 1410041732851548200
+      id_str: "1410041732851548165"
+      text: >-
+        💬 bioRxiv comment on "Recovery of deleted deep seque..."
+
+
+        "Thanks for the comments. I fully agree that there is rel… https://t.co/ouCvvoiczK
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/ouCvvoiczK
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed Jun 30 01:05:21 +0000 2021
+      id: 1410041733639983000
+      id_str: "1410041733639983105"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/BSMtoxg74u
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/BSMtoxg74u
+      in_reply_to_status_id: 1410041732851548200
+      in_reply_to_status_id_str: "1410041732851548165"
