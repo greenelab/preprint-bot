@@ -31874,3 +31874,111 @@
           - url: https://t.co/oIaqJUet4r
       in_reply_to_status_id: 1410215667161342000
       in_reply_to_status_id_str: "1410215667161341957"
+- preprint:
+    id: "147790"
+    doi: 10.1101/2021.06.27.450013
+    first_posted: 2021-06-27
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.27.450013v1
+    url: https://api.rxivist.org/v1/papers/147790
+    title: Investigating the reliability of molecular estimates of evolutionary time
+      when substitution rates and speciation rates vary
+    category: evolutionary-biology
+    abstract: Background An accurate timescale of evolutionary history is essential
+      to testing hypotheses about the influence of historical events and
+      processes, and the timescale for evolution is increasingly derived from
+      analysis of DNA sequences. But variation in the rate of molecular
+      evolution complicates the inference of time from DNA. Evidence is growing
+      for numerous factors, such as life history and habitat, that are linked
+      both to the molecular processes of mutation and fixation and to rates of
+      macroevolutionary diversification. However, the most widely used models of
+      molecular rate variation, such as the uncorrelated and autocorrelated
+      lognormal clocks, rely on idealised models of rate variation and molecular
+      dating methods are rarely tested against complex models of rate change.
+      One relationship that is not accounted for in molecular dating is the
+      potential for interaction between molecular substitution rates and
+      speciation, a relationship that has been supported by empirical studies in
+      a growing number of taxa. If these relationships are as widespread as
+      evidence indicates, they may have a significant influence on molecular
+      dates. Results We simulate phylogenies and molecular sequences under three
+      different realistic rate variation models - one in which speciation rates
+      and substitution rates both vary but are unlinked, one in which they
+      covary continuously and one punctuated model in which molecular change is
+      concentrated in speciation events, using empirical case studies to
+      parameterise realistic simulations. We test two commonly used "relaxed
+      clock" molecular dating methods against these realistic simulations to
+      explore the degree of error in molecular dates under each model. We find
+      average divergence time inference errors ranging from 12% of node age for
+      the unlinked model when reconstructed under an uncorrelated rate prior, to
+      up to 93% when punctuated simulations are reconstructed under an
+      autocorrelated prior. Conclusions We demonstrate the potential for
+      substantial errors in molecular dates when both speciation rates and
+      substitution rates vary between lineages. This study highlights the need
+      for tests of molecular dating methods against realistic models of rate
+      variation generated from empirical parameters and known relationships.
+    authors:
+      - name: Andrew M Ritchie
+        orcid: http://orcid.org/0000-0001-9716-0649
+      - name: Xia Hua
+        orcid: null
+      - name: Lindell Bromham
+        orcid: http://orcid.org/0000-0003-2202-2609
+  comment:
+    dislikes: 0
+    thread: "8618678087"
+    numReports: 0
+    likes: 0
+    id: "5435910974"
+    createdAt: 2021-06-28T09:11:42
+    author:
+      username: PalaeoSmith
+      about: Assistant Professor in Palaeontology
+      name: Martin R. Smith
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/PalaeoSmith/
+      url: https://community.dur.ac.uk/martin.smith
+      location: Durham University
+      id: "325420274"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      This is an interesting study; I'm always encouraged to see careful
+      examinations of different phylogenetic approaches.  As with similar
+      simulation studies, I might be inclined to question would be whether the
+      Robinson–Foulds distance is the most appropriate here: trees with an RF
+      distance of 5 might in fact be more different than trees 
+
+      with an RF distance of 6, depending on whether the five or six unshared clades are major or minor groupings. I've reviewed this problem more fully at https://doi.org/10.1093/bioinformatics/btaa614 (Smith 2020, Bioinformatics). Apologies if I missed it, but I didn't see whether the reconstructed trees were fully bifurcating; if they contained polytomies, then you might also want to consider whether the improved accuracy of some methods came at the expense of precision (see Smith 2019, Biology Letters, https://doi.org/10.1098/rsbl.2018.0632 ).
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.06.27.450013v1
+  tweets:
+    - created_at: Wed Jun 30 14:17:50 +0000 2021
+      id: 1410241171645993000
+      id_str: "1410241171645992962"
+      text: >-
+        💬 bioRxiv comment on "Investigating the reliability ..."
+
+
+        "This is an interesting study; I'm always encouraged to s… https://t.co/LyK5R4kptz
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/LyK5R4kptz
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed Jun 30 14:17:51 +0000 2021
+      id: 1410241172480614400
+      id_str: "1410241172480614403"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/aIPUx3zVLV
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/aIPUx3zVLV
+      in_reply_to_status_id: 1410241171645993000
+      in_reply_to_status_id_str: "1410241171645992962"
