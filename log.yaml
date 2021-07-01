@@ -32526,3 +32526,131 @@
           - url: https://t.co/jDpPx4OObZ
       in_reply_to_status_id: 1410404098093035500
       in_reply_to_status_id_str: "1410404098093035522"
+- preprint:
+    id: "144918"
+    doi: 10.1101/2021.06.03.21257901
+    first_posted: 2021-06-06
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.03.21257901v1
+    url: https://api.rxivist.org/v1/papers/144918
+    title: "Breadth of neutralising antibody responses to SARS-CoV-2 variants of
+      concern is augmented by vaccination following prior infection: studies in
+      UK healthcare workers and immunodeficient patients"
+    category: infectious-diseases
+    abstract: A large portion of the UK general population has currently only
+      received a single dose of a COVID-19 vaccination (either BNT162b2 (Pfizer)
+      or AZD1222 (Vaxevria, AstraZeneca)), making it critical that we continue
+      to track and understand the levels of protection against SARS-CoV-2
+      Variants of Concern (VOCs). We undertook a single-centre cross-sectional
+      study in order to understand the variations in vaccine-induced immunity to
+      the SARS-CoV-2 vaccine strain (B.1) and three major VOCs (B.1.1.7, B.1351
+      and P.1). We studied a cohort of outpatients with immunodeficiencies
+      (IDPs) and health care workers (HCWs) based at the same critical care
+      tertiary NHS Trust, following a single dose of either BNT162b2 or AZD1222
+      vaccines. Our serological data revealed either undetectable antibodies or
+      low neutralising antibodies (nAbs) in IDPs, with only 5% and 3% showing
+      detectable neutralisation of B.1.1.7 and B.1.351, respectively. Healthy
+      HCWs without a prior SARS-CoV-2 infection demonstrated a wide range of nAb
+      titres post-vaccination. However, their responses are significantly lower
+      than HCWs with previous SARS-CoV-2 infection. Neutralisation of VOCs with
+      the E484K mutation (B.1.351 and P.1) were consistently lower in HCWs in
+      the absence of evidence of prior SARS-CoV-2 infection (p<0.001). Notably,
+      in HCWs with prior SARS-CoV-2 infection, there is a significant increase
+      of neutralising titres post-vaccination to all four strains, compared to
+      their pre-vaccination neutralisation titres. This underscores the
+      importance of vaccination even in populations that have been previously
+      exposed, and also provides support for the hypothesis that a second-dose
+      of vaccination will similarly boost immunity to greater protective levels
+      in individuals without prior SARS-CoV-2 exposure. Overall, this
+      serological nAb analysis after a single-dose of BNT162b2 or AZD1222
+      vaccination demonstrates a wide variety of responses, particularly against
+      the VOCs, and suggests limited neutralisation-based protection in
+      individuals with immunodeficiencies.
+    authors:
+      - name: Angalee Nadesalingam
+        orcid: null
+      - name: Diego Cantoni
+        orcid: http://orcid.org/0000-0001-8527-7719
+      - name: David A. Wells
+        orcid: http://orcid.org/0000-0002-4531-5968
+      - name: Ernest T Aguinam
+        orcid: null
+      - name: Matteo Ferrari
+        orcid: null
+      - name: Peter Smith
+        orcid: null
+      - name: Andrew Chan
+        orcid: null
+      - name: George Carnell
+        orcid: null
+      - name: Luis Ohlendorf
+        orcid: null
+      - name: Sebastian Einhauser
+        orcid: http://orcid.org/0000-0003-4177-4451
+      - name: Ralf Wagner
+        orcid: http://orcid.org/0000-0002-2029-3846
+      - name: Nigel James Temperton
+        orcid: http://orcid.org/0000-0002-7978-3815
+      - name: Javier James Castillo-Olivares
+        orcid: null
+      - name: Dr HE Baxendale
+        orcid: http://orcid.org/0000-0003-3838-3900
+      - name: Jonathan Luke Heeney
+        orcid: null
+      - name: Humoral immune Correlates from COVID-19 (HICC) Consortium
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8577229504"
+    numReports: 0
+    likes: 0
+    id: "5438460210"
+    createdAt: 2021-06-30T07:39:55
+    author:
+      username: viralpseudotypeunit
+      about: ""
+      name: ViralPseudotypeUnit
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/viralpseudotypeunit/
+      url: ""
+      location: ""
+      id: "265733172"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: "This has now been published in The Lancet Microbe:
+      https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00157-\
+      9/fulltext"
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.06.03.21257901v1
+  tweets:
+    - created_at: Thu Jul 01 12:36:24 +0000 2021
+      id: 1410578032306368500
+      id_str: "1410578032306368515"
+      text: |-
+        💬 medRxiv comment on "Breadth of neutralising antibo..."
+
+        "This has now been published in The Lancet Microbe: "
+
+        https://t.co/gSeGUayR3w
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/gSeGUayR3w
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jul 01 12:36:25 +0000 2021
+      id: 1410578033094934500
+      id_str: "1410578033094934532"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/1rY1M16nji
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/1rY1M16nji
+      in_reply_to_status_id: 1410578032306368500
+      in_reply_to_status_id_str: "1410578032306368515"
