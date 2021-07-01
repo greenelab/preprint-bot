@@ -32654,3 +32654,143 @@
           - url: https://t.co/1rY1M16nji
       in_reply_to_status_id: 1410578032306368500
       in_reply_to_status_id_str: "1410578032306368515"
+- preprint:
+    id: "147515"
+    doi: 10.1101/2021.06.22.21259189
+    first_posted: 2021-06-25
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.22.21259189v1
+    url: https://api.rxivist.org/v1/papers/147515
+    title: Perceptions of immunity and vaccination certificates among the general
+      population of Geneva, Switzerland.
+    category: public-and-global-health
+    abstract: As of June 2021, the European Union (EU) and Switzerland have
+      published information about the introduction of COVID certificates in
+      order to facilitate the safe free movement of their citizens. With
+      implementation underway, little is known about the public perception of
+      such certificates with potential differences in acceptability among
+      individuals. In March 2021, a self-administered online questionnaire was
+      proposed to all individuals 18 years and older participating in the
+      longitudinal follow-up of population-based seroprevalence studies in
+      Geneva, Switzerland. The questionnaire covered aspects of individual and
+      collective benefits, while allowing participants to select contexts in
+      which vaccination certificates should be presented. Results were presented
+      as the proportion of individuals agreeing or disagreeing with the
+      implementation of vaccination certificates, selecting specific contexts
+      where certificates should be presented, and agreeing or disagreeing with
+      the potential risks related to certificates. Logistic regression was used
+      to calculate odds ratios for factors associated with certificate
+      non-acceptance. Overall, 4,056 individuals completed the questionnaire
+      (response rate 77.6%; mean age 53.3, standard deviation 14.4 years; 56.1%
+      were women). About 61.0% of participants agreed or strongly agreed that a
+      vaccination certificate was necessary in certain contexts; and 21.6%
+      believed there was no context where vaccination certificates should be
+      presented. Contexts where a majority of participants perceived a
+      vaccination certificate should be presented included jobs where others
+      would be at risk of COVID-related complications (60.7%), jobs where
+      employees would be at risk of getting infected (58.7%), or to be exempt
+      from quarantine when traveling abroad (56.1%). Contexts where fewer
+      individuals perceived the need for vaccination certificates to be
+      presented were participation in large gatherings (36.9%), access to social
+      venues (35.5%), or sharing the same workspace (21.5%). Younger age, an
+      absence of willingness to get vaccinated, and an absence of belief in
+      vaccination as an important step in surmounting the pandemic were factors
+      associated with certificate non-acceptance. This large population-based
+      study showed that the general adult population in Geneva, Switzerland,
+      agreed with the implementation of vaccination certificates in work-related
+      and travel-related contexts. However, this solution was perceived as
+      unnecessary for access to large gatherings or social venues, or to share
+      the same workspace. Differences were seen with gender, age, education,
+      socio-economic status, and vaccination willingness and perception,
+      highlighting the importance of taking personal and sociodemographic
+      variations into consideration when predicting acceptance of such
+      certificates.
+    authors:
+      - name: Mayssam Nehme
+        orcid: http://orcid.org/0000-0001-9189-6495
+      - name: Helene Baysson
+        orcid: null
+      - name: Nick Pullen
+        orcid: null
+      - name: Ania Wisniak
+        orcid: null
+      - name: Francesco Penacchio
+        orcid: null
+      - name: Maria-Eugenia Zaballa
+        orcid: null
+      - name: Vanessa Fargnoli
+        orcid: null
+      - name: Didier Trono
+        orcid: http://orcid.org/0000-0002-3383-0401
+      - name: Laurent Kaiser
+        orcid: http://orcid.org/0000-0002-0857-2252
+      - name: Samia Hurst
+        orcid: null
+      - name: Claudine Burton-Jeangros
+        orcid: null
+      - name: Silvia Stringhini
+        orcid: http://orcid.org/0000-0002-4387-8943
+      - name: Specchio-COVID19 study group
+        orcid: null
+      - name: Idris Guessous
+        orcid: http://orcid.org/0000-0002-0491-6089
+  comment:
+    dislikes: 0
+    thread: "8614590552"
+    numReports: 0
+    likes: 0
+    id: "5439985987"
+    createdAt: 2021-07-01T12:29:35
+    author:
+      username: disqus_TpYwfhI3Eb
+      about: ""
+      name: ad4
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_TpYwfhI3Eb/
+      url: ""
+      location: ""
+      id: "363119218"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Very interesting study. 
+
+
+      One thing that must be considered is whether passports/certificates will push groups in high outbreak probability regions further away from vaccinating. That seems to be the case for the UK: see below for a study I recently conducted in the UK.
+
+
+      https://www.medrxiv.org/content/10.1101/2021.05.31.21258122v1
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.06.22.21259189v1
+  tweets:
+    - created_at: Thu Jul 01 14:22:29 +0000 2021
+      id: 1410604728497578000
+      id_str: "1410604728497578000"
+      text: |-
+        💬 medRxiv comment on "Perceptions of immunity and va..."
+
+        "Very interesting study. 
+
+        One thing that must be conside… https://t.co/B7sXygKKT4
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/B7sXygKKT4
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jul 01 14:22:29 +0000 2021
+      id: 1410604729730695200
+      id_str: "1410604729730695183"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/ve14gN52Jk
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/ve14gN52Jk
+      in_reply_to_status_id: 1410604728497578000
+      in_reply_to_status_id_str: "1410604728497578000"
