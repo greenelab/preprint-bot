@@ -33060,3 +33060,127 @@
           - url: https://t.co/ZO7j01i3NH
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "138914"
+    doi: 10.1101/2021.04.20.21255677
+    first_posted: 2021-04-21
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.04.20.21255677v1
+    url: https://api.rxivist.org/v1/papers/138914
+    title: Discrete immune response signature to SARS-CoV-2 mRNA vaccination versus
+      infection
+    category: infectious-diseases
+    abstract: Both SARS-CoV-2 infection and vaccination elicit potent immune
+      responses. A number of studies have described immune responses to
+      SARS-CoV-2 infection. However, beyond antibody production, immune
+      responses to COVID-19 vaccines remain largely uncharacterized. Here, we
+      performed multimodal single-cell sequencing on peripheral blood of
+      patients with acute COVID- 19 and healthy volunteers before and after
+      receiving the SARS-CoV-2 BNT162b2 mRNA vaccine to compare the immune
+      responses elicited by the virus and by this vaccine. Phenotypic and
+      transcriptional profiling of immune cells, coupled with reconstruction of
+      the B and T cell antigen receptor rearrangement of individual lymphocytes,
+      enabled us to characterize and compare the host responses to the virus and
+      to defined viral antigens. While both infection and vaccination induced
+      robust innate and adaptive immune responses, our analysis revealed
+      significant qualitative differences between the two types of immune
+      challenges. In COVID-19 patients, immune responses were characterized by a
+      highly augmented interferon response which was largely absent in vaccine
+      recipients. Increased interferon signaling likely contributed to the
+      observed dramatic upregulation of cytotoxic genes in the peripheral T
+      cells and innate-like lymphocytes in patients but not in immunized
+      subjects. Analysis of B and T cell receptor repertoires revealed that
+      while the majority of clonal B and T cells in COVID-19 patients were
+      effector cells, in vaccine recipients clonally expanded cells were
+      primarily circulating memory cells. Importantly, the divergence in immune
+      subsets engaged, the transcriptional differences in key immune
+      populations, and the differences in maturation of adaptive immune cells
+      revealed by our analysis have far-ranging implications for immunity to
+      this novel pathogen.
+    authors:
+      - name: Ellie N Ivanova
+        orcid: http://orcid.org/0000-0002-1850-9505
+      - name: Joseph C Devlin
+        orcid: http://orcid.org/0000-0002-0003-4812
+      - name: Terild B Buus
+        orcid: http://orcid.org/0000-0001-7180-6384
+      - name: Akiko Koide
+        orcid: http://orcid.org/0000-0003-1796-7077
+      - name: Amber Cornelius
+        orcid: null
+      - name: Marie I. Samanovic
+        orcid: null
+      - name: Alberto Herrera
+        orcid: http://orcid.org/0000-0003-4189-9051
+      - name: Chenzhen Zhang
+        orcid: null
+      - name: Ludovic Desvignes
+        orcid: http://orcid.org/0000-0001-6246-0828
+      - name: Niels Odum
+        orcid: http://orcid.org/0000-0003-3135-5624
+      - name: Robert Ulrich
+        orcid: null
+      - name: Mark J Mulligan
+        orcid: http://orcid.org/0000-0001-7262-9746
+      - name: Shohei Koide
+        orcid: http://orcid.org/0000-0001-5473-4358
+      - name: Kelly V Ruggle
+        orcid: http://orcid.org/0000-0002-0152-0863
+      - name: Ramin Herati
+        orcid: http://orcid.org/0000-0003-2613-4050
+      - name: Sergei Koralov
+        orcid: http://orcid.org/0000-0002-4843-3791
+  comment:
+    dislikes: 0
+    thread: "8486870753"
+    numReports: 0
+    likes: 0
+    id: "5440403697"
+    createdAt: 2021-07-01T18:18:58
+    author:
+      username: vinuarumugham
+      about: ""
+      name: vinu arumugham
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/vinuarumugham/
+      url: http://orcid.org/0000-0003-1047-1626
+      location: ""
+      id: "289985889"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: You don't seem to have covered T cell homing. T cells induced by
+      injected vaccines will home to the skin. T cells induced by infection will
+      home to the lungs.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.04.20.21255677v1
+  tweets:
+    - created_at: Thu Jul 01 20:22:00 +0000 2021
+      id: 1410695202956890000
+      id_str: "1410695202956890112"
+      text: >-
+        💬 medRxiv comment on "Discrete immune response signa..."
+
+
+        "You don't seem to have covered T cell homing. T cells in… https://t.co/q3szS3SWE2
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/q3szS3SWE2
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jul 01 20:22:00 +0000 2021
+      id: 1410695203766345700
+      id_str: "1410695203766345733"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/WjIl7zcz8l
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/WjIl7zcz8l
+      in_reply_to_status_id: 1410695202956890000
+      in_reply_to_status_id_str: "1410695202956890112"
