@@ -32997,3 +32997,66 @@
           - url: https://t.co/jDpPx4OObZ
       in_reply_to_status_id: 1410666198325514200
       in_reply_to_status_id_str: "1410666198325514242"
+- preprint:
+    id: 148003
+    metric: 140
+    title: Thrombocytopenia and splenic platelet directed immune responses after
+      intravenous ChAdOx1 nCov-19 administration
+    url: https://api.rxivist.org/v1/papers/148003
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.29.450356v1
+    doi: 10.1101/2021.06.29.450356
+    category: immunology
+    first_posted: 2021-06-29
+    abstract: "Vaccines against SARS-CoV-2 are based on a range of novel vaccine
+      platforms, with adenovirus-based approaches (like ChAdOx1 nCov-19) being
+      one of them. Recently a rare and novel complication of SARS-CoV-2 targeted
+      adenovirus vaccines has emerged: thrombosis with thrombocytopenia syndrome
+      (TTS). TTS is characterized by low platelet counts, clot formation at
+      unusual anatomic sites and platelet-activating PF4-polyanion antibodies
+      reminiscent of heparin-induced thrombocytopenia. Here, we employ in vitro
+      and in vivo models to characterize the possible mechanisms of this
+      platelet-targeted autoimmunity. We show that intravenous but not
+      intramuscular injection of ChAdOx1 nCov-19 triggers platelet-adenovirus
+      aggregate formation and platelet activation. After intravenous injection,
+      these aggregates are phagocytosed by macrophages in the spleen and
+      platelet remnants are found in the marginal zone and follicles. This is
+      followed by a pronounced B-cell response with the emergence of circulating
+      antibodies binding to platelets. Our work contributes to the understanding
+      of TTS and highlights accidental intravenous injection as potential
+      mechanism for post-vaccination TTS. Hence, safe intramuscular injection,
+      with aspiration prior to injection, could be a potential preventive
+      measure when administering adenovirus-based vaccines."
+    authors:
+      - name: Leo Nicolai
+      - name: Alexander Leunig
+      - name: Kami Pekayvaz
+      - name: Afra Anjum
+      - name: Eva Riedlinger
+      - name: Luke Eivers
+      - name: Marie-Louise Hoffknecht
+      - name: Dario Rossaro
+      - name: Raphael Escaig
+      - name: Rainer Kaiser
+      - name: Vivien Polewka
+      - name: Anna Titova
+      - name: Karsten Spiekermann
+      - name: Matteo Iannacone
+      - name: Konstantin Stark
+      - name: Steffen Massberg
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Thu Jul 01 20:18:04 +0000 2021
+      id: 1410694211662450700
+      id_str: "1410694211662450694"
+      text: >-
+        🔥 bioRxiv Immunology preprint by L. Nicolai et al:
+
+
+        "Thrombocytopenia and splenic platelet directed immune response… https://t.co/ZO7j01i3NH
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/ZO7j01i3NH
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
