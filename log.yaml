@@ -33841,3 +33841,103 @@
           - url: https://t.co/DWHq6n7WV6
       in_reply_to_status_id: 1411000069470490600
       in_reply_to_status_id_str: "1411000069470490632"
+- preprint:
+    id: "94060"
+    doi: 10.1101/2020.08.09.243238
+    first_posted: 2020-08-10
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.08.09.243238v3
+    url: https://api.rxivist.org/v1/papers/94060
+    title: Global inequity in scientific names and who they honor
+    category: zoology
+    abstract: "Linnaean taxonomy is a cornerstone of Western biology in which
+      organisms are given a two-part name (a genus and species), creating
+      biological units that help us order and manage our knowledge of the living
+      world. In this system, the names of species themselves take on additional
+      functions, such as describing features of the organism or honoring
+      individuals (known as eponyms). Here, we interrogate how power and
+      authority over the natural world are claimed through Western scientific
+      naming practices to evaluate the legacies of imperialism, dispossession,
+      and exclusion in these practices. We compile and analyze a dataset of all
+      bird species descriptions from 1950 to present, asking: who has access and
+      power to name species, and who is honored in species names? We show that
+      95% of newly described species are described from the global South, but
+      the majority of species and eponyms are described by authors, and named
+      after individuals, from the global North. We find an increase through time
+      in authors from the global South, which is associated with a rise in
+      eponyms that honor individuals from global South countries. However, this
+      formal inclusion of global South authors has not translated into increases
+      in first authorship (a primary form of credit and authority in Western
+      science). We contextualize these disparities in naming and authorship
+      within broader global structures of access and power put in place through
+      centuries of European and U.S. imperialism, but a historical perspective
+      alone ignores institutional and individual agency and incentives in
+      present-day actions. As we increasingly reflect on the social foundations
+      and impacts of our science, these findings show how research and labor in
+      the global South continue to be disproportionately translated into power
+      and authority in the global North, upholding and re-enacting imperial
+      structures of domination."
+    authors:
+      - name: Shane DuBay
+        orcid: null
+      - name: Daniela H. Palmer
+        orcid: null
+      - name: Natalia Piland
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8294922913"
+    numReports: 0
+    likes: 0
+    id: "5440840992"
+    createdAt: 2021-07-01T23:59:27
+    author:
+      username: mabelcristinagonzlezmontoya
+      about: ""
+      name: Mabel Cristina González Montoy
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/mabelcristinagonzlezmontoya/
+      url: ""
+      location: ""
+      id: "371751152"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Very interesting article. The link of this citation does not correspond:
+      Deb Roy, R. (2018). Decolonise science – time to end another imperial era.
+      The Conversation.
+
+      479 Available at https://theconversation.com/decolonise-science-time-to-end-another-imperial-era480 89189
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.08.09.243238v4
+  tweets:
+    - created_at: Fri Jul 02 18:20:59 +0000 2021
+      id: 1411027136970903600
+      id_str: "1411027136970903553"
+      text: >-
+        💬 bioRxiv comment on "Global inequity in scientific ..."
+
+
+        "Very interesting article. The link of this citation does… https://t.co/aEHMMCg7yo
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/aEHMMCg7yo
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jul 02 18:20:59 +0000 2021
+      id: 1411027137855987700
+      id_str: "1411027137855987717"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/5bzwTwa6CB
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/5bzwTwa6CB
+      in_reply_to_status_id: 1411027136970903600
+      in_reply_to_status_id_str: "1411027136970903553"
