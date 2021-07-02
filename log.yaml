@@ -33504,3 +33504,94 @@
           - url: https://t.co/a2RC52fZNg
       in_reply_to_status_id: 1410765722142318600
       in_reply_to_status_id_str: "1410765722142318597"
+- preprint:
+    id: "128786"
+    doi: 10.1101/2021.02.09.430446
+    first_posted: 2021-02-09
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.02.09.430446v1
+    url: https://api.rxivist.org/v1/papers/128786
+    title: GABA administration limits viral replication and pneumonitis in a mouse
+      model of COVID-19
+    category: immunology
+    abstract: Despite the availability of vaccines for COVID-19, serious illness and
+      death induced by coronavirus infection will remain a global health burden
+      because of vaccination hesitancy, possible virus mutations, and the
+      appearance of novel coronaviruses. Accordingly, there is a need for new
+      approaches to limit severe illness stemming from coronavirus infections.
+      Cells of the immune system and lung epithelia express receptors for GABA
+      (GABA-Rs), a widely used neurotransmitter within the CNS. GABA-R agonists
+      have anti-inflammatory effects and can limit acute lung injury. We
+      previously showed that GABA treatment effectively reduced disease severity
+      and death rates in mice following infection with a coronavirus (MHV-1)
+      which provides a potentially lethal model of COVID-19. Here, we report
+      that GABA treatment also reduced viral load in the lungs, suggesting that
+      GABA-Rs may provide a new druggable target to limit pulmonary coronavirus
+      replication. Histopathological analysis revealed that GABA treatment
+      reduced lung inflammatory infiltrates and damages. Since GABA is safe for
+      human consumption, inexpensive, and available worldwide, it is a promising
+      candidate to help treat COVID-19.
+    authors:
+      - name: Jide Tian
+        orcid: http://orcid.org/0000-0002-5127-0970
+      - name: Blake Middleton
+        orcid: null
+      - name: Daniel L. Kaufman
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8400384682"
+    numReports: 0
+    likes: 0
+    id: "5440366430"
+    createdAt: 2021-07-01T17:47:56
+    author:
+      name: Daniel Kaufman
+      url: ""
+      profileUrl: ""
+      emailHash: ""
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      The data in this BioRxiv psoting was published in:
+
+      GABA(A)-Receptor Agonists Limit Pneumonitis and Death in Murine Coronavirus-Infected Mice. 
+
+      Tian J, Middleton B, Kaufman DL.
+
+      Viruses. 2021 May 23;13(6):966. doi: 10.3390/v13060966. 
+
+      PMID: 34071034
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.02.09.430446v2
+  tweets:
+    - created_at: Fri Jul 02 12:31:21 +0000 2021
+      id: 1410939149482406000
+      id_str: "1410939149482405897"
+      text: |-
+        💬 bioRxiv comment on "GABA administration limits vir..."
+
+        "The data in this BioRxiv psoting was published in:
+        GABA(… https://t.co/tIbKGJpk9L
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/tIbKGJpk9L
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jul 02 12:31:22 +0000 2021
+      id: 1410939150187090000
+      id_str: "1410939150187089925"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/h61ccYtq2S
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/h61ccYtq2S
+      in_reply_to_status_id: 1410939149482406000
+      in_reply_to_status_id_str: "1410939149482405897"
