@@ -33996,3 +33996,107 @@
           - url: https://t.co/bvZB0kUal2
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "97860"
+    doi: 10.1101/2020.09.28.316299
+    first_posted: 2020-09-29
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.09.28.316299v1
+    url: https://api.rxivist.org/v1/papers/97860
+    title: Genomic sequencing confirms absence of introgression despite past
+      hybridisation between a critically endangered bird and its common congener
+    category: genomics
+    abstract: Genetic swamping resulting from interspecific hybridisation can
+      increase extinction risk for threatened species. The development of
+      high-throughput and reduced-representation genomic sequencing and analyses
+      to generate large numbers of high resolution genomic markers has the
+      potential to reveal introgression previously undetected using small
+      numbers of genetic markers. However, few studies to date have implemented
+      genomic tools to assess the extent of interspecific hybridisation in
+      threatened species. Here we investigate the utility of genome-wide single
+      nucleotide polymorphisms (SNPs) to detect introgression resulting from
+      past interspecific hybridisation in one of the world's rarest birds.
+      Anthropogenic impacts have resulted in hybridisation and subsequent
+      backcrossing of the critically endangered Aotearoa New Zealand endemic
+      kak[i] (black stilts; Himantopus novaezelandiae) with the non-threatened
+      self-introduced congeneric poaka (Aotearoa New Zealand population of pied
+      stilts, Himantopus himantopus leucocephalus), yet genetic analyses with a
+      limited set of microsatellite markers revealed no evidence of
+      introgression of poaka genetic material in kak[i], excluding one
+      individual. We use genomic data for ~63% of the wild adult kak[i]
+      population to reassess the extent of introgression resulting from
+      hybridisation between kak[i] and poaka. Consistent with previous genetic
+      analyses, we detected no introgression from poaka into kak[i]. These
+      collective results indicate that, for kak[i], existing microsatellite
+      markers provide a robust, cost-effective approach to detect cryptic
+      hybrids. Further, for well-differentiated species, the use of genomic
+      markers may not be required to detect admixed individuals.
+    authors:
+      - name: Natalie J Forsdick
+        orcid: http://orcid.org/0000-0003-0423-3314
+      - name: Denise Martini
+        orcid: http://orcid.org/0000-0001-8676-9328
+      - name: Liz Brown
+        orcid: http://orcid.org/0000-0002-4245-3900
+      - name: Hugh B Cross
+        orcid: http://orcid.org/0000-0002-6745-9479
+      - name: Richard F. Maloney
+        orcid: null
+      - name: Tammy E Steeves
+        orcid: http://orcid.org/0000-0003-2112-5761
+      - name: Michael Knapp
+        orcid: http://orcid.org/0000-0002-0937-5664
+  comment:
+    dislikes: 0
+    thread: "8588237608"
+    numReports: 0
+    likes: 0
+    id: "5440826327"
+    createdAt: 2021-07-01T23:41:12
+    author:
+      username: natforsdick
+      about: ""
+      name: natforsdick
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/natforsdick/
+      url: ""
+      location: ""
+      id: "371750578"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: This paper has now been peer-reviewed and published in as an Open
+      Access article in Global Ecology and Evolution -
+      https://doi.org/10.1016/j.gecco.2021.e01681.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.09.28.316299v5
+  tweets:
+    - created_at: Fri Jul 02 20:20:31 +0000 2021
+      id: 1411057217667805200
+      id_str: "1411057217667805188"
+      text: >-
+        💬 bioRxiv comment on "Genomic sequencing confirms ab..."
+
+
+        "This paper has now been peer-reviewed and published in a… https://t.co/4KFYXQGx5y
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/4KFYXQGx5y
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jul 02 20:20:31 +0000 2021
+      id: 1411057218561228800
+      id_str: "1411057218561228808"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/PjclOtBrMU
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/PjclOtBrMU
+      in_reply_to_status_id: 1411057217667805200
+      in_reply_to_status_id_str: "1411057217667805188"
