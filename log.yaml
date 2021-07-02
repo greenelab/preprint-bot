@@ -33712,3 +33712,132 @@
           - url: https://t.co/40k1hjqrM5
       in_reply_to_status_id: 1410966615693353000
       in_reply_to_status_id_str: "1410966615693352960"
+- preprint:
+    id: "148232"
+    doi: 10.1101/2021.06.29.21259693
+    first_posted: 2021-07-01
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.29.21259693v1
+    url: https://api.rxivist.org/v1/papers/148232
+    title: Recovery of serum testosterone levels is an accurate predictor of
+      survival from COVID-19 in male patients
+    category: infectious-diseases
+    abstract: Infection with SARS-CoV-2 portends a broad range of outcomes, from a
+      majority of asymptomatic cases or mild clinical courses to a lethal
+      disease. Robust correlates of severe COVID-19 include old age, male sex,
+      poverty and co-morbidities such as obesity, diabetes or cardiovascular
+      disease. A precise knowledge is still lacking of the molecular and
+      biological mechanisms that may explain the association of severe disease
+      with male sex. Here, we show that testosterone trajectories are highly
+      accurate individual predictors (AUC of ROC = 0.928, p < 0.0001) of
+      survival in male COVID-19 patients. Longitudinal determinations of blood
+      levels of luteinizing hormone (LH) and androstenedione suggest an early
+      modest inhibition of the central LH-androgen biosynthesis axis in a
+      majority of patients, followed by either full recovery in survivors or a
+      peripheral failure in lethal cases. Moreover, failure to reinstate
+      physiological testosterone levels was associated with evidence of impaired
+      T helper differentiation and decrease of non-classical monocytes. The
+      strong association of recovery or failure to reinstate testosterone levels
+      with survival or death from COVID-19 in male patients is suggestive of a
+      significant role of testosterone status in the immune responses to
+      COVID-19.
+    authors:
+      - name: Emily Toscano-Guerra
+        orcid: http://orcid.org/0000-0003-2718-1684
+      - name: Monica Martinez-Gallo
+        orcid: http://orcid.org/0000-0002-7340-2161
+      - name: Iria Arrese-Munoz
+        orcid: null
+      - name: Anna Gine
+        orcid: null
+      - name: Noelia Diaz
+        orcid: null
+      - name: Pablo Gabriel-Medina
+        orcid: http://orcid.org/0000-0003-3079-6364
+      - name: Mar Riveiro-Barciela
+        orcid: http://orcid.org/0000-0001-9309-2052
+      - name: Moises Labrador-Horrillo
+        orcid: null
+      - name: Fernando Martinez-Valle
+        orcid: http://orcid.org/0000-0003-2673-2034
+      - name: Manuel Hernandez-Gonzalez
+        orcid: http://orcid.org/0000-0002-6932-5853
+      - name: Francisco Rodriguez-Frias
+        orcid: http://orcid.org/0000-0002-9128-7013
+      - name: Ricardo Pujol Borrell
+        orcid: http://orcid.org/0000-0001-7833-675X
+      - name: Roser Ferrer
+        orcid: http://orcid.org/0000-0002-8925-3172
+      - name: Timothy M Thomson
+        orcid: http://orcid.org/0000-0002-4670-9440
+      - name: Rosanna Paciucci
+        orcid: http://orcid.org/0000-0002-1087-6378
+  comment:
+    dislikes: 0
+    thread: "8624444724"
+    numReports: 0
+    likes: 0
+    id: "5440192670"
+    createdAt: 2021-07-01T15:31:12
+    author:
+      username: davidgurwitz
+      about: Department of Human Molecular Genetics and Biochemistry  Sackler Faculty
+        of Medicine  Tel-Aviv University  Tel-Aviv 69978 Israel
+      name: David Gurwitz
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/davidgurwitz/
+      url: http://www.sagol.tau.ac.il/en/people/gurwitz-david/
+      location: Tel Aviv, Israel
+      id: "221454207"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      This study may potentially allow better prognostics in Covid-19. If
+      validated by further studies, it may even indicate that clinical trials of
+      testosterone supplementation in male Covid-19 patients with low serum
+      testosterone levels are warranted. 
+
+
+      A recent study by Peruzzo et al. 2021 (Front Pharmacol. 2021 May 13;12:683529), titled “Synergy Between Vitamin D and Sex Hormones in Respiratory Functionality of Patients Affected by COVID-19” seems supportive for this preprint (and should be cited by the preprint authors). Peruzzo et al. observed “a significantly positive correlation between 17β-estradiol and 25(OH)D in elderly women and between testosterone and 25(OH)D in elderly men”. As Vitamin D is a well-established immune enhancer, it could be that the positive effects of higher serum testosterone reported in this preprint reflect higher  serum vitamin D. This aspect of their findings should be examined. 
+
+
+      The authors of this preprint discuss the role of hyper-coagulation in severe Covid-19 as a key risk for fatal outcome. In this context, it is noteworthy that a recent meta-analysis of 13 clinical trials (Ayele et al. 2021; Thrombosis Research; PMID: 33486321) indicated that testosterone replacement therapy in men was not associated with increased risk of venous thromboembolism. 
+
+
+      Taken together, the authors suggestions that testosterone may be beneficial for male Covid-19 patients with low serum testosterone definitely warrants further research.  
+
+
+      David Gurwitz, Faculty of Medicine, Tel Aviv University, Israel
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.06.29.21259693v1
+  tweets:
+    - created_at: Fri Jul 02 16:33:26 +0000 2021
+      id: 1411000069470490600
+      id_str: "1411000069470490632"
+      text: >-
+        💬 medRxiv comment on "Recovery of serum testosterone..."
+
+
+        "This study may potentially allow better prognostics in C… https://t.co/levg3Kknbt
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/levg3Kknbt
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jul 02 16:33:26 +0000 2021
+      id: 1411000070426747000
+      id_str: "1411000070426746880"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/DWHq6n7WV6
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/DWHq6n7WV6
+      in_reply_to_status_id: 1411000069470490600
+      in_reply_to_status_id_str: "1411000069470490632"
