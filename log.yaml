@@ -33595,3 +33595,120 @@
           - url: https://t.co/h61ccYtq2S
       in_reply_to_status_id: 1410939149482406000
       in_reply_to_status_id_str: "1410939149482405897"
+- preprint:
+    id: "124661"
+    doi: 10.1101/2020.12.30.20248888
+    first_posted: 2021-01-04
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2020.12.30.20248888v1
+    url: https://api.rxivist.org/v1/papers/124661
+    title: "The Joint Impact of COVID-19 Vaccination and Non-Pharmaceutical
+      Interventions on Infections, Hospitalizations, and Mortality: An
+      Agent-Based Simulation"
+    category: infectious-diseases
+    abstract: "Background: Vaccination against SARS-CoV-2 has the potential to
+      significantly reduce transmission and morbidity and mortality due to
+      COVID-19. This modeling study simulated the comparative and joint impact
+      of COVID-19 vaccine efficacy and coverage with and without
+      non-pharmaceutical interventions (NPIs) on total infections,
+      hospitalizations, and deaths. Methods: An agent-based simulation model was
+      employed to estimate incident SARS-CoV-2 infections and
+      COVID-19-associated hospitalizations and deaths over 18 months for the
+      State of North Carolina, a population of roughly 10.5 million. Vaccine
+      efficacy of 50% and 90% and vaccine coverage of 25%, 50%, and 75% (at the
+      end of a 6-month distribution period) were evaluated. Six vaccination
+      scenarios were simulated with NPIs (i.e., reduced mobility, school
+      closings, face mask usage) maintained and removed during the period of
+      vaccine distribution. Results: In the worst-case vaccination scenario (50%
+      efficacy and 25% coverage), 2,231,134 new SARS-CoV-2 infections occurred
+      with NPIs removed and 799,949 infections with NPIs maintained. In
+      contrast, in the best-case scenario (90% efficacy and 75% coverage), there
+      were 450,575 new infections with NPIs maintained and 527,409 with NPIs
+      removed. When NPIs were removed, lower efficacy (50%) and higher coverage
+      (75%) reduced infection risk by a greater magnitude than higher efficacy
+      (90%) and lower coverage (25%) compared to the worst-case scenario
+      (absolute risk reduction 13% and 8%, respectively). Conclusion: Simulation
+      results suggest that premature lifting of NPIs while vaccines are
+      distributed may result in substantial increases in infections,
+      hospitalizations, and deaths. Furthermore, as NPIs are removed, higher
+      vaccination coverage with less efficacious vaccines can contribute to a
+      larger reduction in risk of SARS-CoV-2 infection compared to more
+      efficacious vaccines at lower coverage. Our findings highlight the need
+      for well-resourced and coordinated efforts to achieve high vaccine
+      coverage and continued adherence to NPIs before many pre-pandemic
+      activities can be resumed."
+    authors:
+      - name: Mehul D. Patel
+        orcid: http://orcid.org/0000-0002-1281-3207
+      - name: Erik Rosenstrom
+        orcid: null
+      - name: Julie S. Ivy
+        orcid: null
+      - name: Maria E. Mayorga
+        orcid: null
+      - name: Pinar Keskinocak
+        orcid: http://orcid.org/0000-0003-2686-546X
+      - name: Ross M. Boyce
+        orcid: http://orcid.org/0000-0002-9489-6324
+      - name: Kristen Hassmiller Lich
+        orcid: null
+      - name: Raymond L. Smith
+        orcid: null
+      - name: Karl T. Johnson
+        orcid: null
+      - name: Julie L Swann
+        orcid: http://orcid.org/0000-0003-2151-4396
+  comment:
+    dislikes: 0
+    thread: "8350052383"
+    numReports: 0
+    likes: 0
+    id: "5440364518"
+    createdAt: 2021-07-01T17:46:23
+    author:
+      username: mehuldpatel
+      about: ""
+      name: mehuldpatel
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/mehuldpatel/
+      url: ""
+      location: ""
+      id: "371738012"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: "The published version is available at:
+      https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2780539"
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2020.12.30.20248888v2
+  tweets:
+    - created_at: Fri Jul 02 14:20:30 +0000 2021
+      id: 1410966615693353000
+      id_str: "1410966615693352960"
+      text: |-
+        💬 medRxiv comment on "The Joint Impact of COVID-19 V..."
+
+        "The published version is available at: "
+
+        https://t.co/LroZCBogBj
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/LroZCBogBj
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jul 02 14:20:30 +0000 2021
+      id: 1410966616364437500
+      id_str: "1410966616364437512"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/40k1hjqrM5
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/40k1hjqrM5
+      in_reply_to_status_id: 1410966615693353000
+      in_reply_to_status_id_str: "1410966615693352960"
