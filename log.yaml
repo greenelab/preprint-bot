@@ -33941,3 +33941,58 @@
           - url: https://t.co/5bzwTwa6CB
       in_reply_to_status_id: 1411027136970903600
       in_reply_to_status_id_str: "1411027136970903553"
+- preprint:
+    id: 134112
+    metric: 59
+    title: Common dandelion (Taraxacum officinale) efficiently blocks the
+      interaction between ACE2 cell surface receptor and SARS-CoV-2 spike
+      protein D614, mutants D614G, N501Y, K417N and E484K in vitro
+    url: https://api.rxivist.org/v1/papers/134112
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.03.19.435959v1
+    doi: 10.1101/2021.03.19.435959
+    category: microbiology
+    first_posted: 2021-03-19
+    abstract: On 11th March 2020, coronavirus disease 2019 (COVID-19), caused by the
+      SARS-CoV-2 virus, was declared as a global pandemic by the World Health
+      Organization (WHO). To date, there are rapidly spreading new "variants of
+      concern" of SARS-CoV-2, the United Kingdom (B.1.1.7), the South African
+      (B.1.351) or Brasilian (P.1) variant. All of them contain multiple
+      mutations in the ACE2 receptor recognition site of the spike protein,
+      compared to the original Wuhan sequence, which is of great concern,
+      because of their potential for immune escape. Here we report on the
+      efficacy of dandelion (Taraxacum officinale) to block protein-protein
+      interaction of spike S1 to the human ACE2 cell surface receptor. This
+      could be shown for the original spike D614, but also for its mutant forms
+      (D614G, N501Y, and mix of K417N, E484K, N501Y) in human HEK293-hACE2
+      kidney and A549-hACE2-TMPRSS2 lung cells. High molecular weight compounds
+      in the water-based extract account for this effect. Infection of lung
+      cells using SARS-CoV-2 spike pseudotyped lentivirus particles was
+      efficiently prevented by the extract and so was virus-triggered
+      pro-inflammatory interleukin 6 secretion. Modern herbal monographs
+      consider the usage of this medicinal plant as safe. Thus, the in vitro
+      results reported here should encourage further research on the clinical
+      relevance and applicability of the extract as prevention strategy for
+      SARS-CoV-2 infection.
+    authors:
+      - name: Hoai Thi Thu Tran
+      - name: Nguyen Phan Khoi Le
+      - name: Michael Gigl
+      - name: Corinna Dawid
+      - name: Evelyn Lamy
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Fri Jul 02 20:16:47 +0000 2021
+      id: 1411056276436668400
+      id_str: "1411056276436668423"
+      text: >-
+        🔥 bioRxiv Microbiology preprint by H. T. T. Tran et al:
+
+
+        "Common dandelion (Taraxacum officinale) efficiently block… https://t.co/bvZB0kUal2
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/bvZB0kUal2
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
