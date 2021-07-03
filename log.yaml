@@ -34223,3 +34223,91 @@
           - url: https://t.co/97wPzr6i7o
       in_reply_to_status_id: 1411088222243991600
       in_reply_to_status_id_str: "1411088222243991555"
+- preprint:
+    id: "127020"
+    doi: 10.1101/2021.01.27.428294
+    first_posted: 2021-01-28
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.01.27.428294v1
+    url: https://api.rxivist.org/v1/papers/127020
+    title: Design principles of plant root morphogenesis
+    category: plant-biology
+    abstract: Understanding how an independent organ develops from the stem cell
+      populations in the process called morphogenesis is a pressing challenge in
+      developmental biology and medicine. Plants build up new organs such as
+      roots to adjust their bodies to dynamic changes in the environment,
+      thereby providing a tractable model to address this challenge. Here, we
+      combined empirical data with advanced computer modeling techniques to
+      build a mechanistic cell-based framework for the morphogenesis of the
+      plant root. Our framework relies on experimentally supported design
+      principles underlying the multi-layered feedback between tissue mechanics,
+      cell growth, and directional cell-to-cell transport of growth regulator
+      auxin. Model simulations reconstruct experimentally-observed patterns of
+      anisotropic growth, auxin distribution, and cell polarity, as well as
+      several root phenotypes caused by chemical, mechanical, or genetic
+      perturbations. Furthermore, our model provides new insights into
+      mechanisms of sustained root growth and cell polarity establishment. This
+      work reveals that mobile auxin signal feeds back on cell polarity and
+      growth mechanics to instruct the morphogenesis of an independent organ.
+    authors:
+      - name: Marco Marconi
+        orcid: http://orcid.org/0000-0002-3457-1384
+      - name: Marcal Gallemi
+        orcid: http://orcid.org/0000-0003-4675-6893
+      - name: Eva Benkova
+        orcid: http://orcid.org/0000-0002-8510-9739
+      - name: Krzysztof Wabnik
+        orcid: http://orcid.org/0000-0001-7263-0560
+  comment:
+    dislikes: 0
+    thread: "8374900737"
+    numReports: 0
+    likes: 0
+    id: "5440808291"
+    createdAt: 2021-07-01T23:18:29
+    author:
+      username: marcush1
+      about: ""
+      name: Marcus
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/marcush1/
+      url: ""
+      location: ""
+      id: "36832573"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Ref 47 should be Heisler et al.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.01.27.428294v1
+  tweets:
+    - created_at: Sat Jul 03 01:00:06 +0000 2021
+      id: 1411127577784225800
+      id_str: "1411127577784225793"
+      text: |-
+        💬 bioRxiv comment on "Design principles of plant roo..."
+
+        "Ref 47 should be Heisler et al."
+
+        https://t.co/sHYcYPG3tb
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/sHYcYPG3tb
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jul 03 01:00:06 +0000 2021
+      id: 1411127578585448400
+      id_str: "1411127578585448449"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/BwJNGxflXz
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/BwJNGxflXz
+      in_reply_to_status_id: 1411127577784225800
+      in_reply_to_status_id_str: "1411127577784225793"
