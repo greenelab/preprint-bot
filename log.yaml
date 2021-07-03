@@ -34843,3 +34843,55 @@
           - url: https://t.co/oqgm8u0WjP
       in_reply_to_status_id: 1411390247519326200
       in_reply_to_status_id_str: "1411390247519326208"
+- preprint:
+    id: 148217
+    metric: 67
+    title: Optogenetic stimulation of medial amygdala GABA neurons with kinetically
+      different channelrhodopsin variants yield opposite behavioral outcomes
+    url: https://api.rxivist.org/v1/papers/148217
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.30.450543v1
+    doi: 10.1101/2021.06.30.450543
+    category: neuroscience
+    first_posted: 2021-06-30
+    abstract: Optogenetic manipulation of genetically-specified neuron populations
+      has become a key tool in circuit neuroscience. The medial amygdala (MeA)
+      receives pheromone information about conspecifics and has crucial
+      functions in social behaviors; interestingly, this amygdalar structure
+      contains a majority of GABAergic projection neurons. A previous study
+      showed that optogenetic activation of MeA GABA neurons with
+      channelrhodopsin-2H134R (ChR2) strongly enhanced inter-male aggression
+      (Hong et al. 2014, Cell). When we attempted to reproduce these findings,
+      accidentally using a faster channelrhodopsin variant
+      (channelrhodopsin-2H134R,E123T or ChETA), we found the opposite results.
+      We therefore systematically compared the behavioral outcome of optogenetic
+      stimulation of MeApd GABA neurons with ChETA versus ChR2, employing two
+      widely used AAV serotypes. This revealed that optogenetic stimulation with
+      ChETA suppressed aggression, whereas optogenetic stimulation with ChR2
+      increased aggression. Recordings of membrane potential changes following
+      optogenetic stimulation with ChETA versus ChR2 revealed larger plateau
+      depolarizations, smaller action potential amplitudes, and larger local
+      inhibition of neighboring inhibitory neurons with ChR2 as compared to
+      ChETA. Our study shows that channelrhodopsin variants have to be chosen
+      with care for in-vivo optogenetic experiments. Furthermore, the role of
+      MeApd GABA neurons in aggression control should be re-evaluated.
+    authors:
+      - name: Aiste Baleisyte
+      - name: Ralf Schneggenburger
+      - name: Olexiy Kochubey
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Sat Jul 03 20:15:10 +0000 2021
+      id: 1411418258650144800
+      id_str: "1411418258650144773"
+      text: >-
+        🔥 bioRxiv Neuroscience preprint by A. Baleisyte et al:
+
+
+        "Optogenetic stimulation of medial amygdala GABA neurons wi… https://t.co/e7m1yukvMh
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/e7m1yukvMh
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
