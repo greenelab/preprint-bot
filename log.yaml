@@ -34991,3 +34991,235 @@
           - url: https://t.co/652MU3io4j
       in_reply_to_status_id: 1411419163764068400
       in_reply_to_status_id_str: "1411419163764068354"
+- preprint:
+    id: "148063"
+    doi: 10.1101/2021.06.28.450217
+    first_posted: 2021-06-30
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.28.450217v1
+    url: https://api.rxivist.org/v1/papers/148063
+    title: Genomic characterization of metastatic patterns from prospective clinical
+      sequencing of 25,000 patients
+    category: cancer-biology
+    abstract: Progression to metastatic disease remains the main cause of cancer
+      death. Yet, the underlying genomic mechanisms driving metastasis remain
+      largely unknown. Here, we present MSK-MET, an integrated pan-cancer cohort
+      of tumor genomic and clinical outcome data from more than 25,000 patients.
+      We analyzed this dataset to identify associations between tumor genomic
+      alterations and patterns of metastatic dissemination across 50 tumor
+      types. We found that chromosomal instability is strongly correlated with
+      metastatic burden in some tumor types, including prostate adenocarcinoma,
+      lung adenocarcinoma and HR-positive breast ductal carcinoma, but not in
+      others, such as colorectal adenocarcinoma, pancreatic adenocarcinoma and
+      high-grade serous ovarian cancer. We also identified specific somatic
+      alterations associated with increased metastatic burden and specific
+      routes of metastatic spread. Our data offer a unique resource for the
+      investigation of the biological basis for metastatic spread and highlight
+      the crucial role of chromosomal instability in cancer progression.
+    authors:
+      - name: Bastien Nguyen
+        orcid: http://orcid.org/0000-0002-6166-4746
+      - name: Christopher Fong
+        orcid: null
+      - name: Anisha Luthra
+        orcid: null
+      - name: Shaleigh A. Smith
+        orcid: null
+      - name: Renzo G. DiNatale
+        orcid: http://orcid.org/0000-0002-7867-2881
+      - name: Subhiksha Nandakumar
+        orcid: null
+      - name: Henry Walch
+        orcid: null
+      - name: Walid K Chatila
+        orcid: null
+      - name: Ramyasree Madupuri
+        orcid: null
+      - name: Ritika Kundra
+        orcid: null
+      - name: Craig M. Bielski
+        orcid: null
+      - name: Brooke Mastrogiacomo
+        orcid: null
+      - name: Adrienne Boire
+        orcid: http://orcid.org/0000-0002-9029-1248
+      - name: Sarat Chandarlapaty
+        orcid: http://orcid.org/0000-0003-4532-8053
+      - name: Karuna Ganesh
+        orcid: null
+      - name: James J. Harding
+        orcid: null
+      - name: Christine A. Iacobuzio-Donahue
+        orcid: http://orcid.org/0000-0002-4672-3023
+      - name: Pedram Razavi
+        orcid: null
+      - name: Ed Reznik
+        orcid: http://orcid.org/0000-0002-6511-5947
+      - name: Charles M Rudin
+        orcid: http://orcid.org/0000-0001-5204-3465
+      - name: Dmitriy Zamarin
+        orcid: http://orcid.org/0000-0002-0094-0161
+      - name: Wassim Abida
+        orcid: null
+      - name: Ghassan K. Abou-Alfa
+        orcid: null
+      - name: Carol Aghajanian
+        orcid: null
+      - name: Andrea Cercek
+        orcid: null
+      - name: Ping Chi
+        orcid: null
+      - name: Darren Feldman
+        orcid: null
+      - name: Alan L Ho
+        orcid: null
+      - name: Gopakumar Iyer
+        orcid: null
+      - name: Yelena Y. Janjigian
+        orcid: null
+      - name: Michael Morris
+        orcid: null
+      - name: Robert J. Motzer
+        orcid: null
+      - name: Eileen M. O'Reilly
+        orcid: null
+      - name: Michael A. Postow
+        orcid: null
+      - name: Nitya P. Raj
+        orcid: null
+      - name: Gregory J Riely
+        orcid: null
+      - name: Mark E. Robson
+        orcid: null
+      - name: Jonathan E. Rosenberg
+        orcid: null
+      - name: Anton Safonov
+        orcid: null
+      - name: Alexander N. Shoushtari
+        orcid: null
+      - name: William Tap
+        orcid: null
+      - name: Min Yuen Teo
+        orcid: null
+      - name: Anna M. Varghese
+        orcid: null
+      - name: Martin Voss
+        orcid: null
+      - name: Rona Yaeger
+        orcid: null
+      - name: Marjorie G. Zauderer
+        orcid: http://orcid.org/0000-0002-6109-5790
+      - name: Nadeem Abu-Rustum
+        orcid: null
+      - name: Julio Garcia-Aguilar
+        orcid: null
+      - name: Bernard Bochner
+        orcid: null
+      - name: Abraham Hakimi
+        orcid: null
+      - name: William R. Jarnagin
+        orcid: null
+      - name: David R Jones
+        orcid: null
+      - name: Daniela Molena
+        orcid: null
+      - name: Luc Morris
+        orcid: null
+      - name: Eric Rios-Doria
+        orcid: null
+      - name: Paul Russo
+        orcid: null
+      - name: Samuel Singer
+        orcid: null
+      - name: Vivian E. Strong
+        orcid: null
+      - name: Debyani Chakravarty
+        orcid: null
+      - name: Lora H. Ellenson
+        orcid: null
+      - name: Anuradha Gopalan
+        orcid: null
+      - name: Jorge S Reis-Filho
+        orcid: null
+      - name: Britta Weigelt
+        orcid: null
+      - name: Marc Ladanyi
+        orcid: http://orcid.org/0000-0001-9055-7213
+      - name: Mithat Gonen
+        orcid: null
+      - name: Sohrab P. Shah
+        orcid: http://orcid.org/0000-0001-6402-523X
+      - name: Joan Massague
+        orcid: null
+      - name: Jianjiong Gao
+        orcid: null
+      - name: Ahmet Zehir
+        orcid: null
+      - name: Michael F. Berger
+        orcid: null
+      - name: David B Solit
+        orcid: null
+      - name: Samuel F. Bakhoum
+        orcid: null
+      - name: Francisco Sanchez-Vega
+        orcid: null
+      - name: Nikolaus Schultz
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8623092665"
+    numReports: 0
+    likes: 0
+    id: "5440724925"
+    createdAt: 2021-07-01T21:46:01
+    author:
+      username: bastiennguyen
+      about: ""
+      name: Bastien Nguyen
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/bastiennguyen/
+      url: ""
+      location: ""
+      id: "267706334"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Hello Iñigo, thanks a lot for your feedbacks and for reporting this error
+      in the manuscript. You are correct; BRAF mutations are less frequent in
+      thyroid papillary cancer patients with bone metastasis (76% vs 52%)
+      (Figure 4 and table S8 are correct tho). Preprints are useful.
+
+      Bastien
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.06.28.450217v1
+  tweets:
+    - created_at: Sat Jul 03 22:18:41 +0000 2021
+      id: 1411449341328466000
+      id_str: "1411449341328465923"
+      text: >-
+        💬 bioRxiv comment on "Genomic characterization of me..."
+
+
+        "Hello Iñigo, thanks a lot for your feedbacks and for rep… https://t.co/svI3YkRK2V
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/svI3YkRK2V
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jul 03 22:18:41 +0000 2021
+      id: 1411449342209183700
+      id_str: "1411449342209183752"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/a2RC52fZNg
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/a2RC52fZNg
+      in_reply_to_status_id: 1411449341328466000
+      in_reply_to_status_id_str: "1411449341328465923"
