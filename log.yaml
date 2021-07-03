@@ -34311,3 +34311,124 @@
           - url: https://t.co/BwJNGxflXz
       in_reply_to_status_id: 1411127577784225800
       in_reply_to_status_id_str: "1411127577784225793"
+- preprint:
+    id: "145670"
+    doi: 10.1101/2021.06.08.21258427
+    first_posted: 2021-06-11
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.08.21258427v1
+    url: https://api.rxivist.org/v1/papers/145670
+    title: "Intensified stimulation targeting lateral and medial prefrontal cortices
+      for the treatment of social anxiety disorder: A randomized, double-blind,
+      parallel-group, dose-comparison study"
+    category: psychiatry-and-clinical-psychology
+    abstract: "Background: Social Anxiety Disorder (SAD) is the most common anxiety
+      disorder while remains largely untreated. Disturbed amygdala-frontal
+      network functions are central to the pathophysiology of SAD, marked by
+      hypoactivity of the lateral prefrontal cortex (PFC), and hypersensitivity
+      of the medial PFC and amygdala. The objective of this study was to
+      determine whether modulation of dorsolateral and medial PFC activity with
+      a novel intensified stimulation protocol reduces SAD core symptoms,
+      improves treatment-related variables, and reduces attention bias to
+      threatening stimuli. Methods: In this randomized, sham-controlled,
+      double-blind trial, we assessed the efficacy of an intensified stimulation
+      protocol (20 min, twice-daily sessions with 20 min intervals, 5
+      consecutive days) in two intensities (1 vs 2 mA) compared to sham
+      stimulations. 45 patients with SAD were randomized in three tDCS arms. SAD
+      symptoms, treatment-related variables (worries, depressive state, emotion
+      regulation, quality of life), and attention bias to threatening stimuli
+      (dot-probe paradigm) were assessed before and right after the
+      intervention. SAD symptoms were also assessed at 2-month follow-up.
+      Results: Both 1 mA and 2mA protocols significantly reduced fear/avoidance
+      symptoms, worries and improved, emotion regulation and quality of life
+      after the intervention compared to the sham group. Improving effect of the
+      2 mA protocol on avoidance symptoms, worries and depressive state was
+      significantly larger than the 1 mA group. Only the 2 mA protocol reduced
+      attention bias to threat-related stimuli, the avoidance symptom at
+      follow-up, and depressive states, as compared to the sham group.
+      Conclusions: Modulation of lateral-medial PFC activity with intensified
+      stimulation can improve cognitive control, motivation and emotion networks
+      in SAD and thereby results in therapeutic effects. These effects can be
+      larger with 2 mA vs 1 mA intensities, though a linear relationship between
+      intensity and efficacy should not be concluded."
+    authors:
+      - name: Eisa Jafari
+        orcid: null
+      - name: Jaber Alizadehgoradel
+        orcid: null
+      - name: Fereshteh Pourmohseni Koluri
+        orcid: null
+      - name: Ezzatollah Nikoozadehkordmirza
+        orcid: null
+      - name: Meysam Refahi
+        orcid: null
+      - name: Mina Taherifard
+        orcid: null
+      - name: Vahid Nejati
+        orcid: null
+      - name: Amir-Homayun Hallajian
+        orcid: http://orcid.org/0000-0001-5848-7841
+      - name: Elham Ghanavati
+        orcid: http://orcid.org/0000-0001-5944-8123
+      - name: Carmelo M. Vicario
+        orcid: http://orcid.org/0000-0001-7557-9078
+      - name: Michael A. A Nitsche
+        orcid: http://orcid.org/0000-0002-2207-5965
+      - name: Mohammad Ali Salehinejad
+        orcid: http://orcid.org/0000-0003-1913-4677
+  comment:
+    dislikes: 0
+    thread: "8586696789"
+    numReports: 0
+    likes: 0
+    id: "5441987861"
+    createdAt: 2021-07-02T23:04:45
+    author:
+      username: alisalehinejadphd
+      about: ""
+      name: Ali Salehinejad, PhD
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/alisalehinejadphd/
+      url: ""
+      location: ""
+      id: "359942221"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      The peer-reviewed published article (open access) of this preprint can be
+      found below:
+
+      https://www.sciencedirect.com/science/article/pii/S1935861X21001248
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.06.08.21258427v1
+  tweets:
+    - created_at: Sat Jul 03 12:29:59 +0000 2021
+      id: 1411301191355670500
+      id_str: "1411301191355670528"
+      text: >-
+        💬 medRxiv comment on "Intensified stimulation target..."
+
+
+        "The peer-reviewed published article (open access) of thi… https://t.co/1LLW6PrZS6
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/1LLW6PrZS6
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jul 03 12:29:59 +0000 2021
+      id: 1411301192140050400
+      id_str: "1411301192140050435"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/18AcRCoEmp
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/18AcRCoEmp
+      in_reply_to_status_id: 1411301191355670500
+      in_reply_to_status_id_str: "1411301191355670528"
