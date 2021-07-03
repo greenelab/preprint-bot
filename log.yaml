@@ -34746,3 +34746,100 @@
           - url: https://t.co/24JaAsnPD0
       in_reply_to_status_id: 1411361685810602000
       in_reply_to_status_id_str: "1411361685810601986"
+- preprint:
+    id: "148438"
+    doi: 10.1101/2021.06.27.21259432
+    first_posted: 2021-07-02
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.27.21259432v1
+    url: https://api.rxivist.org/v1/papers/148438
+    title: SARS-CoV-2 Seroprevalence among First Responders in Northeastern Ohio
+    category: infectious-diseases
+    abstract: "Objectives: First responders including firefighters, emergency
+      medical technicians (EMT), paramedics, and police officers are working on
+      the front lines to fight the COVID-19 pandemic and facing a higher risk of
+      infection. This study assessed the seroprevalence among first responders
+      in northeastern Ohio during May- September 2020. Methods: A survey and IgG
+      antibody test against SARS-CoV-2 were offered to University Hospitals
+      Health System affiliated first responder departments. Results: A total of
+      3080 first responders with diverse job assignments from more than 400 fire
+      and police departments participated in the study. Among them, 73 (2.4%)
+      were seropositive while only 0.8% had previously positive RT-PCR results.
+      Asymptomatic infection accounts for 46.6% of seropositivity. By
+      occupation, seropositive rates were highest among administration/support
+      staff (3.8%), followed by paramedics (3.0%), EMTs (2.6%), firefighters
+      (2.2%), and police officers (0.8%). Seroprevalence was not associated with
+      self-reported exposure as work exposure rates were: paramedics 48.2%,
+      firefighters 37.1%, EMTs 32.3%, police officers 7.7%, and
+      administration/support staff 4.4%. Self-reported community exposure was
+      strongly correlated with self-reported work exposure rate rather than
+      seroprevalence suggesting a potential impact of risk awareness.
+      Additionally, no significant difference was found among gender or age
+      groups; however, black Americans have a higher positivity rate than other
+      races although they reported lower exposure. Conclusions: Despite the high
+      work-associated exposure rate to SARS-CoV-2 infection, first responders
+      with different roles demonstrated seroprevalence no higher than their
+      administrative/supportive colleagues, which suggests infection control
+      measures are effective in preventing work-related infection."
+    authors:
+      - name: xiaochun zhang
+        orcid: http://orcid.org/0000-0002-9816-1034
+      - name: Elie Saade
+        orcid: null
+      - name: Jaime H Noguez
+        orcid: null
+      - name: Christine Schmotzer
+        orcid: http://orcid.org/0000-0002-7235-8728
+  comment:
+    dislikes: 0
+    thread: "8626378702"
+    numReports: 0
+    likes: 0
+    id: "5441418021"
+    createdAt: 2021-07-02T14:30:43
+    author:
+      username: joepsotka
+      about: ""
+      name: Joe Psotka
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/joepsotka/
+      url: ""
+      location: ""
+      id: "164427169"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: I don't understand why they do not report vaccination rates. Did no
+      one participate in a  clinical trial?
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.06.27.21259432v1
+  tweets:
+    - created_at: Sat Jul 03 18:23:52 +0000 2021
+      id: 1411390247519326200
+      id_str: "1411390247519326208"
+      text: >-
+        💬 medRxiv comment on "SARS-CoV-2 Seroprevalence amon..."
+
+
+        "I don't understand why they do not report vaccination ra… https://t.co/R9nOEtegnc
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/R9nOEtegnc
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jul 03 18:23:52 +0000 2021
+      id: 1411390248278450200
+      id_str: "1411390248278450180"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/oqgm8u0WjP
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/oqgm8u0WjP
+      in_reply_to_status_id: 1411390247519326200
+      in_reply_to_status_id_str: "1411390247519326208"
