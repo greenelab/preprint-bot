@@ -34432,3 +34432,160 @@
           - url: https://t.co/18AcRCoEmp
       in_reply_to_status_id: 1411301191355670500
       in_reply_to_status_id_str: "1411301191355670528"
+- preprint:
+    id: "136868"
+    doi: 10.1101/2021.04.05.21254656
+    first_posted: 2021-04-07
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.04.05.21254656v1
+    url: https://api.rxivist.org/v1/papers/136868
+    title: Glucocorticoids and B Cell Depleting Agents Substantially Impair
+      Immunogenicity of mRNA Vaccines to SARS-CoV-2
+    category: infectious-diseases
+    abstract: >-
+      BackgroundIndividuals with chronic inflammatory diseases (CID) are
+      frequently treated with immunosuppressive medications that can increase
+      their risk of severe COVID-19. While novel mRNA-based SARS-CoV-2
+      vaccination platforms provide robust protection in immunocompetent
+      individuals, the immunogenicity in CID patients on immunosuppression is
+      not well established. Therefore, determining the effectiveness of
+      SARS-CoV-2 vaccines in the setting of immunosuppression is essential to
+      risk-stratify CID patients with impaired protection and provide clinical
+      guidance regarding medication management.
+
+
+      MethodsWe conducted a prospective assessment of mRNA-based vaccine immunogenicity in 133 adults with CIDs and 53 immunocompetent controls. Blood from participants over 18 years of age was collected before initial immunization and 1-2 weeks after the second immunization. Serum anti-SARS-CoV-2 spike (S) IgG+ binding, neutralizing antibody titers, and circulating S-specific plasmablasts were quantified to assess the magnitude and quality of the humoral response following vaccination.
+
+
+      ResultsCompared to immunocompetent controls, a three-fold reduction in anti-S IgG titers (P=0.009) and SARS-CoV-2 neutralization (p<0.0001) were observed in CID patients. B cell depletion and glucocorticoids exerted the strongest effect with a 36- and 10-fold reduction in humoral responses, respectively (p<0.0001). Janus kinase inhibitors and antimetabolites, including methotrexate, also blunted antibody titers in multivariate regression analysis (P<0.0001, P=0.0023, respectively). Other targeted therapies, such as TNF inhibitors, IL-12/23 inhibitors, and integrin inhibitors, had only modest impacts on antibody formation and neutralization.
+
+
+      ConclusionsCID patients treated with immunosuppressive therapies exhibit impaired SARS-CoV-2 vaccine-induced immunity, with glucocorticoids and B cell depletion therapy more severely impeding optimal responses.
+    authors:
+      - name: Parakkal Deepak
+        orcid: http://orcid.org/0000-0002-3436-9784
+      - name: Wooseob Kim
+        orcid: http://orcid.org/0000-0002-9199-1000
+      - name: Michael A Paley
+        orcid: http://orcid.org/0000-0001-8724-3176
+      - name: Monica Yang
+        orcid: http://orcid.org/0000-0002-2693-3648
+      - name: Alexander B Carvidi
+        orcid: null
+      - name: Alia A El-Qunni
+        orcid: http://orcid.org/0000-0003-0212-8094
+      - name: Alem Haile
+        orcid: null
+      - name: Katherine Huang
+        orcid: http://orcid.org/0000-0002-5013-4790
+      - name: Baylee Kinnett
+        orcid: null
+      - name: Mariel J. Liebeskind
+        orcid: http://orcid.org/0000-0003-4595-0651
+      - name: Zhuoming Liu
+        orcid: http://orcid.org/0000-0001-8198-0976
+      - name: Lily E McMorrow
+        orcid: http://orcid.org/0000-0003-2823-5859
+      - name: Diane Paez
+        orcid: null
+      - name: Dana C Perantie
+        orcid: http://orcid.org/0000-0002-6380-8133
+      - name: Rebecca E Schriefer
+        orcid: http://orcid.org/0000-0002-7430-0626
+      - name: Shannon Sides
+        orcid: null
+      - name: Mahima Thapa
+        orcid: null
+      - name: Mate Gergely
+        orcid: null
+      - name: Suha Abushamma
+        orcid: null
+      - name: Micahel Kelbert
+        orcid: null
+      - name: Lynne Mitchell
+        orcid: null
+      - name: Billy Nix
+        orcid: null
+      - name: Jonathan D Graf
+        orcid: null
+      - name: Kimberly E Taylor
+        orcid: http://orcid.org/0000-0001-6848-9074
+      - name: Salim Chahin
+        orcid: http://orcid.org/0000-0002-4115-4300
+      - name: Matthew A Ciorba
+        orcid: http://orcid.org/0000-0002-7656-0982
+      - name: Patricia A Katz
+        orcid: http://orcid.org/0000-0002-8146-2519
+      - name: Mehrdad Matloubian
+        orcid: http://orcid.org/0000-0001-6233-985X
+      - name: Jane A O'Halloran
+        orcid: http://orcid.org/0000-0001-8265-9471
+      - name: Rachel M Presti
+        orcid: http://orcid.org/0000-0002-5469-0727
+      - name: Gregory F Wu
+        orcid: http://orcid.org/0000-0003-3588-0637
+      - name: Sean P. J. Whelan
+        orcid: http://orcid.org/0000-0003-1564-8590
+      - name: William J Buchser
+        orcid: http://orcid.org/0000-0002-6675-6359
+      - name: Lianne S Gensler
+        orcid: http://orcid.org/0000-0001-6314-5336
+      - name: Mary C Nakamura
+        orcid: http://orcid.org/0000-0001-8127-9426
+      - name: Ali H. Ellebedy
+        orcid: http://orcid.org/0000-0002-6129-2532
+      - name: Alfred HJ Kim
+        orcid: http://orcid.org/0000-0003-4074-0516
+  comment:
+    dislikes: 0
+    thread: "8468746386"
+    numReports: 0
+    likes: 0
+    id: "5441769063"
+    createdAt: 2021-07-02T19:31:41
+    author:
+      username: eden_ann
+      about: ""
+      name: Eden Ann
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/eden_ann/
+      url: ""
+      location: ""
+      id: "371787176"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: What about medications for allergic asthma - xolair, inhaled
+      steroids, and such ?
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.04.05.21254656v1
+  tweets:
+    - created_at: Sat Jul 03 14:16:53 +0000 2021
+      id: 1411328093504032800
+      id_str: "1411328093504032769"
+      text: >-
+        💬 medRxiv comment on "Glucocorticoids and B Cell Dep..."
+
+
+        "What about medications for allergic asthma - xolair, inh… https://t.co/Zgr2KkRf8T
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/Zgr2KkRf8T
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jul 03 14:16:53 +0000 2021
+      id: 1411328094414246000
+      id_str: "1411328094414245888"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/zdork41vHy
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/zdork41vHy
+      in_reply_to_status_id: 1411328093504032800
+      in_reply_to_status_id_str: "1411328093504032769"
