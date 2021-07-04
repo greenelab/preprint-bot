@@ -35223,3 +35223,121 @@
           - url: https://t.co/a2RC52fZNg
       in_reply_to_status_id: 1411449341328466000
       in_reply_to_status_id_str: "1411449341328465923"
+- preprint:
+    id: "96647"
+    doi: 10.1101/2020.10.08.329912
+    first_posted: 2020-10-09
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.10.08.329912v1
+    url: https://api.rxivist.org/v1/papers/96647
+    title: "Transcranial Bipolar Direct Current Stimulation of the Frontoparietal
+      Cortex Reduces Ketamine-Induced Oscillopathies: A Pilot Study in the
+      Sedated Rat"
+    category: neuroscience
+    abstract: >-
+      During the prodromal phase of schizophrenia with its complex and insidious
+      clinical picture, electroencephalographic recordings detect widespread
+      oscillation disturbances (or oscillopathies). Neural oscillations are
+      electro-biomarkers of the connectivity state within systems. A single
+      systemic administration of ketamine, a non-competitive NMDA glutamate
+      receptor antagonist, transiently reproduces the oscillopathies with a
+      clinical picture reminiscent of the psychosis prodrome. This acute
+      pharmacological model may help the research and development of innovative
+      treatments against the psychotic transition. Transcranial electrical
+      stimulation is recognized as an appropriate non-invasive therapeutic
+      modality since it can increase cognitive performance and modulate neural
+      oscillations with little or no side effects. Therefore, our objective was
+      to set up, in the sedated adult rat, a stimulation method able to
+      normalize the ketamine-induced oscillopathies. Unilateral transcranial
+      frontoparietal anodal stimulation by direct current (<+1 mA) was applied
+      in ketamine-treated rats. A concomitant electroencephalographic recording
+      of the parietal cortex measured the stimulation effects on its
+      spontaneously-occurring oscillations. A 5-min bipolar anodal tDCS
+      immediately and quickly reduced, significantly with an intensity-effect
+      relationship, the ketamine-induced oscillopathies at least in the
+      bilateral parietal cortex. A duration effect was also recorded. These
+      preliminary neurophysiological findings are promising for developing a
+      therapeutic proof-of-concept against neuropsychiatric disorders.
+
+
+      ### Competing Interest Statement
+
+
+      The authors have declared no competing interest.
+    authors:
+      - name: Caroline Lahogue
+        orcid: null
+      - name: Didier Pinault
+        orcid: http://orcid.org/0000-0003-3807-4817
+  comment:
+    dislikes: 0
+    thread: "8233193028"
+    numReports: 0
+    likes: 0
+    id: "5442563091"
+    createdAt: 2021-07-03T14:52:02
+    author:
+      name: Didier PINAULT
+      url: ""
+      profileUrl: ""
+      emailHash: ""
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      The authors thank the anonymous Transl Neurosci reviewers who positively
+      assessed with constructive comments the manuscript.
+
+
+      To better justify and understand the technical design and the statistical approaches, the authors added detailed arguments with new references in both the introduction and the methods. Also, to better clarify the course of the experiments, the repeated protocols/measures in one animal are now the object of a paragraph in the methods section.
+
+
+      In this pilot study, the used strategy allowed the investigators to quickly move towards another stimulation protocol (a new combination of parameters), predicted effective based on the ongoing datasets, their knowledge, and expertise. As specified in the result section, the parametrization of the FP tDCS began according to an empirical and pragmatic approach. In any animal, it was possible to apply 2 to 3 stimulation protocols. Moreover, when the stimulation was not effective concerning the goal of the present study, there was no interest in pursuing further experiments on a greater number of animals. So, having in mind the 3R rule, the authors attempted to adjust the protocol and reduce the animal number. The present datasets remain “preliminary” as it was impossible to test, in a reasonable time, all the possible combinations (extraordinarily large number) of the stimulation parameters. As discussed, the authors cannot exclude having missed the best parameters.
+
+
+      Why ketamine oscillopathies under pentobarbital sedation?
+
+      Pinault’s laboratory demonstrated that the ketamine-induced gamma hyperactivity recorded in free-behaving rats could also be recorded in (urethane or pentobarbital) anesthetized rats (Hakami et al., 2009). Our multiple experiences with urethane anesthesia (Pinault and Pumain, 1989; Pinault and Deschenes, 1992; Hakami et al., 2009) led us to conclude that the quality of the recordings is not stable over time, preventing us from performing repeated measures. The pentobarbital is also well-known to induce delta-waves and sleep spindles (Connor et al., 2003; Ganes and Andersen, 1975; Pinault et al., 2006), and the pentobarbital preparation is stable and adjustable at will via an EEG-driven infusion rate of the sedative regimen. 
+
+      The major requirement of the present study was to have the equivalent of a stationary stage II non-REM sleep, during which the authors could perform repeated measures using a minimal number of animals. Furthermore, under the present experimental conditions (pentobarbital-induced sedation), a single systemic administration of ketamine at a psychotomimetic dose (2.5 mg/kg, SC, estimated from a study conducted in free-behaving rats: Pinault, Biol Psychiatry, 2008) induces most of the oscillopathies (especially gamma hyperactivity and delta/spindle hypoactivity) recorded in patients having psychotic disorders. 
+
+      One advantage of the pentobarbital-induced sedation - a maintained state electrophysiologically equivalent to stage II non-REM sleep - was its stability over time, allowing to assess the stimulation parameters under more than one condition; also, the repeated measures allowed to decrease the animal number (already discussed in the main text). 
+
+      As a corollary, one major limitation is the dependence of tDCS on brain state (Li et al., Human Brain Mapp, 2019; Luft et al., Brain Stimulation, 2018). So, the tested parameters set under pentobarbital-induced sedation highlight the importance of considering the brain state when it comes to adjusting the stimulation parameters in any, experimental or clinical, studies. A paragraph was added at the end of the subsection “Technical considerations”.
+
+
+      One referee raised an interesting issue to be discussed, the possible relationship between the convulsive therapy of schizophrenia patients by electrical or magnetic stimulation of the frontal lobe. The authors were not convinced it is the heart of the matter in an experimental study focused on TES… Electro-convulsive therapy is applied in patients with chronic, advanced schizophrenia and resistance to medication, including clozapine (e.g., see Sanghani et al., Curr Opin Psychiatry, 2018). In the present study, we used an acute model for psychosis transition, not for chronic schizophrenia. From a clinical point of view, TES (tDCS or tACS), not ECT, is expected to be applied in patients at a clinically high-risk mental state for transition to psychotic disorders (Rabanea-Souza et al, Trials, 2019). On the other hand, in the discussion, a paragraph was added to present a translational vision mentioning questions the authors thought relevant, regarding the potential clinical application of the tDCS in individuals having a clinically at-risk mental state for developing a psychosis transition while the ketamine model induces a brain state simulating that of patients transitioning to a psychotic state.
+
+      DP, 02 July, 2021.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.10.08.329912v1
+  tweets:
+    - created_at: Sun Jul 04 01:03:06 +0000 2021
+      id: 1411490719357882400
+      id_str: "1411490719357882371"
+      text: >-
+        💬 bioRxiv comment on "Transcranial Bipolar Direct Cu..."
+
+
+        "The authors thank the anonymous Transl Neurosci reviewer… https://t.co/3K1MsEXJC2
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/3K1MsEXJC2
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jul 04 01:03:06 +0000 2021
+      id: 1411490720318361600
+      id_str: "1411490720318361608"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/ajic2WLoPA
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/ajic2WLoPA
+      in_reply_to_status_id: 1411490719357882400
+      in_reply_to_status_id_str: "1411490719357882371"
