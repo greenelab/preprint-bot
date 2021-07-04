@@ -35904,3 +35904,66 @@
           - url: https://t.co/XPbzC5oGk2
       in_reply_to_status_id: 1411752611263438800
       in_reply_to_status_id_str: "1411752611263438852"
+- preprint:
+    id: 148509
+    metric: 227
+    title: Neutralization of Delta variant with sera of Covishield vaccinees and
+      COVID-19 recovered vaccinated individuals
+    url: https://api.rxivist.org/v1/papers/148509
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.01.450676v1
+    doi: 10.1101/2021.07.01.450676
+    category: microbiology
+    first_posted: 2021-07-02
+    abstract: "The recent emergence of B.1.617 lineage has created grave public
+      health problem in India. The lineage further mutated to generate
+      sub-lineages B.1.617.1 (Kappa), B.1.617.2 (Delta), B.1.617.3. Apparently,
+      the Delta variant has slowly dominated the other variants including
+      B.1.617.1 (Kappa), B.1.617.2 (Delta), B.1.617.3. With this, World Health
+      Organization has described this sub-lineage as variant of concern. The
+      high transmissibility associated with Delta variant has led to second wave
+      of pandemic in India which affected millions of people. Besides this,
+      variant of concerns has been reported to show lower neutralization to
+      several approved vaccines. This has led to breakthrough infections after
+      completion of vaccination regimen. There is limited information available
+      on the duration of protective immune response post-infection, vaccination
+      or breakthrough infection with SARS-CoV-2. In this study, we have
+      evaluated immune response in sera of the Covishield vaccinated individuals
+      belonging to category: I. one dose vaccinated, II. two doses vaccinated,
+      III. COVID-19 recovered plus one dose vaccinated, IV. COVID-19 recovered
+      plus two doses vaccinated and V. breakthrough COVID-19 cases. The findings
+      of the study demonstrated that the breakthrough cases and the COVID-19
+      recovered individuals with one or two dose of vaccine had relatively
+      higher protection against Delta variant in comparison to the participants
+      who were administered either one or two doses of Covishield. Prior
+      vaccination results in less severe disease against subsequent infection
+      provide evidence that both humoral and cellular immune response play an
+      important role in protection."
+    authors:
+      - name: Gajanan Sapkal
+      - name: Pragya D Yadav
+      - name: Rima R Sahay
+      - name: Gururaj Deshpande
+      - name: Nivedita Gupta
+      - name: Dimpal A Nyayanit
+      - name: Deepak Y Patil
+      - name: Sanjay Kumar
+      - name: Priya Abraham
+      - name: Samiran Panda
+      - name: Balram Bhargava
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Sun Jul 04 20:15:13 +0000 2021
+      id: 1411780661543854000
+      id_str: "1411780661543854087"
+      text: >-
+        🔥 bioRxiv Microbiology preprint by G. Sapkal et al:
+
+
+        "Neutralization of Delta variant with sera of Covishield vacci… https://t.co/jX7Ork7acZ
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/jX7Ork7acZ
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
