@@ -35803,3 +35803,104 @@
           - url: https://t.co/97wPzqOGIO
       in_reply_to_status_id: 1411723977614004200
       in_reply_to_status_id_str: "1411723977614004227"
+- preprint:
+    id: "142247"
+    doi: 10.1101/2021.05.16.21257255
+    first_posted: 2021-05-18
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.16.21257255v1
+    url: https://api.rxivist.org/v1/papers/142247
+    title: "Long-term symptoms after SARS-CoV-2 infection in school children:
+      population-based cohort with 6-months follow-up. Short Report"
+    category: epidemiology
+    abstract: Although nobody doubts the existence of long COVID in children, it is
+      still unclear to what extent children are affected. The Ciao Corona study
+      is a longitudinal cohort investigating SARS-CoV-2 seroprevalence and
+      clustering of cases among around 2500 children from 55 randomly selected
+      primary and secondary schools in the canton of Zurich in Switzerland.
+      Between June 2020 and April 2021, we completed three testing phases where
+      we collected venous blood for serological analysis (ABCORA 2.0 test) and
+      asked about symptoms with online questionnaires. We compared children who
+      tested positive for SARS-CoV-2 antibodies in October/November 2020 with
+      those who tested negative. Children who were seronegative in
+      October/November 2020 and seroconverted or were not retested by
+      March/April 2021 were excluded from the analysis (n=256). In March-May
+      2021 we assessed the presence of symptoms occurring since October 2020,
+      lasting for at least 4 weeks, and persisting for either >4 weeks or >12
+      weeks. Overall, 1355 of 2503 children with a serology result in
+      October/November 2020 and follow up questionnaire in March/April 2021 were
+      included. Among seropositive and seronegative 6-to 16-year-old children
+      and adolescents, 9% versus 10% reported at least one symptom beyond 4
+      weeks, and 4% versus 2% at least one symptom beyond 12 weeks. None of the
+      seropositive children reported hospitalization after October 2020.
+      Seropositive children, all with a history of pauci-symptomatic SARS-CoV-2
+      infection, did not report long COVID more frequently than seronegative
+      children. This study suggests a very low prevalence of long COVID in a
+      randomly selected population-based cohort of children followed over 6
+      months after serological testing.
+    authors:
+      - name: Thomas Radtke
+        orcid: http://orcid.org/0000-0001-6964-6545
+      - name: Agne Ulyte
+        orcid: http://orcid.org/0000-0001-7419-9778
+      - name: Milo Alan Puhan
+        orcid: http://orcid.org/0000-0003-4721-1879
+      - name: Susi Kriemler
+        orcid: http://orcid.org/0000-0002-3384-7940
+  comment:
+    dislikes: 0
+    thread: "8539600665"
+    numReports: 0
+    likes: 0
+    id: "5443637457"
+    createdAt: 2021-07-04T15:46:32
+    author:
+      username: disqus_O4mKnmFJzF
+      about: ""
+      name: AF
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_O4mKnmFJzF/
+      url: ""
+      location: ""
+      id: "371669853"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: The authors fail to describe the online questionnaire - did it
+      restrict the set of symptoms that were able to be reported? Did it allow
+      entry of non-predefined symptoms? Did it include a severity scale for each
+      reported symptom? The precise questioning schema might have a very
+      significant effect on the results which seem obviously in contradiction to
+      e.g. UK ONS data.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.05.16.21257255v2
+  tweets:
+    - created_at: Sun Jul 04 18:23:46 +0000 2021
+      id: 1411752611263438800
+      id_str: "1411752611263438852"
+      text: >-
+        💬 medRxiv comment on "Long-term symptoms after SARS-..."
+
+
+        "The authors fail to describe the online questionnaire -… https://t.co/5nosZswBWk
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/5nosZswBWk
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jul 04 18:23:46 +0000 2021
+      id: 1411752612114878500
+      id_str: "1411752612114878467"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/XPbzC5oGk2
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/XPbzC5oGk2
+      in_reply_to_status_id: 1411752611263438800
+      in_reply_to_status_id_str: "1411752611263438852"
