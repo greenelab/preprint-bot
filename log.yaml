@@ -35967,3 +35967,116 @@
           - url: https://t.co/jX7Ork7acZ
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "134781"
+    doi: 10.1101/2021.03.23.21251968
+    first_posted: 2021-03-24
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.03.23.21251968v1
+    url: https://api.rxivist.org/v1/papers/134781
+    title: Broad decline and subsequent differential re-emergence of respiratory
+      viruses during COVID-19 pandemic response measures, Singapore 2020
+    category: infectious-diseases
+    abstract: Importance. COVID-19 pandemic control measures affect the prevalence
+      of other respiratory viruses. Effects on some viruses have been described;
+      however, the broader impact and temporal relationship of control measures
+      on virus decline and subsequent re-emergence have not been thoroughly
+      documented. Understanding these phenomena may influence health policies.
+      Objective. To examine the prevalence of unrelated respiratory viruses in
+      relation to population-wide pandemic response measures and phases in 2020
+      in Singapore. Design, Setting, and Participants. Data from respiratory
+      multiplex PCRs from 3 major hospitals (total 3700 beds) in Singapore were
+      collated. The full dataset consisted of 42,558 test results, 19,898 from
+      2019 and 22,660 from 2020. Main Outcomes and Measures. Weekly virus
+      prevalence data were mapped onto prevailing pandemic response measures, in
+      order to elucidate temporal relationships and differential virus
+      responses. Pre-pandemic data from 2019 were compared with data from 2020.
+      Results. Early response measures, even before national lockdown, were
+      followed by a dramatic reduction of influenza viruses and a more gradual
+      decline of other respiratory viruses, including respiratory syncytial
+      virus, parainfluenza viruses, endemic coronaviruses and metapneumovirus.
+      Marked decline of enterovirus/rhinovirus and adenovirus, however, was only
+      observed during lockdown. About 13 weeks into phased reopening,
+      enterovirus/rhinovirus re-emerged, followed by adenovirus, the latter
+      mainly in the pediatric population. All other viruses remained at low
+      levels until the end of 2020. Conclusions and Relevance. COVID-19 control
+      measures in Singapore had a significant impact on a broad range of
+      respiratory viruses. Effects of various control measures varied between
+      phases and different viruses. Influenza viruses declined earliest and most
+      dramatically; relaxation of measures was followed by re-emergence of
+      enterovirus/rhinovirus and adenovirus. These patterns are presumably a
+      result of different propensities for contact versus droplet and overall
+      ease of transmission, and different virus reservoirs. Further studies into
+      these phenomena are a matter of public health importance.
+    authors:
+      - name: Wei Yee Wan
+        orcid: http://orcid.org/0000-0002-7426-3167
+      - name: Koh Cheng Thoon
+        orcid: http://orcid.org/0000-0002-2844-010X
+      - name: Liat Hui Loo
+        orcid: http://orcid.org/0000-0003-2747-9544
+      - name: Kian Sing Chan
+        orcid: http://orcid.org/0000-0003-1941-779X
+      - name: Lynette L. E. Oon
+        orcid: http://orcid.org/0000-0002-0721-1551
+      - name: Adaikalavan Ramasamy
+        orcid: http://orcid.org/0000-0002-7598-2892
+      - name: Matthias Maiwald
+        orcid: http://orcid.org/0000-0001-5448-8417
+  comment:
+    dislikes: 0
+    thread: "8450231152"
+    numReports: 0
+    likes: 0
+    id: "5443508685"
+    createdAt: 2021-07-04T13:24:54
+    author:
+      username: matthiasmaiwald
+      about: ""
+      name: Matthias Maiwald
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/matthiasmaiwald/
+      url: ""
+      location: ""
+      id: "331888014"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Our article has now appeared here: 
+
+      Wan WY, Thoon KC, Loo LH, Chan KS, Oon LLE, Ramasamy A, Maiwald M. Trends in Respiratory Virus Infections During the COVID-19 Pandemic in Singapore, 2020. JAMA Netw Open. 2021 Jun 1;4(6):e2115973. doi: 10.1001/jamanetworkopen.2021.15973. 
+
+      https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2781461
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.03.23.21251968v1
+  tweets:
+    - created_at: Sun Jul 04 20:18:39 +0000 2021
+      id: 1411781522730979300
+      id_str: "1411781522730979328"
+      text: |-
+        💬 medRxiv comment on "Broad decline and subsequent d..."
+
+        "Our article has now appeared here: 
+        Wan WY, Thoon KC, Lo… https://t.co/H66SysHkNm
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/H66SysHkNm
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jul 04 20:18:39 +0000 2021
+      id: 1411781523595055000
+      id_str: "1411781523595055111"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/0nGtu8iqbJ
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/0nGtu8iqbJ
+      in_reply_to_status_id: 1411781522730979300
+      in_reply_to_status_id_str: "1411781522730979328"
