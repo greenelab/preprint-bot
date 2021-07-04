@@ -35569,3 +35569,114 @@
           - url: https://t.co/a2RC52fZNg
       in_reply_to_status_id: 1411663585508565000
       in_reply_to_status_id_str: "1411663585508564994"
+- preprint:
+    id: "119654"
+    doi: 10.1101/2020.11.30.403345
+    first_posted: 2020-12-01
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2020.11.30.403345v1
+    url: https://api.rxivist.org/v1/papers/119654
+    title: On the permeability of cell membranes subjected to lipid oxidation
+    category: biophysics
+    abstract: >-
+      The formation of transient hydrophilic pores in their membranes is a
+      well-recognized mechanism of permeabilization of cells exposed to
+      high-intensity electric pulses. However, the formation of such pores alone
+      is not able to explain all aspects of the so-called electroporation
+      phenomenon. In particular, the reasons for the sustained permeability of
+      cell membranes, which persist long after the pulses application, remain
+      elusive. The complete resealing of the cell membranes takes indeed orders
+      of magnitude longer than the time of electropore closure as reported from
+      molecular modelling investigations. A possible alternative mechanism to
+      explain the observed long-lived permeability of cell membranes, lipid
+      peroxidation, has been previously suggested but the theoretical
+      investigations of membrane lesions, containing excess amounts of
+      hydroperoxides, have shown that the conductivities of such lesions were
+      not high enough to reasonably explain the entire range of experimental
+      measurements. Here, we expand on these studies and investigate the
+      permeability of cell membrane lesions that underwent secondary oxidation.
+      Molecular dynamics simulations and free energy calculations on lipid
+      bilayers in different states show that such lesions provide a better model
+      for post-pulsed permeable and conductive electropermeabilized cells. These
+      results are further discussed in context of sonoporation and ferroptosis,
+      respectively a procedure and a phenomena, among others, in which alike
+      electroporation substantial lipid oxidation might be triggered.
+
+
+      HighlightsO_LIThe contribution of secondary lipids oxidation to the permeabilization of model membranes is quantitatively assessed
+
+      C_LIO_LISmall patches of secondary lipids oxidation cause formation long-lived pores in lipid bilayers.
+
+      C_LIO_LIThe cholesterol content of membranes enhances the life-time of the formed pores.
+
+      C_LIO_LIA single pore accounts for the measured post-pulse electropermeabilization of cells.
+
+      C_LIO_LIThe diffusion of the secondary oxidation lipids, even after pores closure leads to permeability of lipid membrane.
+
+      C_LI
+    authors:
+      - name: Daniel Wiczew
+        orcid: http://orcid.org/0000-0001-8910-6116
+      - name: Natalia Szulc
+        orcid: null
+      - name: Mounir Tarek
+        orcid: http://orcid.org/0000-0002-9451-3215
+  comment:
+    dislikes: 0
+    thread: "8328385521"
+    numReports: 0
+    likes: 0
+    id: "5442299686"
+    createdAt: 2021-07-03T07:48:45
+    author:
+      username: danielwiczew
+      about: ""
+      name: danielwiczew
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/danielwiczew/
+      url: ""
+      location: ""
+      id: "371809072"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: |-
+      Here is the accepted version
+
+
+      https://www.sciencedirect.com/science/article/abs/pii/S1567539421001328
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.11.30.403345v2
+  tweets:
+    - created_at: Sun Jul 04 14:17:05 +0000 2021
+      id: 1411690532145881000
+      id_str: "1411690532145881092"
+      text: |-
+        💬 bioRxiv comment on "On the permeability of cell me..."
+
+        "Here is the accepted version
+
+        "
+
+        https://t.co/QSHfmfJs04
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/QSHfmfJs04
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jul 04 14:17:05 +0000 2021
+      id: 1411690532934389800
+      id_str: "1411690532934389764"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/FHA6htfoRm
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/FHA6htfoRm
+      in_reply_to_status_id: 1411690532145881000
+      in_reply_to_status_id_str: "1411690532145881092"
