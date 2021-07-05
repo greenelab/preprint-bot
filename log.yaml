@@ -36493,3 +36493,113 @@
           - url: https://t.co/652MU30MFJ
       in_reply_to_status_id: 1412054279574020000
       in_reply_to_status_id_str: "1412054279574020097"
+- preprint:
+    id: "142748"
+    doi: 10.1101/2021.05.21.445091
+    first_posted: 2021-05-21
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.05.21.445091v1
+    url: https://api.rxivist.org/v1/papers/142748
+    title: Identification of a novel lineage bat SARS-related coronaviruses that use
+      bat ACE2 receptor
+    category: microbiology
+    abstract: Severe respiratory disease coronavirus-2 (SARS-CoV-2) causes the most
+      devastating disease, COVID-19, of the recent century. One of the unsolved
+      scientific questions around SARS-CoV-2 is the animal origin of this virus.
+      Bats and pangolins are recognized as the most probable reservoir hosts
+      that harbor the highly similar SARS-CoV-2 related viruses (SARSr-CoV-2).
+      Here, we report the identification of a novel lineage of SARSr-CoVs,
+      including RaTG15 and seven other viruses, from bats at the same location
+      where we found RaTG13 in 2015. Although RaTG15 and the related viruses
+      share 97.2% amino acid sequence identities to SARS-CoV-2 in the conserved
+      ORF1b region, but only show less than 77.6% to all known SARSr-CoVs in
+      genome level, thus forms a distinct lineage in the Sarbecovirus
+      phylogenetic tree. We then found that RaTG15 receptor binding domain (RBD)
+      can bind to and use Rhinolophus affinis bat ACE2 (RaACE2) but not human
+      ACE2 as entry receptor, although which contains a short deletion and has
+      different key residues responsible for ACE2 binding. In addition, we show
+      that none of the known viruses in bat SARSr-CoV-2 lineage or the novel
+      lineage discovered so far use human ACE2 efficiently compared to
+      SARSr-CoV-2 from pangolin or some of the SARSr-CoV-1 lineage viruses.
+      Collectively, we suggest more systematic and longitudinal work in bats to
+      prevent future spillover events caused by SARSr-CoVs or to better
+      understand the origin of SARS-CoV-2.
+    authors:
+      - name: Hua Guo
+        orcid: null
+      - name: Ben Hu
+        orcid: null
+      - name: Hao-rui Si
+        orcid: null
+      - name: Yan Zhu
+        orcid: http://orcid.org/0000-0003-1105-6491
+      - name: Wei Zhang
+        orcid: http://orcid.org/0000-0001-6428-2033
+      - name: Bei Li
+        orcid: null
+      - name: Ang Li
+        orcid: http://orcid.org/0000-0002-1186-3448
+      - name: Rong Geng
+        orcid: null
+      - name: Hao-Feng Lin
+        orcid: null
+      - name: Xing-Lou Yang
+        orcid: null
+      - name: Peng Zhou
+        orcid: http://orcid.org/0000-0001-5684-2256
+      - name: Zhengli Shi
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8540448791"
+    numReports: 0
+    likes: 0
+    id: "5444588887"
+    createdAt: 2021-07-05T14:11:13
+    author:
+      username: zaishuiyifang
+      about: ""
+      name: zaishuiyifang
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/zaishuiyifang/
+      url: ""
+      location: ""
+      id: "371294301"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Why does the R.Affinis ACE2 not bind to the RATG13, which was
+      discovered from R.Affinis? Why does the RATG13 bind even better to human
+      ACE2?
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.05.21.445091v1
+  tweets:
+    - created_at: Mon Jul 05 16:31:09 +0000 2021
+      id: 1412086660632879000
+      id_str: "1412086660632879111"
+      text: >-
+        💬 bioRxiv comment on "Identification of a novel line..."
+
+
+        "Why does the R.Affinis ACE2 not bind to the RATG13, whic… https://t.co/1EKpsgZ5FO
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/1EKpsgZ5FO
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jul 05 16:31:10 +0000 2021
+      id: 1412086661555671000
+      id_str: "1412086661555671040"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/ICHGzR5kgK
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/ICHGzR5kgK
+      in_reply_to_status_id: 1412086660632879000
+      in_reply_to_status_id_str: "1412086660632879111"
