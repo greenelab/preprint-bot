@@ -36183,3 +36183,112 @@
           - url: https://t.co/SYOosLmQld
       in_reply_to_status_id: 1411811823226167300
       in_reply_to_status_id_str: "1411811823226167298"
+- preprint:
+    id: "141912"
+    doi: 10.1101/2021.05.15.21257017
+    first_posted: 2021-05-17
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.15.21257017v1
+    url: https://api.rxivist.org/v1/papers/141912
+    title: Extended interval BNT162b2 vaccination enhances peak antibody generation
+      in older people
+    category: infectious-diseases
+    abstract: "Abstract Objectives: To assess the relative immunogenicity of
+      standard or extended interval BNT162b2 vaccination. Design: Population
+      based cohort study comparing immune responses 2 weeks after the second
+      vaccine, with appropriate time-matched samples in participants who
+      received standard or extended interval double vaccination. Setting:
+      Primary care networks, Birmingham, UK. December 2020 to April 2021.
+      Participants: 175 people aged over 80 years of age. All donors received
+      the BNT162b2 Pfizer/BioNTech vaccination and were vaccinated with either a
+      standard 3 week interval between doses or an extended interval schedule.
+      Main outcome measures: Peak quantitative spike-specific antibody and
+      cellular immune responses. Results: In donors without evidence of previous
+      infection the peak antibody response was 3.5-fold higher in donors who had
+      undergone delayed interval vaccination. Cellular immune responses were
+      3.6-fold lower. Conclusion: Peak antibody responses after the second
+      BNT162b2 vaccine are markedly enhanced in older people when this is
+      delayed to 12 weeks although cellular responses are lower. Extended
+      interval vaccination may therefore offer the potential to enhance and
+      extend humoral immunity. Further follow up is now required to assess long
+      term immunity and clinical protection."
+    authors:
+      - name: Helen M Parry
+        orcid: http://orcid.org/0000-0002-9707-8167
+      - name: Rachel Bruton
+        orcid: null
+      - name: Christine Stephens
+        orcid: null
+      - name: Kevin Brown
+        orcid: null
+      - name: Gayatri Amirthalingam
+        orcid: http://orcid.org/0000-0003-2078-0975
+      - name: Bassam Hallis
+        orcid: http://orcid.org/0000-0002-8461-0038
+      - name: Ashley Otter
+        orcid: null
+      - name: Jianmin Zuo
+        orcid: http://orcid.org/0000-0002-8341-465X
+      - name: Paul Moss
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8524358522"
+    numReports: 0
+    likes: 0
+    id: "5443349031"
+    createdAt: 2021-07-04T08:41:03
+    author:
+      username: dai_hendrix
+      about: ""
+      name: DainHendrix
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/dai_hendrix/
+      url: ""
+      location: ""
+      id: "371853765"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      The JVCI seem to be using this paper as the sole source for justifying an
+      8-week gap for Pfizer in younger cohorts, despite the fact that the sample
+      for this paper is 172 people aged 80 or over. Not by any stretch a fair
+      representation of the population. It would be hard to argue that it is
+      even possible to get a fair representation of genders, ages and
+      ethnicities with a sample of 172 alone. 
+
+
+      With this is mind, what response do the authors give to the fact that this paper is being used to justify the current 8-week policy for second doses of Pfizer and Moderna when this paper does not make any attempt to back up that justification for younger cohorts, especially when the manufacturer and WHO recommend a 21-28 day gap between doses?
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.05.15.21257017v1
+  tweets:
+    - created_at: Mon Jul 05 01:00:42 +0000 2021
+      id: 1411852505743569000
+      id_str: "1411852505743568905"
+      text: >-
+        💬 medRxiv comment on "Extended interval BNT162b2 vac..."
+
+
+        "The JVCI seem to be using this paper as the sole source… https://t.co/2rxLfa70Ig
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/2rxLfa70Ig
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jul 05 01:00:43 +0000 2021
+      id: 1411852506490101800
+      id_str: "1411852506490101764"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/x0AIV3f5Lu
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/x0AIV3f5Lu
+      in_reply_to_status_id: 1411852505743569000
+      in_reply_to_status_id_str: "1411852505743568905"
