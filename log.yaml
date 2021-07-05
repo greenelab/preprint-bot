@@ -36771,3 +36771,56 @@
           - url: https://t.co/lioZaI4Yvd
       in_reply_to_status_id: 1412115160412606500
       in_reply_to_status_id_str: "1412115160412606465"
+- preprint:
+    id: 148689
+    metric: 15
+    title: The role of feedback in the production of skilled finger sequences
+    url: https://api.rxivist.org/v1/papers/148689
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.02.450916v1
+    doi: 10.1101/2021.07.02.450916
+    category: neuroscience
+    first_posted: 2021-07-03
+    abstract: Actions involving fine control of the hand, for example grasping an
+      object, rely heavily on sensory information from the fingertips. While the
+      integration of feedback during execution of individual movements is well
+      understood, less is known about the use of sensory feedback in the control
+      of skilled movement sequences. To address this gap, we trained
+      participants to produce sequences of finger movements on a keyboard-like
+      device over a four-day training period. Participants received haptic,
+      visual, and auditory feedback indicating the occurrence of each finger
+      press. We then either transiently delayed or advanced the feedback for a
+      single press by a small amount of time (30 or 60 ms). We observed that
+      participants rapidly adjusted their ongoing finger press by either
+      accelerating or prolonging the ongoing press, in accordance with the
+      direction of the perturbation. Furthermore, we could show that this rapid
+      behavioural modulation was driven by haptic feedback. While these
+      feedback-driven adjustments reduced in size with practice, they were still
+      clearly present at the end of training. In contrast to the
+      directionally-specific effect we observed on the perturbed press, a
+      feedback perturbation resulted in a delayed onset of the subsequent
+      presses irrespective of perturbation direction or feedback modality. This
+      observation is consistent with a hierarchical organization of skilled
+      movement sequences, with different levels reacting distinctly to sensory
+      perturbations.
+    authors:
+      - name: Nicola J Popp
+      - name: Carlos R. Hernandez-Castillo
+      - name: Paul L Gribble
+      - name: Joern Diedrichsen
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Mon Jul 05 20:15:37 +0000 2021
+      id: 1412143147010990000
+      id_str: "1412143147010990087"
+      text: >-
+        🔥 bioRxiv Neuroscience preprint by N. J. Popp et al:
+
+
+        "The role of feedback in the production of skilled finger seq… https://t.co/qI4p6EbjxO
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/qI4p6EbjxO
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
