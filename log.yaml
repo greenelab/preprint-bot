@@ -36292,3 +36292,107 @@
           - url: https://t.co/x0AIV3f5Lu
       in_reply_to_status_id: 1411852505743569000
       in_reply_to_status_id_str: "1411852505743568905"
+- preprint:
+    id: "143204"
+    doi: 10.1101/2021.05.18.21257385
+    first_posted: 2021-05-25
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.18.21257385v1
+    url: https://api.rxivist.org/v1/papers/143204
+    title: Mask mandate and use efficacy in state-level COVID-19 containment
+    category: epidemiology
+    abstract: "Background: Containment of the COVID-19 pandemic requires
+      evidence-based strategies to reduce transmission. Because COVID-19 can
+      spread via respired droplets, many states have mandated mask use in public
+      settings. Randomized control trials have not clearly demonstrated mask
+      efficacy against respiratory viruses, but observational studies suggest
+      greater mask compliance may be associated with lower infection rates. We
+      hypothesized that statewide mask mandates and mask use are associated with
+      lower COVID-19 case growth rates in the United States. Methods: We
+      calculated total COVID-19 case growth and mask use for the continental
+      United States with data from the Centers for Disease Control and
+      Prevention and Institute for Health Metrics and Evaluation. We estimated
+      post-mask mandate case growth in non-mandate states using median issuance
+      dates of neighboring states with mandates. Results: Case growth was not
+      significantly different between mandate and non-mandate states at low or
+      high transmission rates, and surges were equivocal. Mask use predicted
+      lower case growth at low, but not high transmission rates. Growth rates
+      were comparable between states in the top and bottom mask use quintiles
+      adjusted for normalized total cases early in the pandemic and unadjusted
+      after peak Fall-Winter infections. Mask use did not predict Summer 2020
+      case growth for non-Northeast states or Fall-Winter 2020 growth for all
+      states. Conclusions: Mask mandates and use are not associated with slower
+      state-level COVID-19 spread during COVID-19 growth surges. COVID-19
+      containment requires future research and implementation of existing
+      efficacious strategies."
+    authors:
+      - name: Damian Guerra
+        orcid: http://orcid.org/0000-0002-6621-4656
+      - name: Daniel J Guerra
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8550177462"
+    numReports: 0
+    likes: 1
+    id: "5439626429"
+    createdAt: 2021-07-01T02:43:16
+    author:
+      username: killshot
+      about: ""
+      name: killshot
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/killshot/
+      url: ""
+      location: ""
+      id: "2384202"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      No mention of vitamin D levels here. A vitamin D level above 50 ng/ML
+      reduces mortality by 900% and significant morbidity requiring
+      hospitalization by 300%. Masks have never been shown to do any of this.
+      The fact is, masks were nothing more than virtue signaling and really
+      didn't do very much at all. You failed to mention previous studies on
+      influenza where it was proven that masks a little difference. Plus, you
+      conveniently avoid the downside of masks. Remember "risk versus benefit",
+      no? To wit:
+
+
+      "Prolonged mask use (>4 hours per day) promotes facial alkalinization and inadvertently encourages dehydration, which in turn can enhance barrier breakdown and bacterial infection risk. British clinicians have reported masks to increase headaches and sweating and decrease cognitive precision. Survey bias notwithstanding, these sequelae are associated with medical errors. By obscuring nonverbal communication, masks interfere with social learning in children. Likewise, masks can distort verbal speech and remove visual cues to the detriment of individuals with hearing loss; clear face-shields improve visual integration, but there is a corresponding loss of sound quality."
+
+
+      Please look at the ridiculous downside of wearing the silly things that do nothing for protection. If you want me to pull up all the references, I will. But it is tiresome. Please do your own research. Masks are silly and did absolutely nothing for transmission.
+    forum: medrxiv
+    points: 1
+    link: https://www.medrxiv.org/content/10.1101/2021.05.18.21257385v1
+  tweets:
+    - created_at: Mon Jul 05 12:31:47 +0000 2021
+      id: 1412026421069987800
+      id_str: "1412026421069987841"
+      text: >-
+        💬 medRxiv comment on "Mask mandate and use efficacy ..."
+
+
+        "No mention of vitamin D levels here. A vitamin D level a… https://t.co/OsYAchgggm
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/OsYAchgggm
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jul 05 12:31:47 +0000 2021
+      id: 1412026421778780200
+      id_str: "1412026421778780168"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/652MU3io4j
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/652MU3io4j
+      in_reply_to_status_id: 1412026421069987800
+      in_reply_to_status_id_str: "1412026421069987841"
