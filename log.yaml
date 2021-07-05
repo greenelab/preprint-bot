@@ -36932,3 +36932,128 @@
           - url: https://t.co/B5DO7aAXhF
       in_reply_to_status_id: 1412144059649511400
       in_reply_to_status_id_str: "1412144059649511424"
+- preprint:
+    id: "148801"
+    doi: 10.1101/2021.07.05.451120
+    first_posted: 2021-07-05
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.05.451120v1
+    url: https://api.rxivist.org/v1/papers/148801
+    title: A new transgene mouse model using an extravesicular EGFP tag to elucidate
+      the in vivo function of extracellular vesicles
+    category: molecular-biology
+    abstract: The in vivo function of cell-derived extracellular vesicles (EVs) is
+      challenging to establish since cell-specific EVs are difficult to isolate.
+      We therefore created an EV reporter using CD9 to display enhanced green
+      fluorescent protein (EGFP) on the EV surface. CD9-EGFP expression in cells
+      did not affect EV size and concentration, but allowed for co-precipitation
+      of EV markers TSG101 and ALIX from cell-conditioned medium by anti-GFP
+      immunoprecipitation. We created a transgenic mouse where CD9-EGFP was
+      inserted in the inverse orientation and double-floxed, ensuring Cre
+      recombinase-dependent EV reporter expression. We crossed the EV reporter
+      mice with mice expressing Cre ubiquitously (CMV-Cre), in cardiomyocytes
+      (AMHC-Cre) and kidney epithelium (Pax8-Cre), respectively. The mice showed
+      tissue-specific EGFP expression, and plasma and urine samples were used to
+      immunoprecipitate EVs. CD9-EGFP EVs was detected in plasma samples from
+      CMV-Cre/CD9-EGFP and AMHC-Cre/CD9-EGFP mice, but not in PAX8-Cre/CD9-EGFP
+      mice. On the other hand, CD9-EGFP EVs were detected in urine samples from
+      CMV-Cre/CD9-EGFP and PAX8-Cre/CD9-EGFP mice, but not AMHC-Cre/CD9-EGFP,
+      indicating that plasma EVs are not filtered to the urine. In conclusion,
+      our EV reporter mouse model enables Cre-dependent EV labeling, providing a
+      new approach to study cell-specific EVs in vivo and gain new insight into
+      their physiological and pathophysiological function.
+    authors:
+      - name: Mikkel Oernfeldt Noegaard
+        orcid: null
+      - name: Lasse Bach Steffensen
+        orcid: null
+      - name: Didde Hansen
+        orcid: null
+      - name: Ernst-Martin Fuchtbauer
+        orcid: null
+      - name: Morten Buch Engelund
+        orcid: null
+      - name: Henrik Dimke
+        orcid: http://orcid.org/0000-0002-9170-2168
+      - name: Ditte Caroline Andersen
+        orcid: null
+      - name: Per Svenningsen
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8631592431"
+    numReports: 0
+    likes: 0
+    id: "5444837153"
+    createdAt: 2021-07-05T18:04:47
+    author:
+      username: michaelkoksharov
+      about: "Postdoc: molecular biology & protein engineering"
+      name: Misha Koksharov
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/michaelkoksharov/
+      url: ""
+      location: ""
+      id: "59911792"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      The authors report mouse lines producing a “CD9-truncated”-EGFP reporter
+      protein with a
+
+      purpose of labeling the surface of extracellular vesicles with EGFP. However, the original version of EGFP is prone to two well described artifacts when expressed as 1) a membrane-tethered protein; 2) a protein passing the oxidizing intracellular compartments (ER, secretory pathways, etc). The current reporter construct is subject to both of these factors because it is membrane-tethered and passes through the ER interior being on ER/extracellular-side of the membrane in this fusion (tethered to the extracellular side of CD9 truncated after the first 117 amino acid residues). In the first case, the tendency of FP to oligomerize causes aggregate-like membrane structures; in the second case, the ER is flooded with a “dark” FP pool due to intermolecular cysteine cross-linking as described on Addgene blog (and in the original paper by Constantini et al, 2012, https://doi.org/10.1111/j.1600-0854.2012.01336.x):
+
+
+
+      1) https://blog.addgene.org/when-is-a-monomer-not-a-monomer-the-top-three-ways-your-favorite-fluorescent-protein-oligomerizes-in-cells
+
+
+
+      2) https://blog.addgene.org/avoiding-the-dark-side-of-fluorescent-protein-fusions-with-mox-fps
+
+
+
+      These two problems were extensively reported by groups developing improved fluorescent proteins (FPs) over the last decade. Monomeric (widely used now) and cysteine-less (less
+
+      widely used) variants of FPs are available to address both of these problems. In case of EGFP, these are monomeric (mEGFP) and monomeric+cysteine-less versions (moxGFP) but currently there are many newer fluorescent proteins which are superior to EGFP (even if considering ones having similar spectral characteristics).
+
+
+
+      Therefore, the use of the current described reporter should be generally avoided. Ideally, these reporters should be redone using moxGFP or other suitable FP.
+
+
+
+      The use of protein tools representing the best current state-of-the-art is particular important for rodent work due to ethical considerations. Currently in most countries there is a pressure to reduce unnecessary use of vertebrate animals in research. The use of constructs prone to artifacts in vertebrate models could result in using more animals than needed since it may be required to redo the live animal tools or redo some of the research obtained with less than optimal tools.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.07.05.451120v1
+  tweets:
+    - created_at: Mon Jul 05 22:19:09 +0000 2021
+      id: 1412174234223272000
+      id_str: "1412174234223271940"
+      text: >-
+        💬 bioRxiv comment on "A new transgene mouse model us..."
+
+
+        "The authors report mouse lines producing a “CD9-truncate… https://t.co/KCTDqo2dvT
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/KCTDqo2dvT
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jul 05 22:19:09 +0000 2021
+      id: 1412174235011793000
+      id_str: "1412174235011792897"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/1rZ4gaWIJw
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/1rZ4gaWIJw
+      in_reply_to_status_id: 1412174234223272000
+      in_reply_to_status_id_str: "1412174234223271940"
