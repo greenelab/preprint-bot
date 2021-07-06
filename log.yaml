@@ -37387,3 +37387,166 @@
           - url: https://t.co/lioZaI4Yvd
       in_reply_to_status_id: 1412389725000847400
       in_reply_to_status_id_str: "1412389725000847368"
+- preprint:
+    id: "148485"
+    doi: 10.1101/2021.06.30.21259439
+    first_posted: 2021-07-02
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.30.21259439v1
+    url: https://api.rxivist.org/v1/papers/148485
+    title: "Efficacy, safety, and lot to lot immunogenicity of an inactivated
+      SARS-CoV-2 vaccine (BBV152): a double-blind, randomised, controlled phase
+      3 trial"
+    category: infectious-diseases
+    abstract: "Background: We report the clinical efficacy against COVID 19
+      infection of BBV152, a whole virion inactivated SARS CoV 2 vaccine
+      formulated with a Toll like receptor 7/8 agonist molecule adsorbed to alum
+      (Algel IMDG). Methods: We did a double-blind, randomised, multicentre,
+      phase 3 clinical trial in 25 Indian hospitals to evaluate the efficacy,
+      safety, and immunological lot consistency of BBV152. Healthy adults (age
+      18 to 98 years) randomised 1:1 using a sponsor-supplied randomisation
+      scheme received two intramuscular doses of vaccine or placebo administered
+      four weeks apart. The primary outcome was laboratory confirmed symptomatic
+      COVID 19, occurring at least 14 days after the second dose. Secondary
+      outcomes were efficacy in subgroups for age (18 to < 60 years and >=60
+      years) and in participants with pre-existing stable medical conditions. We
+      also evaluated safety, reactogenicity, and consistency of immune responses
+      for three consecutive manufacturing lots. Findings: Between November 16,
+      2020 and January 7, 2021 we recruited 25,798 participants who were
+      randomised to BBV152 or placebo groups; 24,419 received two doses of
+      BBV152 (n = 12,221) or placebo (n = 12,198). In a case-driven analysis,
+      130 cases of symptomatic COVID-19 were reported in 16,973 (0.77%)
+      participants with follow-up at least two weeks after the second
+      vaccination; 24 occurred in the vaccine group and 106 in placebo
+      recipients giving an overall vaccine efficacy of 77.8% (95% CI:
+      65.2,86.4). Sixteen cases, one vaccinee and 15 placebo recipients, met the
+      severe symptomatic COVID-19 case definition giving a vaccine efficacy of
+      93.4% (57.1,99.8). Efficacy against asymptomatic COVID 19 was 63.6% (29.0,
+      82.4). BBV152 conferred 65.2% (95% CI: 33.1, 83.0) protection against the
+      SARS CoV 2 Variant of Concern, B.1.617.2 (Delta). BBV152 was well
+      tolerated with no clinically or statistically significant differences in
+      the distributions of solicited, unsolicited, or serious adverse events
+      between vaccine and placebo groups. No cases of anaphylaxis or
+      vaccine-related deaths were reported. Interpretation: BBV152 was
+      immunogenic and highly efficacious against symptomatic and asymptomatic
+      COVID 19 variant associated disease, particularly against severe disease
+      in adults. Vaccination was well tolerated with an overall incidence of
+      adverse events observed over a median of 146 days that was lower than that
+      observed with other COVID-19 vaccines."
+    authors:
+      - name: Raches Ella
+        orcid: http://orcid.org/0000-0002-4646-4471
+      - name: Siddharth Reddy
+        orcid: null
+      - name: William Blackwelder
+        orcid: null
+      - name: Varsha Potdar
+        orcid: null
+      - name: Pragya Yadav
+        orcid: null
+      - name: Vamshi Sarangi
+        orcid: null
+      - name: Vinay Kumar Aileni
+        orcid: null
+      - name: Suman Kanungo
+        orcid: null
+      - name: Sanjay Rai
+        orcid: null
+      - name: Prabhakar Reddy
+        orcid: null
+      - name: Savitha Verma
+        orcid: null
+      - name: Chandramani Singh
+        orcid: null
+      - name: Sagar Redkar
+        orcid: null
+      - name: Satyajit Mohapatra
+        orcid: null
+      - name: Anil Pandey
+        orcid: null
+      - name: Pajanivel Ranganadin
+        orcid: null
+      - name: Raghavendra Gumashta
+        orcid: null
+      - name: Manish Multani
+        orcid: null
+      - name: Shameem Mohammad
+        orcid: null
+      - name: Parul Bhatt
+        orcid: null
+      - name: Laxmi Kumari
+        orcid: null
+      - name: Gajanan Sapkal
+        orcid: null
+      - name: Nivedita Gupta
+        orcid: null
+      - name: Priya Abraham
+        orcid: null
+      - name: Samiran Panda
+        orcid: http://orcid.org/0000-0002-5077-6275
+      - name: Sai Prasad
+        orcid: null
+      - name: Balram Bhargava
+        orcid: null
+      - name: Krishna Ella
+        orcid: null
+      - name: Krishna Mohan Vadrevu
+        orcid: null
+      - name: COVAXIN Study Group
+        orcid: null
+  comment:
+    dislikes: 2
+    thread: "8626986725"
+    numReports: 0
+    likes: 1
+    id: "5444281404"
+    createdAt: 2021-07-05T05:35:47
+    author:
+      username: TheScrutinizer2018
+      about: I am a biochemical geneticist with 15yrs of stem cell and gene therapy
+        research experience
+      name: The Scrutinizer
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/TheScrutinizer2018/
+      url: https://www.thescrutinizer.org
+      location: ""
+      id: "140178545"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: "@sumedhbhagwat:disqus you are really worried about the difference
+      of 0.5% error? That is not the most imp thing to worry about right now. If
+      you don't know this vaccine might be the best so far in comparison to all
+      the genetic vax"
+    forum: medrxiv
+    points: -1
+    link: https://www.medrxiv.org/content/10.1101/2021.06.30.21259439v1
+  tweets:
+    - created_at: Tue Jul 06 14:17:34 +0000 2021
+      id: 1412415429960736800
+      id_str: "1412415429960736784"
+      text: >-
+        💬 medRxiv comment on "Efficacy, safety, and lot to l..."
+
+
+        "@sumedhbhagwat:disqus you are really worried about the d… https://t.co/eERuPwwK9P
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/eERuPwwK9P
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jul 06 14:17:34 +0000 2021
+      id: 1412415431441358800
+      id_str: "1412415431441358860"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/lioZaI4Yvd
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/lioZaI4Yvd
+      in_reply_to_status_id: 1412415429960736800
+      in_reply_to_status_id_str: "1412415429960736784"
