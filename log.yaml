@@ -37874,3 +37874,116 @@
           - url: https://t.co/fK2N8PGpfU
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "136062"
+    doi: 10.1101/2021.03.31.437725
+    first_posted: 2021-03-31
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.03.31.437725v1
+    url: https://api.rxivist.org/v1/papers/136062
+    title: Single-Cell Transcriptomic Analysis of Livers During NLRP3 Inflammasome
+      Activation Reveals a Novel Immune Niche
+    category: immunology
+    abstract: The NOD-like receptor protein 3 (NLRP3) inflammasome is a central
+      contributor to human acute and chronic liver disease, yet the molecular
+      and cellular mechanisms by which its activation precipitates injury remain
+      incompletely understood. Here, we present single cell transcriptomic
+      profiling of livers from a global transgenic Tamoxifen-inducible
+      constitutively-activated Nlrp3A350V mutant mouse, and we investigate the
+      changes in parenchymal and non-parenchymal liver cell gene expression that
+      accompany inflammation and fibrosis. Our results demonstrate that NLRP3
+      activation causes chronic extramedullary myelopoiesis marked by an
+      increase in proliferating myeloid progenitors that differentiate into
+      neutrophils, monocytes, and monocyte-derived macrophages, results that
+      were corroborated by flow cytometry and histological staining. We observed
+      prominent neutrophil infiltrates with increased Ly6gHI and Ly6gINT cells
+      exhibiting transcriptomic signatures of granulopoiesis typically found in
+      the bone marrow. This was accompanied by a marked increase in Ly6cHI
+      monocytes differentiating into Cd11bHITim4HIClec-4fHI macrophages that
+      express proinflammatory transcriptional programs similar to macrophages of
+      non-alcoholic steatohepatitis (NASH) models. NLRP3 activation also
+      downregulated metabolic pathways in hepatocytes and shifted hepatic
+      stellate cells towards an activated pro-fibrotic state based on expression
+      of collagen and extracellular matrix (ECM) regulatory genes. These
+      results, which highlight abundant neutrophils and extramedullary
+      granulopoiesis define an inflamed and fibrotic hepatic single cell
+      microenvironment, precipitated solely by NLRP3 activation. Clinically, our
+      data support the notion that neutrophils and NLRP3 should be explored as
+      therapeutic targets in NASH-like inflammation.
+    authors:
+      - name: David M Calcagno
+        orcid: null
+      - name: Angela Chu
+        orcid: null
+      - name: Susanne Gaul
+        orcid: null
+      - name: Nika Taghdiri
+        orcid: null
+      - name: Avinash Toomu
+        orcid: null
+      - name: Aleksandra Leszczynska
+        orcid: null
+      - name: Benedikt Kaufmann
+        orcid: null
+      - name: Alexander Wree
+        orcid: null
+      - name: Lukas Geisler
+        orcid: null
+      - name: Hal M. Hoffman
+        orcid: null
+      - name: Ariel E Feldstein
+        orcid: null
+      - name: Kevin R King
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8460443339"
+    numReports: 0
+    likes: 0
+    id: "5445484407"
+    createdAt: 2021-07-06T09:05:56
+    author:
+      name: ML
+      url: ""
+      profileUrl: ""
+      emailHash: ""
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Despite being a very interesting draft, the author's trascriptomics
+      datasets are not avaiable. 
+
+      Their reported Gene Expression Omnibus accession number actually is linked to an unrelated paper, as stated "RNA-seq data generated in this study were deposited in the Gene Expression Omnibus (http://www.ncbi.nlm.nih. gov/geo) with accession number GSE140742" at page 4.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.03.31.437725v1
+  tweets:
+    - created_at: Tue Jul 06 20:19:24 +0000 2021
+      id: 1412506487318999000
+      id_str: "1412506487318999040"
+      text: >-
+        💬 bioRxiv comment on "Single-Cell Transcriptomic Ana..."
+
+
+        "Despite being a very interesting draft, the author's tra… https://t.co/lqHUyzhNFH
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/lqHUyzhNFH
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jul 06 20:19:24 +0000 2021
+      id: 1412506488321417200
+      id_str: "1412506488321417222"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/wfv8C6DG9k
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/wfv8C6DG9k
+      in_reply_to_status_id: 1412506487318999000
+      in_reply_to_status_id_str: "1412506487318999040"
