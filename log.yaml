@@ -37823,3 +37823,54 @@
           - url: https://t.co/mik1ydXZ3B
       in_reply_to_status_id: 1412477530611855400
       in_reply_to_status_id_str: "1412477530611855368"
+- preprint:
+    id: 148793
+    metric: 41
+    title: Towards a Neurometric-based Construct Validity of Trust
+    url: https://api.rxivist.org/v1/papers/148793
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.04.451074v1
+    doi: 10.1101/2021.07.04.451074
+    category: neuroscience
+    first_posted: 2021-07-05
+    abstract: Trust is a nebulous construct central to successful cooperative
+      exchanges and interpersonal relationships. In this study, we introduce a
+      new approach to establishing construct validity of trust using
+      neurometrics. We develop a whole-brain multivariate pattern capable of
+      classifying whether new participants will trust a relationship partner in
+      the context of a cooperative interpersonal investment game (n=40) with 90%
+      accuracy and find that it also generalizes to a variant of the same task
+      collected in a different country with 82% accuracy (n=17). Moreover, we
+      establish the convergent and discriminant validity by testing the pattern
+      on eleven separate datasets (n=496) and find that trust is reliably
+      related to beliefs of safety, inversely related to negative affect, but
+      unrelated to reward, cognitive control, social perception, and
+      self-referential processing. Together these results provide support for
+      the notion that the psychological experience of trust contains elements of
+      beliefs of reciprocation and fear of betrayal aversion. Contrary to our
+      predictions, we found no evidence that trust is related to anticipated
+      reward. This work demonstrates how neurometrics can be used to
+      characterize the psychological processes associated with brain-based
+      multivariate representations.
+    authors:
+      - name: Pin-Hao Andy Chen
+      - name: Dominic Fareri
+      - name: Berna Guroglu
+      - name: Mauricio R Delgado
+      - name: Luke J Chang
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Tue Jul 06 20:15:43 +0000 2021
+      id: 1412505560906408000
+      id_str: "1412505560906407940"
+      text: >-
+        🔥 bioRxiv Neuroscience preprint by P. A. Chen et al:
+
+
+        "Towards a Neurometric-based Construct Validity of Trust"… https://t.co/fK2N8PGpfU
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/fK2N8PGpfU
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
