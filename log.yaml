@@ -37987,3 +37987,95 @@
           - url: https://t.co/wfv8C6DG9k
       in_reply_to_status_id: 1412506487318999000
       in_reply_to_status_id_str: "1412506487318999040"
+- preprint:
+    id: "140054"
+    doi: 10.1101/2021.04.28.441722
+    first_posted: 2021-04-28
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.04.28.441722v1
+    url: https://api.rxivist.org/v1/papers/140054
+    title: Mechanistic Insights on ATP's role as Hydrotrope
+    category: biophysics
+    abstract: Hydrotropes are small amphiphilic molecules which help in solubilizing
+      hydrophobic entities in aqueous medium. Recent experimental investigation
+      has provided convincing evidences that, adenosine triphosphate (ATP),
+      besides being an energy currency of cell, also can act as hydrotrope to
+      inhibit the formation of protein condensates. In this work, we have
+      designed computer simulations of prototypical macromolecules in aqueous
+      ATP solution to dissect the molecular mechanism underlying ATP's newly
+      discovered role as a hydrotrope. The simulation demonstrates that ATP can
+      unfold a single-chain of hydrophobic macromolecule as well as can disrupt
+      the aggregation process of a hydrophobic assembly. Moreover, the
+      introduction of charges in the macromolecule is found to reinforce ATP's
+      disaggregation effects in a synergistic fashion, a behaviour reminiscent
+      of recent experimental observation of pronounced hydrotropic action of ATP
+      in intrinsically disordered proteins. A molecular analysis indicates that
+      this new-found ability of ATP are ingrained in its propensity of
+      preferential binding to the polymer surface ,which gets fortified in
+      presence of charges. The investigation also renders evidence that the key
+      to the ATP's superior hydrotropic role over chemical hydrotrope (Sodium
+      xylene sulfonate, NaXS) may lie in its inherent self-aggregation
+      propensity. Overall, via employing a bottom-up approach the current
+      investigation provides fresh mechanistic insights into the dual
+      solubilizing and denaturing abilities of ATP.
+    authors:
+      - name: Susmita Sarkar
+        orcid: null
+      - name: Jagannath Mondal
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8497808773"
+    numReports: 0
+    likes: 0
+    id: "5444756257"
+    createdAt: 2021-07-05T16:50:14
+    author:
+      username: doris_loh
+      about: Independent Researcher
+      name: Doris Loh
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/doris_loh/
+      url: https://www.evolutamente.it/category/doris-loh
+      location: USA
+      id: "371913611"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: The authors used  0.08 M , 0.3 M and 0.6 M aqueous ATP solution in
+      their simulations. Can someone help clarify the metrics used? Previous
+      literature on ATP as a hydrotrope discussed the use of higher
+      physiological concentrations between  2 to 8 mM ATP capable of
+      solubilizing proteins.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.04.28.441722v1
+  tweets:
+    - created_at: Tue Jul 06 22:19:10 +0000 2021
+      id: 1412536628887933000
+      id_str: "1412536628887932937"
+      text: >-
+        💬 bioRxiv comment on "Mechanistic Insights on ATP's ..."
+
+
+        "The authors used  0.08 M , 0.3 M and 0.6 M aqueous ATP s… https://t.co/5iAjaofwnb
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/5iAjaofwnb
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jul 06 22:19:10 +0000 2021
+      id: 1412536629902860300
+      id_str: "1412536629902860288"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/4mjWJ4V1oa
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/4mjWJ4V1oa
+      in_reply_to_status_id: 1412536628887933000
+      in_reply_to_status_id_str: "1412536628887932937"
