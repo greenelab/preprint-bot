@@ -37057,3 +37057,111 @@
           - url: https://t.co/1rZ4gaWIJw
       in_reply_to_status_id: 1412174234223272000
       in_reply_to_status_id_str: "1412174234223271940"
+- preprint:
+    id: "147586"
+    doi: 10.1101/2021.06.24.449838
+    first_posted: 2021-06-25
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.24.449838v1
+    url: https://api.rxivist.org/v1/papers/147586
+    title: Discovery and visualization of uncharacterized drug-protein adducts using
+      mass spectrometry.
+    category: pharmacology-and-toxicology
+    abstract: Drugs are often metabolized to reactive intermediates that form
+      protein adducts. Adducts can inhibit protein activity, elicit immune
+      responses, and cause life threatening adverse drug reactions. The masses
+      of reactive metabolites are frequently unknown, rendering traditional mass
+      spectrometry-based proteomics approaches incapable of adduct
+      identification. Here, we present Magnum, an open-mass search algorithm
+      optimized for adduct identification, and Limelight, a web-based data
+      processing package for analysis and visualization of data from all
+      existing algorithms. Limelight incorporates tools for sample comparisons
+      and xenobiotic-adduct discovery. We validate our tools with two
+      drug/protein combinations and apply our workflow to identify novel
+      xenobiotic-protein adducts in CYP3A4. Our new methods and software enable
+      accurate identification of xenobiotic-protein adducts with no prior
+      knowledge of adduct masses or protein targets. Magnum outperforms existing
+      tools in xenobiotic-protein adduct discovery, while Limelight fulfills a
+      major need in the rapidly developing field of open-mass searching, which
+      until now lacked comprehensive data visualization tools.
+    authors:
+      - name: Michael Riffle
+        orcid: http://orcid.org/0000-0003-1633-8607
+      - name: Michael R. Hoopmann
+        orcid: http://orcid.org/0000-0001-7029-7792
+      - name: Daniel Jaschob
+        orcid: http://orcid.org/0000-0002-5383-9702
+      - name: Guo Zhong
+        orcid: http://orcid.org/0000-0002-6056-9472
+      - name: Robert L. Moritz
+        orcid: http://orcid.org/0000-0002-3216-9447
+      - name: Michael J. MacCoss
+        orcid: http://orcid.org/0000-0003-1853-0256
+      - name: Trisha N. Davis
+        orcid: http://orcid.org/0000-0003-4797-3152
+      - name: Nina Isoherranen
+        orcid: http://orcid.org/0000-0002-9548-3126
+      - name: Alex Zelter
+        orcid: http://orcid.org/0000-0002-5331-0577
+  comment:
+    dislikes: 0
+    thread: "8614966367"
+    numReports: 0
+    likes: 0
+    id: "5444776096"
+    createdAt: 2021-07-05T17:08:25
+    author:
+      username: disqus_oQ7hEbf7ti
+      about: ""
+      name: George Preston
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_oQ7hEbf7ti/
+      url: ""
+      location: ""
+      id: "371913890"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: This is a very nice piece of work, which addresses some of the
+      major difficulties associated with protein adduct discovery. I would just
+      like to draw the authors' attention to a recent publication of mine, which
+      describes the development of tools for visualizing 'dependent peptides'
+      (Preston et al., 2020; <a
+      href="#">https://doi.org/10.1371/journal.pone.0235263</a>). My co-authors'
+      and my motivation was similar to that of the authors, in that we sought to
+      selectively visualize modifications associated with a particular treatment
+      (in our case, 'treatment' meant addition of a reactive chemical in vitro,
+      and we used some data from others' studies - one involving a probe and one
+      involving a drug).
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.06.24.449838v1
+  tweets:
+    - created_at: Tue Jul 06 01:05:12 +0000 2021
+      id: 1412216023462383600
+      id_str: "1412216023462383617"
+      text: >-
+        💬 bioRxiv comment on "Discovery and visualization of..."
+
+
+        "This is a very nice piece of work, which addresses some… https://t.co/CbAExm4qPb
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/CbAExm4qPb
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jul 06 01:05:12 +0000 2021
+      id: 1412216024267690000
+      id_str: "1412216024267689987"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/oaWRaZ2FPs
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/oaWRaZ2FPs
+      in_reply_to_status_id: 1412216023462383600
+      in_reply_to_status_id_str: "1412216023462383617"
