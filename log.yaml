@@ -37719,3 +37719,107 @@
           - url: https://t.co/lioZaI4Yvd
       in_reply_to_status_id: 1412449009021694000
       in_reply_to_status_id_str: "1412449009021693955"
+- preprint:
+    id: "138848"
+    doi: 10.1101/2021.04.20.440611
+    first_posted: 2021-04-20
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.04.20.440611v1
+    url: https://api.rxivist.org/v1/papers/138848
+    title: Modular biosynthesis of plant hemicellulose and its impact on yeast cells
+    category: bioengineering
+    abstract: "Background: The carbohydrate polymers that encapsulate plants cells
+      have benefited humans for centuries and have valuable biotechnological
+      uses. In the past five years, exciting possibilities have emerged in the
+      engineering of polysaccharide-based biomaterials. Despite impressive
+      advances on bacterial cellulose-based hydrogels, comparatively little is
+      known about how plant hemicelluloses can be reconstituted and modulated in
+      cells suitable for biotechnological purposes. Results: Here, we assembled
+      cellulose synthase-like A (CSLA) enzymes using an optimized Pichia
+      pastoris platform to produce tunable heteromannan (HM) polysaccharides in
+      yeast. By swapping the domains of plant mannan and glucomannan synthases,
+      we engineered chimeric CSLA proteins that made {beta}-1,4-linked mannan in
+      quantities surpassing those of the native enzymes while minimizing the
+      burden on yeast growth. Prolonged expression of a glucomannan synthase
+      from Amorphophallus konjac was toxic to yeast cells: reducing biomass
+      accumulation and ultimately leading to compromised cell viability.
+      However, an engineered glucomannan synthase as well as CSLA pure mannan
+      synthases and a CSLC glucan synthase did not inhibit growth.
+      Interestingly, Pichia cell size could be increased or decreased depending
+      on the composition of the CSLA protein sequence. HM yield and glucose
+      incorporation could be further increased by co-expressing chimeric CSLA
+      proteins with a MANNAN-SYNTHESIS-RELATED (MSR) co-factor from Arabidopsis
+      thaliana. Conclusion: The results provide novel routes for the engineering
+      of polysaccharide-based biomaterials that are needed for a sustainable
+      bioeconomy. The characterization of chimeric cellulose synthase-like
+      enzymes in yeast offers an exciting avenue to produce plant
+      polysaccharides in a tunable manner. Furthermore, cells modified with
+      non-toxic plant polysaccharides such as {beta}-mannan offer a modular
+      chassis to produce and encapsulate sensitive cargo such as therapeutic
+      proteins."
+    authors:
+      - name: Madalen Robert
+        orcid: null
+      - name: Julian Waldhauer
+        orcid: null
+      - name: Fabian Stritt
+        orcid: null
+      - name: Bo Yang
+        orcid: http://orcid.org/0000-0003-4446-0415
+      - name: Markus Pauly
+        orcid: http://orcid.org/0000-0002-3116-2198
+      - name: Cătălin Voiniciuc
+        orcid: http://orcid.org/0000-0001-9105-014X
+  comment:
+    dislikes: 0
+    thread: "8559102940"
+    numReports: 0
+    likes: 0
+    id: "5445553031"
+    createdAt: 2021-07-06T11:03:33
+    author:
+      username: catalin_voiniciuc
+      about: ""
+      name: Catalin Voiniciuc
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/catalin_voiniciuc/
+      url: ""
+      location: ""
+      id: "371948982"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: "The final version of this manuscript is now published in
+      Biotechnology for Biofuels: https://doi.org/10.1186/s13068-021-01985-z"
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.04.20.440611v2
+  tweets:
+    - created_at: Tue Jul 06 18:24:20 +0000 2021
+      id: 1412477530611855400
+      id_str: "1412477530611855368"
+      text: >-
+        💬 bioRxiv comment on "Modular biosynthesis of plant ..."
+
+
+        "The final version of this manuscript is now published in… https://t.co/5WvgSMMROp
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/5WvgSMMROp
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jul 06 18:24:20 +0000 2021
+      id: 1412477531375259600
+      id_str: "1412477531375259650"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/mik1ydXZ3B
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/mik1ydXZ3B
+      in_reply_to_status_id: 1412477530611855400
+      in_reply_to_status_id_str: "1412477530611855368"
