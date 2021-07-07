@@ -38553,3 +38553,132 @@
           - url: https://t.co/6NwfZ9Yh0D
       in_reply_to_status_id: 1412813219626950700
       in_reply_to_status_id_str: "1412813219626950660"
+- preprint:
+    id: "148827"
+    doi: 10.1101/2021.07.01.21259833
+    first_posted: 2021-07-05
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.07.01.21259833v1
+    url: https://api.rxivist.org/v1/papers/148827
+    title: "COVID-19 vaccines dampen genomic diversity of SARS-CoV-2: Unvaccinated
+      patients exhibit more antigenic mutational variance"
+    category: infectious-diseases
+    abstract: Variants of SARS-CoV-2 are evolving under a combination of immune
+      selective pressure in infected hosts and natural genetic drift, raising a
+      global alarm regarding the durability of COVID-19 vaccines. Here, we
+      conducted longitudinal analysis over 1.8 million SARS-CoV-2 genomes from
+      183 countries or territories to capture vaccination-associated viral
+      evolutionary patterns. To augment this macroscale analysis, we performed
+      viral genome sequencing in 23 vaccine breakthrough COVID-19 patients and
+      30 unvaccinated COVID-19 patients for whom we also conducted
+      machine-augmented curation of the electronic health records (EHRs).
+      Strikingly, we find the diversity of the SARS-CoV-2 lineages is declining
+      at the country-level with increased rate of mass vaccination (n = 25
+      countries, mean correlation coefficient = -0.72, S.D. = 0.20). Given that
+      the COVID-19 vaccines leverage B-cell and T-cell epitopes, analysis of
+      mutation rates shows neutralizing B-cell epitopes to be particularly more
+      mutated than comparable amino acid clusters (4.3-fold, p < 0.001).
+      Prospective validation of these macroscale evolutionary patterns using
+      clinically annotated SARS-CoV-2 whole genome sequences confirms that
+      vaccine breakthrough patients indeed harbor viruses with significantly
+      lower diversity in known B cell epitopes compared to unvaccinated COVID-19
+      patients (2.3-fold, 95% C.I. 1.4-3.7). Incidentally, in these study
+      cohorts, vaccinated breakthrough patients also displayed fewer
+      COVID-associated complications and pre-existing conditions relative to
+      unvaccinated COVID-19 patients. This study presents the first known
+      evidence that COVID-19 vaccines are fundamentally restricting the
+      evolutionary and antigenic escape pathways accessible to SARS-CoV-2. The
+      societal benefit of mass vaccination may consequently go far beyond the
+      widely reported mitigation of SARS-CoV-2 infection risk and amelioration
+      of community transmission, to include stemming of rampant viral evolution.
+    authors:
+      - name: Michiel Niesen
+        orcid: http://orcid.org/0000-0002-9255-6203
+      - name: Praveen Anand
+        orcid: http://orcid.org/0000-0002-2478-7042
+      - name: Eli Silvert
+        orcid: null
+      - name: Rohit Suratekar
+        orcid: http://orcid.org/0000-0002-6281-5526
+      - name: Colin Pawlowski
+        orcid: http://orcid.org/0000-0003-2781-7507
+      - name: Pritha Ghosh
+        orcid: http://orcid.org/0000-0003-3641-6393
+      - name: Patrick Lenehan
+        orcid: http://orcid.org/0000-0002-1950-9179
+      - name: Travis Hughes
+        orcid: http://orcid.org/0000-0002-5764-5884
+      - name: David Zemmour
+        orcid: http://orcid.org/0000-0002-0990-217X
+      - name: John C OHoro
+        orcid: null
+      - name: Joseph D Yao
+        orcid: http://orcid.org/0000-0002-5988-8927
+      - name: Bobbi S Pritt
+        orcid: http://orcid.org/0000-0003-0261-1326
+      - name: Andrew Norgan
+        orcid: http://orcid.org/0000-0002-2955-2066
+      - name: Ryan T Hurt
+        orcid: http://orcid.org/0000-0003-1158-7559
+      - name: Andrew D Badley
+        orcid: http://orcid.org/0000-0001-7796-7680
+      - name: AJ Venkatakrishnan
+        orcid: http://orcid.org/0000-0003-2819-3214
+      - name: Venky Soundararajan
+        orcid: http://orcid.org/0000-0001-7434-9211
+  comment:
+    dislikes: 0
+    thread: "8631633721"
+    numReports: 0
+    likes: 1
+    id: "5446735446"
+    createdAt: 2021-07-07T07:10:46
+    author:
+      username: dklimentidis
+      about: Clinical Pharmacy Specialist with an interest in Infectious Diseases and
+        Geriatrics
+      name: D. Klimentidis
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/dklimentidis/
+      url: https://clinicalpharmacist.gr
+      location: Greece
+      id: "60746886"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Only Β cells produce antibodies, that's what they do. Moreover, if
+      there are no mutations to the spike protein then vaccines don't lose
+      effectiveness over time, since this specific protein is their target. So I
+      fail to see your point.
+    forum: medrxiv
+    points: 1
+    link: https://www.medrxiv.org/content/10.1101/2021.07.01.21259833v1
+  tweets:
+    - created_at: Wed Jul 07 18:25:25 +0000 2021
+      id: 1412840192180953000
+      id_str: "1412840192180953088"
+      text: >-
+        💬 medRxiv comment on "COVID-19 vaccines dampen genom..."
+
+
+        "Only Β cells produce antibodies, that's what they do. Mo… https://t.co/NLwvqJ2NT8
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/NLwvqJ2NT8
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed Jul 07 18:25:25 +0000 2021
+      id: 1412840193107890200
+      id_str: "1412840193107890182"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/JlZag63NBW
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/JlZag63NBW
+      in_reply_to_status_id: 1412840192180953000
+      in_reply_to_status_id_str: "1412840192180953088"
