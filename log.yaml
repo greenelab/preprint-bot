@@ -38449,3 +38449,107 @@
           - url: https://t.co/lioZaHNn6D
       in_reply_to_status_id: 1412778549526683600
       in_reply_to_status_id_str: "1412778549526683648"
+- preprint:
+    id: "126823"
+    doi: 10.1101/2021.01.25.428175
+    first_posted: 2021-01-27
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.01.25.428175v1
+    url: https://api.rxivist.org/v1/papers/126823
+    title: Can we put Humpty Dumpty back together again? What does protein
+      quantification mean in bottom-up proteomics?
+    category: biochemistry
+    abstract: Bottom-up proteomics provides peptide measurements and has been
+      invaluable for moving proteomics into large-scale analyses. In bottom-up
+      proteomics, protein parsimony and protein inference derived from these
+      measured peptides are important for determining which protein coding genes
+      are present. However, given the complexity of RNA splicing processes, and
+      how proteins can be modified post-translationally, it is overly simplistic
+      to assume that all peptides that map to a singular protein coding gene
+      will demonstrate the same quantitative response. Accordingly, by assuming
+      all peptides from a protein coding sequence are representative of the same
+      protein we may be missing out on detecting important biological
+      differences. To better account for the complexity of the proteome we need
+      to think of new or better ways of handling peptide data.
+    authors:
+      - name: Deanna L Plubell
+        orcid: http://orcid.org/0000-0002-6580-8073
+      - name: Lukas Käll
+        orcid: http://orcid.org/0000-0001-5689-9797
+      - name: Bobbie-Jo Webb-Robertson
+        orcid: http://orcid.org/0000-0002-4744-2397
+      - name: Lisa Bramer
+        orcid: http://orcid.org/0000-0002-8384-1926
+      - name: Ashley Ives
+        orcid: null
+      - name: Neil L Kelleher
+        orcid: http://orcid.org/0000-0002-8815-3372
+      - name: Lloyd M. Smith
+        orcid: http://orcid.org/0000-0002-6652-8639
+      - name: Thomas J. Montine
+        orcid: http://orcid.org/0000-0002-1346-2728
+      - name: Christine C Wu
+        orcid: null
+      - name: Michael J. MacCoss
+        orcid: http://orcid.org/0000-0003-1853-0256
+  comment:
+    dislikes: 0
+    thread: "8372988945"
+    numReports: 0
+    likes: 0
+    id: "5447108268"
+    createdAt: 2021-07-07T15:09:11
+    author:
+      username: disqus_fLkycAbh7b
+      about: ""
+      name: Richard Unwin
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_fLkycAbh7b/
+      url: ""
+      location: ""
+      id: "333118172"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      I 100% agree that this is an issue. I think the key observation here is
+      that we effectively miss data by not taking this peptide level variance
+      into account.
+
+
+      However there is an issue, I think, when considering data e.g. in Fig 5c where you infer isoforms based upon variance of different peptides across the proteins. IF the different isoforms of that protein (PTMs, processing etc) are known, one can map peptides onto that knowledge. But it's fair to assume, I think that most PTMs or splice forms are not known (currently). 
+
+
+      In either case (isoforms known or unknown), I think you are assuming that digestion efficiency, and release of each peptide, is equal across samples. We've done studies where we've digested the same pure protein 10x and run SRMs for 15 or so peptides and you clearly observe high levels of variance, so it's clear that, from a quantitative perspective, not all peptides are equal. I *think* for this to work, you need either a predefined set of 'good' peptides (highly reproducible signals in replicate digests of the same sample), or technical replicates on top of biological replicates in each study to be able to determine that peptide-level differences  are down to real peptide-level differences rather than variable digestion kinetics?
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.01.25.428175v1
+  tweets:
+    - created_at: Wed Jul 07 16:38:15 +0000 2021
+      id: 1412813219626950700
+      id_str: "1412813219626950660"
+      text: >-
+        💬 bioRxiv comment on "Can we put Humpty Dumpty back ..."
+
+
+        "I 100% agree that this is an issue. I think the key obse… https://t.co/DDJiuKA8T4
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/DDJiuKA8T4
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed Jul 07 16:38:15 +0000 2021
+      id: 1412813220507795500
+      id_str: "1412813220507795456"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/6NwfZ9Yh0D
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/6NwfZ9Yh0D
+      in_reply_to_status_id: 1412813219626950700
+      in_reply_to_status_id_str: "1412813219626950660"
