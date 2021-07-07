@@ -38682,3 +38682,56 @@
           - url: https://t.co/JlZag63NBW
       in_reply_to_status_id: 1412840192180953000
       in_reply_to_status_id_str: "1412840192180953088"
+- preprint:
+    id: 148961
+    metric: 24
+    title: The crucial role of genome-wide genetic variation in conservation
+    url: https://api.rxivist.org/v1/papers/148961
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.05.451163v1
+    doi: 10.1101/2021.07.05.451163
+    category: evolutionary-biology
+    first_posted: 2021-07-06
+    abstract: The unprecedented rate of extinction calls for efficient use of
+      genetics to help conserve biodiversity. Several recent genomic and
+      simulation-based studies have argued that the field of conservation
+      biology has placed too much focus on the conservation of genome-wide
+      genetic variation, and that this approach should be replaced with another
+      that focuses instead on managing the subset of functional genetic
+      variation that is thought to affect fitness. Here, we critically evaluate
+      the feasibility and likely benefits of this approach in conservation. We
+      find that population genetics theory and empirical results show that the
+      conserving genome-wide genetic variation is generally the best approach to
+      prevent inbreeding depression and loss of adaptive potential from driving
+      populations towards extinction. Focusing conservation efforts on
+      presumably functional genetic variation will only be feasible
+      occasionally, often misleading, and counterproductive when prioritized
+      over genome-wide genetic variation. Given the increasing rate of habitat
+      loss and other environmental changes, failure to recognize the detrimental
+      effects of lost genome-wide variation on long-term population viability
+      will only worsen the biodiversity crisis.
+    authors:
+      - name: Martin Kardos
+      - name: Ellie Armstrong
+      - name: Sarah W. Fitzpatrick
+      - name: Samantha Hauser
+      - name: Philip Hedrick
+      - name: Joshua Miller
+      - name: David Tallmon
+      - name: W. Chris Funk
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Wed Jul 07 20:16:09 +0000 2021
+      id: 1412868057815519200
+      id_str: "1412868057815519233"
+      text: >-
+        🔥 bioRxiv Evolutionary-biology preprint by M. Kardos et al:
+
+
+        "The crucial role of genome-wide genetic variation in… https://t.co/d9IaHu5MPd
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/d9IaHu5MPd
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
