@@ -38735,3 +38735,101 @@
           - url: https://t.co/d9IaHu5MPd
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "127169"
+    doi: 10.1101/2021.01.27.21250604
+    first_posted: 2021-01-29
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.01.27.21250604v1
+    url: https://api.rxivist.org/v1/papers/127169
+    title: "The World Mortality Dataset: Tracking excess mortality across countries
+      during the COVID-19 pandemic"
+    category: epidemiology
+    abstract: Comparing the impact of the COVID-19 pandemic between countries or
+      across time is difficult because the reported numbers of cases and deaths
+      can be strongly affected by testing capacity and reporting policy. Excess
+      mortality, defined as the increase in all-cause mortality relative to the
+      recent average, is widely considered as a more objective indicator of the
+      COVID-19 death toll. However, there has been no central,
+      frequently-updated repository of the all-cause mortality data across
+      countries. To fill this gap, we have collected weekly, monthly, or
+      quarterly all-cause mortality data from 77 countries, openly available as
+      the regularly-updated World Mortality Dataset. We used this dataset to
+      compute the excess mortality in each country during the COVID-19 pandemic.
+      We found that in the worst-affected countries the annual mortality
+      increased by over 50%, while in several other countries it decreased by
+      over 5%, presumably due to lockdown measures decreasing the non-COVID
+      mortality. Moreover, we found that while some countries have been
+      reporting the COVID-19 deaths very accurately, many countries have been
+      underreporting their COVID-19 deaths by an order of magnitude or more.
+      Averaging across the entire dataset suggests that the world's COVID-19
+      death toll may be at least 1.6 times higher than the reported number of
+      confirmed deaths.
+    authors:
+      - name: Ariel Karlinsky
+        orcid: null
+      - name: Dmitry Kobak
+        orcid: http://orcid.org/0000-0002-5639-7209
+  comment:
+    dislikes: 0
+    thread: "8573176341"
+    numReports: 0
+    likes: 0
+    id: "5446988699"
+    createdAt: 2021-07-07T13:28:03
+    author:
+      username: arielkarlinsky
+      about: ""
+      name: Ariel Karlinsky
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/arielkarlinsky/
+      url: ""
+      location: ""
+      id: "344436454"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Dear Sebastian,
+
+
+      For the % increase estimate, our denominator is *annual* baseline. You can see the weekly/monthly/quartelry baselines for each country here: https://github.com/dkobak/excess-mortality/blob/main/baselines.csv
+
+
+      Our predicted annual baseline for Germany is 978,953 deaths (as Germany has an upward trend in mortality based on previous 5 years) so 36K excess deaths is 3.7% which is rounded in the table and figure to 4%, as we mention in the text. 
+
+
+      Generally, for the exact estimated numbers please turn to our publicly open and always updated repo which contains the code/CSV and everything else: https://github.com/dkobak/excess-mortality
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.01.27.21250604v3
+  tweets:
+    - created_at: Wed Jul 07 20:19:41 +0000 2021
+      id: 1412868949222559700
+      id_str: "1412868949222559755"
+      text: |-
+        💬 medRxiv comment on "The World Mortality Dataset: T..."
+
+        "Dear Sebastian,
+
+        For the % increase estimate, our denomi… https://t.co/VnLgl0vKS1
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/VnLgl0vKS1
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed Jul 07 20:19:42 +0000 2021
+      id: 1412868949981683700
+      id_str: "1412868949981683716"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/SYOosLmQld
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/SYOosLmQld
+      in_reply_to_status_id: 1412868949222559700
+      in_reply_to_status_id_str: "1412868949222559755"
