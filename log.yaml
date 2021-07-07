@@ -38177,3 +38177,102 @@
           - url: https://t.co/oTURmeVcNy
       in_reply_to_status_id: 1412578438905569300
       in_reply_to_status_id_str: "1412578438905569281"
+- preprint:
+    id: "148902"
+    doi: 10.1101/2021.06.30.21259787
+    first_posted: 2021-07-05
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.30.21259787v1
+    url: https://api.rxivist.org/v1/papers/148902
+    title: Low dose mRNA-1273 COVID-19 vaccine generates durable T cell memory and
+      antibodies enhanced by pre-existing crossreactive T cell memory
+    category: infectious-diseases
+    abstract: Understanding human immune responses to SARS-CoV-2 RNA vaccines is of
+      interest for a panoply of reasons. Here we examined vaccine-specific CD4+
+      T cell, CD8+ T cell, binding antibody, and neutralizing antibody responses
+      to the 25 ug Moderna mRNA-1273 vaccine over 7 months post-immunization,
+      including multiple age groups, with a particular interest in assessing
+      whether pre-existing crossreactive T cell memory impacts vaccine-generated
+      immunity. Low dose (25 ug) mRNA-1273 elicited durable Spike binding
+      antibodies comparable to that of convalescent COVID-19 cases.
+      Vaccine-generated Spike memory CD4+ T cells 6 months post-boost were
+      comparable in quantity and quality to COVID-19 cases, including the
+      presence of TFH cells and IFNg-expressing cells. Spike CD8+ T cells were
+      generated in 88% of subjects, with equivalent percentages of CD8+ T cell
+      memory responders at 6 months post-boost compared to COVID-19 cases.
+      Lastly, subjects with pre-existing crossreactive CD4+ T cell memory had
+      increased CD4+ T cell and antibody responses to the vaccine, demonstrating
+      a biological relevance of SARS-CoV-2 crossreactive CD4+ T cells.
+    authors:
+      - name: Jose Mateus
+        orcid: http://orcid.org/0000-0002-1402-3452
+      - name: Jennifer M Dan
+        orcid: http://orcid.org/0000-0002-1672-0657
+      - name: Zeli Zhang
+        orcid: null
+      - name: Carolyn Rydyznski Moderbacher
+        orcid: http://orcid.org/0000-0002-7965-9902
+      - name: Marshall Lammers
+        orcid: http://orcid.org/0000-0003-2237-847X
+      - name: Benjamin Goodwin
+        orcid: http://orcid.org/0000-0002-5485-2861
+      - name: Alessandro Sette
+        orcid: http://orcid.org/0000-0001-7013-2250
+      - name: Shane Crotty
+        orcid: http://orcid.org/0000-0002-6484-6262
+      - name: Daniela Weiskopf
+        orcid: http://orcid.org/0000-0003-2968-7371
+  comment:
+    dislikes: 0
+    thread: "8631860611"
+    numReports: 0
+    likes: 0
+    id: "5446461988"
+    createdAt: 2021-07-07T00:18:31
+    author:
+      username: itellu3times
+      about: ""
+      name: itellu3times
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/itellu3times/
+      url: ""
+      location: ""
+      id: "49572364"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: For gosh sakes please mention the size of the current standard
+      dose!  Current standard for Moderna is 100 micrograms, study here is 25
+      micrograms?  In both cases, two doses.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.06.30.21259787v1
+  tweets:
+    - created_at: Wed Jul 07 12:31:23 +0000 2021
+      id: 1412751097106559000
+      id_str: "1412751097106558982"
+      text: >-
+        💬 medRxiv comment on "Low dose mRNA-1273 COVID-19 va..."
+
+
+        "For gosh sakes please mention the size of the current st… https://t.co/zavCIVJHDd
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/zavCIVJHDd
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed Jul 07 12:31:24 +0000 2021
+      id: 1412751098109055000
+      id_str: "1412751098109054978"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/VhOpaz8C3e
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/VhOpaz8C3e
+      in_reply_to_status_id: 1412751097106559000
+      in_reply_to_status_id_str: "1412751097106558982"
