@@ -39443,3 +39443,70 @@
           - url: https://t.co/4qkldYdFrA
       in_reply_to_status_id: 1413203598788366300
       in_reply_to_status_id_str: "1413203598788366344"
+- preprint:
+    id: 122405
+    metric: 344
+    title: "The SARS-CoV-2 spike protein disrupts the cooperative function of human
+      cardiac pericytes - endothelial cells through CD147 receptor-mediated
+      signalling: a potential non-infective mechanism of COVID-19 microvascular
+      disease"
+    url: https://api.rxivist.org/v1/papers/122405
+    biorxiv_url: https://biorxiv.org/content/10.1101/2020.12.21.423721v1
+    doi: 10.1101/2020.12.21.423721
+    category: cell-biology
+    first_posted: 2020-12-21
+    abstract: >-
+      BackgroundSevere coronavirus disease 2019 (COVID-19) manifests as a
+      life-threatening microvascular syndrome. The severe acute respiratory
+      syndrome coronavirus 2 (SARS-CoV-2) uses primarily the capsid spike (S)
+      protein to engage with its receptors and infect host cells. To date, it is
+      still not known if the S protein alone, without the other viral elements,
+      is able to trigger vascular cell signalling and provoke cell dysfunction.
+
+
+      MethodsWe investigated the effects of the recombinant, stabilised S protein on primary human cardiac pericytes (PCs) signalling and function. Endpoints included cell viability, proliferation, migration, cooperation with endothelial cells (ECs) in angiogenesis assays, and release of pro-inflammatory cytokines. Adopting a blocking strategy against the S protein receptors ACE2 and CD147, we explored which receptor mediates the S protein signalling in PCs.
+
+
+      FindingsWe show, for the first time, that the recombinant S protein alone elicits functional alterations in cardiac PCs. This was documented as: (1) increased migration, (2) reduced ability to support EC network formation on Matrigel, (3) secretion of pro-inflammatory molecules typically involved in the cytokine storm, and (4) production of pro-apoptotic factors responsible for EC death. Furthermore, the S protein stimulates the phosphorylation/activation of the extracellular signal-regulated kinase 1/2 (ERK1/2) through the CD147 receptor, but not ACE2, in cardiac PCs. Accordingly, the neutralization of CD147, using a blocking antibody, prevented the activation of ERK1/2 and partially rescued the PC function in the presence of the S protein.
+
+
+      InterpretationOur findings suggest the new, intriguing hypothesis that the S protein may elicit vascular cell dysfunction, potentially amplifying, or perpetuating, the damage caused by the whole coronavirus. This mechanism may have clinical and therapeutic implication.
+
+
+      FundingElizabeth Blackwell Institute (EBI) Rapid Response COVID-19 award.
+
+
+      Research in contextO_ST_ABSEvidence before this studyC_ST_ABSThe severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) uses primarily the capsid spike (S) protein to engage with its receptors and infect host cells. Co-receptors and host cell proteases may also be involved. Angiotensin-converting enzyme 2 (ACE2) is the well-recognized entry receptor used by the virus in respiratory epithelial cells; it is also abundantly expressed in the human heart. Alongside ACE2, CD147 has recently emerged as a novel receptor for SARS-CoV-2. Yet, it is not clear if SARS-CoV-2 triggers adverse responses in cardiac vascular mural cells. Likewise, no investigation was devoted to verifying if the recombinant S protein alone can mimic the whole virus signalling.
+
+
+      Added value of this studyThis study provides the first evidence that the recombinant S protein alone, without the other viral elements, is capable of eliciting cellular signalling in human cardiac pericytes, thereby inducing cell dysfunction. In addition, this study proposes CD147 as the leading receptor mediating S protein signalling in cardiac pericytes.
+
+
+      Implications of all the available evidenceThese reports imply that fragments of the S protein might be able to elicit vascular cell dysfunction. Blocking the CD147 receptor may help protect the vasculature not only from infection, but also from the collateral damage caused by the S protein.
+    authors:
+      - name: Elisa Avolio
+      - name: Monica Gamez
+      - name: Kapil Gupta
+      - name: Rebecca Foster
+      - name: Imre Berger
+      - name: Massimo Caputo
+      - name: Andrew Davidson
+      - name: Darryl Hill
+      - name: Paolo Madeddu
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Thu Jul 08 20:16:07 +0000 2021
+      id: 1413230436319326200
+      id_str: "1413230436319326210"
+      text: >-
+        🔥 bioRxiv Cell-biology preprint by E. Avolio et al:
+
+
+        "The SARS-CoV-2 spike protein disrupts the cooperative functio… https://t.co/pYAq5c1Fd7
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/pYAq5c1Fd7
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
