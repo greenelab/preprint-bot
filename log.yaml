@@ -39118,3 +39118,103 @@
           - url: https://t.co/IIPosDD3TG
       in_reply_to_status_id: 1413114835148083200
       in_reply_to_status_id_str: "1413114835148083205"
+- preprint:
+    id: "84475"
+    doi: 10.1101/2020.05.21.106914
+    first_posted: 2020-05-23
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.05.21.106914v1
+    url: https://api.rxivist.org/v1/papers/84475
+    title: Association between erythrocyte dynamics and vessel remodelling in
+      developmental vascular networks
+    category: developmental-biology
+    abstract: >-
+      Sprouting angiogenesis is an essential vascularisation mechanism
+      consisting of sprouting and remodelling. The remodelling phase is driven
+      by rearrangements of endothelial cells (ECs) within the post-sprouting
+      vascular plexus. Prior work has uncovered how ECs polarise and migrate in
+      response to flow-induced wall shear stress (WSS). However, the question of
+      how the presence of erythrocytes (well-known as RBCs) and their
+      haemodynamics impact affects vascular remodelling remains unanswered.
+      Here, we devise a computational framework to model cellular blood flow in
+      developmental mouse retina. We demonstrate a previously unreported highly
+      heterogeneous distribution of RBCs in primitive vasculature. Furthermore,
+      we report a strong association between vessel regression and RBC
+      depletion, and identify plasma skimming as the driving mechanism. Live
+      imaging in a developmental zebrafish model confirms this association.
+      Taken together, our results indicate that RBC dynamics are fundamental to
+      establishing the regional WSS differences driving vascular remodelling via
+      their ability to modulate effective viscosity.
+
+
+      SummaryRecent studies demonstrate that during sprouting angiogenesis, blood flow provides crucial hydrodynamic cues (e.g. wall shear stress) for the remodelling of primitive plexuses towards a functional network. Notwithstanding, the role of RBCs in this process remains poorly understood. We report on the inherent heterogeneity of RBC perfusion within primitive vasculatures, and uncover a strong association between RBC depletion and vessel regression. Our work indicates the essential role of RBC dynamics in the establishment of regional WSS differences driving vascular remodelling. The RBC-driven process of pruning cell-depleted vessels not only importantly contributes to the optimal patterning of vascular networks during development, but also provides a remodelling mechanism to support clinical findings of microangiopathic complications associated with impaired RBC deformability in diseases such as diabetes mellitus and hypertension.
+    authors:
+      - name: Qi Zhou
+        orcid: http://orcid.org/0000-0003-3560-2311
+      - name: Tijana Perovic
+        orcid: null
+      - name: Ines Fechner
+        orcid: null
+      - name: Lowell T. Edgar
+        orcid: http://orcid.org/0000-0002-8586-1605
+      - name: Peter R. Hoskins
+        orcid: null
+      - name: Holger Gerhardt
+        orcid: http://orcid.org/0000-0002-3030-0384
+      - name: Timm Krüger
+        orcid: http://orcid.org/0000-0003-2934-2699
+      - name: Miguel O. Bernabeu
+        orcid: http://orcid.org/0000-0002-6456-3756
+  comment:
+    dislikes: 0
+    thread: "8321851921"
+    numReports: 0
+    likes: 0
+    id: "5447318200"
+    createdAt: 2021-07-07T17:49:00
+    author:
+      username: charlesqzhou
+      about: ""
+      name: charlesqzhou
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/charlesqzhou/
+      url: ""
+      location: ""
+      id: "372012989"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: "Our preprint is now out in Royal Society Interface. Check it here:
+      https://royalsocietypublishing.org/doi/10.1098/rsif.2021.0113"
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.05.21.106914v2
+  tweets:
+    - created_at: Thu Jul 08 14:25:32 +0000 2021
+      id: 1413142210464292900
+      id_str: "1413142210464292864"
+      text: >-
+        💬 bioRxiv comment on "Association between erythrocyt..."
+
+
+        "Our preprint is now out in Royal Society Interface. Chec… https://t.co/lb3YMZOcVe
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/lb3YMZOcVe
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jul 08 14:25:32 +0000 2021
+      id: 1413142211575750700
+      id_str: "1413142211575750663"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/Zp9CXuHtMW
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/Zp9CXuHtMW
+      in_reply_to_status_id: 1413142210464292900
+      in_reply_to_status_id_str: "1413142210464292864"
