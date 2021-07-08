@@ -39218,3 +39218,110 @@
           - url: https://t.co/Zp9CXuHtMW
       in_reply_to_status_id: 1413142210464292900
       in_reply_to_status_id_str: "1413142210464292864"
+- preprint:
+    id: "78794"
+    doi: 10.1101/2020.04.03.023465
+    first_posted: 2020-04-03
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.04.03.023465v1
+    url: https://api.rxivist.org/v1/papers/78794
+    title: Incorrect Molecular Weights due to inaccurate Prestained Protein
+      Molecular Weight Markers that are used for Gel Electrophoresis and Western
+      Blotting
+    category: cell-biology
+    abstract: The most widely used Western blotting protein standards are prestained
+      proteins of known molecular mass (kDa). They are also utilized for sodium
+      dodecyl sulphate (SDS) Polyacrylamide Gel Electrophoresis (PAGE) to
+      determine the molecular mass of proteins separated by electrophoresis. The
+      objective of this study was to assess the reliability of different
+      commercially available protein standards in predicting accurate protein
+      molecular weights. We performed this experiment by running Criterion TGX
+      gels with five prestained protein standards (Thermo Fisher SeeBlue Plus 2,
+      Bio-Rad Precision Plus Protein Dual-color, Thermo Fisher Spectra
+      Multi-color, Novex-Sharp Pre-stained, and Invitrogen iBright Pre-Stained).
+      To evaluate their accuracy, we utilized highly purified Bovine Serum
+      Albumin (BSA, 66.44 kDa) and Cytochrome C (Cyto C, 11.62 kDa). We also
+      made use of the dimers of BSA (132.88 kDa) and Cyt C (23.24 kDa) that are
+      present on SDS-PAGE gels. Our results suggest that three of the standards
+      were less accurate at higher molecular masses with the iBright marker
+      having the highest error in determining the expected 132.88 kDa molecular
+      weight. The SeeBlue Plus 2 was accurate at identifying the 132.88 kDa
+      molecular weight protein band but was less reliable for the three other
+      lower molecular weight proteins. These findings have significant
+      implications for the determination of protein masses because researchers
+      rely on these standards to evaluate the molecular masses of their
+      protein(s). We suggest that at least two different protein standards
+      should be initially used in electrophoresis gels and for Western blotting
+      in order to get accurate protein molecular weight results.
+    authors:
+      - name: Rômulo Leão Silva Neris
+        orcid: null
+      - name: Ajuni Kaur
+        orcid: null
+      - name: Aldrin V. Gomes
+        orcid: http://orcid.org/0000-0002-9819-3036
+  comment:
+    dislikes: 0
+    thread: "7950110041"
+    numReports: 0
+    likes: 0
+    id: "5447167403"
+    createdAt: 2021-07-07T15:55:33
+    author:
+      username: jonaszweber
+      about: ""
+      name: Jonasz Weber
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/jonaszweber/
+      url: ""
+      location: ""
+      id: "372008177"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Dear authors,
+
+
+      Thank you very much for your scientific work on assessing the reliability of molecular weight (MW) markers in SDS-PAGE. The findings of your study are highly relevant for researchers using this methodology for analyzing proteins. Also, in our lab, where we are using different MW markers, we have experienced variations and discrepancies. In your work, you have tested all MW markers on TGX pre-cast gels. We preferentially use Bis-Tris and Tris-acetate gels, and we see differences between the MW prediction precision divergent from your results. Did you consider expanding your dataset using more gel types as the earlier mentioned BT and TA gels? 
+
+
+      I look forward to your reply.
+
+
+      Best regards,
+
+      Jonasz Weber
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.04.03.023465v1
+  tweets:
+    - created_at: Thu Jul 08 16:41:23 +0000 2021
+      id: 1413176398446043100
+      id_str: "1413176398446043136"
+      text: |-
+        💬 bioRxiv comment on "Incorrect Molecular Weights du..."
+
+        "Dear authors,
+
+        Thank you very much for your scientific w… https://t.co/09yp52zNkk
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/09yp52zNkk
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jul 08 16:41:23 +0000 2021
+      id: 1413176399343595500
+      id_str: "1413176399343595522"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/bxv4gMDcu7
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/bxv4gMDcu7
+      in_reply_to_status_id: 1413176398446043100
+      in_reply_to_status_id_str: "1413176398446043136"
