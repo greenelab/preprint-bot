@@ -40358,3 +40358,182 @@
           - url: https://t.co/Hdu6b4o5G0
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "148806"
+    doi: 10.1101/2021.07.04.451050
+    first_posted: 2021-07-05
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.04.451050v1
+    url: https://api.rxivist.org/v1/papers/148806
+    title: "Fly Cell Atlas: a single-cell transcriptomic atlas of the adult fruit fly"
+    category: genomics
+    abstract: The ability to obtain single cell transcriptomes for stable cell types
+      and dynamic cell states is ushering in a new era for biology. We created
+      the Tabula Drosophilae, a single cell atlas of the adult fruit fly which
+      includes 580k cells from 15 individually dissected sexed tissues as well
+      as the entire head and body. Over 100 researchers from the fly community
+      contributed annotations to >250 distinct cell types across all tissues. We
+      provide an in-depth analysis of cell type-related gene signatures and
+      transcription factor markers, as well as sexual dimorphism, across the
+      whole animal. Analysis of common cell types that are shared between
+      tissues, such as blood and muscle cells, allowed the discovery of rare
+      cell types and tissue-specific subtypes. This atlas provides a valuable
+      resource for the entire Drosophila community and serves as a comprehensive
+      reference to study genetic perturbations and disease models at single-cell
+      resolution.
+    authors:
+      - name: Hongjie Li
+        orcid: null
+      - name: Jasper Janssens
+        orcid: http://orcid.org/0000-0001-9264-0782
+      - name: Maxime De Waegeneer
+        orcid: http://orcid.org/0000-0002-4535-3737
+      - name: Sai Saroja Kolluru
+        orcid: null
+      - name: Kristofer Davie
+        orcid: http://orcid.org/0000-0003-2182-1249
+      - name: Vincent Gardeux
+        orcid: http://orcid.org/0000-0001-8954-2161
+      - name: Wouter Sealens
+        orcid: null
+      - name: Fabrice David
+        orcid: null
+      - name: Maria Brbic
+        orcid: null
+      - name: Jure Leskovec
+        orcid: http://orcid.org/0000-0002-5411-923X
+      - name: Colleen McLaughlin
+        orcid: null
+      - name: Qijing Xie
+        orcid: null
+      - name: Robert Jones
+        orcid: http://orcid.org/0000-0003-3543-2877
+      - name: Katja Brueckner
+        orcid: null
+      - name: Jiwon Shim
+        orcid: http://orcid.org/0000-0003-2409-1130
+      - name: Sudhir Gopal Tattikota
+        orcid: http://orcid.org/0000-0003-0318-5533
+      - name: Frank Schnorrer
+        orcid: http://orcid.org/0000-0002-9518-7263
+      - name: Katja Rust
+        orcid: null
+      - name: Todd Nystul
+        orcid: http://orcid.org/0000-0002-6250-2394
+      - name: Zita Carvalho-Santos
+        orcid: http://orcid.org/0000-0001-7100-308X
+      - name: Carlos Ribeiro
+        orcid: http://orcid.org/0000-0002-9542-7335
+      - name: Soumitra Pal
+        orcid: http://orcid.org/0000-0003-4840-3944
+      - name: Teresa Maria Przytycka
+        orcid: null
+      - name: Aaron Allen
+        orcid: null
+      - name: Stephen Goodwin
+        orcid: null
+      - name: Cameron Berry
+        orcid: null
+      - name: Margaret T. (MINX) Fuller
+        orcid: null
+      - name: Helen White-Cooper
+        orcid: http://orcid.org/0000-0002-3373-8023
+      - name: Erika Matunis
+        orcid: http://orcid.org/0000-0001-5439-4656
+      - name: Stephen DiNardo
+        orcid: http://orcid.org/0000-0003-4131-5511
+      - name: Anthony Galenza
+        orcid: null
+      - name: Lucy Erin O'Brien
+        orcid: null
+      - name: Julian A.T. Dow
+        orcid: http://orcid.org/0000-0002-9595-5146
+      - name: FCA Consortium
+        orcid: null
+      - name: Heinrich Jasper
+        orcid: null
+      - name: Brian Oliver
+        orcid: http://orcid.org/0000-0002-3455-4891
+      - name: Norbert Perrimon
+        orcid: http://orcid.org/0000-0001-7542-472X
+      - name: Bart Deplancke
+        orcid: http://orcid.org/0000-0001-9935-843X
+      - name: Stephen Quake
+        orcid: null
+      - name: Liqun Luo
+        orcid: http://orcid.org/0000-0001-5467-9264
+      - name: Stein Aerts
+        orcid: http://orcid.org/0000-0002-8006-0315
+  comment:
+    dislikes: 0
+    thread: "8631560587"
+    numReports: 0
+    likes: 0
+    id: "5449426843"
+    createdAt: 2021-07-09T11:56:16
+    author:
+      username: bplazzaro
+      about: Professor, Cornell University
+      name: Brian Lazzaro
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/bplazzaro/
+      url: http://www.lazzaro.entomology.cornell.edu
+      location: ""
+      id: "372093623"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      <blockquote>For example, in the fat body (fig. S16), the main fat body
+      cells formed one big cluster, but our metabolic pathway enrichment
+      analysis performed through ASAP (David et al., 2020) revealed that fatty
+      acid biosynthesis and degradation are in fact compartmentalized,
+      highlighting possible fat body cell heterogeneity in terms of metabolic
+      capacities.</blockquote>
+
+
+      This is a really interesting observation. We saw the same thing in our preprint posted a few months ago, and the heterogeneity was stable in biologically replicated samples across multiple treatments (factorial design of mated, unmated, bacterially infected, uninfected). 
+
+
+      We discussed some specific clusters and their apparent functional enrichment based on the expression data:
+
+
+      <blockquote>GO enrichment analysis of differentially regulated genes in each of the six subpopulations showed enrichment for diverse functions (Table S3). Upregulated genes in both Clusters 0 and 1 were enriched for one-carbon metabolism but mediated by two different mechanisms: s-adenosyl methionine (SAM; Cluster 0) and folate (Cluster 1). Cluster 1 also showed enriched upregulation of genes encoding ribosomal proteins, which were downregulated in Cluster 2. Upregulated genes in Cluster 2 showed enrichment for amino acid biosynthesis. We identified metabolic and detoxification pathways enriched in genes upregulated in Cluster 5, and upregulated genes in both Clusters 7 and 10 were related to phospholipase A1 activity. Therefore, while all six fat body subpopulations respond to mating stimulus, their heterogeneous response suggests subfunctionalization of the cellular populations.</blockquote>
+
+
+      https://www.biorxiv.org/content/10.1101/2021.01.28.428655v1
+
+
+      Is this similar to the heterogeneity you see in the present analysis of the fat body?
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.07.04.451050v1
+  tweets:
+    - created_at: Fri Jul 09 20:19:35 +0000 2021
+      id: 1413593697908707300
+      id_str: "1413593697908707330"
+      text: >-
+        💬 bioRxiv comment on "Fly Cell Atlas: a single-cell ..."
+
+
+        "&lt;blockquote&gt;For example, in the fat body (fig. S16), the… https://t.co/NVhVDrTCoM
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/NVhVDrTCoM
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jul 09 20:19:35 +0000 2021
+      id: 1413593698890178600
+      id_str: "1413593698890178562"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/EGW2mV2UPs
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/EGW2mV2UPs
+      in_reply_to_status_id: 1413593697908707300
+      in_reply_to_status_id_str: "1413593697908707330"
