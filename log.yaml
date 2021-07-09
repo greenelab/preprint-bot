@@ -40303,3 +40303,58 @@
           - url: https://t.co/sWJwh4u5dC
       in_reply_to_status_id: 1413565385945849900
       in_reply_to_status_id_str: "1413565385945849856"
+- preprint:
+    id: 149291
+    metric: 5
+    title: Synthetic genomic reconstitution reveals principles of mammalian Hox
+      cluster regulation
+    url: https://api.rxivist.org/v1/papers/149291
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.07.451065v1
+    doi: 10.1101/2021.07.07.451065
+    category: synthetic-biology
+    first_posted: 2021-07-07
+    abstract: Precise Hox gene expression is crucial for embryonic patterning.
+      Intra-Hox transcription factor binding and distal enhancer elements have
+      emerged as the major regulatory modes controlling Hox gene expression.
+      However, quantifying their relative contributions has remained elusive.
+      Here, we introduce 'synthetic regulatory reconstitution', a novel
+      conceptual framework for studying gene regulation and apply it to the HoxA
+      cluster. We synthesized and delivered variant rat HoxA clusters (130-170
+      kilobases each) to an ectopic location in the mouse genome. We find that a
+      HoxA cluster lacking distal enhancers recapitulates correct patterns of
+      chromatin remodeling and transcription in response to patterning signals,
+      while distal enhancers are required for full transcriptional output.
+      Synthetic regulatory reconstitution is a generalizable strategy to
+      decipher the regulatory logic of gene expression in complex genomes.
+    authors:
+      - name: Sudarshan Pinglay
+      - name: Milica Bulajic
+      - name: Dylan P Rahe
+      - name: Emily Huang
+      - name: Ran Brosh
+      - name: Sergei German
+      - name: John A Cadley
+      - name: Lila Rieber
+      - name: Nicole Easo
+      - name: Shaun Mahony
+      - name: Matt T Maurano
+      - name: Liam J Holt
+      - name: Esteban O Mazzoni
+      - name: Jef D Boeke
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Fri Jul 09 20:16:05 +0000 2021
+      id: 1413592815330750500
+      id_str: "1413592815330750465"
+      text: >-
+        🔥 bioRxiv Synthetic-biology preprint by S. Pinglay et al:
+
+
+        "Synthetic genomic reconstitution reveals principles of… https://t.co/Hdu6b4o5G0
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/Hdu6b4o5G0
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
