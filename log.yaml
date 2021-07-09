@@ -39860,3 +39860,109 @@
           - url: https://t.co/B5DO7aAXhF
       in_reply_to_status_id: 1413302662175596500
       in_reply_to_status_id_str: "1413302662175596544"
+- preprint:
+    id: "145589"
+    doi: 10.1101/2021.06.07.21258461
+    first_posted: 2021-06-10
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.07.21258461v1
+    url: https://api.rxivist.org/v1/papers/145589
+    title: Social inequalities in hostility toward vaccination against Covid-19
+    category: public-and-global-health
+    abstract: In recent decades, France has appeared as a country particularly
+      hostile to vaccination in general. When asked in November 2020 about the
+      intention to take the Covid-19 vaccine, the French public showed, once
+      again, reluctance. Therefore, France appeared as an ideal case study to
+      analyze whether the hostility toward the Covid-19 vaccine has its own
+      reasons or whether it is related to the reluctance to the principle of
+      vaccination itself. Our objective was to determine the specificity of the
+      social determinants of the intention to get the Covid-19 vaccine. Thanks
+      to the use of a large random sample of the general population in France
+      (86,000 individuals), the reluctant to Covid-19 vaccine could be clearly
+      distinguished from the hesitant and the convinced, and thereby thoroughly
+      analyzed. Our analysis highlighted a gendered reluctance toward
+      vaccination in general but even more so regarding vaccination against
+      Covid-19. It might refer to women being more concerned about the possible
+      effects of an injection in their body, especially at the age of maternity
+      and a differentiated socialization making them more sensitive than men to
+      long-term risks and more apprehensive toward rapid technological change.
+      We also found that people at the bottom of the social hierarchy, in terms
+      of level of education, financial resources, and immigration status, were
+      more likely to refuse the Covid-19 vaccine. Nevertheless, this reluctance
+      was less prominent than for vaccination in general, reflecting the actual
+      spread of the epidemic in various social milieux. Finally, our analysis
+      showed that trust in the government's actions was significantly associated
+      with reluctance toward the Covid-19 vaccine, even more than toward
+      vaccination in general. Specific campaigns should be thought beforehand to
+      reach women and people at the bottom of the social hierarchy to avoid
+      furthering social inequalities in terms of morbidity and mortality.
+    authors:
+      - name: Alexis Spire
+        orcid: null
+      - name: Lena Silberzan
+        orcid: null
+      - name: Nathalie Bajos
+        orcid: null
+      - name: The EpiCov study group
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8585059061"
+    numReports: 0
+    likes: 0
+    id: "5449336445"
+    createdAt: 2021-07-09T09:39:24
+    author:
+      username: disqus_NajR06gaBq
+      about: ""
+      name: Alice Ka
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_NajR06gaBq/
+      url: ""
+      location: ""
+      id: "372090481"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Another possible interpretation for hesitation/reluctance to get
+      vaccinated could be that people who did not get Covid do not see the
+      interest of getting vaccinated since they managed to avoid Covid by using
+      masks, washing hands, etc. This could be even more relevant for workers
+      who attended their work as usual during the three lockdowns. It could be
+      worth to look into this if you have access to these information.
+
+
+      Other interpretation: poorer people tend to travel less frequently and may have less interest in the vaccine since it is not mandatory for conducting daily activities.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.06.07.21258461v1
+  tweets:
+    - created_at: Fri Jul 09 12:30:48 +0000 2021
+      id: 1413475724342743000
+      id_str: "1413475724342743041"
+      text: >-
+        💬 medRxiv comment on "Social inequalities in hostili..."
+
+
+        "Another possible interpretation for hesitation/reluctanc… https://t.co/QEO8VOC4WW
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/QEO8VOC4WW
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jul 09 12:30:48 +0000 2021
+      id: 1413475725336744000
+      id_str: "1413475725336743936"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/zCeHPXNUH6
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/zCeHPXNUH6
+      in_reply_to_status_id: 1413475724342743000
+      in_reply_to_status_id_str: "1413475724342743041"
