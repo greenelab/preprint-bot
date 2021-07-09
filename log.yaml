@@ -40537,3 +40537,160 @@
           - url: https://t.co/EGW2mV2UPs
       in_reply_to_status_id: 1413593697908707300
       in_reply_to_status_id_str: "1413593697908707330"
+- preprint:
+    id: "111336"
+    doi: 10.1101/2020.05.26.20104497
+    first_posted: 2020-05-26
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2020.05.26.20104497v1
+    url: https://api.rxivist.org/v1/papers/111336
+    title: "Knowledge and attitude towards COVID-19 in Bangladesh: Population-level
+      estimation and a comparison of data obtained by phone and online survey
+      methods"
+    category: epidemiology
+    abstract: Adherence of people to the guidelines and measures suggested in
+      fighting the ongoing COVID-19 pandemic is partly determined by the
+      Knowledge, Attitude, and Practices (KAP) of the population. In this
+      cross-sectional study, we primarily addressed two key issues. First, we
+      tried to determine whether there is a significant difference in the
+      estimated COVID-19 knowledge level from the online and phone survey
+      methods. Second, we tried to quantify the knowledge and attitude of
+      COVID-19 in Bangladeshi adult population. Data were collected through
+      phone calls (April 14-23, 2020) and online survey (April 18-19, 2020) in
+      Bangladesh. The questionnaire had 20 knowledge questions with each correct
+      response getting one point and incorrect/do not know response getting no
+      point (maximum total knowledge score 20). Participants scoring >17 were
+      categorized as having good knowledge. The percentages of good knowledge
+      holders were 57.6%, 75.1%, and 95.8% in the phone (n=1426), online
+      non-medical (n=1097), and online medical participants (n=382),
+      respectively. Comparison between phone and online survey showed that,
+      overall, online survey might overestimate knowledge level than that of
+      phone survey, although there was no difference for elderly, poor, and
+      rural people. Male gender, higher education, living in town/urban areas,
+      good financial condition, and use of internet were positively associated
+      with good knowledge. However, higher knowledge was associated with having
+      less confidence in the final control of COVID-19. Our adult
+      population-level estimates showed that only 32.6% (95% CI 30.1-35.2%) had
+      good knowledge. This study provides crucial information that could be
+      useful for the researchers and policymakers to develop effective
+      strategies.
+    authors:
+      - name: Anwarul Karim
+        orcid: http://orcid.org/0000-0002-5795-6674
+      - name: Mastura Akter
+        orcid: http://orcid.org/0000-0003-0007-6075
+      - name: AHM Thafikul Mazid
+        orcid: http://orcid.org/0000-0002-5368-814X
+      - name: Orindom Shing Pulock
+        orcid: http://orcid.org/0000-0002-0254-9406
+      - name: Tasmiah Tahera Aziz
+        orcid: http://orcid.org/0000-0002-0967-7689
+      - name: Samira Hayee
+        orcid: null
+      - name: Nowrin Tamanna
+        orcid: http://orcid.org/0000-0002-1504-7237
+      - name: GS Chuwdhury
+        orcid: null
+      - name: Afsana Haque
+        orcid: null
+      - name: Farhana Yeasmin
+        orcid: null
+      - name: Mashkura Akter Mitu
+        orcid: null
+      - name: Farjana Yeasmin
+        orcid: null
+      - name: Humayun Rashid
+        orcid: null
+      - name: Ashish Kumar Kuri
+        orcid: http://orcid.org/0000-0002-0364-8537
+      - name: Arni Das
+        orcid: http://orcid.org/0000-0001-5960-7809
+      - name: Koushik Majumder
+        orcid: http://orcid.org/0000-0002-2858-5472
+      - name: Dipen Barua
+        orcid: null
+      - name: Md Mahabubur Rahaman
+        orcid: null
+      - name: Sanjida Akter
+        orcid: null
+      - name: Nashid Niaz Munia
+        orcid: null
+      - name: Jabin Sultana
+        orcid: http://orcid.org/0000-0003-1771-3368
+      - name: Faeeqa Usaila
+        orcid: null
+      - name: Sabrina Sifat
+        orcid: null
+      - name: Nishat Anjum Nourin
+        orcid: http://orcid.org/0000-0003-1663-8423
+      - name: Md Forhad Uddin
+        orcid: null
+      - name: Mrinmoy Bhowmik
+        orcid: null
+      - name: Tanvir Ahammed
+        orcid: http://orcid.org/0000-0002-6472-1726
+      - name: Nabil Sharik
+        orcid: null
+      - name: Quddus Mehnaz
+        orcid: null
+      - name: Md Nur Hossain Bhuiyan
+        orcid: null
+      - name: Tahmina Banu
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8059615931"
+    numReports: 0
+    likes: 0
+    id: "5449303553"
+    createdAt: 2021-07-09T08:37:24
+    author:
+      username: mdanwarulkarimmijan
+      about: ""
+      name: Md Anwarul Karim Mijan
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/mdanwarulkarimmijan/
+      url: ""
+      location: ""
+      id: "350041482"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Peer-reviewed published version can be found here:
+
+      https://www.jceionline.org/article/knowledge-and-attitude-towards-covid-19-a-cross-sectional-study-in-bangladesh-through-phone-and-9143
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2020.05.26.20104497v2
+  tweets:
+    - created_at: Fri Jul 09 22:19:17 +0000 2021
+      id: 1413623821706293200
+      id_str: "1413623821706293251"
+      text: |-
+        💬 medRxiv comment on "Knowledge and attitude towards..."
+
+        "Peer-reviewed published version can be found here:
+        "
+
+        https://t.co/k1C9FIjTjO
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/k1C9FIjTjO
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jul 09 22:19:17 +0000 2021
+      id: 1413623822578688000
+      id_str: "1413623822578688002"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/56RNHA8xib
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/56RNHA8xib
+      in_reply_to_status_id: 1413623821706293200
+      in_reply_to_status_id_str: "1413623821706293251"
