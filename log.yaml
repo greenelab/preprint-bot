@@ -40202,3 +40202,104 @@
           - url: https://t.co/x0AIV3f5Lu
       in_reply_to_status_id: 1413536362763018200
       in_reply_to_status_id_str: "1413536362763018243"
+- preprint:
+    id: "149451"
+    doi: 10.1101/2021.07.09.451738
+    first_posted: 2021-07-09
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.09.451738v1
+    url: https://api.rxivist.org/v1/papers/149451
+    title: The molecular appearance of native TRPM7 channel complexes identified by
+      high-resolution proteomics
+    category: biochemistry
+    abstract: The transient receptor potential melastatin-subfamily member 7 (TRPM7)
+      is a ubiquitously expressed membrane protein consisting of ion channel and
+      protein kinase domains. TRPM7 plays a fundamental role in the cellular
+      uptake of divalent cations such as Zn2+, Mg2+ and Ca2+, and thus shapes
+      cellular excitability, plasticity and metabolic activity. The molecular
+      appearance and operation of TRPM7 channel complexes in native tissues have
+      remained unresolved. Here, we investigated the subunit composition of
+      endogenous TRPM7 channels in rodent brain by multi-epitope affinity
+      purification and high-resolution quantitative MS analysis. We found that
+      native TRPM7 channels are high molecular-weight multi-protein complexes
+      that contain the putative metal transporter proteins CNNM1-4 and a small
+      G-protein ARL15. Heterologous reconstitution experiments confirmed the
+      formation of TRPM7/CNNM/ARL15 ternary complexes and indicated that ARL15
+      effectively and specifically impacts TRPM7 channel activity. These results
+      open up new avenues towards a mechanistic understanding of the cellular
+      regulation and function of TRPM7 channels.
+    authors:
+      - name: Astrid Kollewe
+        orcid: null
+      - name: Vladimir Chubanov
+        orcid: http://orcid.org/0000-0002-6042-4193
+      - name: Fong Tsuen Tseung
+        orcid: null
+      - name: Alexander Haupt
+        orcid: null
+      - name: Catrin Swantje M&amp;uumlller
+        orcid: null
+      - name: Wolfgang Bildl
+        orcid: null
+      - name: Schulte Schulte
+        orcid: null
+      - name: Annette Nicke
+        orcid: http://orcid.org/0000-0001-6798-505X
+      - name: Bernd Fakler
+        orcid: null
+      - name: Thomas Gudermann
+        orcid: http://orcid.org/0000-0002-0323-7965
+  comment:
+    dislikes: 0
+    thread: "8638780784"
+    numReports: 0
+    likes: 0
+    id: "5449554713"
+    createdAt: 2021-07-09T14:09:26
+    author:
+      username: vladimirchubanov
+      about: ""
+      name: Vladimir Chubanov
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/vladimirchubanov/
+      url: ""
+      location: ""
+      id: "330085578"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: "The molecular appearance of native TRPM7 channel complexes
+      identified by high-resolution proteomics. doi:
+      https://doi.org/10.1101/2021.07.09.451738"
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.07.09.451738v1
+  tweets:
+    - created_at: Fri Jul 09 18:27:05 +0000 2021
+      id: 1413565385945849900
+      id_str: "1413565385945849856"
+      text: >-
+        💬 bioRxiv comment on "The molecular appearance of na..."
+
+
+        "The molecular appearance of native TRPM7 channel complex… https://t.co/dJNTLKGj7E
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/dJNTLKGj7E
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jul 09 18:27:05 +0000 2021
+      id: 1413565386805686300
+      id_str: "1413565386805686277"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/sWJwh4u5dC
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/sWJwh4u5dC
+      in_reply_to_status_id: 1413565385945849900
+      in_reply_to_status_id_str: "1413565385945849856"
