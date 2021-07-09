@@ -39966,3 +39966,125 @@
           - url: https://t.co/zCeHPXNUH6
       in_reply_to_status_id: 1413475724342743000
       in_reply_to_status_id_str: "1413475724342743041"
+- preprint:
+    id: "148837"
+    doi: 10.1101/2021.07.01.21259785
+    first_posted: 2021-07-05
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.07.01.21259785v1
+    url: https://api.rxivist.org/v1/papers/148837
+    title: Risk factors for intensive care admission and death amongst children and
+      young people admitted to hospital with COVID-19 and PIMS-TS in England
+      during the first pandemic year
+    category: pediatrics
+    abstract: Identifying which children and young people (CYP) are vulnerable to
+      severe disease following SARS-CoV-2 is important to guide shielding and
+      vaccination policy. Methods We used data for all inpatient hospital
+      admissions in England in CYP aged 0-17 between March 1st 2015 to Feb 28th
+      2021, linked to paediatric intensive care unit (PICU) admission, and
+      SARS-CoV-2 PCR testing, and deaths. We calculated odds ratios and
+      predicted probability of PICU admission using generalized estimation
+      equations, and compared these between COVID-19, PIMS-TS, other admissions
+      in 2020/21, all admissions in 2019/20, and admissions due to influenza in
+      20219/20. Findings There were 6,338 COVID-19 hospitalisations, 259 PICU
+      admissions and 8 deaths as well as 712 PIMS-TS hospitalisations, 312 PICU
+      admissions and <5 deaths. Odds of PICU admission were increased amongst
+      neonates and decreased amongst 15-17 compared with 1-4 year olds with
+      COVID-19, increased in older CYP and females with PIMS-TS, and increased
+      for Black compared with White ethnicity for both conditions. Odds of PICU
+      admission with COVID-19 were increased for CYP with any comorbidity and
+      were highest for CYP with multiple medical problems. Comorbidities
+      associated with PICU admission among COVID-19 patients were similar to
+      overall PICU admissions in 2019/20 and to influenza PICU admissions in
+      2019/20, but with higher odds. Interpreting associations with
+      comorbidities within PIMS-TS was complex due to the multisystem nature of
+      the disease. Interpretation CYP were at very low risk of severe disease
+      and death from COVID-19 or PIMS-TS. Patterns of vulnerability for severe
+      COVID-19 appear to magnify background risk factors for serious illness in
+      CYP.
+    authors:
+      - name: Joseph Ward
+        orcid: http://orcid.org/0000-0001-7263-8845
+      - name: Rachel Harwood
+        orcid: http://orcid.org/0000-0003-3440-3142
+      - name: Clare Smith
+        orcid: null
+      - name: Simon E Kenny
+        orcid: null
+      - name: Matthew Clark
+        orcid: null
+      - name: Peter J Davis
+        orcid: null
+      - name: Elizabeth S Draper
+        orcid: null
+      - name: Dougal Hargreaves
+        orcid: null
+      - name: Shamez N Ladhani
+        orcid: http://orcid.org/0000-0002-0856-2476
+      - name: Michael Linney
+        orcid: null
+      - name: Karen Luyt
+        orcid: null
+      - name: Elizabeth Whittaker
+        orcid: null
+      - name: Lorna K Fraser
+        orcid: http://orcid.org/0000-0002-1360-4191
+      - name: Russell M Viner
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8631646124"
+    numReports: 0
+    likes: 0
+    id: "5449309023"
+    createdAt: 2021-07-09T08:48:07
+    author:
+      username: disqus_OBKA6kftN5
+      about: ""
+      name: JN
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_OBKA6kftN5/
+      url: ""
+      location: ""
+      id: "123143065"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      "We defined admissions resulting in death as the last admission for each
+      CYP that occur within 28 days of death identified through ONS or NCMD. "
+
+
+      ONS puts no such 28-day limit on deaths involving Covid (or any condition) so why does the study?
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.07.01.21259785v1
+  tweets:
+    - created_at: Fri Jul 09 14:23:32 +0000 2021
+      id: 1413504093629259800
+      id_str: "1413504093629259785"
+      text: >-
+        💬 medRxiv comment on "Risk factors for intensive car..."
+
+
+        ""We defined admissions resulting in death as the last ad… https://t.co/CmbG3ID25N
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/CmbG3ID25N
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jul 09 14:23:32 +0000 2021
+      id: 1413504094686175200
+      id_str: "1413504094686175237"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/khWTo6pNxQ
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/khWTo6pNxQ
+      in_reply_to_status_id: 1413504093629259800
+      in_reply_to_status_id_str: "1413504093629259785"
