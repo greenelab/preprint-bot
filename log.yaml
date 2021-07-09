@@ -39728,3 +39728,135 @@
           - url: https://t.co/B5DO7aAXhF
       in_reply_to_status_id: 1413261417357140000
       in_reply_to_status_id_str: "1413261417357139973"
+- preprint:
+    id: "144132"
+    doi: 10.1101/2021.05.28.21258012
+    first_posted: 2021-05-31
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.28.21258012v1
+    url: https://api.rxivist.org/v1/papers/144132
+    title: Observational Study on 255 Mechanically Ventilated Covid Patients at the
+      Beginning of the USA Pandemic
+    category: pharmacology-and-therapeutics
+    abstract: "Abstract Introduction: This observational study looked at 255 COVID19
+      patients who required invasive mechanical ventilation (IMV) during the
+      first two months of the US pandemic. Through comprehensive, longitudinal
+      evaluation and new consideration of all the data, we were able to better
+      describe and understand factors affecting outcome after intubation.
+      Methods: All vital signs, laboratory values, and medication
+      administrations (time, date, dose, and route) were collected and
+      organized. Further, each patient's prior medical records, including PBM
+      data and available ECG, were reviewed by a physician. These data were
+      incorporated into time-series database for statistical analysis. Results:
+      By discharge or Day 90, 78.2% of the cohort expired. The most common
+      pre-existing conditions were hypertension, (63.5%), diabetes (59.2%) and
+      obesity (50.4%). Age correlated with death. Comorbidities and clinical
+      status on presentation were not predictive of outcome. Admission markers
+      of inflammation were universally elevated (>96%). The cohort's weight
+      range was nearly 7-fold. Causal modeling establishes that weight-adjusted
+      HCQ and AZM therapy improves survival by over 100%. QTc prolongation did
+      not correlate with cumulative HCQ dose or HCQ serum levels. Discussion:
+      This detailed approach gives us better understanding of risk factors,
+      prognostic indicators, and outcomes of Covid patients needing IMV. Few
+      variables were related to outcome. By considering more factors and using
+      new methods, we found that when increased doses of co-administered HCQ and
+      AZM were associated with >100% increase in survival. Comparison of
+      absolute with weight-adjusted cumulative doses proves administration
+      [&ge;]80 mg/kg of HCQ with > 1 gm AZM increases survival in IMV-requiring
+      Covid patients by over 100%. According to our data, HCQ is not associated
+      with prolongation. Studies, which reported QTc prolongation secondary to
+      HCQ, need to be re-evaluated more stringently and with controls. The
+      weight ranges of Covid patient cohorts are substantially greater than
+      those of most antibiotic RCTs. Future clinical trials need to consider the
+      weight variance of hospitalized Covid patients and need to study
+      therapeutics more thoughtfully."
+    authors:
+      - name: Leon G Smith
+        orcid: null
+      - name: Nicolas Mendoza
+        orcid: null
+      - name: Stephen Smith
+        orcid: http://orcid.org/0000-0002-9158-6136
+      - name: David P Dobesh
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8564791155"
+    numReports: 0
+    likes: 0
+    id: "5446165126"
+    createdAt: 2021-07-06T20:02:04
+    author:
+      username: disqus_w8LdLejsM2
+      about: ""
+      name: Stephen Smith
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_w8LdLejsM2/
+      url: ""
+      location: ""
+      id: "371160113"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Hello Semper and thanks for taking the time to post your concerns.
+
+
+      I will address your questions in reverse order. 
+
+      First, the VA Study included anyone, who had a pill of HCQ dispensed to them, in the HCQ arm. That means if a pt got 1 pill or 60 pills of HCQ, that pt was in the HCQ arm. That's not medically sound. Second, none of the VA Study's authors treated a single pt with Covid. That's very important. When clinical data are being analyzed by statisticians, a clinician needs to able to explain what this means and that means. I am unsure what the motivation was for basic science ophthalmologists to do a Covid study. 
+
+      Second, we looked at all medications given, esp. steroids, toci and CP. We looked antibiotics in general and by potency. AZM alone was not associated in an increase in survival. In reviewing the >3 g HCQ/>1 g AZM group, we, of course, went through their other therapies to see if something else could explain this large difference in survival. BTW, we didn't see much secondary bacterial pneumonia in Covid pts. We expected to. That's how influenza often or usually kills people. Diagnosing secondary bacterial pneumonia in intubated pts isn't easy. That's one of the reasons we looked at antibiotics, to see if empiric antibiotic therapy for secondary bacterial pneumonia improved outcomes. As best we could tell, it did not. 
+
+      Third, the mortality rates of similar studies were similar to this cohorts mortality rate. Early reports used short data collection periods, such as 14 days or time to discharge from the ICU. Those earlier reports had large percentages of pts still in the hospital and on the ventilator. So, the mortality rates were underestimated, as they noted that in their discussion sections. I cited references, which looked at longer times after admission and had similar mortality rates after IMV. 
+
+      Fourth, I don't understand your criticism about the statistics. A p-value means the chance the difference between the two groups is due to chance. A p-value = 0.05 means there is a 5% chance the observed difference is due to random chance. The lower the p-value, the less likely the difference is secondary to chance. These p-values were often well below 0.05, the arbitrary cut-off for scientific significance. These statistics were performed by professionals. In fact, we used more than one statistics group to make sure they agreed and they did. 
+
+      Fifth, the study doesn't show HCQ improves survival. The data show that HCQ and AZM given together and both above a certain threshold are very strongly associated or cause improvement in survival even after controlling for other factors. The HCQ RCTs I am aware of only reported ITT analyses of the data, meaning they did not report Per Protocol analyses. The only inpatient HCQ/AZM RCT was done in Brazil. In this study, the mortality rate in each group, including the control group mortality, was very low, they only enrolled pts who had <= 4L NC and 24% of subjects had a negative Covid test or none available. The data from this study do not apply to this Cohort, over 95% tested Covid+ and all required intubation and mechanical ventilation. 
+
+      Sixth, I prefer good RCT data to good observational data. The restrictions of observational data are known and discussed. However, many RCTs have serious flaws. Usually, where the RCT data differ from the observational data, the RCT data are correct, but not always. Regardless, there exists no RCT which looked at HCQ/AZM therapy in IMV-requiring Covid pts.
+
+      Since the beginning of Medicine, observational data have been very helpful in many settings. As mentioned, the HCQ RCTs didn't even report PP analysis. Perhaps, there is no dose-response from HCQ in Covid, but the studies I have read didn't look at cumulative dose. 
+
+      From an historic perspective, many current, first-line therapies and many FDA approved drugs lack RCT data. Of course, RCTs are not always so R. In many instances, the randomization process can be or is affected by someone/something. It wasn't an RCT, but was expanded use. I had an AIDS pts many yrs ago. The pt was dying. The pt had several, active opportunistic infections. We had participated in the RCT and knew the expanded access protocol. If I were honest about the pt's clinical situation, the company running the expanded access would not have given the pt the drug. I also knew the drug worked, and it was awaiting FDA approval based on the published RCT data. 
+
+      I did the only ethical thing I could do; I lied. The pt got the drug and the recovery was miraculous. Last I checked, the pt was still doing well. 
+
+      Doctors are notorious liars, when it comes to helping their pts. So, even well meaning doctors can screw up an RCT. Or, the analyses can be done in a way to confuse the results. Or the protocols are not adhered to as they should be. Take the Brazil RCT, 24% had a negative Covid test or did not have one available. Why did they include those pts? It's one thing if you have positive results, but if the results are negative, you need to do everything you can to make sure the enrolled pts have the disease you are testing. 
+
+
+      Thanks,
+
+      Stephen
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.05.28.21258012v1
+  tweets:
+    - created_at: Fri Jul 09 01:03:07 +0000 2021
+      id: 1413302662175596500
+      id_str: "1413302662175596544"
+      text: >-
+        💬 medRxiv comment on "Observational Study on 255 Mec..."
+
+
+        "Hello Semper and thanks for taking the time to post your… https://t.co/3Bu5Qmo5V2
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/3Bu5Qmo5V2
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jul 09 01:03:07 +0000 2021
+      id: 1413302662955667500
+      id_str: "1413302662955667458"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/B5DO7aAXhF
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/B5DO7aAXhF
+      in_reply_to_status_id: 1413302662175596500
+      in_reply_to_status_id_str: "1413302662175596544"
