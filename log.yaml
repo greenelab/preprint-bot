@@ -40088,3 +40088,117 @@
           - url: https://t.co/khWTo6pNxQ
       in_reply_to_status_id: 1413504093629259800
       in_reply_to_status_id_str: "1413504093629259785"
+- preprint:
+    id: "141912"
+    doi: 10.1101/2021.05.15.21257017
+    first_posted: 2021-05-17
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.15.21257017v1
+    url: https://api.rxivist.org/v1/papers/141912
+    title: Extended interval BNT162b2 vaccination enhances peak antibody generation
+      in older people
+    category: infectious-diseases
+    abstract: "Abstract Objectives: To assess the relative immunogenicity of
+      standard or extended interval BNT162b2 vaccination. Design: Population
+      based cohort study comparing immune responses 2 weeks after the second
+      vaccine, with appropriate time-matched samples in participants who
+      received standard or extended interval double vaccination. Setting:
+      Primary care networks, Birmingham, UK. December 2020 to April 2021.
+      Participants: 175 people aged over 80 years of age. All donors received
+      the BNT162b2 Pfizer/BioNTech vaccination and were vaccinated with either a
+      standard 3 week interval between doses or an extended interval schedule.
+      Main outcome measures: Peak quantitative spike-specific antibody and
+      cellular immune responses. Results: In donors without evidence of previous
+      infection the peak antibody response was 3.5-fold higher in donors who had
+      undergone delayed interval vaccination. Cellular immune responses were
+      3.6-fold lower. Conclusion: Peak antibody responses after the second
+      BNT162b2 vaccine are markedly enhanced in older people when this is
+      delayed to 12 weeks although cellular responses are lower. Extended
+      interval vaccination may therefore offer the potential to enhance and
+      extend humoral immunity. Further follow up is now required to assess long
+      term immunity and clinical protection."
+    authors:
+      - name: Helen M Parry
+        orcid: http://orcid.org/0000-0002-9707-8167
+      - name: Rachel Bruton
+        orcid: null
+      - name: Christine Stephens
+        orcid: null
+      - name: Kevin Brown
+        orcid: null
+      - name: Gayatri Amirthalingam
+        orcid: http://orcid.org/0000-0003-2078-0975
+      - name: Bassam Hallis
+        orcid: http://orcid.org/0000-0002-8461-0038
+      - name: Ashley Otter
+        orcid: null
+      - name: Jianmin Zuo
+        orcid: http://orcid.org/0000-0002-8341-465X
+      - name: Paul Moss
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8524358522"
+    numReports: 0
+    likes: 1
+    id: "5448313813"
+    createdAt: 2021-07-08T13:48:55
+    author:
+      username: disqus_xWYbnXW5Sk
+      about: ""
+      name: Eric
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_xWYbnXW5Sk/
+      url: ""
+      location: ""
+      id: "372050360"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      So is there a study that backs up 6 or 8 weeks for young and middle aged
+      adults?
+
+
+      In Germany, the recommendation until last week was to hit exactly six weeks to stay within EMA licence but spread out the vaccine. Now, with more vaccine available and Delta looming, the allow 3 - 6 weeks but without any recommendation as to which end of that window to prefer. 
+
+
+      EMA recommends 19 - 23 days but their reasoning is that 93% of trial participants fell into that bracket. So maybe they have simply no data to say that six weeks are better?
+
+
+      Unlike with the AZ vaccine, there is no vector immunity to overcome so it is not clear why a longer interval should be better.
+
+
+      Back to those seniors in this study here, is it even good for them to have more antibodies and less T-cells? My understanding is that they are typically T-cell challenged, so is it not better to boost T-cells?
+    forum: medrxiv
+    points: 1
+    link: https://www.medrxiv.org/content/10.1101/2021.05.15.21257017v1
+  tweets:
+    - created_at: Fri Jul 09 16:31:45 +0000 2021
+      id: 1413536362763018200
+      id_str: "1413536362763018243"
+      text: >-
+        💬 medRxiv comment on "Extended interval BNT162b2 vac..."
+
+
+        "So is there a study that backs up 6 or 8 weeks for young… https://t.co/Upi6x7GMQF
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/Upi6x7GMQF
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jul 09 16:31:46 +0000 2021
+      id: 1413536363970969600
+      id_str: "1413536363970969606"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/x0AIV3f5Lu
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/x0AIV3f5Lu
+      in_reply_to_status_id: 1413536362763018200
+      in_reply_to_status_id_str: "1413536362763018243"
