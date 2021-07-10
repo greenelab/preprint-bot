@@ -41507,3 +41507,102 @@
           - url: https://t.co/FBjioh0n1S
       in_reply_to_status_id: 1413955839841521700
       in_reply_to_status_id_str: "1413955839841521670"
+- preprint:
+    id: "148358"
+    doi: 10.1101/2021.07.01.450699
+    first_posted: 2021-07-01
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.01.450699v1
+    url: https://api.rxivist.org/v1/papers/148358
+    title: Inverse design of cholesterol attracting transmembrane helices reveals a
+      paradoxical role of hydrophobic length
+    category: biophysics
+    abstract: >-
+      The occurrence of linear cholesterol-recognition motifs in alpha-helical
+      transmembrane domains has long been debated. Here, we demonstrate the
+      ability of a genetic algorithm guided by coarse-grained molecular dynamics
+      simulations--a method coined evolutionary molecular dynamics (evo-MD)--to
+      directly resolve the sequence which maximally attracts/sorts cholesterol
+      within a single-pass alpha-helical transmembrane domain (TMDs). We
+      illustrate that the evolutionary landscape of cholesterol attraction in
+      membrane proteins is characterized by a sharp, well-defined global
+      optimum. Surprisingly, this optimal solution features an unusual short
+      hydrophobic block, consisting of typically only eight short chain
+      hydrophobic amino acids, surrounded by three successive lysines. Owing to
+      the membrane thickening effect of cholesterol, cholesterol-enriched
+      ordered phases favor TMDs characterized by a long rather than a short
+      hydrophobic length. However, this short hydrophobic pattern evidently
+      offers a pronounced net advantage for the binding of free cholesterol in
+      both coarse-grained and atomistic simulations. Attraction is mediated by
+      the unique ability of cholesterol to snorkel within the hydrophobic core
+      of the membrane and thereby shield deeply located lysines from the
+      unfavorable hydrophobic surrounding. Since this mechanism of attraction is
+      of a thermodynamic nature and is not based on molecular shape specificity,
+      a large diversity of sub-optimal cholesterol attracting sequences can
+      exist. The puzzling sequence variability of proposed linear
+      cholesterol-recognition motifs is thus consistent with sub-optimal,
+      unspecific binding of cholesterol. Importantly, since evo-MD uniquely
+      enables the targeted design of recognition motifs for distinct fluid lipid
+      membranes, we foresee wide applications for evo-MD in the biological and
+      biomedical fields.
+
+
+      Significance StatementOur work demonstrates how a synergy between evolutionary algorithms and high-throughput coarse-grained molecular dynamics can yield fundamentally new insights into the evolutionary fingerprints of protein-mediated lipid sorting. We illustrate that the evolutionary landscape of cholesterol attraction in isolated transmembrane domains is characterized by a sharp, well-defined global optimum. In contrast, sub-optimal attraction of cholesterol is associated with a diverse solution space and features a high sequence variability despite binding the same unique molecule. The contrasting physicochemical nature of the resolved attraction optimum suggests that cholesterol attraction/binding via linear motifs does not pose a dominant pressure/constrain on the evolution of transmembrane proteins.
+    authors:
+      - name: Jeroen Methorst
+        orcid: null
+      - name: Niek van Hilten
+        orcid: null
+      - name: Herre Jelger Risselada
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8632634388"
+    numReports: 0
+    likes: 0
+    id: "5448159540"
+    createdAt: 2021-07-08T10:55:42
+    author:
+      name: Jelger Risselada
+      url: ""
+      profileUrl: ""
+      emailHash: ""
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: After the manuscript has been accepted via the regular peer
+      reviewed process the here-used EVOMD code will be made publicly accessible
+      on github. Nevertheless, if you are willing to already try out or use our
+      evoMD method simply drop us a line.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.07.01.450699v2
+  tweets:
+    - created_at: Sat Jul 10 22:18:44 +0000 2021
+      id: 1413986069759111200
+      id_str: "1413986069759111170"
+      text: >-
+        💬 bioRxiv comment on "Inverse design of cholesterol ..."
+
+
+        "After the manuscript has been accepted via the regular p… https://t.co/11v9AnwkUk
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/11v9AnwkUk
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jul 10 22:18:44 +0000 2021
+      id: 1413986070572769300
+      id_str: "1413986070572769280"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/MyKpCYq9yT
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/MyKpCYq9yT
+      in_reply_to_status_id: 1413986069759111200
+      in_reply_to_status_id_str: "1413986069759111170"
