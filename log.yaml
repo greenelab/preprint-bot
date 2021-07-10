@@ -41104,3 +41104,90 @@
           - url: https://t.co/lzJa2e10TT
       in_reply_to_status_id: 1413864800585756700
       in_reply_to_status_id_str: "1413864800585756675"
+- preprint:
+    id: "140191"
+    doi: 10.1101/2021.04.29.441886
+    first_posted: 2021-04-29
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.04.29.441886v1
+    url: https://api.rxivist.org/v1/papers/140191
+    title: NEU1 and NEU3 enzymes alter CD22 organization on B cells
+    category: immunology
+    abstract: The B cell membrane expresses sialic acid binding Immunoglobulin-like
+      lectins, also called Siglecs, that are important for modulating immune
+      response. Siglecs have interactions with sialoglycoproteins found on the
+      same membrane (cis ligands) that result in homotypic and heterotypic
+      receptor clusters. The regulation and organization of these clusters, and
+      their effect on cell activation, is not clearly understood. We
+      investigated the role of human neuraminidase enzymes, NEU1 and NEU3, on
+      the clustering of CD22 on B cells using confocal microscopy. We observed
+      that native NEU1 and NEU3 activity influence the cluster size of CD22.
+      Using single-particle tracking, we observed that NEU3 activity increased
+      the lateral mobility of CD22, which was in contrast to the effect of
+      exogenous bacterial NEU enzymes. Moreover, we show that native NEU1 and
+      NEU3 activity influenced cellular Ca2+ levels, supporting a role for these
+      enzymes in regulating B cell activation. Our results establish a role for
+      native NEU activity in modulating CD22 organization and function on B
+      cells.
+    authors:
+      - name: Hanh-Thuc Ton Tran
+        orcid: http://orcid.org/0000-0001-6294-2448
+      - name: Caishun Li
+        orcid: null
+      - name: Radhika Chakraberty
+        orcid: null
+      - name: Christopher W Cairo
+        orcid: http://orcid.org/0000-0003-3363-8708
+  comment:
+    dislikes: 0
+    thread: "8499482376"
+    numReports: 0
+    likes: 0
+    id: "5448825633"
+    createdAt: 2021-07-08T20:58:29
+    author:
+      username: rishi_kulkarni
+      about: ""
+      name: rishi_kulkarni
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/rishi_kulkarni/
+      url: ""
+      location: ""
+      id: "372067268"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: I am curious what these statistical comparisons would look like
+      with cluster-robust tests rather than the t-test.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.04.29.441886v1
+  tweets:
+    - created_at: Sat Jul 10 16:29:54 +0000 2021
+      id: 1413898282863112200
+      id_str: "1413898282863112195"
+      text: >-
+        💬 bioRxiv comment on "NEU1 and NEU3 enzymes alter CD..."
+
+
+        "I am curious what these statistical comparisons would lo… https://t.co/NGmtb8ZsLa
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/NGmtb8ZsLa
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jul 10 16:29:54 +0000 2021
+      id: 1413898284448501800
+      id_str: "1413898284448501767"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/V1JsI8uhb0
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/V1JsI8uhb0
+      in_reply_to_status_id: 1413898282863112200
+      in_reply_to_status_id_str: "1413898282863112195"
