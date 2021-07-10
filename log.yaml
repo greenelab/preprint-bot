@@ -41312,3 +41312,52 @@
           - url: https://t.co/1YEh1uweOH
       in_reply_to_status_id: 1413926952986157000
       in_reply_to_status_id_str: "1413926952986157056"
+- preprint:
+    id: 148171
+    metric: 21
+    title: Varenicline Prevents SARS-CoV-2 Infection In Vitro and in Rhesus Macaques
+    url: https://api.rxivist.org/v1/papers/148171
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.29.450426v1
+    doi: 10.1101/2021.06.29.450426
+    category: immunology
+    first_posted: 2021-06-30
+    abstract: Background SARS-CoV-2 infections have resulted in a global pandemic,
+      but an antiviral therapy for this novel strain of coronavirus does not
+      currently exist. The objective of our study was to investigate the
+      antiviral potential of the nicotinic acetylcholine receptor (nACHR)
+      agonist varenicline tartrate against SARS-CoV-2. Methods We assessed
+      antiviral activity using in vitro human cell assays and we assessed in
+      vivo efficacy in a rhesus macaque model. Results In vitro studies found
+      that varenicline tartrate, over a range of concentrations, reduced the
+      infectivity of SARS-CoV-2 wildtype, alpha, and beta variants in Calu-3
+      cells and Caco-2 cells, with maintenance of cell viability. In vivo
+      studies found that varenicline tartrate, administered as a nasal spray to
+      rhesus macaques, reduced SARS-CoV-2 wildtype viral load and inhibited
+      viral replication in the nasal mucosa and upper airway. Conclusion
+      Although the study reported here was exploratory, we have confirmed that
+      the nAChR agonist varenicline has the potential to interact with and
+      inhibit SARS-CoV-2 infection and replication.
+    authors:
+      - name: Jeffrey Nau
+      - name: Priya Luthra
+      - name: Kathleen Lanzer
+      - name: Frank Szaba
+      - name: Tres Cookenham
+      - name: Eric Carlson
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Sat Jul 10 20:15:17 +0000 2021
+      id: 1413955004956823600
+      id_str: "1413955004956823563"
+      text: >-
+        🔥 bioRxiv Immunology preprint by J. Nau et al:
+
+
+        "Varenicline Prevents SARS-CoV-2 Infection In Vitro and in Rhesus M… https://t.co/0L19RZyUTi
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/0L19RZyUTi
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
