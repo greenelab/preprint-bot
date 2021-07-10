@@ -40901,3 +40901,107 @@
           - url: https://t.co/FJpsihv8pw
       in_reply_to_status_id: 1413664562373595100
       in_reply_to_status_id_str: "1413664562373595145"
+- preprint:
+    id: "144098"
+    doi: 10.1101/2021.05.28.21257989
+    first_posted: 2021-05-31
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.28.21257989v1
+    url: https://api.rxivist.org/v1/papers/144098
+    title: UV-A and UV-B Can Neutralize SARS-CoV-2 Infectivity
+    category: epidemiology
+    abstract: "We performed an in-depth analysis of the virucidal effect of discrete
+      wavelengths: UV-C (278 nm), UV-B (308 nm), UV-A (366 nm) and violet (405
+      nm) on SARS-CoV-2. By using a highly infectious titer of SARS-CoV-2 we
+      observed that the violet light-dose resulting in a 2-log viral
+      inactivation is only 10-4 times less efficient than UV-C light. Moreover,
+      by qPCR and fluorescence in situ hybridization (FISH) approach we verified
+      that the viral titer typically found in the sputum of COVID-19 patients
+      can be completely inactivated by the long UV-wavelengths corresponding to
+      UV- A and UV-B solar irradiation. The comparison of the UV action spectrum
+      on SARS-CoV-2 to previous results obtained on other pathogens suggests
+      that RNA viruses might be particularly sensitive to long UV wavelengths.
+      Our data extend previous results showing that SARS-CoV-2 is highly
+      susceptible to UV light and offer an explanation to the reduced incidence
+      of SARS-CoV-2 infection seen in the summer season."
+    authors:
+      - name: Mara Biasin
+        orcid: http://orcid.org/0000-0003-3671-4235
+      - name: Sergio Strizzi
+        orcid: null
+      - name: Andrea Bianco
+        orcid: http://orcid.org/0000-0002-7691-404X
+      - name: Alberto Macchi
+        orcid: null
+      - name: Olga Utyro
+        orcid: http://orcid.org/0000-0002-9571-6057
+      - name: Giovanni Pareschi
+        orcid: http://orcid.org/0000-0003-3967-403X
+      - name: Alessia Loffreda
+        orcid: http://orcid.org/0000-0003-4523-5666
+      - name: Adalberto Cavalleri
+        orcid: http://orcid.org/0000-0001-7607-3693
+      - name: Manuela Lualdi
+        orcid: http://orcid.org/0000-0002-1757-468X
+      - name: Daria Trabattoni
+        orcid: http://orcid.org/0000-0001-9535-3359
+      - name: Carlo Tacchetti
+        orcid: http://orcid.org/0000-0003-4602-000X
+      - name: Davide Mazza
+        orcid: http://orcid.org/0000-0003-2776-4142
+      - name: Mario Salvatore Clerici
+        orcid: http://orcid.org/0000-0001-5920-6191
+  comment:
+    dislikes: 0
+    thread: "8564708855"
+    numReports: 0
+    likes: 0
+    id: "5449039880"
+    createdAt: 2021-07-09T01:05:25
+    author:
+      username: steven_scullion
+      about: ""
+      name: Steven Scullion
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/steven_scullion/
+      url: ""
+      location: ""
+      id: "372075607"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: "Is this study connected in any way to the research being done by
+      Cedars-Sinai:
+      https://link.springer.com/article/10.1007/s12325-021-01830-7"
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.05.28.21257989v1
+  tweets:
+    - created_at: Sat Jul 10 12:29:52 +0000 2021
+      id: 1413837877440520200
+      id_str: "1413837877440520194"
+      text: >-
+        💬 medRxiv comment on "UV-A and UV-B Can Neutralize S..."
+
+
+        "Is this study connected in any way to the research being… https://t.co/IIM7OxVOyz
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/IIM7OxVOyz
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jul 10 12:29:52 +0000 2021
+      id: 1413837878442946600
+      id_str: "1413837878442946565"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/Deuy2gVi18
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/Deuy2gVi18
+      in_reply_to_status_id: 1413837877440520200
+      in_reply_to_status_id_str: "1413837877440520194"
