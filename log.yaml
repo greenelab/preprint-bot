@@ -41005,3 +41005,102 @@
           - url: https://t.co/Deuy2gVi18
       in_reply_to_status_id: 1413837877440520200
       in_reply_to_status_id_str: "1413837877440520194"
+- preprint:
+    id: "124526"
+    doi: 10.1101/2020.12.25.20248427
+    first_posted: 2020-12-28
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2020.12.25.20248427v1
+    url: https://api.rxivist.org/v1/papers/124526
+    title: Maori and Pacific People in New Zealand have higher risk of
+      hospitalisation for COVID-19
+    category: infectious-diseases
+    abstract: Aims. We aim to quantify differences in clinical outcomes from
+      COVID-19 infection in Aotearoa New Zealand by ethnicity with a focus on
+      risk of hospitalisation. Methods. We used data on age, ethnicity,
+      deprivation index, pre-existing health conditions, and clinical outcomes
+      on 1,829 COVID-19 cases reported in New Zealand. We used a logistic
+      regression model to calculate odds ratios for the risk of hospitalisation
+      by ethnicity. We also consider length of hospital stay and risk of
+      fatality. Results. M[a]ori have 2.50 times greater odds of hospitalisation
+      (95% CI 1.39 - 4.51) than non-M[a]ori, non-Pacific people, after
+      controlling for age and pre-existing conditions. Pacific people have 3
+      times greater odds (95% CI 1.75 - 5.33). Conclusions. Structural
+      inequities and systemic racism in the healthcare system mean that M[a]ori
+      and Pacific communities face a much greater health burden from COVID-19.
+      Older people and those with pre-existing health conditions are also at
+      greater risk. This should inform future policy decisions including
+      prioritising groups for vaccination.
+    authors:
+      - name: Nicholas Steyn
+        orcid: null
+      - name: Rachelle N Binny
+        orcid: http://orcid.org/0000-0002-3433-0417
+      - name: Kate Hannah
+        orcid: http://orcid.org/0000-0002-4934-7377
+      - name: Shaun Hendy
+        orcid: http://orcid.org/0000-0003-3468-6517
+      - name: Alex James
+        orcid: http://orcid.org/0000-0002-1543-7139
+      - name: Audrey Lustig
+        orcid: http://orcid.org/0000-0002-0869-3847
+      - name: Kannan Ridings
+        orcid: null
+      - name: Michael J Plank
+        orcid: http://orcid.org/0000-0002-7539-3465
+      - name: Andrew Sporle
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8555562958"
+    numReports: 0
+    likes: 0
+    id: "5448907132"
+    createdAt: 2021-07-08T22:19:15
+    author:
+      username: disqus_Pc9ZQufNd1
+      about: ""
+      name: Michael Plank
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_Pc9ZQufNd1/
+      url: ""
+      location: ""
+      id: "369642137"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: This paper has now been published in the New Zealand Medical
+      Journal and is available open access
+      at:https://www.nzma.org.nz/journal-articles/maori-and-pacific-people-in-new-zealand-have-a-higher-risk-of-hospitalisation-for-covid-19-open-access
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2020.12.25.20248427v2
+  tweets:
+    - created_at: Sat Jul 10 14:16:51 +0000 2021
+      id: 1413864800585756700
+      id_str: "1413864800585756675"
+      text: >-
+        💬 medRxiv comment on "Maori and Pacific People in Ne..."
+
+
+        "This paper has now been published in the New Zealand Med… https://t.co/2jHIBY4vb4
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/2jHIBY4vb4
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jul 10 14:16:51 +0000 2021
+      id: 1413864801579765800
+      id_str: "1413864801579765761"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/lzJa2e10TT
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/lzJa2e10TT
+      in_reply_to_status_id: 1413864800585756700
+      in_reply_to_status_id_str: "1413864800585756675"
