@@ -41191,3 +41191,124 @@
           - url: https://t.co/V1JsI8uhb0
       in_reply_to_status_id: 1413898282863112200
       in_reply_to_status_id_str: "1413898282863112195"
+- preprint:
+    id: "147526"
+    doi: 10.1101/2021.06.22.21259345
+    first_posted: 2021-06-25
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.22.21259345v1
+    url: https://api.rxivist.org/v1/papers/147526
+    title: Multi-centre post-implementation evaluation of SARS-CoV-2 antigen-based
+      point of care tests used for asymptomatic screening of continuing care
+      healthcare workers
+    category: infectious-diseases
+    abstract: Frequent screening of SARS-CoV-2 among asymptomatic populations using
+      antigen-based point of care tests (APOCT) is occurring globally with
+      limited clinical performance data. The positive predictive value (PPV) of
+      two APOCT used in the asymptomatic screening of SARS-CoV-2 among
+      healthcare workers (HCW) at continuing care (CC) sites across Alberta,
+      Canada was evaluated. Between February 22 and May 2, 2021, CC sites
+      implemented SARS-CoV-2 voluntary screening of their asymptomatic HCW.
+      Onsite testing with Abbott Panbio or BD Veritor occurred on a weekly or
+      twice weekly basis. Positive APOCT were confirmed with a real-time
+      reverse-transcriptase polymerase chain reaction (rRT-PCR) reference
+      method. A total of 71,847 APOCT (17,689 Veritor and 54,158 Panbio) were
+      performed among 369 CC sites. Eighty-seven (0.12%) APOCT were positive, of
+      which 39 (0.05%) confirmed as true positives using rRT-PCR. Use of the
+      Veritor and Panbio resulted in a 76.6% and 30.0% false positive detection,
+      respectively (p<0.001). This corresponded to a 23.4% and 70.0% PPV for the
+      Veritor and Panbio, respectively. Frequent screening of SARS-CoV-2 among
+      asymptomatic HCW in CC, using APOCT, resulted in a very low detection rate
+      and a high detection of false positives. Careful assessment between the
+      risks vs benefits of APOCT programs in this population needs to be
+      thoroughly considered before implementation.
+    authors:
+      - name: Jamil N Kanji
+        orcid: http://orcid.org/0000-0002-1043-6807
+      - name: Dustin Proctor
+        orcid: null
+      - name: William Stokes
+        orcid: null
+      - name: Byron M Berenger
+        orcid: http://orcid.org/0000-0001-9062-6346
+      - name: James Silvius
+        orcid: null
+      - name: Graham Tipples
+        orcid: null
+      - name: A Mark Joffe
+        orcid: null
+      - name: Allison A Venner
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8614606904"
+    numReports: 0
+    likes: 0
+    id: "5448647128"
+    createdAt: 2021-07-08T18:27:10
+    author:
+      username: jeffandrewsmd
+      about: ""
+      name: Jeff Andrews M.D.
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/jeffandrewsmd/
+      url: ""
+      location: ""
+      id: "372061559"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      The authors have misrepresented the use of biostatistics. In line 99 they
+      state that APOCT have poor specificity. The authors cannot comment on
+      specificity because they do not know the number of true negatives (line
+      156-7). However, the prevalence is so low that using the [total number of
+      tests – known PCR positives] approximates the true negatives. The
+      approximate specificity in this study would be 71768/71808 = 99.94%. This
+      is an incredibly high specificity, not poor.
+
+      In lines 106-107, the authors ask us to consider the negative impact of a false positive result, without putting it in context. Every HCW with a positive APOCT had confirmatory PCR. The authors do not state the interval between the two tests; the impact was likely over a period of two days. Moreover, the authors do not consider the alternative scenario, which would be two days of HCW exposures to other HCWs and patients in a HC setting, while waiting for the PCR results. If 39 HCWs were identified with COVID-19, immediately put on isolation (due to 15-minute APOCT), what value did that have for the healthcare system, and for all of their HC and personal contacts? And was that protective value greater than the collective harm caused by identifying 48 HCWs as positive by APOCT who were released from isolation two days later when the PCR result was known?
+
+      “False detection rate” is not a terminology of biosciences and was not defined by the authors. In fact, they are presenting [1-PPV]; which seems pointless since they also present PPV in the next sentence.
+
+      When prevalence is very low, 5 per 10,000 in this study, a slight difference in prevalence can greatly influence PPV. The reason is that false positives tend be fairly static and not influenced by prevalence, but true positives are directly influenced by prevalence. It is wrong to say that APOCTs have a low PPV, unless the sentence includes the prevalence. 
+
+      Because the two tests were not conducted on the same subjects, it is wrong to publish results that represent a head to head comparison. In such a case, the authors were required to use more sophisticated Bayesian statistics, in order to apply a ‘penalty’ or adjustment to account for possible differences due to the differences between the two different populations and the two different test workflows.  
+
+      The authors fail to describe in Methods that one test was visually-read and the other test was read by an analyzer device, and to point out that human variation in ‘reading’ lines on the visually-read test could contribute to the differences. 
+
+      The authors fail to acknowledge that they do not know the numbers of cases of APOCT negative and PCR-positive (false negatives) for each of the two tests; it is possible that one test has a much lower sensitivity and that would need to be considered in context with the false positives and prevalence.
+
+      Finally, the authors did not take the opportunity to discuss what the reasonable prevalence level is for APOCT. In their study, prevalence was 0.05% or 5/10,000. They do not discuss whether it is reasonable to test asymptomatic HCWs at this prevalence level or lower. They do not discuss whether it is reasonable to test asymptomatic non-HCWs at this prevalence level or lower.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.06.22.21259345v1
+  tweets:
+    - created_at: Sat Jul 10 18:23:49 +0000 2021
+      id: 1413926952986157000
+      id_str: "1413926952986157056"
+      text: >-
+        💬 medRxiv comment on "Multi-centre post-implementati..."
+
+
+        "The authors have misrepresented the use of biostatistics… https://t.co/JBY10OscxG
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/JBY10OscxG
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jul 10 18:23:49 +0000 2021
+      id: 1413926953795694600
+      id_str: "1413926953795694592"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/1YEh1uweOH
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/1YEh1uweOH
+      in_reply_to_status_id: 1413926952986157000
+      in_reply_to_status_id_str: "1413926952986157056"
