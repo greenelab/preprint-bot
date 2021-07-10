@@ -40694,3 +40694,210 @@
           - url: https://t.co/56RNHA8xib
       in_reply_to_status_id: 1413623821706293200
       in_reply_to_status_id_str: "1413623821706293251"
+- preprint:
+    id: "149435"
+    doi: 10.1101/2021.07.08.21259776
+    first_posted: 2021-07-08
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.07.08.21259776v1
+    url: https://api.rxivist.org/v1/papers/149435
+    title: Effectiveness of SARS-CoV-2 mRNA Vaccines for Preventing Covid-19
+      Hospitalizations in the United States
+    category: infectious-diseases
+    abstract: "Background: As SARS-CoV-2 vaccination coverage increases in the
+      United States (US), there is a need to understand the real-world
+      effectiveness against severe Covid-19 and among people at increased risk
+      for poor outcomes. Methods: In a multicenter case-control analysis of US
+      adults hospitalized March 11 through May 5, 2021, we evaluated vaccine
+      effectiveness to prevent Covid-19 hospitalizations by comparing odds of
+      prior vaccination with an mRNA vaccine (Pfizer-BioNTech or Moderna)
+      between cases hospitalized with Covid-19 and hospital-based controls who
+      tested negative for SARS-CoV-2. Results: Among 1210 participants, median
+      age was 58 years, 22.8% were Black, 13.8% were Hispanic, and 20.6% had
+      immunosuppression. SARS-CoV-2 lineage B.1.1.7 was most common variant
+      (59.7% of sequenced viruses). Full vaccination (receipt of two vaccine
+      doses at least 14 days before illness onset) had been received by 45/590
+      (7.6%) cases and 215/620 (34.7%) controls. Overall vaccine effectiveness
+      was 86.9% (95% CI: 80.4 to 91.2%). Vaccine effectiveness was similar for
+      Pfizer-BioNTech and Moderna vaccines, and highest in adults aged 18-49
+      years (97.3%; 95% CI: 78.9 to 99.7%). Among 45 patients with
+      vaccine-breakthrough Covid hospitalizations, 44 (97.8%) were at least 50
+      years old and 20 (44.4%) had immunosuppression. Vaccine effectiveness was
+      lower among patients with immunosuppression (59.2%; 95% CI: 11.9 to 81.1%)
+      than without immunosuppression (91.3%; 95% CI: 85.5 to 94.7%). Conclusion:
+      During March through May 2021, SARS-CoV-2 mRNA vaccines were highly
+      effective for preventing Covid-19 hospitalizations among US adults.
+      SARS-CoV-2 vaccination was beneficial for patients with immunosuppression,
+      but effectiveness was lower in the immunosuppressed population."
+    authors:
+      - name: Mark W Tenforde
+        orcid: null
+      - name: Manish M Patel
+        orcid: null
+      - name: Adit A. Ginde
+        orcid: null
+      - name: David J. Douin
+        orcid: null
+      - name: H. Keipp Talbot
+        orcid: null
+      - name: Jonathan D. Casey
+        orcid: null
+      - name: Nicholas M Mohr
+        orcid: http://orcid.org/0000-0003-0497-5828
+      - name: Anne Zepeski
+        orcid: null
+      - name: Manjusha Gaglani
+        orcid: http://orcid.org/0000-0002-3952-9230
+      - name: Tresa McNeal
+        orcid: null
+      - name: Shekhar Ghamande
+        orcid: null
+      - name: Nathan I Shapiro
+        orcid: null
+      - name: Kevin W. Gibbs
+        orcid: null
+      - name: D. Clark Files
+        orcid: null
+      - name: David N. Hager
+        orcid: null
+      - name: Arber Shehu
+        orcid: null
+      - name: Matthew E. Prekker
+        orcid: null
+      - name: Heidi L Erickson
+        orcid: null
+      - name: Matthew C. Exline
+        orcid: null
+      - name: Michelle N Gong
+        orcid: null
+      - name: Amira Mohamed
+        orcid: null
+      - name: Daniel J. Henning
+        orcid: null
+      - name: Jay S. Steingrub
+        orcid: null
+      - name: Ithan D Peltan
+        orcid: http://orcid.org/0000-0003-1730-234X
+      - name: Samuel M Brown
+        orcid: http://orcid.org/0000-0003-1206-6261
+      - name: Emily T. Martin
+        orcid: http://orcid.org/0000-0002-5771-8895
+      - name: Arnold S Monto
+        orcid: http://orcid.org/0000-0003-3018-435X
+      - name: Akram Khan
+        orcid: null
+      - name: C. Terri Hough
+        orcid: null
+      - name: Laurence Busse
+        orcid: null
+      - name: Caitlin C. ten Lohuis
+        orcid: null
+      - name: Abhijit Duggal
+        orcid: http://orcid.org/0000-0003-4220-2359
+      - name: Jennifer G Wilson
+        orcid: null
+      - name: Alexandra June Gordon
+        orcid: null
+      - name: Nida Qadir
+        orcid: http://orcid.org/0000-0001-7791-049X
+      - name: Steven Y Chang
+        orcid: null
+      - name: Christopher Mallow
+        orcid: null
+      - name: Hayley B. Gershengorn
+        orcid: null
+      - name: Hilary M. Babcock
+        orcid: null
+      - name: Jennie H. Kwon
+        orcid: null
+      - name: Natasha Halasa
+        orcid: null
+      - name: James D. Chappell
+        orcid: null
+      - name: Adam S. Lauring
+        orcid: http://orcid.org/0000-0003-2906-8335
+      - name: Carlos G Grijalva
+        orcid: null
+      - name: Todd W. Rice
+        orcid: null
+      - name: Ian D. Jones
+        orcid: null
+      - name: William B. Stubblefield
+        orcid: null
+      - name: Adrienne Baughman
+        orcid: null
+      - name: Kelsey N. Womack
+        orcid: null
+      - name: Christopher J. Lindsell
+        orcid: null
+      - name: Kimerly W. Hart
+        orcid: null
+      - name: Yuwei Zhu
+        orcid: null
+      - name: Samantha M. Olson
+        orcid: null
+      - name: Meagan Stephenson
+        orcid: null
+      - name: Stephanie J. Schrag
+        orcid: null
+      - name: Miwako Kobayashi
+        orcid: null
+      - name: Jennifer R. Verani
+        orcid: null
+      - name: Wesley H. Self
+        orcid: http://orcid.org/0000-0002-9300-3045
+  comment:
+    dislikes: 0
+    thread: "8638037382"
+    numReports: 0
+    likes: 0
+    id: "5449238366"
+    createdAt: 2021-07-09T06:37:13
+    author:
+      username: disqus_izqxCwTIVY
+      about: ""
+      name: ndk
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_izqxCwTIVY/
+      url: ""
+      location: ""
+      id: "241927233"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: This is a retrospective study as the predominant strain at the time
+      was Alpha, in concurrence with their findings, but we currently face the
+      radically different strain Delta, and perhaps Lambda.  We can't glean much
+      from it other than a snapshot in time.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.07.08.21259776v1
+  tweets:
+    - created_at: Sat Jul 10 01:01:10 +0000 2021
+      id: 1413664562373595100
+      id_str: "1413664562373595145"
+      text: >-
+        💬 medRxiv comment on "Effectiveness of SARS-CoV-2 mR..."
+
+
+        "This is a retrospective study as the predominant strain… https://t.co/4hL6eQ2GNG
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/4hL6eQ2GNG
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jul 10 01:01:11 +0000 2021
+      id: 1413664563262902300
+      id_str: "1413664563262902273"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/FJpsihv8pw
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/FJpsihv8pw
+      in_reply_to_status_id: 1413664562373595100
+      in_reply_to_status_id_str: "1413664562373595145"
