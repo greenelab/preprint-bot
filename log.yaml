@@ -41361,3 +41361,149 @@
           - url: https://t.co/0L19RZyUTi
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "104460"
+    doi: 10.1101/2020.11.18.388413
+    first_posted: 2020-11-18
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.11.18.388413v1
+    url: https://api.rxivist.org/v1/papers/104460
+    title: "Long-chain polyphosphates impair SARS-CoV-2 infection and replication: a
+      route for therapy in man"
+    category: genetics
+    abstract: >-
+      Antiviral activities of long chain inorganic polyphosphates (PolyPs)
+      against severe acute respiratory syndrome coronavirus SARS CoV2 infection
+      were investigated. In molecular docking analyses, PolyPs interacted with
+      several conserved angiotensin converting enzyme (ACE)2 and RNA-dependent
+      RNA polymerase (RdRp) amino acids. We thus tested PolyPs for functional
+      interactions in vitro in SARS CoV2 infected Vero E6, Caco2 and human
+      primary nasal epithelial cells. Immunofluorescence, qPCR, direct RNA
+      sequencing, FISH and Immunoblotting were used to determine virus loads and
+      transcription levels of genomic(g)RNAs and subgenomic(sg)RNAs. We show
+      that PolyP120 binds to ACE2 and enhances its proteasomal degradation.
+      PolyP120 shows steric hindrance of the genomic SARS CoV2 RNA/RdRP complex,
+      to impair synthesis of positive-sense gRNAs, viral subgenomic transcripts
+      and structural proteins needed for viral replication. Thus, PolyP120
+      impairs infection and replication of Korean and European (containing non
+      synonymous variants) SARS CoV2 strains. As PolyPs have no toxic
+      activities, we envision their use as a nebulised formula for oropharyngeal
+      delivery to prevent infections of SARS CoV2 and during early phases of
+      antiviral therapy
+
+
+      ### Competing Interest Statement
+
+
+      The authors have declared no competing interest.
+    authors:
+      - name: Veronica Ferrucci
+        orcid: null
+      - name: Young Kong Dae
+        orcid: null
+      - name: Fatemeh Asadzadeh
+        orcid: null
+      - name: Laura Marrone
+        orcid: null
+      - name: Roberto Siciliano
+        orcid: null
+      - name: Pellegrino Cerino
+        orcid: null
+      - name: Giuseppina Criscuolo
+        orcid: null
+      - name: Ida Pisano
+        orcid: null
+      - name: Fabrizio Quarantelli
+        orcid: null
+      - name: Barbara Izzo
+        orcid: null
+      - name: Giovanna Fusco
+        orcid: null
+      - name: Marika Comegna
+        orcid: null
+      - name: Angelo Boccia
+        orcid: null
+      - name: Maurizio Viscardi
+        orcid: null
+      - name: Giorgia Borriello
+        orcid: null
+      - name: Sergio Brandi
+        orcid: null
+      - name: Bianca Maria Pierri
+        orcid: null
+      - name: Claudia Tiberio
+        orcid: null
+      - name: Luigi Atripaldi
+        orcid: null
+      - name: Giovanni Paolella
+        orcid: null
+      - name: Giuseppe Castaldo
+        orcid: null
+      - name: Stefano Pascarella
+        orcid: null
+      - name: Martina Bianchi
+        orcid: null
+      - name: Rosa Della Monica
+        orcid: null
+      - name: Lorenzo Chiariotti
+        orcid: null
+      - name: Kyong Seop Yun
+        orcid: null
+      - name: Jae Ho Cheong
+        orcid: null
+      - name: Hong Yeoul Kim
+        orcid: null
+      - name: Massimo Zollo
+        orcid: http://orcid.org/0000-0002-0970-7243
+  comment:
+    dislikes: 0
+    thread: "8282253330"
+    numReports: 0
+    likes: 0
+    id: "5448434674"
+    createdAt: 2021-07-08T15:33:11
+    author:
+      name: Massimo Zollo
+      url: ""
+      profileUrl: ""
+      emailHash: ""
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: |-
+      https://pubmed.ncbi.nlm.nih.gov/34230209/
+
+      See paper published on Science Signaling
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.11.18.388413v1
+  tweets:
+    - created_at: Sat Jul 10 20:18:36 +0000 2021
+      id: 1413955839841521700
+      id_str: "1413955839841521670"
+      text: |-
+        💬 bioRxiv comment on "Long-chain polyphosphates impa..."
+
+        " paper published on Science Signaling"
+
+        https://t.co/rvewaMQ02c
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/rvewaMQ02c
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jul 10 20:18:37 +0000 2021
+      id: 1413955840588005400
+      id_str: "1413955840588005382"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/FBjioh0n1S
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/FBjioh0n1S
+      in_reply_to_status_id: 1413955839841521700
+      in_reply_to_status_id_str: "1413955839841521670"
