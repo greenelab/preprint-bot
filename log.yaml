@@ -42181,3 +42181,58 @@
           - url: https://t.co/cIRnxwgahq
       in_reply_to_status_id: 1414289380496314400
       in_reply_to_status_id_str: "1414289380496314369"
+- preprint:
+    id: 149635
+    metric: 16
+    title: The PD-1 checkpoint receptor maintains tolerance of self-reactive CD8 T
+      cell in skin
+    url: https://api.rxivist.org/v1/papers/149635
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.09.451765v1
+    doi: 10.1101/2021.07.09.451765
+    category: immunology
+    first_posted: 2021-07-10
+    abstract: Peripheral tolerance is thought to result from anergy or deletion of
+      self-reactive T cells shortly after antigen encounter. However, the
+      frequent occurrences of immune-related Adverse Events (irAEs) following
+      checkpoint inhibitor (CPI) treatment suggest a hypothesis that
+      immunologically healthy individuals have self-reactive effector T cells
+      that are kept in a non-pathogenic state through checkpoint
+      receptor-mediated suppression, instead of anergy or deletion. We expressed
+      self-antigens in healthy skin and found that antigen-specific CD8 T cells
+      infiltrated the tissue, but remained tolerant, despite having a
+      transcriptional program that resembled effector T cells found after CPIs.
+      These self-reactive PD-1+ CD8 T cells drove IFNg-dependent increases in
+      PD-L1 on skin myeloid cells. Blockade of PD-1 or PD-1/CTLA-4 led to
+      post-transcriptional upregulation of effector proteins by antigen-specific
+      CD8 T cells and elimination of antigen-expressing epithelial cells,
+      resulting in localized tissue pathology with features of human cutaneous
+      irAEs. This data supports the hypothesis that myeloid cells in healthy
+      skin prevent pathology from self-reactive effector CD8 T cells through the
+      PD-1/PD-L1 pathway.
+    authors:
+      - name: Martina Damo
+      - name: Can Cui
+      - name: Ivana William
+      - name: Noah I Hornick
+      - name: Darwin Kwok
+      - name: Kathryn Clulo
+      - name: William E Damsky
+      - name: Jonathan S Leventhal
+      - name: Nikhil S Joshi
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Sun Jul 11 20:15:22 +0000 2021
+      id: 1414317413202632700
+      id_str: "1414317413202632704"
+      text: >-
+        🔥 bioRxiv Immunology preprint by M. Damo et al:
+
+
+        "The PD-1 checkpoint receptor maintains tolerance of self-reactive… https://t.co/cI6ZKOhyoZ
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/cI6ZKOhyoZ
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
