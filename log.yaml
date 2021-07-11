@@ -41689,3 +41689,87 @@
           - url: https://t.co/puR7zuGbpW
       in_reply_to_status_id: 1414028613075284000
       in_reply_to_status_id_str: "1414028613075283972"
+- preprint:
+    id: "130178"
+    doi: 10.1101/2021.02.12.21249710
+    first_posted: 2021-02-15
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.02.12.21249710v1
+    url: https://api.rxivist.org/v1/papers/130178
+    title: Risk of Corona virus disease 2019 (COVID-19) among spectacles wearing
+      population of Northern India
+    category: ophthalmology
+    abstract: >-
+      IntroductionSevere Acute Respiratory Syndrome Corona virus-2 (SARS-CoV-2)
+      spread mainly through respiratory droplets and contact routes. Long term
+      use of spectacles may prevent repeated touching and rubbing of the eyes.
+      Aim of the study is to compare the risk of COVID-19 in long term
+      spectacles wearers with the risk in persons not using spectacles.
+
+
+      ObjectivesTo know the association between infection with SARSCoV-2 and wearing of spectacles.
+
+
+      Materials and methodsIn this study, 304 patients of Corona virus disease 2019 (COVID-19) were selected. Their spectacles wearing behaviour was assessed through a questionnaire. Spectacles wearing behaviour of general population was obtained from older studies (for comparison). Risk of COVID-19 was calculated in long term spectacles wearers as well as in persons not using spectacles. Chi-Square test was used for statistical analysis.
+
+
+      ResultsIn this study, total 58 patients showed the behavior of using spectacles continuously during day time and always on outdoor activities. The risk of COVID-19 was found 0.48 in spectacles wearing population as compared to 1.35 in population not using spectacles. The calculated risk ratio was 0.36. The protective effectiveness of the spectacles was found statistically significant (p-value .00113).
+
+
+      ConclusionThe present study showed that the risk of Covid-19 was about 2-3 times less in spectacles wearing population than the population not wearing those. The nasolacrimal duct may be a route of virus transmission from conjunctival sac to the nasopharynx.
+    authors:
+      - name: Amit Kumar Saxena
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8469455684"
+    numReports: 0
+    likes: 0
+    id: "5451135552"
+    createdAt: 2021-07-10T21:46:46
+    author:
+      username: merjarantala
+      about: ""
+      name: Merja Rantala
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/merjarantala/
+      url: ""
+      location: ""
+      id: "365735823"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: But you did not have a proper control group! You can't say anything
+      about association of spectacles with covid based on this work.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.02.12.21249710v3
+  tweets:
+    - created_at: Sun Jul 11 12:29:45 +0000 2021
+      id: 1414200236621410300
+      id_str: "1414200236621410304"
+      text: >-
+        💬 medRxiv comment on "Risk of Corona virus disease 2..."
+
+
+        "But you did not have a proper control group! You can't s… https://t.co/heE15gXQSu
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/heE15gXQSu
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jul 11 12:29:45 +0000 2021
+      id: 1414200237418328000
+      id_str: "1414200237418328067"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/YJ1mJxsnmB
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/YJ1mJxsnmB
+      in_reply_to_status_id: 1414200236621410300
+      in_reply_to_status_id_str: "1414200236621410304"
