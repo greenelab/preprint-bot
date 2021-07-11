@@ -42236,3 +42236,120 @@
           - url: https://t.co/cI6ZKOhyoZ
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "149428"
+    doi: 10.1101/2021.07.08.21259871
+    first_posted: 2021-07-08
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.07.08.21259871v1
+    url: https://api.rxivist.org/v1/papers/149428
+    title: Symptomatic, Presymptomatic, and Asymptomatic Transmission of SARS-CoV-2
+    category: public-and-global-health
+    abstract: "Importance: Asymptomatic and presymptomatic carriers of SARS-CoV-2
+      are an ongoing and significant risk for community spread of the virus,
+      especially with the majority of the world still unvaccinated and new
+      variants emerging. Objective: To quantify the presence and effects of
+      symptom presentation (or lack thereof) on the community transmission
+      ofSARS-CoV-2. Design: A cohort of 12,960 young adults participated in
+      health reporting, contact tracing, and COVID-19 testing for 103 days
+      between August 10 and November 20, 2020. Setting: A mid-sized university
+      campus in Indiana, United States. Participants: University students, most
+      of whom are 18-23 years old (67%) and living in congregate on-campus
+      housing (60%). Of the 12,960 students, 1,556 (12.0%) tested positive for
+      COVID-19 during the 103 day period. Of the positive cases, 1,198 reported
+      sufficient health check data (7 days prior and 7 days post diagnosis) to
+      be classified as asymptomatic or symptomatic. Main Outcome: Secondary
+      attack rate, based on presentation or absence of symptoms and type of
+      symptoms calculated with respect to confirmed close contacts and a 14-day
+      incubation period, varies on the type of symptom, timing of symptoms, and
+      absence of symptoms. A quantifiable understanding of SAR on the
+      longitudinal data of more than one thousand subjects in a university
+      environment provides keen insights about developing strategies to respond
+      to the continued prevalence of COVID-19 in the unvaccinated world and
+      growth of variants. Results: 32.5% of all cases reported no symptoms
+      within a 15-day window centered on their positive test (7 days prior, the
+      day of the positive test, and 7 days after). The secondary attack rate
+      (SAR) of asymptomatic COVID-19 index cases was 19.1%. The SAR of
+      symptomatic index cases was 25.4%, and while the onset timing of symptoms
+      did not affect transmission, the presence of certain symptoms like fever,
+      shortness of breath, and dry cough increased the SAR as high as 30.0%.
+      Conclusions and Relevance: Asymptomatic rates of transmission of
+      SARS-CoV-2 are much higher than has been estimated in prior studies and
+      continue to pose a significant and ongoing risk in the pandemic,
+      especially with the prevalence of variants like the Delta variant. In
+      addition, different symptoms are associated with varying rates of
+      transmission, posing a significant challenge in how to diagnose or assess
+      risk through mechanisms such as daily health checks for symptom reporting,
+      a practice commonly in place for entry into schools, offices, restaurants,
+      etc. Given the uncertain nature of symptoms and varied transmission rates,
+      this study suggests a broader embrace of masking, social distancing and
+      testing might be needed to counter the variants until higher global
+      vaccination rates can be achieved."
+    authors:
+      - name: Steven J Krieg
+        orcid: null
+      - name: Jennifer J Schnur
+        orcid: null
+      - name: Marie L Miranda
+        orcid: null
+      - name: Michael E. Pfrender
+        orcid: http://orcid.org/0000-0001-6861-0655
+      - name: Nitesh V Chawla
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8637992499"
+    numReports: 0
+    likes: 0
+    id: "5450536528"
+    createdAt: 2021-07-10T10:07:37
+    author:
+      username: caio_salvino
+      about: ""
+      name: Caio Salvino
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/caio_salvino/
+      url: ""
+      location: ""
+      id: "372135561"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Hi.
+
+      In my opinion, it’s impossible affirm that the “assymptomatic” cases was transmiting the virus without verify the cycle threshold of RT-PCR detecting RNA at oropharyngeal swabs samples. Only reporting like positive or negative is insuficient for affirm infectivity.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.07.08.21259871v1
+  tweets:
+    - created_at: Sun Jul 11 20:18:41 +0000 2021
+      id: 1414318248917602300
+      id_str: "1414318248917602306"
+      text: >-
+        💬 medRxiv comment on "Symptomatic, Presymptomatic, a..."
+
+
+        "Hi.
+
+        In my opinion, it’s impossible affirm that the “assy… https://t.co/9CEGHUOuIe
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/9CEGHUOuIe
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jul 11 20:18:42 +0000 2021
+      id: 1414318249706205200
+      id_str: "1414318249706205186"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/RFYzsKvVw3
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/RFYzsKvVw3
+      in_reply_to_status_id: 1414318248917602300
+      in_reply_to_status_id_str: "1414318248917602306"
