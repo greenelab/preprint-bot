@@ -41606,3 +41606,86 @@
           - url: https://t.co/MyKpCYq9yT
       in_reply_to_status_id: 1413986069759111200
       in_reply_to_status_id_str: "1413986069759111170"
+- preprint:
+    id: "149252"
+    doi: 10.1101/2021.07.05.21260050
+    first_posted: 2021-07-07
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.07.05.21260050v1
+    url: https://api.rxivist.org/v1/papers/149252
+    title: Progressive Increase in Virulence of Novel SARS-CoV-2 Variants in
+      Ontario, Canada, February to June, 2021
+    category: infectious-diseases
+    abstract: "The period from February to June 2021 was one during which initial
+      wild-type SARS-CoV-2 strains were supplanted in Ontario, Canada, first by
+      variants of concern (VOC) with the N501Y mutation (principally alpha, beta
+      and gamma variants), and then by the delta variant. We demonstrate that
+      these emerging VOCs were associated with an increase in virulence, as
+      measured by risk of hospitalization, intensive care unit admission, and
+      death. Compared to non-VOC SARS-CoV-2 strains, and adjusting for
+      comorbidity, age and sex of cases, and temporal trends, the elevation in
+      risk associated with N501Y-positive variants was 74% (62-86%) for
+      hospitalization; 138% (105-176%) for ICU admission; and 83% (57-114%) for
+      death. Increases with delta variant were even larger: 105% (80-133%) for
+      hospitalization; 241% (163-344%) for ICU admission; and 121% (57-211%) for
+      death. The progressive increase in transmissibility and virulence of
+      SARS-CoV-2 variants will result in a significantly larger, and more
+      deadly, pandemic."
+    authors:
+      - name: David Fisman
+        orcid: http://orcid.org/0000-0001-5009-6926
+      - name: Ashleigh Tuite
+        orcid: http://orcid.org/0000-0002-4373-9337
+  comment:
+    dislikes: 0
+    thread: "8636008413"
+    numReports: 0
+    likes: 0
+    id: "5451153116"
+    createdAt: 2021-07-10T22:08:06
+    author:
+      username: disqus_kvuMWTcJ26
+      about: ""
+      name: Mazzs
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_kvuMWTcJ26/
+      url: ""
+      location: ""
+      id: "372157635"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Australia is currently showing good data on precise outcomes for
+      delta variant cases.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.07.05.21260050v1
+  tweets:
+    - created_at: Sun Jul 11 01:07:47 +0000 2021
+      id: 1414028613075284000
+      id_str: "1414028613075283972"
+      text: >-
+        💬 medRxiv comment on "Progressive Increase in Virule..."
+
+
+        "Australia is currently showing good data on precise outc… https://t.co/hTCJjLUP6G
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/hTCJjLUP6G
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jul 11 01:07:47 +0000 2021
+      id: 1414028613960220700
+      id_str: "1414028613960220673"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/puR7zuGbpW
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/puR7zuGbpW
+      in_reply_to_status_id: 1414028613075284000
+      in_reply_to_status_id_str: "1414028613075283972"
