@@ -41974,3 +41974,110 @@
           - url: https://t.co/4lT0fD4fj5
       in_reply_to_status_id: 1414227223813501000
       in_reply_to_status_id_str: "1414227223813500930"
+- preprint:
+    id: "114755"
+    doi: 10.1101/2020.07.24.20160101
+    first_posted: 2020-07-30
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2020.07.24.20160101v1
+    url: https://api.rxivist.org/v1/papers/114755
+    title: Red blood cells injuries and hypersegmented neutrophils in COVID-19
+      peripheral blood film
+    category: hematology
+    abstract: "In the current investigation, peripheral blood films of 15 COVID-19
+      patients (44.78{+/-}16.55 years), proven by computed tomographic imaging
+      and RT-PCR for coronavirus SARS-CoV-2, were analyzed at the moment of
+      hospital admission. Blood tests showed raised inflammatory markers
+      (C-reactive protein 58.2{+/-}61.2 mg/L) with normal values for hemoglobin
+      (126.2{+/-}2.6 g/L), WBC (6.8{+/-}18.74 109/L) RBC (4.55{+/-}0.99 1012/L)
+      platelets (262.4{+/-}41.8, 109/L) MCV (79.84{+/-}8.2 fL) MCH (28{+/-}3.31
+      pg) and MCHC (350.3{+/-}1.15 g/L). The results revealed the presence of
+      hypersegmented neutrophils in 66.66%% of the patients. The percentages of
+      neutrophils with 4 and 5 lobes were 46.25{+/-}4.83% and 31.5{+/-}14.84%,
+      respectively. Three major red blood cells morphological alteration were
+      observed: (1) erythrocytes in double primerouleauxdouble prime formation
+      represented by linear erythrocytes aggregation, (2) spherocytes with the
+      disappearance of the usual biconcave disk, and (3) echinocytes showing
+      spiky projections. Apparent reorganization of hemoglobin is found in the
+      majority of the analyzed erythrocytes. Rouleaux formation is observed in
+      33.33% of patients and spherocytes and echinocytes are present at variable
+      levels in the all analyzed patients. The current results revealed
+      erythrocytes injuries in COVID-19 peripheral blood, in association with
+      hypersegmented neutrophils, alterations that could be involved in the
+      respiratory syndrome."
+    authors:
+      - name: Nordine Lakhdari
+        orcid: null
+      - name: Boualem Tabet
+        orcid: null
+      - name: Lila Boudraham
+        orcid: null
+      - name: Malha Laoussati
+        orcid: null
+      - name: Sofiane Aissanou
+        orcid: null
+      - name: Lamia Beddou
+        orcid: null
+      - name: Sihem Bensalem
+        orcid: null
+      - name: Yuva Bellik
+        orcid: null
+      - name: Lamine Bournine
+        orcid: null
+      - name: Sofiane Fatmi
+        orcid: null
+      - name: Mokrane Iguer-Ouada
+        orcid: http://orcid.org/0000-0002-3218-0670
+  comment:
+    dislikes: 0
+    thread: "8146686091"
+    numReports: 0
+    likes: 0
+    id: "5450816169"
+    createdAt: 2021-07-10T16:09:38
+    author:
+      username: jaroslavpobeha
+      about: ""
+      name: Jaroslav Pobeha
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/jaroslavpobeha/
+      url: ""
+      location: ""
+      id: "257658057"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: I read in another study the rouleaux formation can be by created by
+      in inflamation acute-phase proteins..
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2020.07.24.20160101v1
+  tweets:
+    - created_at: Sun Jul 11 16:29:58 +0000 2021
+      id: 1414260690471227400
+      id_str: "1414260690471227396"
+      text: >-
+        💬 medRxiv comment on "Red blood cells injuries and h..."
+
+
+        "I read in another study the rouleaux formation can be by… https://t.co/yWzWhTn6ZT
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/yWzWhTn6ZT
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jul 11 16:29:59 +0000 2021
+      id: 1414260691607896000
+      id_str: "1414260691607896072"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/zByEJds1Lw
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/zByEJds1Lw
+      in_reply_to_status_id: 1414260690471227400
+      in_reply_to_status_id_str: "1414260690471227396"
