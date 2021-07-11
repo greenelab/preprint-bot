@@ -42081,3 +42081,103 @@
           - url: https://t.co/zByEJds1Lw
       in_reply_to_status_id: 1414260690471227400
       in_reply_to_status_id_str: "1414260690471227396"
+- preprint:
+    id: "137204"
+    doi: 10.1101/2021.04.06.21254993
+    first_posted: 2021-04-09
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.04.06.21254993v1
+    url: https://api.rxivist.org/v1/papers/137204
+    title: "Reopening Italy's Schools in September 2020: A Bayesian Estimation of
+      the Change in the Growth Rate of New SARS-CoV-2 Cases"
+    category: public-and-global-health
+    abstract: "Abstract Objectives: CoViD-19's second wave started a debate on the
+      potential role of schools as a primary factor in the contagion resurgence.
+      Two opposite positions appeared: those convinced that schools played a
+      major role in spreading SARS-CoV-2 infections and those who were not. We
+      studied the growth rate of the total number of SARS-CoV-2 infections in
+      all the Italian regions, before and after the school reopening (September
+      - October 2020), investigating the hypothesis of an association between
+      schools and the resurgence of the virus in Italy. Methods: Using Bayesian
+      piecewise linear regression to scrutinize the number of daily SARS-CoV-2
+      infections in each Italian, we looked for an estimate of a changepoint in
+      the growth rate of those confirmed cases. We compared the changepoints
+      with the school opening dates, for each Italian region. The regression
+      allows to discuss the change in steepness of the infection curve, before
+      and after the changepoint. Results: In 15 out of 21 Italian regions (71%),
+      an estimated change in the rate of growth of the total number of daily
+      SARS-CoV-2 infection cases occurred after an average of 16.66 days (CI 95%
+      14.47 to 18.73) since the school reopening. The number of days required
+      for the SARS-CoV-2 daily cases to double went from an average of 47.50
+      days (CI 95% 37.18 to 57.61) before the changepoint to an average of 7.72
+      days (CI 95% 7.00 to 8.48) after it. Conclusion: Studying the rate of
+      growth of daily SARS-CoV-2 cases in all the Italian regions provides some
+      evidence in favor of a link between school reopening and the resurgence of
+      the virus in Italy. The number of factors that could have played a role
+      are too many to give a definitive answer. Still, the temporal
+      correspondence warrants for a controlled experiment to clarify how much
+      reopening schools mattered."
+    authors:
+      - name: Luca Casini
+        orcid: http://orcid.org/0000-0002-3468-6974
+      - name: Marco Roccetti
+        orcid: http://orcid.org/0000-0003-1264-8595
+  comment:
+    dislikes: 0
+    thread: "8471585559"
+    numReports: 0
+    likes: 0
+    id: "5450676156"
+    createdAt: 2021-07-10T13:39:38
+    author:
+      username: marcoroccetti
+      about: ""
+      name: Marco Roccetti
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/marcoroccetti/
+      url: ""
+      location: ""
+      id: "371081903"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Final version of this study available on BMJ Open:
+      https://bmjopen.bmj.com/content/11/7/e051458
+
+
+      regards
+
+      The Authors
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.04.06.21254993v1
+  tweets:
+    - created_at: Sun Jul 11 18:23:59 +0000 2021
+      id: 1414289380496314400
+      id_str: "1414289380496314369"
+      text: >-
+        💬 medRxiv comment on "Reopening Italy's Schools in S..."
+
+
+        "Final version of this study available on BMJ Open:  Auth… https://t.co/S7nOtOq7vU
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/S7nOtOq7vU
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jul 11 18:23:59 +0000 2021
+      id: 1414289381540569000
+      id_str: "1414289381540569089"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/cIRnxwgahq
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/cIRnxwgahq
+      in_reply_to_status_id: 1414289380496314400
+      in_reply_to_status_id_str: "1414289380496314369"
