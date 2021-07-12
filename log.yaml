@@ -42877,3 +42877,163 @@
           - url: https://t.co/Z4rvSKgJJt
       in_reply_to_status_id: 1414623434139652000
       in_reply_to_status_id_str: "1414623434139652102"
+- preprint:
+    id: "130238"
+    doi: 10.1101/2021.02.19.431761
+    first_posted: 2021-02-19
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.02.19.431761v1
+    url: https://api.rxivist.org/v1/papers/130238
+    title: Using Y-chromosome capture enrichment to resolve haplogroup H2 shows new
+      evidence for a two-Path Neolithic expansion to Western Europe
+    category: genetics
+    abstract: >-
+      Uniparentally-inherited markers on mitochondrial DNA (mtDNA) and the
+      non-recombining regions of the Y chromosome (NRY), have been used for the
+      past 30 years to investigate the history of humans from a maternal and
+      paternal perspective.
+
+
+      Researchers have preferred mtDNA due to its abundance in the cells, and comparatively high substitution rate. Conversely, the NRY is less susceptible to back mutations and saturation, and is potentially more informative than mtDNA owing to its longer sequence length. However, due to comparatively poor NRY coverage via shotgun sequencing, and the relatively low and biased representation of Y-chromosome variants on capture arrays such as the 1240K, ancient DNA studies often fail to utilize the unique perspective that the NRY can yield.
+
+
+      Here we introduce a new DNA enrichment assay, coined YMCA (Y-mappable capture assay), that targets the "mappable" regions of the NRY. We show that compared to low-coverage shotgun sequencing and 1240K capture, YMCA significantly improves the coverage and number of sites hit on the NRY, increasing the number of Y-haplogroup informative SNPs, and allowing for the identification of previously undiscovered variants.
+
+
+      To illustrate the power of YMCA, we show that the analysis of ancient Y-chromosome lineages can help to resolve Y-chromosomal haplogroups. As a case study, we focus on H2, a haplogroup associated with a critical event in European human history: the Neolithic transition. By disentangling the evolutionary history of this haplogroup, we further elucidate the two separate paths by which early farmers expanded from Anatolia and the Near East to western Europe.
+    authors:
+      - name: Adam B Rohrlach
+        orcid: http://orcid.org/0000-0002-4204-5018
+      - name: Luka Papac
+        orcid: null
+      - name: Ainash Childebayeva
+        orcid: null
+      - name: Maïté Rivollat
+        orcid: null
+      - name: Vanessa Villalba-Mouco
+        orcid: null
+      - name: Gunnar U. Neumann
+        orcid: null
+      - name: Sandra Penske
+        orcid: null
+      - name: Eirini Skourtanioti
+        orcid: null
+      - name: Marieke van de Loosdrecht
+        orcid: null
+      - name: Murat Akar
+        orcid: null
+      - name: Kamen Boyadzhiev
+        orcid: null
+      - name: Yavor Boyadzhiev
+        orcid: null
+      - name: Marie-France Deguilloux
+        orcid: null
+      - name: Miroslav Dobeš
+        orcid: null
+      - name: Yilmaz S. Erdal
+        orcid: null
+      - name: Michal Ernée
+        orcid: null
+      - name: Marcella Frangipane
+        orcid: null
+      - name: Miroslaw Furmanek
+        orcid: null
+      - name: Susanne Friederich
+        orcid: null
+      - name: Emmanuel Ghesquière
+        orcid: null
+      - name: Agata Hałuszko
+        orcid: null
+      - name: Svend Hansen
+        orcid: null
+      - name: Mario Küßner
+        orcid: null
+      - name: Marcello Mannino
+        orcid: null
+      - name: Rana Özbal
+        orcid: null
+      - name: Sabine Reinhold
+        orcid: null
+      - name: Stéphane Rottier
+        orcid: null
+      - name: Domingo Carlos Salazar-García
+        orcid: null
+      - name: Jorge Soler Diaz
+        orcid: null
+      - name: Philipp W. Stockhammer
+        orcid: null
+      - name: Consuelo Roca de Togores Muñoz
+        orcid: null
+      - name: K Aslihan Yener
+        orcid: null
+      - name: Cosimo Posth
+        orcid: http://orcid.org/0000-0002-8206-3907
+      - name: Johannes Krause
+        orcid: http://orcid.org/0000-0001-9144-3920
+      - name: Alexander Herbig
+        orcid: http://orcid.org/0000-0003-1176-1166
+      - name: Wolfgang Haak
+        orcid: http://orcid.org/0000-0003-2475-2007
+  comment:
+    dislikes: 0
+    thread: "8405191529"
+    numReports: 0
+    likes: 0
+    id: "5452377317"
+    createdAt: 2021-07-12T01:32:59
+    author:
+      username: disqus_qfLs8Uh7wF
+      about: ""
+      name: MH-82
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_qfLs8Uh7wF/
+      url: ""
+      location: ""
+      id: "95890949"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Great paper & new appraoch
+
+
+      One minor issue regarding:
+
+      ''The YHG H (H-L901) is thought to have formed in South Asia approximately ~48 kya (Sengupta et al. 2006).''
+
+
+      As a modern aDNA paper, it should not rely on older, modern DNA based inferences. Instead, aDNA points to western Asia (Lazaridis; Nature 2016)
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.02.19.431761v1
+  tweets:
+    - created_at: Mon Jul 12 18:28:06 +0000 2021
+      id: 1414652806095540200
+      id_str: "1414652806095540225"
+      text: |-
+        💬 bioRxiv comment on "Using Y-chromosome capture enr..."
+
+        "Great paper &amp; new appraoch
+
+        One minor issue regarding:
+        '… https://t.co/79fSluXvkR
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/79fSluXvkR
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jul 12 18:28:06 +0000 2021
+      id: 1414652807144112000
+      id_str: "1414652807144112128"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/0UqdemFYP7
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/0UqdemFYP7
+      in_reply_to_status_id: 1414652806095540200
+      in_reply_to_status_id_str: "1414652806095540225"
