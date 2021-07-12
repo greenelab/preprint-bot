@@ -43133,3 +43133,110 @@
           - url: https://t.co/XgnQTomjWN
       in_reply_to_status_id: 1414681611090735000
       in_reply_to_status_id_str: "1414681611090735105"
+- preprint:
+    id: "148421"
+    doi: 10.1101/2021.07.01.450370
+    first_posted: 2021-07-01
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.01.450370v1
+    url: https://api.rxivist.org/v1/papers/148421
+    title: Bayesian inference of clonal expansions in a dated phylogeny
+    category: evolutionary-biology
+    abstract: Microbial population genetics models often assume that all lineages
+      are constrained by the same population size dynamics over time. However,
+      many neutral and selective events can invalidate this assumption, and can
+      contribute to the clonal expansion of a specific lineage relative to the
+      rest of the population. Such differential phylodynamic properties between
+      lineages result in asymmetries and imbalances in phylogenetic trees that
+      are sometimes described informally but difficult to analyse formally. To
+      this end, we developed a model of how clonal expansions occur and affect
+      the branching patterns of a phylogeny. We show how the parameters of this
+      model can be inferred from a given dated phylogeny using Bayesian
+      statistics, which allows us to assess the probability that one or more
+      clonal expansion events occurred. For each putative clonal expansion event
+      we estimate their date of emergence and subsequent phylodynamic
+      trajectories, including their long-term evolutionary potential which is
+      important to determine how much effort should be placed on specific
+      control measures. We demonstrate the usefulness of our methodology on
+      simulated and real datasets.
+    authors:
+      - name: David Helekal
+        orcid: null
+      - name: Alice Ledda
+        orcid: http://orcid.org/0000-0002-2387-3774
+      - name: Erik Volz
+        orcid: http://orcid.org/0000-0001-6268-8937
+      - name: David Wyllie
+        orcid: null
+      - name: Xavier Didelot
+        orcid: http://orcid.org/0000-0003-1885-500X
+  comment:
+    dislikes: 0
+    thread: "8625817333"
+    numReports: 0
+    likes: 0
+    id: "5453199057"
+    createdAt: 2021-07-12T19:00:49
+    author:
+      username: tajazarian
+      about: ""
+      name: Taj Azarian
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/tajazarian/
+      url: ""
+      location: ""
+      id: "257734957"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Great idea and a very nicely implemented tool! We particularly appreciated
+      the analysis vignettes with strep pnuemo and staph aureus. We started
+      experimenting with it last week as it provides a nice addition to one of
+      our current studies.  
+
+
+      We do have a couple practical questions about "best practices"...
+
+      1) Are there any considerations for how the initial time-scaled tree is inferred?  For example, if you performed model testing with BEAST and found that a skygrid demographic model with relaxed clock best fit, would this violate the underlying assumption of constant background population size?  In this scenario, would it correctly identify the expanding lineages but underestimate the effective population size of the expansion?  Would a better approach be to infer an initial tree using a relaxed clock and constant population size?
+
+
+      2) Regarding the analysis of SPN, are there any thoughts to how recombination would impact the performance of the tool? I am less concerned about ancestral recombination that is generally shared by all members of the population of interest. However, if the expansion of a lineage was associated with a recombination event (e.g., a capsule switch in pneumo or even just a large recombination block impacting protein antigens), how would that bias the detection of the expansion or the population size in relation to the background? (We can assume these events were detected and censored before coalescent analysis)
+
+
+      I don't expect endless simulations to address all the different possible population dynamics, but I think some comments about the recombination questions would be of general interest to those of us that work on highly recombining bacteria.  
+
+
+      Thanks again and great work!
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.07.01.450370v1
+  tweets:
+    - created_at: Mon Jul 12 22:16:11 +0000 2021
+      id: 1414710203728138200
+      id_str: "1414710203728138242"
+      text: >-
+        💬 bioRxiv comment on "Bayesian inference of clonal e..."
+
+
+        "Great idea and a very nicely implemented tool! We partic… https://t.co/MDRbK0FnHG
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/MDRbK0FnHG
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jul 12 22:16:11 +0000 2021
+      id: 1414710204650885000
+      id_str: "1414710204650885121"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/DQGNZW9UoR
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/DQGNZW9UoR
+      in_reply_to_status_id: 1414710203728138200
+      in_reply_to_status_id_str: "1414710203728138242"
