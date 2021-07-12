@@ -42453,3 +42453,118 @@
           - url: https://t.co/oTURmeVcNy
       in_reply_to_status_id: 1414348456433422300
       in_reply_to_status_id_str: "1414348456433422340"
+- preprint:
+    id: "149207"
+    doi: 10.1101/2021.07.03.21259976
+    first_posted: 2021-07-07
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.07.03.21259976v1
+    url: https://api.rxivist.org/v1/papers/149207
+    title: Incidence of Severe Acute Respiratory Syndrome Coronavirus-2 infection
+      among previously infected or vaccinated employees
+    category: infectious-diseases
+    abstract: "Introduction: The protective effect of previous infection versus
+      vaccination is poorly studied. Among a clinical laboratory that has been
+      conducting routine workforce screening since the beginning of the
+      pandemic, we aimed to assess the relative risk of Severe Acute Respiratory
+      Syndrome Coronavirus-2 (SARS-CoV-2) infection among individuals who were
+      SARS-CoV-2 naive, previously infected, or vaccinated. Methods: Using an
+      electronic laboratory information system, employees were divided into
+      three groups: (1) SARS-CoV-2 naive and unvaccinated, (2) previous
+      SARS-CoV-2 infection, and (3) vaccinated. Person-days were measured from
+      the date of the employee first test and truncated at the end of the
+      observation period. SARS-CoV-2 infection was defined as two positive
+      SARS-CoV-2 PCR tests in a 30-day period. Individuals with fewer than 14
+      days of follow up were excluded. Incidence estimates and the 95%
+      confidence intervals were calculated using the Poisson Exact equation. The
+      incidence rate ratio (IRR) was used as a measure of association between
+      groups. Analyses were performed on StataSE (StataCorp, College Station,
+      TX). Results: We identified 4313, 254 and 739 employee records for groups
+      1, 2, and 3, respectively. The median age of employees was 29.0 years
+      (interquartile range: 23.6, 39.9). During the observation period, 254, 0,
+      and 4 infections were identified among groups 1, 2, and 3, respectively.
+      Group 1 had an incidence of 25.9 per 100 person-years (95% CI: 22.8-29.3).
+      Group 2 had an incidence of 0 per 100 person-years (95% CI: 0-5.0). Group
+      3 had an incidence of 1.6 per 100 person-years (95% CI: 0.04-4.2). The IRR
+      of reinfection among those with previous infection compared to SARS-CoV-2
+      naive was 0 (95% CI: 0-0.19). The IRR of those vaccinated compared to
+      SARS-CoV-2 naive was 0.06 (95% CI: 0.02-0.16). The IRR of those vaccinated
+      compared to prior SARS-CoV-2 was 0 (95% CI: 0-4.98). Conclusion: Previous
+      SARS-CoV-2 infection and vaccination for SARS-CoV-2 were associated with
+      decreased risk for infection or re-infection with SARS-CoV-2 in a
+      routinely screened workforce. The was no difference in the infection
+      incidence between vaccinated individuals and individuals with previous
+      infection. Further research is needed to determine whether our results are
+      consistent with the emergence of new SARS-CoV-2 variants."
+    authors:
+      - name: Noah Kojima
+        orcid: http://orcid.org/0000-0002-3667-9719
+      - name: Arash Roshani
+        orcid: null
+      - name: Matthew Brobeck
+        orcid: null
+      - name: Arthur Baca
+        orcid: null
+      - name: Jeffrey D Klausner
+        orcid: http://orcid.org/0000-0002-6922-7364
+  comment:
+    dislikes: 0
+    thread: "8637067806"
+    numReports: 0
+    likes: 0
+    id: "5452039382"
+    createdAt: 2021-07-11T19:31:18
+    author:
+      username: disqus_KbE9OrjbFH
+      about: ""
+      name: geek49203
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_KbE9OrjbFH/
+      url: ""
+      location: ""
+      id: "367229492"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Published reports state:  "“The big takeaway was that if you are not
+      vaccinated, and were not previously infected, one, you have a very high
+      risk getting infected—24 percent of employees over a year tested
+      positive." (Epoch times).  But I see only 254 out of 4,313, which is
+      5.8%.  Even allowing for a doubling of the timeline (to a full year?)
+      that's around 11-12%, which is fairly in line with what the Brits
+      published in May in The Lancet.
+
+      SECOND - it's obvious to me that there is a likelihood that the number of infections are seasonal.  IF those who got injections were vaccinated on the downward slope (ie, Feb 21 forward) instead of the upward slope of Dec 20-Jan 21, wouldn't the results be much different?  So studying those who got the vaccine would have to take into account the prevailing non-study environment, correct?  A non-vaccinated person wasn't very likely to get COVID in June of this year, or June of last year, correct?
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.07.03.21259976v2
+  tweets:
+    - created_at: Mon Jul 12 01:01:12 +0000 2021
+      id: 1414389343641378800
+      id_str: "1414389343641378821"
+      text: >-
+        💬 medRxiv comment on "Incidence of Severe Acute Resp..."
+
+
+        "Published reports state:  "“The big takeaway was that if… https://t.co/Su4qfxocBf
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/Su4qfxocBf
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jul 12 01:01:12 +0000 2021
+      id: 1414389344568320000
+      id_str: "1414389344568320002"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/RNtGMoKX2m
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/RNtGMoKX2m
+      in_reply_to_status_id: 1414389343641378800
+      in_reply_to_status_id_str: "1414389343641378821"
