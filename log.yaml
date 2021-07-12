@@ -43037,3 +43037,99 @@
           - url: https://t.co/0UqdemFYP7
       in_reply_to_status_id: 1414652806095540200
       in_reply_to_status_id_str: "1414652806095540225"
+- preprint:
+    id: "149556"
+    doi: 10.1101/2021.07.09.451701
+    first_posted: 2021-07-09
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.09.451701v1
+    url: https://api.rxivist.org/v1/papers/149556
+    title: "Your head is there to move you around: Goal-driven models of the primate
+      dorsal pathway"
+    category: neuroscience
+    abstract: "Neurons in the dorsal visual pathway of the mammalian brain are
+      selective for motion stimuli, with the complexity of stimulus
+      representations increasing along the hierarchy. This progression is
+      similar to that of the ventral visual pathway, which is well characterized
+      by artificial neural networks (ANNs) optimized for object recognition. In
+      contrast, there are no image-computable models of the dorsal stream with
+      comparable explanatory power. We hypothesized that the properties of
+      dorsal stream neurons could be explained by a simple learning objective:
+      the need for an organism to orient itself during self-motion. To test this
+      hypothesis, we trained a 3D ResNet in a self-supervised manner to predict
+      an agent's self-motion parameters from visual stimuli in a simulated
+      environment. We found that the responses in this network accounted well
+      for the selectivity of neurons in a large database of single-neuron
+      recordings from the dorsal visual stream of non-human primates. In
+      contrast, ANNs trained for action recognition or with a contrastive
+      objective could not explain responses in the dorsal stream, despite also
+      being trained on naturalistic videos with moving objects. These results
+      demonstrate that an ecologically relevant, self-supervised cost function
+      can account for dorsal stream properties in the primate brain."
+    authors:
+      - name: Patrick J Mineault
+        orcid: http://orcid.org/0000-0001-5519-842X
+      - name: Shahab Bakhtiari
+        orcid: http://orcid.org/0000-0003-2439-7252
+      - name: Blake A Richards
+        orcid: http://orcid.org/0000-0001-9662-2151
+      - name: Christopher C. Pack
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8639713497"
+    numReports: 0
+    likes: 0
+    id: "5452307067"
+    createdAt: 2021-07-11T23:55:40
+    author:
+      username: reubenrideaux
+      about: ""
+      name: Reuben Rideaux
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/reubenrideaux/
+      url: ""
+      location: ""
+      id: "323434229"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Very interesting work, congratulations. In the original MotionNet,
+      the MT units were constrained to represent pre-specified velocities. In
+      a  paper we published earlier this year in Journal of Vision
+      (https://jov.arvojournals.org/article.aspx?articleid=2772326), we show
+      that were able to capture other characteristics of MT neurons when the MT
+      layer was unconstrained. I would be quite interested to see how the
+      network in the more recent paper (MotionNetxy) performs in your test.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.07.09.451701v1
+  tweets:
+    - created_at: Mon Jul 12 20:22:34 +0000 2021
+      id: 1414681611090735000
+      id_str: "1414681611090735105"
+      text: >-
+        💬 bioRxiv comment on "Your head is there to move you..."
+
+
+        "Very interesting work, congratulations. In the original… https://t.co/VtdgeOjRoT
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/VtdgeOjRoT
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jul 12 20:22:34 +0000 2021
+      id: 1414681611900178400
+      id_str: "1414681611900178437"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/XgnQTomjWN
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/XgnQTomjWN
+      in_reply_to_status_id: 1414681611090735000
+      in_reply_to_status_id_str: "1414681611090735105"
