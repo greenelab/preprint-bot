@@ -42694,3 +42694,92 @@
           - url: https://t.co/eQVSQuTGsy
       in_reply_to_status_id: 1414563922359824400
       in_reply_to_status_id_str: "1414563922359824386"
+- preprint:
+    id: "144220"
+    doi: 10.1101/2021.06.01.446559
+    first_posted: 2021-06-01
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.01.446559v1
+    url: https://api.rxivist.org/v1/papers/144220
+    title: "AltumAge: A Pan-Tissue DNA-Methylation Epigenetic Clock Based on Deep
+      Learning"
+    category: bioinformatics
+    abstract: Several age predictors based on DNA methylation, dubbed epigenetic
+      clocks, have been created in recent years. Their accuracy and potential
+      for generalization vary widely based on the training data. Here, we
+      gathered 143 publicly available data sets from several human tissues to
+      develop AltumAge, a highly accurate and precise age predictor based on
+      deep learning. Compared to Horvath's 2013 model, AltumAge performs better
+      across both normal and malignant tissues and is more generalizable to new
+      data sets. Interestingly, it can predict gestational week from placental
+      tissue with low error. Lastly, we used deep learning interpretation
+      methods to learn which methylation sites contributed to the final model
+      predictions. We observed that while most important CpG sites are linearly
+      related to age, some highly-interacting CpG sites can influence the
+      relevance of such relationships. We studied the associated genes of these
+      CpG sites and found literary evidence of their involvement in age-related
+      gene regulation. Using chromatin annotations, we observed that the CpG
+      sites with the highest contribution to the model predictions were related
+      to heterochromatin and gene regulatory regions in the genome. We also
+      found age-related KEGG pathways for genes containing these CpG sites. In
+      general, neural networks are better predictors due to their ability to
+      capture complex feature interactions compared to the typically used
+      regularized linear regression. Altogether, our neural network approach
+      provides significant improvement and flexibility to current epigenetic
+      clocks without sacrificing model interpretability.
+    authors:
+      - name: Lucas Paulo de Lima Camillo
+        orcid: http://orcid.org/0000-0001-8166-0761
+      - name: Louis R Lapierre
+        orcid: http://orcid.org/0000-0002-8154-141X
+      - name: Ritambhara Singh
+        orcid: http://orcid.org/0000-0002-7523-160X
+  comment:
+    dislikes: 0
+    thread: "8597997093"
+    numReports: 0
+    likes: 0
+    id: "5452671137"
+    createdAt: 2021-07-12T10:40:06
+    author:
+      name: Lucas Paulo de Lima Camillo
+      url: ""
+      profileUrl: ""
+      emailHash: ""
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Dear Louis, thank you for your feedback. You are correct — there
+      was a typo there. Thank you so much for letting us know!
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.06.01.446559v3
+  tweets:
+    - created_at: Mon Jul 12 14:22:25 +0000 2021
+      id: 1414590978162319400
+      id_str: "1414590978162319368"
+      text: >-
+        💬 bioRxiv comment on "AltumAge: A Pan-Tissue DNA-Met..."
+
+
+        "Dear Louis, thank you for your feedback. You are correct… https://t.co/JGNHVI6XRP
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/JGNHVI6XRP
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jul 12 14:22:25 +0000 2021
+      id: 1414590979047370800
+      id_str: "1414590979047370754"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/IIPosDD3TG
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/IIPosDD3TG
+      in_reply_to_status_id: 1414590978162319400
+      in_reply_to_status_id_str: "1414590978162319368"
