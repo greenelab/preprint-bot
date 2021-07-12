@@ -42568,3 +42568,129 @@
           - url: https://t.co/RNtGMoKX2m
       in_reply_to_status_id: 1414389343641378800
       in_reply_to_status_id_str: "1414389343641378821"
+- preprint:
+    id: "143071"
+    doi: 10.1101/2021.05.22.21257658
+    first_posted: 2021-05-24
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.22.21257658v1
+    url: https://api.rxivist.org/v1/papers/143071
+    title: Effectiveness of COVID-19 vaccines against the B.1.617.2 variant
+    category: epidemiology
+    abstract: "Background: The B.1.617.2 COVID-19 variant has contributed to the
+      surge in cases in India and has now been detected across the globe,
+      including a notable increase in cases in the UK. We estimate the
+      effectiveness of the BNT162b2 and ChAdOx1 COVID-19 vaccines against this
+      variant. Methods: A test negative case control design was used to estimate
+      the effectiveness of vaccination against symptomatic disease with both
+      variants over the period that B.1.617.2 began circulating with cases
+      identified based on sequencing and S-gene target status. Data on all
+      symptomatic sequenced cases of COVID-19 in England was used to estimate
+      the proportion of cases with B.1.617.2 compared to the predominant strain
+      (B.1.1.7) by vaccination status. Results: Effectiveness was notably lower
+      after 1 dose of vaccine with B.1.617.2 cases 33.5% (95%CI: 20.6 to 44.3)
+      compared to B.1.1.7 cases 51.1% (95%CI: 47.3 to 54.7) with similar results
+      for both vaccines. With BNT162b2 2 dose effectiveness reduced from 93.4%
+      (95%CI: 90.4 to 95.5) with B.1.1.7 to 87.9% (95%CI: 78.2 to 93.2) with
+      B.1.617.2. With ChAdOx1 2 dose effectiveness reduced from 66.1% (95% CI:
+      54.0 to 75.0) with B.1.1.7 to 59.8% (95%CI: 28.9 to 77.3) with B.1.617.2.
+      Sequenced cases detected after 1 or 2 doses of vaccination had a higher
+      odds of infection with B.1.617.2 compared to unvaccinated cases (OR 1.40;
+      95%CI: 1.13-1.75). Conclusions: After 2 doses of either vaccine there were
+      only modest differences in vaccine effectiveness with the B.1.617.2
+      variant. Absolute differences in vaccine effectiveness were more marked
+      with dose 1. This would support maximising vaccine uptake with two doses
+      among vulnerable groups."
+    authors:
+      - name: Jamie Lopez Bernal
+        orcid: http://orcid.org/0000-0002-1301-5653
+      - name: Nick Andrews
+        orcid: null
+      - name: Charlotte Gower
+        orcid: null
+      - name: Eileen Gallagher
+        orcid: null
+      - name: Ruth Simmons
+        orcid: http://orcid.org/0000-0001-8156-0146
+      - name: Simon Thelwall
+        orcid: http://orcid.org/0000-0002-0434-2724
+      - name: Elise Tessier
+        orcid: null
+      - name: Natalie Groves
+        orcid: null
+      - name: Gavin Dabrera
+        orcid: http://orcid.org/0000-0003-4606-5945
+      - name: Richard Myers
+        orcid: null
+      - name: Colin Campbell
+        orcid: null
+      - name: Gayatri Amirthalingam
+        orcid: http://orcid.org/0000-0003-2078-0975
+      - name: Matt Edmunds
+        orcid: null
+      - name: Maria Zambon
+        orcid: http://orcid.org/0000-0002-8897-7881
+      - name: Kevin Brown
+        orcid: null
+      - name: Susan Hopkins
+        orcid: http://orcid.org/0000-0001-5179-5702
+      - name: Meera Chand
+        orcid: http://orcid.org/0000-0001-9697-0340
+      - name: Mary Ramsay
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8547961204"
+    numReports: 0
+    likes: 0
+    id: "5451869451"
+    createdAt: 2021-07-11T16:46:18
+    author:
+      username: disqus_Vi5jT9nyrL
+      about: ""
+      name: A Clarke
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_Vi5jT9nyrL/
+      url: ""
+      location: ""
+      id: "372189720"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Also, what effectiveness are you measuring? Symptomatic desease it
+      seems however hospitalization and death is the real problem and this
+      report out of the UK seems to say those rates are higher among the
+      vaccinated; see page 13;
+      https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/997418/Variants_of_Concern_VOC_Technical_Briefing_17.pdf
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.05.22.21257658v1
+  tweets:
+    - created_at: Mon Jul 12 12:34:55 +0000 2021
+      id: 1414563922359824400
+      id_str: "1414563922359824386"
+      text: >-
+        💬 medRxiv comment on "Effectiveness of COVID-19 vacc..."
+
+
+        "Also, what effectiveness are you measuring? Symptomatic… https://t.co/b4hMntmxBW
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/b4hMntmxBW
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jul 12 12:34:55 +0000 2021
+      id: 1414563923366383600
+      id_str: "1414563923366383619"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/eQVSQuTGsy
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/eQVSQuTGsy
+      in_reply_to_status_id: 1414563922359824400
+      in_reply_to_status_id_str: "1414563922359824386"
