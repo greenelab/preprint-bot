@@ -42783,3 +42783,97 @@
           - url: https://t.co/IIPosDD3TG
       in_reply_to_status_id: 1414590978162319400
       in_reply_to_status_id_str: "1414590978162319368"
+- preprint:
+    id: "149537"
+    doi: 10.1101/2021.07.08.451645
+    first_posted: 2021-07-09
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.08.451645v1
+    url: https://api.rxivist.org/v1/papers/149537
+    title: Microbiome divergence of marine gastropod species separated by the
+      Isthmus of Panama
+    category: ecology
+    abstract: The rise of the Isthmus of Panama ~3.5 mya separated populations of
+      many marine organisms, which then diverged into new geminate sister
+      species currently living in the Eastern Pacific Ocean and Caribbean Sea.
+      However, we know very little about how such evolutionary divergences of
+      host species have shaped their microbiomes. Here, we compared the
+      microbiomes of whole-body and shell-surface samples of geminate species of
+      marine gastropods in the genera Cerithium and Cerithideopsis to those of
+      congeneric outgroups. Our results show that the effects of the Isthmus on
+      microbiome composition varied among host genera and between sample types
+      within the same hosts. In the whole-body samples, microbiome compositions
+      of geminate species pairs in the focal genera tended to be similar, likely
+      due to host filtering, although the strength of this relationship varied
+      among the two groups and across similarity metrics. Shell-surface
+      communities show contrasting patterns, with co-divergence between the host
+      taxa and a small number of microbial clades evident in Cerithideopsis, but
+      not Cerithium. These results suggest that (i) the rise of the Isthmus of
+      Panama affected microbiomes of geminate hosts in a complex and
+      clade-specific manner and (ii) host-associated microbial taxa respond
+      differently to vicariance events than the hosts themselves.
+    authors:
+      - name: Alexander T Neu
+        orcid: http://orcid.org/0000-0003-0833-1704
+      - name: Mark E Torchin
+        orcid: null
+      - name: Eric E Allen
+        orcid: http://orcid.org/0000-0002-1229-8794
+      - name: Kaustuv Roy
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8639588578"
+    numReports: 0
+    likes: 0
+    id: "5452600016"
+    createdAt: 2021-07-12T08:27:31
+    author:
+      username: PalaeoSmith
+      about: Assistant Professor in Palaeontology
+      name: Martin R. Smith
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/PalaeoSmith/
+      url: https://community.dur.ac.uk/martin.smith
+      location: Durham University
+      id: "325420274"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Just a small comment to suggest that you might find other measures
+      of congruence more suitable than the Robinson–Foulds, which has a number
+      of shortcomings; see the 'TreeDist' R package and Smith (2020,
+      Bioinformatics, <a
+      href="https://doi.org/10.1093/bioinformatics/btaa614">10.1093/bioinformatics/btaa614</a>)
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.07.08.451645v1
+  tweets:
+    - created_at: Mon Jul 12 16:31:23 +0000 2021
+      id: 1414623434139652000
+      id_str: "1414623434139652102"
+      text: >-
+        💬 bioRxiv comment on "Microbiome divergence of marin..."
+
+
+        "Just a small comment to suggest that you might find othe… https://t.co/7KoTBtzAlg
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/7KoTBtzAlg
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jul 12 16:31:24 +0000 2021
+      id: 1414623435460862000
+      id_str: "1414623435460861954"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/Z4rvSKgJJt
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/Z4rvSKgJJt
+      in_reply_to_status_id: 1414623434139652000
+      in_reply_to_status_id_str: "1414623434139652102"
