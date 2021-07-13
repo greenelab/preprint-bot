@@ -43561,3 +43561,116 @@
           - url: https://t.co/ifdUoU85Ao
       in_reply_to_status_id: 1414952167442681900
       in_reply_to_status_id_str: "1414952167442681862"
+- preprint:
+    id: "139225"
+    doi: 10.1101/2021.04.21.21255873
+    first_posted: 2021-04-23
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.04.21.21255873v1
+    url: https://api.rxivist.org/v1/papers/139225
+    title: Real World Effectiveness of COVID-19 mRNA Vaccines against
+      Hospitalizations and Deaths in the United States
+    category: infectious-diseases
+    abstract: "Background: Covid-19 has caused significant global mortality.
+      Multiple vaccines have demonstrated efficacy in clinical trials though
+      real-world effectiveness of vaccines against Covid-19 mortality in
+      clinically and demographically diverse populations has not yet been
+      reported. Methods: We used a retrospective cohort assembled from a
+      cross-institution comprehensive data repository. Established patients of
+      the health care system were categorized as not immunized, partially
+      immunized, or fully immunized against SARS-CoV-2 with an mRNA vaccine
+      through April 4, 2021. Outcomes were Covid-19 related hospitalization and
+      death. Results: Of the 91,134 established patients, 70.2% were not
+      immunized, 4.5% were partially immunized and 25.4% were fully immunized.
+      Among the fully immunized 0.7% had a Covid-19 hospitalization, whereas
+      3.4% among the partially immunized and 2.7% non-immunized individuals were
+      hospitalized with Covid-19. Of the 225 deaths among Covid-19
+      hospitalizations, 219 (97.3%) were in the not immunized, 5 (2.2%) in the
+      partially immunized, and 1 (0.0041%) in the fully immunized group. mRNA
+      vaccines were 96% (95%CI: 95 - 99) effective at preventing Covid-19
+      related hospitalization and 98.7% (95%CI: 91.0 - 99.8) effective at
+      preventing Covid-19 related death when participants were fully vaccinated.
+      Partial vaccination was 77% (95%CI: 71 - 82) effective at preventing
+      hospitalization and 64.2% (95%CI: 13.0 - 85.2) effective at preventing
+      death. Vaccine effectiveness at preventing hospitalization was conserved
+      across subgroups of age, race, ethnicity, Area Deprivation Index, and
+      Charlson Comorbidity Index. Conclusions: In a large, diverse cohort in the
+      United States, full immunization with mRNA vaccines was highly effective
+      in the real-world scenario at preventing Covid-19 related hospitalization
+      and death."
+    authors:
+      - name: Farhaan S Vahidy
+        orcid: http://orcid.org/0000-0002-3464-2111
+      - name: Lauren Pischel
+        orcid: http://orcid.org/0000-0002-7697-0084
+      - name: Mauricio E Tano
+        orcid: null
+      - name: Alan P Pan
+        orcid: null
+      - name: Marc L Boom
+        orcid: null
+      - name: Henry Dirk Sostman
+        orcid: null
+      - name: Khurram Nasir
+        orcid: null
+      - name: Saad B Omer
+        orcid: http://orcid.org/0000-0002-5383-3474
+  comment:
+    dislikes: 0
+    thread: "8488960600"
+    numReports: 0
+    likes: 0
+    id: "5453701355"
+    createdAt: 2021-07-13T02:15:24
+    author:
+      username: ThetaNought
+      about: ""
+      name: Θ0
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/ThetaNought/
+      url: ""
+      location: ""
+      id: "372256046"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Will note that absolute risk reduction between vaccinated and unvaccinated
+      is 0.32%. The authors’ claims that the vaccines prevented death are not
+      supported by the evidence provided, which is correlated in nature, not
+      causative. 
+
+
+      A good paper on this issue: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7996517/
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.04.21.21255873v1
+  tweets:
+    - created_at: Tue Jul 13 16:36:22 +0000 2021
+      id: 1414987075980497000
+      id_str: "1414987075980496897"
+      text: >-
+        💬 medRxiv comment on "Real World Effectiveness of CO..."
+
+
+        "Will note that absolute risk reduction between vaccinate… https://t.co/lqUM5vCi35
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/lqUM5vCi35
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jul 13 16:36:23 +0000 2021
+      id: 1414987077029187600
+      id_str: "1414987077029187584"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/NlPDqpycFg
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/NlPDqpycFg
+      in_reply_to_status_id: 1414987075980497000
+      in_reply_to_status_id_str: "1414987075980496897"
