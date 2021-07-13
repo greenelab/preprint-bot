@@ -43343,3 +43343,105 @@
           - url: https://t.co/H8TrPXuovJ
       in_reply_to_status_id: 1414752453954842600
       in_reply_to_status_id_str: "1414752453954842624"
+- preprint:
+    id: "111184"
+    doi: 10.1101/2020.05.22.20109231
+    first_posted: 2020-05-25
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2020.05.22.20109231v1
+    url: https://api.rxivist.org/v1/papers/111184
+    title: Association of country-wide coronavirus mortality with demographics,
+      testing, lockdowns, and public wearing of masks.
+    category: epidemiology
+    abstract: Purpose. To determine sources of variation between countries in
+      per-capita mortality from COVID-19 (caused by the SARS-CoV-2 virus).
+      Methods. Potential predictors of per-capita coronavirus-related mortality
+      in 200 countries by May 9, 2020 were examined, including age, sex, obesity
+      prevalence, temperature, urbanization, smoking, duration of infection,
+      lockdowns, viral testing, contact tracing policies, and public
+      mask-wearing norms and policies. Multivariable linear regression analysis
+      was performed. Results. In univariate analyses, the prevalence of smoking,
+      per-capita gross domestic product, urbanization, and colder average
+      country temperature were positively associated with coronavirus-related
+      mortality. In a multivariable analysis of 196 countries, the duration of
+      infection in the country, and the proportion of the population 60 years of
+      age or older were positively associated with per-capita mortality, while
+      duration of mask-wearing by the public was negatively associated with
+      mortality (all p<0.001). International travel restrictions and a lower
+      prevalence of obesity were independently associated with mortality in a
+      model which controlled for testing policy. Internal lockdown requirements
+      and viral testing policies and levels were not associated with mortality.
+      The association of contact tracing policy with mortality approached
+      statistical significance (p=0.06). In countries with cultural norms or
+      government policies supporting public mask-wearing, per-capita coronavirus
+      mortality increased on average by just 15.8% each week, as compared with
+      62.1% each week in remaining countries. Conclusions. Societal norms and
+      government policies supporting the wearing of masks by the public, as well
+      as international travel controls, are independently associated with lower
+      per-capita mortality from COVID-19.
+    authors:
+      - name: Christopher T Leffler
+        orcid: null
+      - name: Edsel B. Ing
+        orcid: null
+      - name: Joseph D. Lykins
+        orcid: null
+      - name: Matthew C Hogan
+        orcid: null
+      - name: Craig A. McKeown
+        orcid: null
+      - name: Andrzej Grzybowski
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8114796774"
+    numReports: 0
+    likes: 0
+    id: "5453859304"
+    createdAt: 2021-07-13T06:37:34
+    author:
+      username: disqus_NgYX9EX7px
+      about: ""
+      name: Joel Harper
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_NgYX9EX7px/
+      url: ""
+      location: ""
+      id: "165279467"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: I was referring to aerosolised droplets!!
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2020.05.22.20109231v4
+  tweets:
+    - created_at: Tue Jul 13 12:33:51 +0000 2021
+      id: 1414926041882275800
+      id_str: "1414926041882275854"
+      text: |-
+        💬 medRxiv comment on "Association of country-wide co..."
+
+        "I was referring to aerosolised droplets!!"
+
+        https://t.co/fn7UsvFygW
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/fn7UsvFygW
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jul 13 12:33:51 +0000 2021
+      id: 1414926042716852200
+      id_str: "1414926042716852236"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/93kS5Ts5OM
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/93kS5Ts5OM
+      in_reply_to_status_id: 1414926041882275800
+      in_reply_to_status_id_str: "1414926041882275854"
