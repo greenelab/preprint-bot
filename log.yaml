@@ -43240,3 +43240,106 @@
           - url: https://t.co/DQGNZW9UoR
       in_reply_to_status_id: 1414710203728138200
       in_reply_to_status_id_str: "1414710203728138242"
+- preprint:
+    id: "83480"
+    doi: 10.1101/2020.05.13.093591
+    first_posted: 2020-05-15
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.05.13.093591v1
+    url: https://api.rxivist.org/v1/papers/83480
+    title: A druggable oxidative folding pathway in the endoplasmic reticulum of
+      human malaria parasites
+    category: microbiology
+    abstract: >-
+      Malaria remains a major global health problem, and there exists a constant
+      need to identify druggable weaknesses in P. falciparum biology. The
+      endoplasmic reticulum (ER) has many essential roles in the asexual
+      lifecycle and may offer new drug targets, but it remains critically
+      understudied. We generated conditional mutants of the putative
+      redox-active, ER chaperone PfJ2, and show that it is essential for
+      parasite survival. Using a redox-active cysteine crosslinker, we identify
+      its substrates to be other mediators of oxidative folding, PfPDI8 and
+      PfPDI11, suggesting a redox-regulatory role for PfJ2. Knockdown of these
+      protein disulfide isomerases in PfJ2 conditional mutants show that PfPDI11
+      is not essential, while PfPDI8 is essential for asexual growth and may
+      work in a complex with PfJ2 and other ER chaperones. Finally, we show that
+      these redox interactions in the parasite ER are sensitive to small
+      molecule inhibition. Together these data build a model for how oxidative
+      folding occurs in the P. falciparum ER and demonstrate its suitability for
+      antimalarial drug development.
+
+
+      ### Competing Interest Statement
+
+
+      The authors have declared no competing interest.
+    authors:
+      - name: David W Cobb
+        orcid: null
+      - name: Heather M Kudyba
+        orcid: null
+      - name: Alejandra Villegas
+        orcid: null
+      - name: Michael R. Hoopmann
+        orcid: http://orcid.org/0000-0001-7029-7792
+      - name: Rodrigo Baptista
+        orcid: null
+      - name: Baylee Bruton
+        orcid: null
+      - name: Michelle Krakowiak
+        orcid: null
+      - name: Robert L. Moritz
+        orcid: http://orcid.org/0000-0002-3216-9447
+      - name: V Muralidharan
+        orcid: http://orcid.org/0000-0001-6367-6284
+  comment:
+    dislikes: 0
+    thread: "8025685926"
+    numReports: 0
+    likes: 0
+    id: "5453147310"
+    createdAt: 2021-07-12T18:18:35
+    author:
+      name: Vasant Muralidharan
+      url: ""
+      profileUrl: ""
+      emailHash: ""
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: "This preprint has been published:
+      https://journals.plos.org/plospathogens/article?id=10.1371%2Fjournal.ppat\
+      .1009293"
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.05.13.093591v1
+  tweets:
+    - created_at: Tue Jul 13 01:04:04 +0000 2021
+      id: 1414752453954842600
+      id_str: "1414752453954842624"
+      text: |-
+        💬 bioRxiv comment on "A druggable oxidative folding ..."
+
+        "This preprint has been published: "
+
+        https://t.co/KE5e85ji9T
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/KE5e85ji9T
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jul 13 01:04:04 +0000 2021
+      id: 1414752454621679600
+      id_str: "1414752454621679623"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/H8TrPXuovJ
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/H8TrPXuovJ
+      in_reply_to_status_id: 1414752453954842600
+      in_reply_to_status_id_str: "1414752453954842624"
