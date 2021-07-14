@@ -44290,3 +44290,56 @@
           - url: https://t.co/ISVWDyCul4
       in_reply_to_status_id: 1415377955019055000
       in_reply_to_status_id_str: "1415377955019055106"
+- preprint:
+    id: 149183
+    metric: 33
+    title: Ultrastructural readout of in vivo synaptic activity for functional
+      connectomics.
+    url: https://api.rxivist.org/v1/papers/149183
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.07.451278v1
+    doi: 10.1101/2021.07.07.451278
+    category: neuroscience
+    first_posted: 2021-07-07
+    abstract: Large-volume ultrastructural mapping approaches yield detailed circuit
+      wiring diagrams but lack an integrated synaptic activity readout which is
+      essential for functional interpretation of the connectome. Here we resolve
+      this limitation by combining functional synaptic labelling in vivo with
+      focused ion-beam scanning electron microscopy (FIBSEM) and machine
+      learning-based segmentation. Our approach generates high-resolution
+      near-isotropic three-dimensional readouts of activated vesicle pools
+      across large populations of individual synapses in a volume of tissue,
+      opening the way for detailed functional connectomics studies. We apply
+      this method to measure presynaptic activity in an ultrastructural context
+      in synapses activated by sensory input in primary visual cortex in awake
+      head-fixed mice, showing that the numbers of recycling and non-recycling
+      vesicles approximate to a lognormal distribution across a large number of
+      synapses. We also demonstrate that neighbouring boutons of the same axon,
+      which share the same spiking activity, can differ greatly in their
+      presynaptic release probability.
+    authors:
+      - name: Anna Simon
+      - name: Arnd Roth
+      - name: Arlo Sheridan
+      - name: Mehmet Fisek
+      - name: Vincenzo Marra
+      - name: Claudia Racca
+      - name: Jan Funke
+      - name: Kevin Staras
+      - name: Michael Hausser
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Wed Jul 14 20:16:08 +0000 2021
+      id: 1415404769900994600
+      id_str: "1415404769900994561"
+      text: >-
+        🔥 bioRxiv Neuroscience preprint by A. Simon et al:
+
+
+        "Ultrastructural readout of in vivo synaptic activity for funct… https://t.co/TVacMapIf5
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/TVacMapIf5
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
