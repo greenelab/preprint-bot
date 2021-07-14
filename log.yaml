@@ -44197,3 +44197,96 @@
           - url: https://t.co/GmRAl2Ix8D
       in_reply_to_status_id: 1415348237146468400
       in_reply_to_status_id_str: "1415348237146468356"
+- preprint:
+    id: "110815"
+    doi: 10.1101/2020.05.14.20101162
+    first_posted: 2020-05-19
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2020.05.14.20101162v1
+    url: https://api.rxivist.org/v1/papers/110815
+    title: Estimation of COVID-19 transmission rates in California and the U.S. with
+      reporting delays
+    category: epidemiology
+    abstract: We estimated time-varying reproduction numbers of COVID-19
+      transmission in counties and regions of California and in states of the
+      United States, using the Wallinga-Teunis method of estimations applied to
+      publicly available data. The serial interval distribution assumed
+      incorporates wide uncertainty in delays from symptom onset to case
+      reporting. This assumption contributes smoothing and a small but
+      meaningful increase in numerical estimates of reproduction numbers due to
+      the likely existence of secondary cases not yet reported. Transmission in
+      many areas of the U.S. may not yet be controlled, including areas in which
+      case counts appear to be stable or slowly declining.
+    authors:
+      - name: Lee Worden
+        orcid: http://orcid.org/0000-0001-9799-0183
+      - name: Rae Wannier
+        orcid: null
+      - name: Micaela Neus
+        orcid: null
+      - name: Jennifer C. Kwan
+        orcid: null
+      - name: Alex Y Ge
+        orcid: null
+      - name: Eugene T Richardson
+        orcid: http://orcid.org/0000-0001-8437-0671
+      - name: Travis C Porco
+        orcid: http://orcid.org/0000-0001-8813-3171
+  comment:
+    dislikes: 0
+    thread: "8032332649"
+    numReports: 0
+    likes: 0
+    id: "5455450543"
+    createdAt: 2021-07-14T13:52:21
+    author:
+      username: djconnel
+      about: ""
+      name: djconnel
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/djconnel/
+      url: ""
+      location: ""
+      id: "1542016"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Cases in San Francisco have gone from a 7-day average of 10, to
+      over 70 in just 20 days, with positivity rates from 0.5% up to 3.2%, which
+      for a serial interval of 5 days, corresponds to an R of exp(5*ln(6.4)/20)
+      = 1.6 (using positivity).  Your algorithm needs to be tuned if it's
+      yielding < 1.1.  <a
+      href="https://twitter.com/djconnel/status/1414955676804202506">Plot of
+      rolling 7-day case totals</a>.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2020.05.14.20101162v1
+  tweets:
+    - created_at: Wed Jul 14 18:29:35 +0000 2021
+      id: 1415377955019055000
+      id_str: "1415377955019055106"
+      text: >-
+        💬 medRxiv comment on "Estimation of COVID-19 transmi..."
+
+
+        "Cases in San Francisco have gone from a 7-day average of… https://t.co/GLvkygzB5z
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/GLvkygzB5z
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed Jul 14 18:29:35 +0000 2021
+      id: 1415377956659077000
+      id_str: "1415377956659077120"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/ISVWDyCul4
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/ISVWDyCul4
+      in_reply_to_status_id: 1415377955019055000
+      in_reply_to_status_id_str: "1415377955019055106"
