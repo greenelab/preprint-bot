@@ -45208,3 +45208,59 @@
           - url: https://t.co/LeJWMPGeE4
       in_reply_to_status_id: 1415739783545081900
       in_reply_to_status_id_str: "1415739783545081861"
+- preprint:
+    id: 150122
+    metric: 11
+    title: "PyLipID: A Python package for analysis of protein-lipid interactions
+      from MD simulations"
+    url: https://api.rxivist.org/v1/papers/150122
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.14.452312v1
+    doi: 10.1101/2021.07.14.452312
+    category: biophysics
+    first_posted: 2021-07-14
+    abstract: Lipids play important modulatory and structural roles for membrane
+      proteins. Molecular dynamics simulations are frequently used to provide
+      insights into the nature of these protein-lipid interactions. Systematic
+      comparative analysis requires tools that provide algorithms for objective
+      assessment of such interactions. We introduce PyLipID, a python package
+      for the identification and characterization of specific lipid interactions
+      and binding sites on membrane proteins from molecular dynamics
+      simulations. PyLipID uses a community analysis approach for binding site
+      detection, calculating lipid residence times for both the individual
+      protein residues and the detected binding sites. To assist structural
+      analysis, PyLipID produces representative bound lipid poses from
+      simulation data, using a density-based scoring function. To estimate
+      residue contacts robustly, PyLipID uses a dual-cutoff scheme to
+      differentiate between lipid conformational rearrangements whilst bound
+      from full dissociation events. In addition to the characterization of
+      protein-lipid interactions, PyLipID is applicable to analysis of the
+      interactions of membrane proteins with other ligands. By combining
+      automated analysis, efficient algorithms, and open-source distribution,
+      PyLipID facilitates the systematic analysis of lipid interactions from
+      large simulation datasets of multiple species of membrane proteins.
+    authors:
+      - name: Wanling Song
+      - name: Robin A. Corey
+      - name: Bertie Ansell
+      - name: Keith Cassidy
+      - name: Michael Horrell
+      - name: Anna Duncan
+      - name: Phillip James Stansfeld
+      - name: Mark Sansom
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Thu Jul 15 20:17:51 +0000 2021
+      id: 1415767589826056200
+      id_str: "1415767589826056198"
+      text: >-
+        🔥 bioRxiv Biophysics preprint by W. Song et al:
+
+
+        "PyLipID: A Python package for analysis of protein-lipid interacti… https://t.co/Gd8YLQUybA
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/Gd8YLQUybA
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
