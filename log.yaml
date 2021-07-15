@@ -44926,3 +44926,149 @@
           - url: https://t.co/Lelsrg8TMP
       in_reply_to_status_id: 1415678172935327700
       in_reply_to_status_id_str: "1415678172935327754"
+- preprint:
+    id: "136537"
+    doi: 10.1101/2021.04.03.437906
+    first_posted: 2021-04-05
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.04.03.437906v1
+    url: https://api.rxivist.org/v1/papers/136537
+    title: Design considerations for workflow management systems use in production
+      genomics research and the clinic
+    category: bioinformatics
+    abstract: 'Background: The changing landscape of genomics research and clinical
+      practice has created a need for computational pipelines capable of
+      efficiently orchestrating complex analysis stages while handling large
+      volumes of data across heterogeneous computational environments. Workflow
+      Management Systems (WfMSs) are the software components employed to fill
+      this gap. Results: This work provides an approach and systematic
+      evaluation of key features of popular bioinformatics WfMSs in use today:
+      Nextflow, CWL, and WDL and some of their executors, along with Swift/T, a
+      workflow manager commonly used in high-scale physics applications. We
+      employed two use cases: a variant-calling genomic pipeline and a
+      scalability-testing framework, where both were run locally, on an HPC
+      cluster, and in the cloud. This allowed for evaluation of those four WfMSs
+      in terms of language expressiveness, modularity, scalability, robustness,
+      reproducibility, interoperability, ease of development, along with
+      adoption and usage in research labs and healthcare settings. This article
+      is trying to answer, "which WfMS should be chosen for a given
+      bioinformatics application regardless of analysis type?". Conclusions: The
+      choice of a given WfMS is a function of both its intrinsic language and
+      engine features. Within bioinformatics, where analysts are a mix of dry
+      and wet lab scientists, the choice is also governed by collaborations and
+      adoption within large consortia and technical support provided by the WfMS
+      team/community. As the community and its needs continue to evolve along
+      with computational infrastructure, WfMSs will also evolve, especially
+      those with permissive licenses that allow commercial use. In much the same
+      way as the dataflow paradigm and containerization are now well understood
+      to be very useful in bioinformatics applications, we will continue to see
+      innovations of tools and utilities for other purposes, like big data
+      technologies, interoperability, and provenance.'
+    authors:
+      - name: Azza E Ahmed
+        orcid: http://orcid.org/0000-0002-1358-8371
+      - name: Joshua Allen
+        orcid: null
+      - name: Tajesvi Bhat
+        orcid: null
+      - name: Prakruthi Burra
+        orcid: http://orcid.org/0000-0002-1502-8095
+      - name: Christina E Fliege
+        orcid: null
+      - name: Steven N Hart
+        orcid: http://orcid.org/0000-0001-7714-2734
+      - name: Jacob R Heldenbrand
+        orcid: null
+      - name: Matthew E Hudson
+        orcid: http://orcid.org/0000-0002-4737-0936
+      - name: Dave Deandre Istanto
+        orcid: null
+      - name: Michael T Kalmbach
+        orcid: null
+      - name: Gregory D. Kapraun
+        orcid: null
+      - name: Katherine I. Kendig
+        orcid: null
+      - name: Matthew Charles Kendzior
+        orcid: null
+      - name: Eric W Klee
+        orcid: http://orcid.org/0000-0003-2946-5795
+      - name: Nate Mattson
+        orcid: null
+      - name: Christian A Ross
+        orcid: http://orcid.org/0000-0002-4157-3951
+      - name: Sami M Sharif
+        orcid: null
+      - name: Ramshankar Venkatakrishnan
+        orcid: http://orcid.org/0000-0001-8539-8115
+      - name: Faisal M Fadlelmola
+        orcid: http://orcid.org/0000-0001-8351-264X
+      - name: Liudmila Sergeevna Mainzer
+        orcid: http://orcid.org/0000-0001-7121-0214
+  comment:
+    dislikes: 0
+    thread: "8466513971"
+    numReports: 0
+    likes: 0
+    id: "5456853410"
+    createdAt: 2021-07-15T15:34:34
+    author:
+      username: disqus_mSccjj7oYN
+      about: ""
+      name: Azza Ahmed
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_mSccjj7oYN/
+      url: https://www.facebook.com/app_scoped_user_id/YXNpZADpBWEhVNVB6d092czhGcHVpN3dEbFJJN2JFOTRMQW5MTE9WNVVFN3daUENncDhIU0E3bi12a2xvcGw3TDRBa2MtdEU5dTJxMVk3QWdvZAm91aV9OZAGlpdXJLZADAzbkFYcGFpa3lv
+      location: ""
+      id: "187794365"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Thank you much for the valuable comments. We noticed the `queueSize`
+      directive after having finished our testing phase, and it was too late
+      then, hence we reported this possibility in this version.
+
+
+
+      We have now re-done the scalability benchmarks with more recent versions of the runners, and for Nextflow, using the `queueSize` in tandem with the `maxForks` directive. The results we obtained were done on our HPC in a repeated set of 5 experiments (https://github.com/azzaea/scalability-tst#references). To some extent, we still see the same general patterns in terms of which runner is faster, and how runners distribute tasks across nodes. Admittedly though, we did not run these experiments on AWS, so we did not reach the previously tested high limits of performance.
+
+
+
+      That said, a nice realization from these re-runs is the improved performance overall obtained by the new versions of the tools- kudos to all the developers and the community indeed!
+
+
+
+      Finally, an update version of the manuscript should be up promptly as well, with these edits and others (and our apologies for mis-writing your last name @pditommaso:disqus).
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.04.03.437906v1
+  tweets:
+    - created_at: Thu Jul 15 16:31:29 +0000 2021
+      id: 1415710620280889300
+      id_str: "1415710620280889345"
+      text: >-
+        💬 bioRxiv comment on "Design considerations for work..."
+
+
+        "Thank you much for the valuable comments. We noticed the… https://t.co/6FmdZN1AAb
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/6FmdZN1AAb
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jul 15 16:31:29 +0000 2021
+      id: 1415710621061025800
+      id_str: "1415710621061025797"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/uR9zjl4BxP
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/uR9zjl4BxP
+      in_reply_to_status_id: 1415710620280889300
+      in_reply_to_status_id_str: "1415710620280889345"
