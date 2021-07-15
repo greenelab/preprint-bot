@@ -45421,3 +45421,97 @@
           - url: https://t.co/24JaAs6eeq
       in_reply_to_status_id: 1415768077552078800
       in_reply_to_status_id_str: "1415768077552078850"
+- preprint:
+    id: "124277"
+    doi: 10.1101/2020.12.18.20245068
+    first_posted: 2020-12-22
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2020.12.18.20245068v1
+    url: https://api.rxivist.org/v1/papers/124277
+    title: Bayesian modeling for the detection of adverse events underreporting in
+      clinical trials
+    category: health-systems-and-quality-improvement
+    abstract: Introduction Safety underreporting is a recurrent issue in clinical
+      trials that can impact patient safety and data integrity. Clinical Quality
+      Assurance (QA) practices used to detect underreporting rely on on-site
+      audits, however adverse events underreporting remains a recurrent issue.
+      In a recent project, we developed a predictive model that enables
+      oversight of Adverse Event (AE) reporting for clinical Quality Program
+      Leads (QPL). However, there were limitations to using solely a machine
+      learning model. Objective Our primary objective was to propose a robust
+      method to compute the probability of AE underreporting that could
+      complement our machine learning model. Our model was developed to enhance
+      patients safety while reducing the need for on-site and manual QA
+      activities in clinical trials. Methods We used a Bayesian hierarchical
+      model to estimate the site reporting rates and assess the risk of
+      underreporting. We designed the model with Project Data Sphere clinical
+      trial data that is public and anonymized. Results We built a model that
+      infers the site reporting behavior from patient-level observations and
+      compares them across a study to enable a robust detection of outliers
+      between clinical sites. Conclusion The new model will be integrated into
+      the current dashboard designed for clinical Quality Program Leads. This
+      approach reduces the need for on-site audits, shifting focus from source
+      data verification (SDV) to pre-identified, higher risk areas. It will
+      enhance further quality assurance activities for safety reporting from
+      clinical trials and generate quality evidence during pre-approval
+      inspections.
+    authors:
+      - name: Yves Barmaz
+        orcid: http://orcid.org/0000-0003-1600-9010
+      - name: Timothé Ménard
+        orcid: http://orcid.org/0000-0003-4545-6944
+  comment:
+    dislikes: 0
+    thread: "8517637937"
+    numReports: 0
+    likes: 0
+    id: "5456461267"
+    createdAt: 2021-07-15T07:33:35
+    author:
+      username: timothemenard
+      about: ""
+      name: Timothe Menard
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/timothemenard/
+      url: ""
+      location: ""
+      id: "372362362"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: It has been published in<a
+      href="https://www.springer.com/journal/40264"> Drug Safety</a> and is now
+      available <a href="https://doi.org/10.1007/s40264-021-01094-8">online</a>
+      - DOI:10.1007/s40264-021-01094-8
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2020.12.18.20245068v2
+  tweets:
+    - created_at: Thu Jul 15 22:19:22 +0000 2021
+      id: 1415798170412540000
+      id_str: "1415798170412539905"
+      text: >-
+        💬 medRxiv comment on "Bayesian modeling for the dete..."
+
+
+        "It has been published in&lt;a href=" Drug Safety&lt;/a&gt; and is… https://t.co/3C3t6mpeIV
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/3C3t6mpeIV
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jul 15 22:19:22 +0000 2021
+      id: 1415798171385614300
+      id_str: "1415798171385614336"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/jW1tTmHkxD
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/jW1tTmHkxD
+      in_reply_to_status_id: 1415798170412540000
+      in_reply_to_status_id_str: "1415798170412539905"
