@@ -44581,3 +44581,146 @@
           - url: https://t.co/ifdUoU85Ao
       in_reply_to_status_id: 1415435777425789000
       in_reply_to_status_id_str: "1415435777425788929"
+- preprint:
+    id: "132226"
+    doi: 10.1101/2021.02.26.21252546
+    first_posted: 2021-03-01
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.02.26.21252546v1
+    url: https://api.rxivist.org/v1/papers/132226
+    title: "The accuracy of novel antigen rapid diagnostics for SARS-CoV-2: a living
+      systematic review and meta-analysis."
+    category: infectious-diseases
+    abstract: "Background: SARS-CoV-2 antigen rapid diagnostic tests (Ag-RDTs) are
+      increasingly being inte-grated in testing strategies around the world.
+      Studies of the Ag-RDTs have shown variable performance. In this systematic
+      review and meta-analysis, we assessed the clinical accuracy (sensi-tivity
+      and specificity) of commercially available Ag-RDTs. Methods: We registered
+      the review on PROSPERO (Registration number: CRD42020225140). We
+      systematically searched multiple databases (PubMed, Web of Science Core
+      Collection, medRvix and bioRvix, FINDdx) for publications up until
+      December 11th, 2020. Descriptive analyses of all studies were performed
+      and when more than four studies were avail-able, a random-effects
+      meta-analysis was used to estimate pooled sensitivity and specificity in
+      comparison to reverse transcriptase polymerase chain reaction testing. We
+      assessed heterogeneity by subgroup analyses ((1) performed conform with
+      manufacturers instructions for use (IFU) or not, (2) symptomatic vs.
+      asymptomatic, (3) duration of symptoms less than seven days vs. more than
+      seven days, (4) Ct-value <25 vs. <30 vs. >30, (5) by sample type)) and
+      with meta-regression. We assessed study quality and risk of bias using the
+      QUADAS 2 assessment tool. Results: From a total of 11,715 articles, we
+      extracted 98 analytical and clinical data sets. 74 clinical accuracy data
+      sets were evaluated that included 31,202 samples. Across all meta-analyzed
+      samples, the pooled Ag-RDT sensitivity was 73.8% (CI 68.6 to 78.5). If
+      analysis was re-stricted to studies that followed the Ag-RDT manufacturers
+      instructions using fresh upper res-piratory swab samples, the sensitivity
+      increased to 79.1% (95%CI 75.0 to 82.8). The SD Biosensor Standard Q and
+      Abbott Panbio showed the highest sensitivity with 81.7% and 72.7%,
+      respectively. The best Ag-RDT performance was found with nasopharyngeal
+      sampling (77.3%, CI 72.0 to 81.9) in comparison to other sample types
+      (e.g., anterior nasal or mid turbinate 63.5%, CI 49.5 to 75.5). Testing in
+      the first week from symptom onset resulted in higher sensitivity (87.5%,
+      CI 86.0 to 89.1) compared to testing after one week (64.1%, CI 54.4 to
+      73.8). The tests performed markedly better on samples with lower
+      Ct-values, i.e., <30 (87.9%, CI 86.7 to 88.8), in comparison to those with
+      Ct >30 (47.8%, CI 41.1 to 54.5). Bias concerns were raised across all data
+      sets, and financial support from the manufacturer was reported in 28.2% of
+      data sets. Conclusion: As Ag-RDTs detect most cases within the first week
+      of symptom onset and those with high viral load, they can have high
+      utility for screening purposes in the early phase of disease, and thus can
+      be a valuable tool to fight the spread of SARS-CoV-2. Standardization of
+      con-duct and reporting of clinical accuracy studies would improve
+      comparability and use of data."
+    authors:
+      - name: Lukas E Bruemmer
+        orcid: http://orcid.org/0000-0002-8812-7975
+      - name: Stephan Katzenschlager
+        orcid: http://orcid.org/0000-0003-4977-7999
+      - name: Mary Gaeddert
+        orcid: http://orcid.org/0000-0002-6713-3495
+      - name: Christian Erdmann
+        orcid: null
+      - name: Stephani Schmitz
+        orcid: null
+      - name: Marc Bota
+        orcid: null
+      - name: Maurizio Grilli
+        orcid: null
+      - name: Jan Larmann
+        orcid: null
+      - name: Markus A. Weigand
+        orcid: null
+      - name: Nira Pollock
+        orcid: http://orcid.org/0000-0002-6396-2915
+      - name: Aurelien Mace
+        orcid: http://orcid.org/0000-0002-3282-1650
+      - name: Sergio Carmona
+        orcid: http://orcid.org/0000-0002-6792-4748
+      - name: Stefano Ongarello
+        orcid: http://orcid.org/0000-0002-0032-0691
+      - name: Jilian A. Sacks
+        orcid: http://orcid.org/0000-0003-4815-4693
+      - name: Claudia M Denkinger
+        orcid: http://orcid.org/0000-0002-7216-7067
+  comment:
+    dislikes: 0
+    thread: "8603310880"
+    numReports: 0
+    likes: 0
+    id: "5455770286"
+    createdAt: 2021-07-14T18:07:08
+    author:
+      username: alexanderdomnich
+      about: ""
+      name: Alexander Domnich
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/alexanderdomnich/
+      url: ""
+      location: ""
+      id: "372336688"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      It seems that this SRMA lacks of data elaboration/transformation procedure
+      at all. For instance, in our paper (icluded in this review) it has been
+      clearly stated that no false positive results were detected. It is
+      therefore obvious that the specificity is 100%. The overall specificity
+      with 95% CIs was reported "The overall sensitivity and specificity were
+      therefore 78.7% (95% CI: 73.2%–83.3%) and 100% (95% CI: 94.7%–100%),
+      respectively". The authors instead stated that the specificity estimate
+      was not reported. I agree that we had not reported the 100% specificity
+      for each test analyzed in order to save the space. To us, it was clear.
+       You only needed to calculate the 95% CI from the available raw data.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.02.26.21252546v2
+  tweets:
+    - created_at: Thu Jul 15 01:03:41 +0000 2021
+      id: 1415477134739579000
+      id_str: "1415477134739578881"
+      text: >-
+        💬 medRxiv comment on "The accuracy of novel antigen ..."
+
+
+        "It seems that this SRMA lacks of data elaboration/transf… https://t.co/eSLQRCe219
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/eSLQRCe219
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jul 15 01:03:42 +0000 2021
+      id: 1415477135611940900
+      id_str: "1415477135611940864"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/bR6lsdNZaY
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/bR6lsdNZaY
+      in_reply_to_status_id: 1415477134739579000
+      in_reply_to_status_id_str: "1415477134739578881"
