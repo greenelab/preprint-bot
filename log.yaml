@@ -44842,3 +44842,87 @@
           - url: https://t.co/ifdUoTQubO
       in_reply_to_status_id: 1415650332743397400
       in_reply_to_status_id_str: "1415650332743397383"
+- preprint:
+    id: "116729"
+    doi: 10.1101/2020.09.16.20195826
+    first_posted: 2020-09-18
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2020.09.16.20195826v1
+    url: https://api.rxivist.org/v1/papers/116729
+    title: Modeling the Spread and Control of COVID-19
+    category: epidemiology
+    abstract: Data-centric models of COVID-19 have been tried, but have certain
+      limitations. In this work, we propose an agent-based model of the epidemic
+      in a confined space of agents representing humans. An extension to the
+      SEIR model allows us to consider the difference between the appearance
+      (black-box view) of the spread of disease, and the real situation
+      (glass-box view). Our model allows for simulations of lockdowns, social
+      distancing, personal hygiene, quarantine, and hospitalization, with
+      further considerations of different parameters such as the extent to which
+      hygiene and social distancing are observed in a population. Our results
+      give qualitative indications of the effects of various policies and
+      parameters; for instance, that lockdowns by themselves are extremely
+      unlikely to bring an end to an epidemic and may indeed make things worse,
+      that social distancing matters more than personal hygiene, and that the
+      growth of infection comes down significantly for moderately high levels of
+      social distancing and hygiene, even in the absence of herd immunity.
+    authors:
+      - name: Ashutosh Trivedi
+        orcid: null
+      - name: Nanda Kishore Sreenivas
+        orcid: null
+      - name: Shrisha Rao
+        orcid: http://orcid.org/0000-0003-0625-5103
+  comment:
+    dislikes: 0
+    thread: "8241024397"
+    numReports: 0
+    likes: 0
+    id: "5455702742"
+    createdAt: 2021-07-14T17:14:11
+    author:
+      username: shrisharao
+      about: ""
+      name: Shrisha Rao
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/shrisharao/
+      url: ""
+      location: ""
+      id: "338764632"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: This paper has been published as
+      https://doi.org/10.3390/systems9030053 -- refer/cite that version only.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2020.09.16.20195826v2
+  tweets:
+    - created_at: Thu Jul 15 14:22:33 +0000 2021
+      id: 1415678172935327700
+      id_str: "1415678172935327754"
+      text: >-
+        💬 medRxiv comment on "Modeling the Spread and Contro..."
+
+
+        "This paper has been published as  -- refer/cite that ver… https://t.co/AlXIOPXwKj
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/AlXIOPXwKj
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jul 15 14:22:33 +0000 2021
+      id: 1415678174092939300
+      id_str: "1415678174092939268"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/Lelsrg8TMP
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/Lelsrg8TMP
+      in_reply_to_status_id: 1415678172935327700
+      in_reply_to_status_id_str: "1415678172935327754"
