@@ -45264,3 +45264,160 @@
           - url: https://t.co/Gd8YLQUybA
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "147602"
+    doi: 10.1101/2021.06.24.21259283
+    first_posted: 2021-06-25
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.24.21259283v1
+    url: https://api.rxivist.org/v1/papers/147602
+    title: "Diet quality and risk and severity of COVID-19: a prospective cohort
+      study"
+    category: nutrition
+    abstract: "Objective: Poor metabolic health and certain lifestyle factors have
+      been associated with risk and severity of coronavirus disease 2019
+      (COVID-19), but data for diet are lacking. We aimed to investigate the
+      association of diet quality with risk and severity of COVID-19 and its
+      intersection with socioeconomic deprivation. Design: We used data from
+      592,571 participants of the smartphone-based COVID Symptom Study. Diet
+      quality was assessed using a healthful plant-based diet score, which
+      emphasizes healthy plant foods such as fruits or vegetables. Multivariable
+      Cox models were fitted to calculate hazard ratios (HR) and 95% confidence
+      intervals (95% CI) for COVID-19 risk and severity defined using a
+      validated symptom-based algorithm or hospitalization with oxygen support,
+      respectively. Results: Over 3,886,274 person-months of follow-up, 31,815
+      COVID-19 cases were documented. Compared with individuals in the lowest
+      quartile of the diet score, high diet quality was associated with lower
+      risk of COVID-19 (HR, 0.91; 95% CI, 0.88-0.94) and severe COVID-19 (HR,
+      0.59; 95% CI, 0.47-0.74). The joint association of low diet quality and
+      increased deprivation on COVID-19 risk was higher than the sum of the risk
+      associated with each factor alone (Pinteraction=0.005). The corresponding
+      absolute excess rate for lowest vs highest quartile of diet score was 22.5
+      (95% CI, 18.8-26.3) and 40.8 (95% CI, 31.7-49.8; 10,000 person-months)
+      among persons living in areas with low and high deprivation, respectively.
+      Conclusions: A dietary pattern characterized by healthy plant-based foods
+      was associated with lower risk and severity of COVID-19. These association
+      may be particularly evident among individuals living in areas with higher
+      socioeconomic deprivation."
+    authors:
+      - name: Jordi Merino
+        orcid: http://orcid.org/0000-0001-8312-1438
+      - name: Amit D. Joshi
+        orcid: null
+      - name: Long Nguyen
+        orcid: http://orcid.org/0000-0002-5436-4219
+      - name: Emily Leeming
+        orcid: null
+      - name: David Alden Drew
+        orcid: null
+      - name: Rachel Gibson
+        orcid: http://orcid.org/0000-0002-5823-6468
+      - name: Mark S Graham
+        orcid: http://orcid.org/0000-0002-4170-1095
+      - name: Mohsen Mazidi
+        orcid: http://orcid.org/0000-0003-3059-229X
+      - name: Chun-Han Lo
+        orcid: http://orcid.org/0000-0001-8202-4513
+      - name: Joan Capdevila
+        orcid: null
+      - name: Ben Murray
+        orcid: null
+      - name: christina hu
+        orcid: null
+      - name: Somesh Selvachandran
+        orcid: null
+      - name: Sohee Kwon
+        orcid: http://orcid.org/0000-0002-4201-9522
+      - name: Wenjie MA
+        orcid: null
+      - name: Cristina Menni
+        orcid: http://orcid.org/0000-0001-9790-0571
+      - name: Alexander Hammers
+        orcid: http://orcid.org/0000-0001-9530-4848
+      - name: Shilpa Bhupathiraju
+        orcid: null
+      - name: Shreela Sharma
+        orcid: null
+      - name: Carole Sudre
+        orcid: null
+      - name: Christina M Astley
+        orcid: http://orcid.org/0000-0002-5063-8470
+      - name: Walter Willett
+        orcid: null
+      - name: Jorge Chavarro
+        orcid: null
+      - name: Seb Ourselin
+        orcid: null
+      - name: Claire Steves
+        orcid: null
+      - name: Jonathan Wolf
+        orcid: http://orcid.org/0000-0002-0530-2257
+      - name: Paul W Franks
+        orcid: http://orcid.org/0000-0002-0520-7604
+      - name: Timothy Spector
+        orcid: http://orcid.org/0000-0002-9795-0365
+      - name: Sarah Berry
+        orcid: null
+      - name: Andrew T. Chan
+        orcid: http://orcid.org/0000-0001-7284-6767
+  comment:
+    dislikes: 0
+    thread: "8614872167"
+    numReports: 0
+    likes: 0
+    id: "5456473815"
+    createdAt: 2021-07-15T07:57:35
+    author:
+      username: johnlambiase
+      about: ""
+      name: John Lambiase
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/johnlambiase/
+      url: ""
+      location: ""
+      id: "348484864"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      What's truly interesting is that no one is talking about Fructose and
+      refined sugar  activating long term NLRP3 inflammasome in the Monocyte
+      which reprograms the monocyte on a path of inflammation and upregulation
+      of Reactive oxygen species which lowers nitric oxide in Endothelium.  Sars
+      CoV-2 seems to have a knack of exploiting and exacerbating this chronic
+      inflammation in patients leading to an acute medical malody.  
+
+
+      What deactivates NLRP3 inflammasome?  Olive Oil, Melatonin, Vitamin D Fish Oil, Resveritrol, Quercetin etal.  Been taking doses of Oleic Acid for months because of all the research I was finding.  Cashews high in Oleic Acid.  If this all comes down to Anti Oxidants vs Oxidants then medicine is going to have serious explaining to do.  Unfortunately that would never get out.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.06.24.21259283v1
+  tweets:
+    - created_at: Thu Jul 15 20:19:48 +0000 2021
+      id: 1415768077552078800
+      id_str: "1415768077552078850"
+      text: >-
+        💬 medRxiv comment on "Diet quality and risk and seve..."
+
+
+        "What's truly interesting is that no one is talking about… https://t.co/eJsUCTt9YF
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/eJsUCTt9YF
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jul 15 20:19:48 +0000 2021
+      id: 1415768078537822200
+      id_str: "1415768078537822210"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/24JaAs6eeq
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/24JaAs6eeq
+      in_reply_to_status_id: 1415768077552078800
+      in_reply_to_status_id_str: "1415768077552078850"
