@@ -45916,3 +45916,141 @@
           - url: https://t.co/5MGQEuR3y8
       in_reply_to_status_id: 1416040539921784800
       in_reply_to_status_id_str: "1416040539921784835"
+- preprint:
+    id: "150159"
+    doi: 10.1101/2021.07.10.21260232
+    first_posted: 2021-07-14
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.07.10.21260232v1
+    url: https://api.rxivist.org/v1/papers/150159
+    title: SARS-CoV-2 variants of concern exhibit reduced sensitivity to live-virus
+      neutralization in sera from CoronaVac vaccinees and naturally infected
+      COVID-19 patients
+    category: infectious-diseases
+    abstract: Recent surges in SARS-CoV-2 variants of concern (VOCs) call for the
+      need to evaluate levels of vaccine- and infection- induced SARS-CoV-2
+      neutralizing antibodies (NAbs). CoronaVac (Sinovac Biotech, Beijing,
+      China) is currently being used for mass vaccination in Thailand as well as
+      other low-income countries. Three VOCs currently circulating within
+      Thailand include the B.1.1.7 (Alpha), B.1.351 (Beta), and B.1.617.2
+      (Delta) strains. We assessed NAb potency against the prototypic strain
+      containing the original spike sequence (WT) compared to that against the 3
+      VOCs using sera derived from a cohort of healthcare workers who received a
+      full 2-dose regimen of CoronaVac. Sera from two other cohorts consisting
+      of COVID-19 patients who had been hospitalized in 2020 and 2021 were
+      evaluated for comparison. We found that, despite equally robust production
+      of S1-RBD-binding IgG and 100% seropositivity, sera from both CoronaVac
+      vaccinees and naturally infected individuals had significantly reduced
+      neutralizing capacity against all 3 VOCs compared to WT. Strikingly, NAb
+      titers against Alpha and Beta were comparable, but Delta appears to be
+      significantly more refractory to NAbs in all groups. Our results may help
+      inform on CoronaVac NAb-inducing capacity, which is a proxy for vaccine
+      efficacy, in the context of the WT strain and 3 VOCs. Our results also
+      have critical implications for public health decisionmakers who may need
+      to maintain efficient mitigation strategies amid a potentially high risk
+      for infection with VOCs even in those who have been previously infected.
+    authors:
+      - name: Vimvara Vacharathit
+        orcid: http://orcid.org/0000-0002-5173-8238
+      - name: Pakorn Aiewsakun
+        orcid: http://orcid.org/0000-0002-5665-4041
+      - name: Suwimon Manopwisedjaroen
+        orcid: http://orcid.org/0000-0002-7571-8733
+      - name: Chanya Srisaowakarn
+        orcid: http://orcid.org/0000-0003-3652-4757
+      - name: Thanida Laopanupong
+        orcid: http://orcid.org/0000-0003-3589-0843
+      - name: Natali Ludowyke
+        orcid: http://orcid.org/0000-0001-9159-450X
+      - name: Angsana Phuphuakrat
+        orcid: http://orcid.org/0000-0003-2474-1850
+      - name: Chavachol Setthaudom
+        orcid: http://orcid.org/0000-0001-8821-9143
+      - name: Supanuch Ekronarongchai
+        orcid: http://orcid.org/0000-0003-2231-2163
+      - name: Sirawat Srichatrapimuk
+        orcid: http://orcid.org/0000-0001-9649-6191
+      - name: Pattama Wongsirisin
+        orcid: http://orcid.org/0000-0001-7884-2484
+      - name: Suleeporn Sangrajrang
+        orcid: http://orcid.org/0000-0003-2653-6383
+      - name: Thanarath Imsuwansri
+        orcid: http://orcid.org/0000-0001-5133-7488
+      - name: Suppachok Kirdlarp
+        orcid: http://orcid.org/0000-0003-3444-4796
+      - name: Sureeporn Nualkaew
+        orcid: null
+      - name: Insee Sensorn
+        orcid: http://orcid.org/0000-0002-1283-5799
+      - name: Waritta Sawaengdee
+        orcid: http://orcid.org/0000-0002-3982-1434
+      - name: Nuanjun Wichukchinda
+        orcid: http://orcid.org/0000-0002-9801-3111
+      - name: Somnuek Sungkanuparph
+        orcid: http://orcid.org/0000-0002-1055-2963
+      - name: Wasun Chantratita
+        orcid: http://orcid.org/0000-0002-8821-3945
+      - name: Mongkol Kunakorn
+        orcid: http://orcid.org/0000-0002-1214-2861
+      - name: Jinda Rojanamatin
+        orcid: null
+      - name: Suradej Hongeng
+        orcid: http://orcid.org/0000-0002-7376-9393
+      - name: Arunee Thitithanyanont
+        orcid: http://orcid.org/0000-0002-9756-4763
+  comment:
+    dislikes: 0
+    thread: "8648020596"
+    numReports: 0
+    likes: 0
+    id: "5456901526"
+    createdAt: 2021-07-15T16:14:14
+    author:
+      username: tanavijjoobpannoi
+      about: ""
+      name: Tanavij Joob Pannoi
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/tanavijjoobpannoi/
+      url: ""
+      location: ""
+      id: "372378851"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: I am wondering about the total number of recruited participants
+      divided by VOC, particularly in figure 2A, while, the results  from linear
+      mixed model were not reported elsewhere. Researchers should provide more
+      details of study limitations since it could be published on social media,
+      while, many audience might misinterpret or exaggerate the result.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.07.10.21260232v1
+  tweets:
+    - created_at: Fri Jul 16 16:32:02 +0000 2021
+      id: 1416073148814958600
+      id_str: "1416073148814958592"
+      text: >-
+        💬 medRxiv comment on "SARS-CoV-2 variants of concern..."
+
+
+        "I am wondering about the total number of recruited parti… https://t.co/vg515sYm4g
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/vg515sYm4g
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jul 16 16:32:02 +0000 2021
+      id: 1416073149733490700
+      id_str: "1416073149733490702"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/LeJWMPXPvC
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/LeJWMPXPvC
+      in_reply_to_status_id: 1416073148814958600
+      in_reply_to_status_id_str: "1416073148814958592"
