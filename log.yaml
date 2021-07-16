@@ -45515,3 +45515,145 @@
           - url: https://t.co/jW1tTmHkxD
       in_reply_to_status_id: 1415798170412540000
       in_reply_to_status_id_str: "1415798170412539905"
+- preprint:
+    id: "149993"
+    doi: 10.1101/2021.07.13.452179
+    first_posted: 2021-07-14
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.13.452179v1
+    url: https://api.rxivist.org/v1/papers/149993
+    title: Long-read isoform sequencing reveals tissue-specific isoform expression
+      between active and hibernating brown bears (Ursus arctos)
+    category: genomics
+    abstract: Understanding hibernation in brown bears (Ursus arctos) can provide
+      insight into many human diseases. During hibernation, brown bears
+      experience states of insulin resistance, physical inactivity, extreme
+      bradycardia, obesity, and the absence of urine production. These states
+      closely mimic human diseases such as type 2 diabetes, muscle atrophy,
+      renal and heart failure, cachexia, and obesity. The reversibility of these
+      states from hibernation to active season allows for the identification of
+      novel mediators with possible therapeutic value for humans. Recent studies
+      have identified genes and pathways that are differentially expressed
+      between active and hibernation seasons. However, little is known about the
+      role of differential expression of gene isoforms on hibernation
+      physiology. To identify both distinct and novel mRNA isoforms, we
+      performed full-length RNA-sequencing (Iso-Seq) on three tissue types from
+      three individuals sampled during both active and hibernation seasons. We
+      combined the long-read data with the reference annotation for an improved
+      transcriptome and mapped RNA-seq data from six individuals to the improved
+      transcriptome to quantify differential isoform usage between tissues and
+      seasons. We identified differentially expressed isoforms in all study
+      tissues and showed that adipose has a high level of differential isoform
+      usage with isoform switching, regardless of whether the genes were
+      differentially expressed. Our analyses provide a comprehensive evaluation
+      of isoform usage between active and hibernation states, revealing that
+      differential isoform usage, even in the absence of differential gene
+      expression, is an important mechanism for modulating genes during
+      hibernation. These findings demonstrate the value of isoform expression
+      studies and will serve as the basis for deeper exploration into
+      hibernation biology.
+    authors:
+      - name: Elizabeth Tseng
+        orcid: http://orcid.org/0000-0002-1074-5095
+      - name: Jason G Underwood
+        orcid: null
+      - name: Brandon D Evans Hutzenbiler
+        orcid: null
+      - name: Shawn Trojahn
+        orcid: null
+      - name: Brewster Kingham
+        orcid: http://orcid.org/0000-0003-3862-7442
+      - name: Olga Shevchenko
+        orcid: null
+      - name: Erin Bernberg
+        orcid: null
+      - name: Charles T Robbins
+        orcid: null
+      - name: Heiko T. Jansen
+        orcid: http://orcid.org/0000-0003-0178-396X
+      - name: Joanna L. Kelley
+        orcid: http://orcid.org/0000-0002-7731-605X
+  comment:
+    dislikes: 0
+    thread: "8647389057"
+    numReports: 0
+    likes: 0
+    id: "5456441626"
+    createdAt: 2021-07-15T06:54:53
+    author:
+      username: marcrobinsonrechavi
+      about: ""
+      name: Marc RobinsonRechavi
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/marcrobinsonrechavi/
+      url: ""
+      location: ""
+      id: "67492738"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      The github referenced in this manuscript is empty:
+
+
+
+
+
+
+
+
+
+      <blockquote>The code for this project is available at: https://github.com/jokelley/brownbear-isoseq-act-hib</blockquote>
+
+
+
+
+
+
+
+
+
+      At this url I only find a README which contains the title of this manuscript.
+
+
+
+
+
+
+
+
+
+      This is a publication, i.e. it is made public as part of the scientific record and is citable, thus I strongly invite the authors to make the corresponding code available without delay.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.07.13.452179v1
+  tweets:
+    - created_at: Fri Jul 16 01:03:22 +0000 2021
+      id: 1415839443257286700
+      id_str: "1415839443257286660"
+      text: |-
+        💬 bioRxiv comment on "Long-read isoform sequencing r..."
+
+        "The github referenced in this manuscript is empty:
+
+        &lt;blo… https://t.co/6yagDrRQqp
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/6yagDrRQqp
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jul 16 01:03:23 +0000 2021
+      id: 1415839444175831000
+      id_str: "1415839444175831041"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/p3SbpoWpUE
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/p3SbpoWpUE
+      in_reply_to_status_id: 1415839443257286700
+      in_reply_to_status_id_str: "1415839443257286660"
