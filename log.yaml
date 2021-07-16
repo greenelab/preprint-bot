@@ -46054,3 +46054,96 @@
           - url: https://t.co/LeJWMPXPvC
       in_reply_to_status_id: 1416073148814958600
       in_reply_to_status_id_str: "1416073148814958592"
+- preprint:
+    id: 95186
+    metric: 17
+    title: Towards Reproducible Brain-Wide Association Studies
+    url: https://api.rxivist.org/v1/papers/95186
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.08.21.257758v1
+    doi: 10.1101/2020.08.21.257758
+    category: neuroscience
+    first_posted: 2020-08-22
+    abstract: >-
+      Magnetic resonance imaging (MRI) continues to drive many important
+      neuroscientific advances. However, progress in uncovering reproducible
+      associations between individual differences in brain structure/function
+      and behavioral phenotypes (e.g., cognition, mental health) may have been
+      undermined by typical neuroimaging sample sizes (median N=25)1,2.
+      Leveraging the Adolescent Brain Cognitive Development (ABCD) Study3
+      (N=11,878), we estimated the effect sizes and reproducibility of these
+      brain wide associations studies (BWAS) as a function of sample size. The
+      very largest, replicable brain wide associations for univariate and
+      multivariate methods were r=0.14 and r=0.34, respectively. In smaller
+      samples, typical for brain wide association studies, irreproducible,
+      inflated effect sizes were ubiquitous, no matter the method (univariate,
+      multivariate). Until sample sizes started to approach consortium levels,
+      BWAS were underpowered and statistical errors assured. Multiple factors
+      contribute to replication failures4,5,6; here, we show that the pairing of
+      small brain behavioral phenotype effect sizes with sampling variability is
+      a key element in widespread BWAS replication failure. Brain behavioral
+      phenotype associations stabilize and become more reproducible with sample
+      sizes of N>2,000. While investigator initiated brain behavior research
+      continues to generate hypotheses and propel innovation, large consortia
+      are needed to usher in a new era of reproducible human brain wide
+      association studies.
+
+
+      ### Competing Interest Statement
+
+
+      Nico Dosenbach and Damien Fair are co-founders of Nous Imaging
+    authors:
+      - name: Scott Marek
+      - name: Brenden Tervo-Clemmens
+      - name: Finnegan J. Calabro
+      - name: David F. Montez
+      - name: Benjamin P. Kay
+      - name: Alexander Hatoum
+      - name: Meghan Rose Donohue
+      - name: William Foran
+      - name: Ryland L. Miller
+      - name: Eric Feczko
+      - name: Oscar Miranda Dominguez
+      - name: Alice Graham
+      - name: Eric A. Earl
+      - name: Anders Perrone
+      - name: Michaela Cordova
+      - name: Olivia Doyle
+      - name: Lucille A. Moore
+      - name: Greg Conan
+      - name: Johnny Uriarte
+      - name: Kathy Snider
+      - name: Angela Tam
+      - name: Jianzhong Chen
+      - name: Dillan J. Newbold
+      - name: Annie Zheng
+      - name: Nicole A. Seider
+      - name: Andrew N. Van
+      - name: Timothy O. Laumann
+      - name: Wesley K Thompson
+      - name: Deanna J. Greene
+      - name: Steven E. Petersen
+      - name: Thomas Nichols
+      - name: B.T. Thomas Yeo
+      - name: Deanna M Barch
+      - name: Hugh Garavan
+      - name: Beatriz Luna
+      - name: Damien A. Fair
+      - name: Nico UF Dosenbach
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Fri Jul 16 20:16:00 +0000 2021
+      id: 1416129512744669200
+      id_str: "1416129512744669196"
+      text: >-
+        🔥 bioRxiv Neuroscience preprint by S. Marek et al:
+
+
+        "Towards Reproducible Brain-Wide Association Studies"… https://t.co/pPkHjZ9jW1
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/pPkHjZ9jW1
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
