@@ -46867,3 +46867,89 @@
           - url: https://t.co/B5DO7aAXhF
       in_reply_to_status_id: 1416492662580994000
       in_reply_to_status_id_str: "1416492662580994052"
+- preprint:
+    id: "141058"
+    doi: 10.1101/2021.05.03.21256556
+    first_posted: 2021-05-06
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.03.21256556v1
+    url: https://api.rxivist.org/v1/papers/141058
+    title: Estimating vaccine efficacy against transmission via effect on viral load
+    category: infectious-diseases
+    abstract: Determining policies to end the SARS-CoV-2 pandemic will require an
+      understanding of the efficacy and effectiveness (hereafter, efficacy) of
+      vaccines. Beyond the efficacy against severe disease and symptomatic and
+      asymptomatic infection, understanding vaccine efficacy against
+      transmission will help model epidemic trajectory and determine appropriate
+      control measures. Recent studies have proposed using random virologic
+      testing in individual randomized controlled trials to improve estimation
+      of vaccine efficacy against infection. We propose to further use the viral
+      load measures from these tests to estimate efficacy against transmission.
+      This estimation requires a model of the relationship between viral load
+      and transmissibility and assumptions about the vaccine effect on
+      transmission and the progress of the epidemic. We describe these key
+      assumptions, potential violations of them, and solutions that can be
+      implemented to mitigate these violations. Assessing these assumptions and
+      implementing this random sampling, with viral load measures, will enable
+      better estimation of the crucial measure of vaccine efficacy against
+      transmission.
+    authors:
+      - name: Lee Kennedy-Shaffer
+        orcid: http://orcid.org/0000-0001-7604-3638
+      - name: Rebecca Kahn
+        orcid: http://orcid.org/0000-0001-9511-6142
+      - name: Marc Lipsitch
+        orcid: http://orcid.org/0000-0003-1504-9213
+  comment:
+    dislikes: 0
+    thread: "8508857455"
+    numReports: 0
+    likes: 0
+    id: "5459185054"
+    createdAt: 2021-07-17T14:18:34
+    author:
+      username: killshot
+      about: ""
+      name: killshot
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/killshot/
+      url: ""
+      location: ""
+      id: "2384202"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Make sure there is some effort to randomize according to vitamin D
+      status!  Otherwise the data is quite flawed and meaningless.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.05.03.21256556v1
+  tweets:
+    - created_at: Sat Jul 17 22:19:10 +0000 2021
+      id: 1416522895107543000
+      id_str: "1416522895107543042"
+      text: >-
+        💬 medRxiv comment on "Estimating vaccine efficacy ag..."
+
+
+        "Make sure there is some effort to randomize according to… https://t.co/blYMY9molS
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/blYMY9molS
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jul 17 22:19:10 +0000 2021
+      id: 1416522896885813200
+      id_str: "1416522896885813253"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/asraWHSyyf
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/asraWHSyyf
+      in_reply_to_status_id: 1416522895107543000
+      in_reply_to_status_id_str: "1416522895107543042"
