@@ -46147,3 +46147,107 @@
           - url: https://t.co/pPkHjZ9jW1
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "148234"
+    doi: 10.1101/2021.06.28.21259673
+    first_posted: 2021-07-01
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.28.21259673v1
+    url: https://api.rxivist.org/v1/papers/148234
+    title: Infectivity and immune escape of the new SARS-CoV-2 variant of interest
+      Lambda
+    category: infectious-diseases
+    abstract: "Background: The newly described SARS-CoV-2 lineage C.37 was recently
+      classified as a variant of interest by the WHO (Lambda variant) based on
+      its high circulation rates in South American countries and the presence of
+      critical mutations in the spike protein. The impact of such mutations in
+      infectivity and immune escape from neutralizing antibodies are entirely
+      unknown. Methods: We performed a pseudotyped virus neutralization assay
+      and determined the impact of the Lambda variant on infectivity and immune
+      escape using plasma samples from healthcare workers (HCW) from two centers
+      in Santiago, Chile who received the two-doses scheme of the inactivated
+      virus vaccine CoronaVac. Results: We observed an increased infectivity
+      mediated by the Lambda spike protein that was even higher than that of the
+      D614G (lineage B) or the Alpha and Gamma variants. Compared to the Wild
+      type (lineage A), neutralization was decreased by 3.05-fold for the Lambda
+      variant while it was 2.33-fold for the Gamma variant and 2.03-fold for the
+      Alpha variant. Conclusions: Our results indicate that mutations present in
+      the spike protein of the Lambda variant of interest confer increased
+      infectivity and immune escape from neutralizing antibodies elicited by
+      CoronaVac. These data reinforce the idea that massive vaccination
+      campaigns in countries with high SARS-CoV-2 circulation must be
+      accompanied by strict genomic surveillance allowing the identification of
+      new isolates carrying spike mutations and immunology studies aimed to
+      determine the impact of these mutations in immune escape and vaccines
+      breakthrough."
+    authors:
+      - name: M&amp;oacutenica L. Acevedo
+        orcid: null
+      - name: Luis Alonso-Palomares
+        orcid: null
+      - name: Andr&amp;eacutes Bustamante
+        orcid: null
+      - name: Aldo Gaggero
+        orcid: http://orcid.org/0000-0003-2657-0776
+      - name: Fabio Paredes
+        orcid: null
+      - name: Claudia Cort&amp;eacutes
+        orcid: null
+      - name: Fernando Valiente-Echeverr&amp;iacutea
+        orcid: http://orcid.org/0000-0001-9156-2516
+      - name: Ricardo Soto-Rifo
+        orcid: http://orcid.org/0000-0003-0945-2970
+  comment:
+    dislikes: 0
+    thread: "8624417675"
+    numReports: 0
+    likes: 0
+    id: "5458600918"
+    createdAt: 2021-07-16T22:51:17
+    author:
+      username: arihalperin
+      about: ""
+      name: Leo G.
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/arihalperin/
+      url: https://defyccc.com
+      location: Texas, USA
+      id: "197915327"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Another way to slow down immune escape might be prophylaxis (IVM or
+      HCQ + Zinc), starting about a week before the first jab and ending (or
+      calculated to end) when the person acquires maximum immunity.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.06.28.21259673v1
+  tweets:
+    - created_at: Sat Jul 17 12:30:23 +0000 2021
+      id: 1416374722657460200
+      id_str: "1416374722657460225"
+      text: >-
+        💬 medRxiv comment on "Infectivity and immune escape ..."
+
+
+        "Another way to slow down immune escape might be prophyla… https://t.co/nK6eFxzPSX
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/nK6eFxzPSX
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jul 17 12:30:23 +0000 2021
+      id: 1416374723521486800
+      id_str: "1416374723521486865"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/P2QoitLagV
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/P2QoitLagV
+      in_reply_to_status_id: 1416374722657460200
+      in_reply_to_status_id_str: "1416374722657460225"
