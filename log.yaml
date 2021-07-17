@@ -46535,3 +46535,112 @@
           - url: https://t.co/t6Sw09nOAz
       in_reply_to_status_id: 1416435188079411200
       in_reply_to_status_id_str: "1416435188079411202"
+- preprint:
+    id: "149829"
+    doi: 10.1101/2021.07.10.21260304
+    first_posted: 2021-07-12
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.07.10.21260304v1
+    url: https://api.rxivist.org/v1/papers/149829
+    title: Analyzing the U.S. Post-marketing safety surveillance of COVID-19 vaccines
+    category: public-and-global-health
+    abstract: "Background: Since December 2020, three COVID-19 vaccines have been
+      authorized in the United States (U.S.) and were proceeded by large
+      immunization programs. The aim of this study was to characterize the U.S.
+      post-marketing safety (PMS) profiles of these vaccines with an in-depth
+      analysis of mortality data. Methods: This was a retrospective database
+      analysis study. Details of the U.S. PMS reports (15 December 2020 to 19
+      March 2021) of the three vaccines (Pfizer-BioNTech, Moderna, and Janssen
+      Ad26.COV2.S) were retrieved from the U.S. Vaccine Adverse Event Reporting
+      System (VAERS). A descriptive analysis was conducted to characterize the
+      reported adverse events (AEs). A comparative (Pfizer-BioNTech vs. Moderna)
+      analysis of mortality was conducted. The mean count ratio of death between
+      the two vaccines was estimated using a negative binomial regression model
+      adjusting for the measured confounders. Results: A total of 44,451 AE
+      reports were retrieved (corresponding to 0.05% of the U.S. population who
+      received at least one dose). The most commonly reported AEs were injection
+      site reactions (30.4% of the reports), pain (reported in 26.7% of the
+      reports), and headache (18.6% of the reports). Serious AEs were reported
+      in only 14.6% of the reports with 4,108 hospitalizations. The total number
+      of deaths was 1,919 with a mean count ratio of Moderna (n=997) vs.
+      Pfizer-BioNTech (n=899) of 1.07 (95% confidence interval 0.86 to 1.33).
+      Conclusions: The vast majority of PMS AEs in the U.S. were non-serious,
+      and the number of serious AEs is very low given the total number of
+      vaccinated U.S. population."
+    authors:
+      - name: Omar M Albalawi
+        orcid: http://orcid.org/0000-0003-1017-260X
+      - name: Maha I Alomran
+        orcid: null
+      - name: Ghada M Alsagri
+        orcid: null
+      - name: Turki A Althunian
+        orcid: http://orcid.org/0000-0002-8030-7963
+      - name: Thamir M Alshammari
+        orcid: http://orcid.org/0000-0002-5630-2468
+  comment:
+    dislikes: 0
+    thread: "8644373560"
+    numReports: 0
+    likes: 0
+    id: "5459223044"
+    createdAt: 2021-07-17T15:00:07
+    author:
+      username: pfwag
+      about: ""
+      name: pfwag
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/pfwag/
+      url: ""
+      location: ""
+      id: "3367981"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      The VAERS reported death toll is now almost 11,000.  
+
+
+
+      In 2010 the Department of Health and Human Services (HHS) awarded a million-dollar grant to the Harvard Medical School to investigate the accuracy of the reporting. Their report concluded that “Fewer than one percent of vaccine adverse events are reported by the VAERS System.
+
+
+
+      https://digital.ahrq.gov/sites/default/files/docs/publication/r18hs017045-lazarus-final-report-2011.pdf
+
+
+
+      As of July 16, according to VAERS, more people have died from the Covid-19 vaccinations than from all other vaccines in the previous 25 years combined. I wonder how many people have to die before the AEs become "serious"?
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.07.10.21260304v1
+  tweets:
+    - created_at: Sat Jul 17 18:23:51 +0000 2021
+      id: 1416463673514762200
+      id_str: "1416463673514762240"
+      text: |-
+        💬 medRxiv comment on "Analyzing the U.S. Post-market..."
+
+        "The VAERS reported death toll is now almost 11,000.  
+
+        I… https://t.co/l5BqSkXfeN
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/l5BqSkXfeN
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jul 17 18:23:51 +0000 2021
+      id: 1416463674231959600
+      id_str: "1416463674231959562"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/Ilo6974SA6
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/Ilo6974SA6
+      in_reply_to_status_id: 1416463673514762200
+      in_reply_to_status_id_str: "1416463673514762240"
