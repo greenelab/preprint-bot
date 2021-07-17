@@ -46644,3 +46644,109 @@
           - url: https://t.co/Ilo6974SA6
       in_reply_to_status_id: 1416463673514762200
       in_reply_to_status_id_str: "1416463673514762240"
+- preprint:
+    id: 142193
+    metric: 132
+    title: SARS-CoV-2 B.1.617.2 Delta variant emergence, replication and immune
+      evasion
+    url: https://api.rxivist.org/v1/papers/142193
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.05.08.443253v2
+    doi: 10.1101/2021.05.08.443253
+    category: microbiology
+    first_posted: 2021-05-09
+    abstract: The SARS-CoV-2 B.1.617.2 (Delta) variant was first identified in the
+      state of Maharashtra in late 2020 and has spread throughout India,
+      displacing the B.1.1.7 (Alpha) variant and other pre-existing lineages.
+      Mathematical modelling indicates that the growth advantage is most likely
+      explained by a combination of increased transmissibility and immune
+      evasion. Indeed in vitro, the delta variant is less sensitive to
+      neutralising antibodies in sera from recovered individuals, with higher
+      replication efficiency as compared to the Alpha variant. In an analysis of
+      vaccine breakthrough in over 100 healthcare workers across three centres
+      in India, the Delta variant not only dominates vaccine-breakthrough
+      infections with higher respiratory viral loads compared to non-delta
+      infections (Ct value of 16.5 versus 19), but also generates greater
+      transmission between HCW as compared to B.1.1.7 or B.1.617.1 (mean cluster
+      size 1.1 versus 3.3 p=0.03). In vitro, the Delta variant shows 8 fold
+      approximately reduced sensitivity to vaccine-elicited antibodies compared
+      to wild type Wuhan-1 bearing D614G. Serum neutralising titres against the
+      SARS-CoV-2 Delta variant were significantly lower in participants
+      vaccinated with ChadOx-1 as compared to BNT162b2 (GMT 3372 versus 654,
+      p<0001). These combined epidemiological and in vitro data indicate that
+      the dominance of the Delta variant in India has been most likely driven by
+      a combination of evasion of neutralising antibodies in previously infected
+      individuals and increased virus infectivity. Whilst severe disease in
+      fully vaccinated HCW was rare, breakthrough transmission clusters in
+      hospitals associated with the Delta variant are concerning and indicate
+      that infection control measures need continue in the post-vaccination era.
+    authors:
+      - name: Petra Mlcochova
+      - name: Steven A Kemp
+      - name: Mahesh Shanker Dhar
+      - name: Guido Papa
+      - name: Bo Meng
+      - name: Swapnil Mishra
+      - name: Charlie Whittaker
+      - name: Thomas Mellan
+      - name: Isabella Ferreira
+      - name: Rawlings Datir
+      - name: Dami Collier
+      - name: Sujeet Singh
+      - name: Rajesh Pandey
+      - name: Kalaiarasan Ponnusamy
+      - name: V S Radhakrishnan
+      - name: Shantanu Sengupta
+      - name: Jonathan Brown
+      - name: Robin Marwal
+      - name: V.S. Radhakrishnan
+      - name: Niluka Goonawardne
+      - name: Adam Abdullahi
+      - name: Priti Devi
+      - name: Chand Wattal
+      - name: Daniela Caputo
+      - name: Tom Peacock
+      - name: Neeraj Goel
+      - name: Raju Vaishya
+      - name: Oscar Charles
+      - name: Partha Chattopadhyay
+      - name: Meenakshi Agarwal
+      - name: Ambrish Satwik
+      - name: INSACOG CONSORTIUM
+      - name: NIHR Bioresource Collaboration
+      - name: Antranik Mavousian
+      - name: Jie Zhou
+      - name: Joo Hyeon Lee
+      - name: Jessica Bassi
+      - name: Chiara Silacci-Fegni
+      - name: Christian Saliba
+      - name: Dora Pinto
+      - name: Takashi Irie
+      - name: Isao Yoshida
+      - name: William L Hamilton
+      - name: Kei Sato
+      - name: Leo James
+      - name: Davide Corti
+      - name: Luca Piccoli
+      - name: Samir Bhatt
+      - name: Seth Flaxman
+      - name: Wendy Barlcay
+      - name: Partha Rakshit
+      - name: Anurag Agrawal
+      - name: Ravindra K Gupta
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Sat Jul 17 20:15:35 +0000 2021
+      id: 1416491795379363800
+      id_str: "1416491795379363840"
+      text: >-
+        🔥 bioRxiv Microbiology preprint by P. Mlcochova et al:
+
+
+        "SARS-CoV-2 B.1.617.2 Delta variant emergence, replication… https://t.co/D0aiA2m5MJ
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/D0aiA2m5MJ
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
