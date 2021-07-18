@@ -47541,3 +47541,135 @@
           - url: https://t.co/pE3tDBKmvK
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "126910"
+    doi: 10.1101/2021.01.23.21250327
+    first_posted: 2021-01-27
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.01.23.21250327v1
+    url: https://api.rxivist.org/v1/papers/126910
+    title: "Diurnal brain temperature rhythms and mortality after brain injury: a
+      prospective and retrospective cohort study"
+    category: intensive-care-and-critical-care-medicine
+    abstract: "Objective: To determine the clinical relevance of brain temperature
+      (TBr) variation in patients after traumatic brain injury (TBI). Design:
+      Cohort study with prospective (healthy participant) and retrospective (TBI
+      patient) arms. Setting: Single neuroimaging site in the UK (prospective
+      arm); intensive care sites contributing to the Collaborative European
+      NeuroTrauma Effectiveness Research in TBI (CENTER-TBI) High Resolution ICU
+      (HR ICU) Sub-Study (retrospective arm). Participants: 40 healthy adults
+      aged 20-40 years recruited for non-invasive brain thermometry and all
+      patients up to May 2020 that had TBr measured directly and were not
+      subjected to Targeted Temperature Management (TTM). Main outcome measures:
+      A diurnal change in TBr (healthy participants); death in intensive care
+      (patients). Results: In healthy participants, mean TBr (38.5 SD
+      0.4{degrees}C) was higher than oral temperature (36.0 SD 0.5{degrees}C),
+      and 0.36{degrees}C higher in luteal females relative to follicular females
+      and males (95% confidence interval 0.17 to 0.55, P=0.0006 and 0.23 to
+      0.49, P<0.0001, respectively). TBr increased with age, most notably in
+      deep brain regions (0.6{degrees}C over 20 years; 0.11 to 1.07, P=0.0002).
+      The mean maximal spatial TBr range was 2.41 (SD 0.46){degrees}C, with
+      highest temperatures in the thalamus. TBr varied significantly by time of
+      day, especially in deep brain regions (0.86{degrees}C ; 0.37 to 1.26,
+      P=0.0001), and was lowest in the late evening. Diurnal TBr in cortical
+      white matter across participants ranged from 37.0 to 40.3{degrees}C. In
+      TBI patients (n=114), mean TBr (38.5 SD 0.8{degrees}C) was significantly
+      higher than body temperature (TBo 37.5 SD 0.5{degrees}C ; P<0.0001) and
+      ranged from 32.6 to 42.3{degrees}C. Only 25/110 patients displayed a
+      diurnal temperature rhythm; TBr amplitude was reduced in older patients
+      (P=0.018), and 25/113 patients died in intensive care. Lack of a daily TBr
+      rhythm, or an age increase of 10 years, increased the odds of death
+      12-fold and 11-fold, respectively (OR for death with rhythm 0.09; 0.01 to
+      0.84, P=0.035 and for death with ageing by 1 year 1.10; 1.05 to 1.16,
+      P=0.0002). Mean TBr was positively associated with survival (OR for death
+      0.45 for 1{degrees}C increase; 0.21 to 0.96, P=0.040). Conclusions:
+      Healthy TBr exceeds TBo and varies by sex, age, menstrual cycle, brain
+      region, and time of day. Our 4-dimensional reference resource for healthy
+      TBr can guide interpretation of TBr data in multiple clinical settings.
+      Daily temperature variation is frequently disrupted or absent in TBI
+      patients, in which TBr variation is of greater prognostic use than
+      absolute TBr. Older TBI patients lacking a daily TBr rhythm are at
+      greatest risk of death in intensive care. Appropriately controlled trials
+      are needed to confirm the predictive power of TBr rhythmicity in relation
+      to patient outcome, as well as the clinical utility of TTM protocols in
+      brain-injured patients. Registration: UK CRN NIHR CPMS 42644;
+      ClinicalTrials.gov number, NCT02210221."
+    authors:
+      - name: Nina Marie Rzechorzek
+        orcid: http://orcid.org/0000-0003-3209-5019
+      - name: Michael J Thrippleton
+        orcid: http://orcid.org/0000-0001-7858-9917
+      - name: Francesca M Chappell
+        orcid: http://orcid.org/0000-0002-7742-1757
+      - name: Grant Mair
+        orcid: http://orcid.org/0000-0003-2189-443X
+      - name: Ari Ercole
+        orcid: http://orcid.org/0000-0001-8350-8093
+      - name: Manuel Cabeleira
+        orcid: http://orcid.org/0000-0002-1710-6544
+      - name: The CENTER-TBI High Resolution ICU (HR ICU) Sub-Study Participants and
+          Investigators
+        orcid: null
+      - name: Jonathan Rhodes
+        orcid: http://orcid.org/0000-0003-2015-4579
+      - name: Ian Marshall
+        orcid: http://orcid.org/0000-0003-4445-1551
+      - name: John S O'Neill
+        orcid: http://orcid.org/0000-0003-2204-6096
+  comment:
+    dislikes: 0
+    thread: "8373320750"
+    numReports: 0
+    likes: 0
+    id: "5457773268"
+    createdAt: 2021-07-16T09:27:55
+    author:
+      username: disqus_5l1M2d3eUR
+      about: ""
+      name: 郭逸恩
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_5l1M2d3eUR/
+      url: ""
+      location: ""
+      id: "372410789"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      There's recently published article presenting the application of brain
+      temperature rhythm in outcome prediction after traumatic brain injury.
+      This paper should be cited.
+
+      "Kuo, L.-T.; Lu, H.-Y.; Huang, A.P.-H. Prognostic Value of Circadian Rhythm of Brain Temperature in Traumatic Brain Injury. J. Pers. Med. 2021, 11, 620. https://doi.org/10.3390/jpm11070620"
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.01.23.21250327v1
+  tweets:
+    - created_at: Sun Jul 18 20:19:01 +0000 2021
+      id: 1416855046365589500
+      id_str: "1416855046365589505"
+      text: >-
+        💬 medRxiv comment on "Diurnal brain temperature rhyt..."
+
+
+        "There's recently published article presenting the applic… https://t.co/QfQJMYoAnE
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/QfQJMYoAnE
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jul 18 20:19:01 +0000 2021
+      id: 1416855047510573000
+      id_str: "1416855047510573057"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/nCc58NxTXQ
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/nCc58NxTXQ
+      in_reply_to_status_id: 1416855046365589500
+      in_reply_to_status_id_str: "1416855046365589505"
