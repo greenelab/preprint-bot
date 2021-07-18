@@ -46953,3 +46953,94 @@
           - url: https://t.co/asraWHSyyf
       in_reply_to_status_id: 1416522895107543000
       in_reply_to_status_id_str: "1416522895107543042"
+- preprint:
+    id: "131447"
+    doi: 10.1101/2021.02.25.21252415
+    first_posted: 2021-02-28
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.02.25.21252415v1
+    url: https://api.rxivist.org/v1/papers/131447
+    title: Interpreting vaccine efficacy trial results for infection and transmission
+    category: epidemiology
+    abstract: Randomized controlled trials (RCTs) have shown high efficacy of
+      multiple vaccines against SARS-CoV-2 disease (COVID-19), and recent
+      studies have shown the vaccines are also effective against infection.
+      Evidence for the effect of each of these vaccines on ability to transmit
+      the virus is also beginning to emerge. We describe an approach to estimate
+      these vaccines' effects on viral positivity, a prevalence measure which
+      under the reasonable assumption that vaccinated individuals who become
+      infected are no more infectious than unvaccinated individuals forms a
+      lower bound on efficacy against transmission. Specifically, we recommend
+      separate analysis of positive tests triggered by symptoms (usually the
+      primary outcome) and cross-sectional prevalence of positive tests obtained
+      regardless of symptoms. The odds ratio of carriage for vaccine vs. placebo
+      provides an unbiased estimate of vaccine effectiveness against viral
+      positivity, under certain assumptions, and we show through simulations
+      that likely departures from these assumptions will only modestly bias this
+      estimate. Applying this approach to published data from the RCT of the
+      Moderna vaccine, we estimate that one dose of vaccine reduces the
+      potential for transmission by at least 61%, possibly considerably more. We
+      describe how these approaches can be translated into observational studies
+      of vaccine effectiveness.
+    authors:
+      - name: Marc Lipsitch
+        orcid: http://orcid.org/0000-0003-1504-9213
+      - name: Rebecca Kahn
+        orcid: http://orcid.org/0000-0001-9511-6142
+  comment:
+    dislikes: 0
+    thread: "8554817533"
+    numReports: 0
+    likes: 0
+    id: "5459183896"
+    createdAt: 2021-07-17T14:17:15
+    author:
+      username: killshot
+      about: ""
+      name: killshot
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/killshot/
+      url: ""
+      location: ""
+      id: "2384202"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Unless "efficacy" and "positivity" are more clearly defined, this
+      is meaningless.  Eg, using PCR amplification of 35 or greater for
+      diagnosis then using an amplification of 24 for "transmission" would
+      greatly favor vaccine-related prevention of transmission but would be faux
+      data.  Also, unless there is randomization for vitamin D levels -- shown
+      to impair virulence if > 36 ng/mL -- the data is also meaningless.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.02.25.21252415v2
+  tweets:
+    - created_at: Sun Jul 18 01:04:44 +0000 2021
+      id: 1416564559863861200
+      id_str: "1416564559863861255"
+      text: >-
+        💬 medRxiv comment on "Interpreting vaccine efficacy ..."
+
+
+        "Unless "efficacy" and "positivity" are more clearly defi… https://t.co/woRMUvGxiA
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/woRMUvGxiA
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jul 18 01:04:44 +0000 2021
+      id: 1416564560782315500
+      id_str: "1416564560782315520"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/bO5QmOLOny
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/bO5QmOLOny
+      in_reply_to_status_id: 1416564559863861200
+      in_reply_to_status_id_str: "1416564559863861255"
