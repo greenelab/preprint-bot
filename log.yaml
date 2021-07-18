@@ -47477,3 +47477,67 @@
           - url: https://t.co/YphzEME29c
       in_reply_to_status_id: 1416826203307135000
       in_reply_to_status_id_str: "1416826203307134982"
+- preprint:
+    id: 148164
+    metric: 7
+    title: Clonally expanded virus-specific CD8 T cells acquire diverse
+      transcriptional phenotypes during acute, chronic, and latent infections
+    url: https://api.rxivist.org/v1/papers/148164
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.29.450285v1
+    doi: 10.1101/2021.06.29.450285
+    category: immunology
+    first_posted: 2021-06-30
+    abstract: CD8+ T cells play a crucial role in the control and resolution of
+      viral infections and can adopt a wide range of phenotypes and effector
+      functions depending on the inflammatory context and the duration and
+      extent of antigen exposure. Similarly, viral infections can exert diverse
+      selective pressures on populations of clonally related T cells. Technical
+      limitations have nevertheless made it challenging to investigate the
+      relationship between clonal selection and transcriptional phenotypes of
+      virus-specific T cells. We therefore performed single-cell T cell receptor
+      (TCR) repertoire and transcriptome sequencing of virus-specific CD8 T
+      cells in murine models of acute, chronic and latent infection. We observed
+      clear infection-specific populations corresponding to memory, effector,
+      exhausted, and inflationary phenotypes. We further uncovered a
+      mouse-specific and polyclonal T cell response, despite all T cells sharing
+      specificity to a single viral epitope, which was accompanied by
+      stereotypic TCR germline gene usage in all three infection types.
+      Persistent antigen exposure during chronic and latent viral infections
+      resulted in a higher proportion of clonally expanded T cells relative to
+      acute infection. We furthermore observed a relationship between
+      transcriptional heterogeneity and clonal expansion for all three
+      infections, with highly expanded clones having distinct transcriptional
+      phenotypes relative to lowly expanded clones. Finally, we developed and
+      utilized a bioinformatic pipeline integrating pseudotime and clonality,
+      termed Clonotyme, to further support a model in which expanded
+      virus-specific CD8+ T cells adopt heterogenic, yet preferentially,
+      effector-like phenotypes. Together our work relates clonal selection to
+      gene expression in the context of viral infection and further provides a
+      dataset and accompanying software for the immunological community.
+    authors:
+      - name: Raphael Kuhn
+      - name: Ioana Sandu
+      - name: Andreas Agrafiotis
+      - name: Kai-Lin Hong
+      - name: Daniel Neumeier
+      - name: Doron Merkler
+      - name: Annette Oxenius
+      - name: Sai T. Reddy
+      - name: Alexander Yermanos
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Sun Jul 18 20:15:42 +0000 2021
+      id: 1416854212521173000
+      id_str: "1416854212521172997"
+      text: >-
+        🔥 bioRxiv Immunology preprint by R. Kuhn et al:
+
+
+        "Clonally expanded virus-specific CD8 T cells acquire diverse tran… https://t.co/pE3tDBKmvK
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/pE3tDBKmvK
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
