@@ -47248,3 +47248,128 @@
           - url: https://t.co/B5DO7aAXhF
       in_reply_to_status_id: 1416763967167402000
       in_reply_to_status_id_str: "1416763967167401987"
+- preprint:
+    id: "124863"
+    doi: 10.1101/2021.01.05.21249310
+    first_posted: 2021-01-09
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.01.05.21249310v1
+    url: https://api.rxivist.org/v1/papers/124863
+    title: "Ivermectin as a potential treatment for mild to moderate COVID-19: A
+      double blind randomized placebo-controlled trial"
+    category: infectious-diseases
+    abstract: >-
+      ObjectiveIvermectin has been suggested as a treatment for COVID-19.This
+      randomised control trial was conducted to test the efficacy of Ivermectin
+      in the treatment of mild and moderate COVID-19.
+
+
+      DesignParallel, double blind, randomised, placebo controlled trial Setting: A tertiary care dedicated COVID-19 hospital in Bihar, India
+
+
+      ParticipantsAdult patients (> 18 years) admitted with mild to moderate COVID 19 disease (saturation > 90% on room air, respiratory rate < 30 and no features of shock) with no contraindications to ivermectin and willing to participate in the study
+
+
+      InterventionPatients in the intervention arm were given ivermectin 12 mg on day 1 and day 2 of admission. Patients in the placebo arm were given identical looking placebo tablets. Rest of the treatment was continued as per the existing protocol and the clinical judgment of the treating teams.
+
+
+      Outcome MeasuresThe primary outcome measure was a negative RT-PCR test for SARS-CoV-2 on day 6 of admission. The secondary outcome measures were symptom status on day 6, discharge status on day 10, admission to ICU, need for invasive mechanical ventilation and in-hospital mortality.
+
+
+      ResultsA total of 115 patients were enrolled for the study of which 112 were included in the final analysis. Of them, 55 were randomised to the intervention arm while 57 were randomised to the placebo arm. There was no significant difference in the baseline characteristics of the two arms. There was no significant difference in the primary outcome, i.e. negative RT-PCR status on day 6 between the two groups. Similarly, there was no significant difference between the two groups in most of the secondary outcome measures, viz. symptom status on day 6, discharge status on day 10, admission to ICU, and need for invasive mechanical ventilation. However, while there was no in-hospital mortality in the intervention arm, there were 4 deaths in the placebo arm. As a result, all patients in the intervention arm (n=56) were successfully discharged as compared to 93.1% (n=54/58) in the placebo arm (RR 1.1, 95% CI 1.0 to 1.2, p=0.019).
+
+
+      ConclusionThere was no difference in the primary outcome i.e. negative RT-PCR status on day 6 of admission with the use of ivermectin. However, a significantly higher proportion of patients were discharged alive from the hospital when they received ivermectin.
+
+
+      Strengths and Limitations of the StudyO_LIThis study was randomised and double blind, thereby minimizing the chance of bias.
+
+      C_LIO_LIAll outcome measures except symptom status on day 6 were objective and placebo control was used for comparison.
+
+      C_LIO_LIOnly single repeat RT-PCR was done. So median time to viral clearance in the two groups could not be calculated.
+
+      C_LIO_LISevere cases were not included in the study.
+
+      C_LI
+    authors:
+      - name: Ravikirti
+        orcid: null
+      - name: Ranjini Roy
+        orcid: null
+      - name: Chandrima Pattadar
+        orcid: null
+      - name: Rishav Raj
+        orcid: null
+      - name: Neeraj Agarwal
+        orcid: null
+      - name: Bijit Biswas
+        orcid: null
+      - name: Pramod Kumar Majhi
+        orcid: null
+      - name: Deependra Kumar Rai
+        orcid: null
+      - name: Shyama
+        orcid: null
+      - name: Anjani Kumar
+        orcid: null
+      - name: Asim Sarfaraz
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8349213864"
+    numReports: 0
+    likes: 0
+    id: "5458970302"
+    createdAt: 2021-07-17T08:53:42
+    author:
+      username: disqus_z3JbLWlo5D
+      about: ""
+      name: Le Bon
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_z3JbLWlo5D/
+      url: ""
+      location: ""
+      id: "54104695"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      It is in the article. You just had to read.
+
+      Mild: No evidence of breathlessness or Hypoxia (normal saturation)
+
+      Moderate: Breathlessness and/or hypoxia (saturation 90-94% on room air), respiratory rate of 24 or
+
+      more and no features of severe disease
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.01.05.21249310v1
+  tweets:
+    - created_at: Sun Jul 18 16:30:10 +0000 2021
+      id: 1416797452913492000
+      id_str: "1416797452913491972"
+      text: |-
+        💬 medRxiv comment on "Ivermectin as a potential trea..."
+
+        "It is in the article. You just had to read.
+        Mild: No evi… https://t.co/NladFG0Hpc
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/NladFG0Hpc
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jul 18 16:30:10 +0000 2021
+      id: 1416797453815357400
+      id_str: "1416797453815357446"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/DjN3725s7t
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/DjN3725s7t
+      in_reply_to_status_id: 1416797452913492000
+      in_reply_to_status_id_str: "1416797452913491972"
