@@ -47373,3 +47373,107 @@
           - url: https://t.co/DjN3725s7t
       in_reply_to_status_id: 1416797452913492000
       in_reply_to_status_id_str: "1416797452913491972"
+- preprint:
+    id: "130048"
+    doi: 10.1101/2021.03.05.21252960
+    first_posted: 2021-03-08
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.03.05.21252960v1
+    url: https://api.rxivist.org/v1/papers/130048
+    title: "SARS-CoV-2 spike protein S1 induces fibrin(ogen) resistant to
+      fibrinolysis: Implications for microclot formation in COVID-19"
+    category: infectious-diseases
+    abstract: Severe acute respiratory syndrome coronavirus 2 (SARS-Cov-2) -induced
+      infection, the cause of coronavirus disease 2019 (COVID-19), is
+      characterized by unprecedented clinical pathologies. One of the most
+      important pathologies, is hypercoagulation and microclots in the lungs of
+      patients. Here we study the effect of isolated SARS-CoV-2 spike protein S1
+      subunit as potential inflammagen sui generis. Using scanning electron and
+      fluorescence microscopy as well as mass spectrometry, we investigate the
+      potential of this inflammagen to interact with platelets and fibrin(ogen)
+      directly to cause blood hypercoagulation. Using platelet poor plasma
+      (PPP), we show that spike protein may interfere with blood flow. Mass
+      spectrometry also showed that when spike protein S1 is added to healthy
+      PPP, it results in structural changes to {beta} and {gamma} fibrin(ogen),
+      complement 3, and prothrombin. These proteins were substantially resistant
+      to trypsinization, in the presence of spike protein S1. Here we suggest
+      that, in part, the presence of spike protein in circulation may contribute
+      to the hypercoagulation in COVID-19 positive patients and may cause
+      substantial impairment of fibrinolysis. Such lytic impairment may result
+      in the persistent large microclots we have noted here and previously in
+      plasma samples of COVID-19 patients. This observation may have important
+      clinical relevance in the treatment of hypercoagulability in COVID-19
+      patients.
+    authors:
+      - name: Lize M Grobbelaar
+        orcid: null
+      - name: Chantelle Venter
+        orcid: null
+      - name: Mare Vlok
+        orcid: null
+      - name: Malebogo Ngoepe
+        orcid: null
+      - name: Gert J Laubscher
+        orcid: null
+      - name: Petrus J Lourens
+        orcid: null
+      - name: Janami Steenkamp
+        orcid: null
+      - name: Douglas B. Kell
+        orcid: http://orcid.org/0000-0001-5838-7963
+      - name: Etheresia Pretorius
+        orcid: http://orcid.org/0000-0002-9108-2384
+  comment:
+    dislikes: 0
+    thread: "8428794041"
+    numReports: 0
+    likes: 0
+    id: "5457784323"
+    createdAt: 2021-07-16T09:48:28
+    author:
+      username: disqus_0bKIt9q5Jq
+      about: ""
+      name: Šafo
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_0bKIt9q5Jq/
+      url: ""
+      location: Nitra
+      id: "75414309"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: "Question: Do patients who have overcome the disease have the
+      mentioned S-protein S1 in the body? Or only vaccinated people have
+      S-protein in their body!"
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.03.05.21252960v1
+  tweets:
+    - created_at: Sun Jul 18 18:24:24 +0000 2021
+      id: 1416826203307135000
+      id_str: "1416826203307134982"
+      text: >-
+        💬 medRxiv comment on "SARS-CoV-2 spike protein S1 in..."
+
+
+        "Question: Do patients who have overcome the disease have… https://t.co/DZynnhN1xq
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/DZynnhN1xq
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jul 18 18:24:25 +0000 2021
+      id: 1416826204217356300
+      id_str: "1416826204217356289"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/YphzEME29c
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/YphzEME29c
+      in_reply_to_status_id: 1416826203307135000
+      in_reply_to_status_id_str: "1416826203307134982"
