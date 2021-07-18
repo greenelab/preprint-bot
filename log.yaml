@@ -47673,3 +47673,123 @@
           - url: https://t.co/nCc58NxTXQ
       in_reply_to_status_id: 1416855046365589500
       in_reply_to_status_id_str: "1416855046365589505"
+- preprint:
+    id: "148746"
+    doi: 10.1101/2021.06.28.21258780
+    first_posted: 2021-07-04
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.28.21258780v1
+    url: https://api.rxivist.org/v1/papers/148746
+    title: Transmission event of SARS-CoV-2 Delta variant reveals multiple vaccine
+      breakthrough infections
+    category: epidemiology
+    abstract: >-
+      ImportanceVaccine breakthrough by an emergent SARS-CoV-2 variant poses a
+      great risk to global public health.
+
+
+      ObjectiveTo determine the SARS-CoV-2 variant responsible for 6 cases of vaccine breakthrough.
+
+
+      DesignNasopharyngeal swabs from suspected vaccine breakthrough cases were tested for SARS-CoV-2 by qPCR for Wuhan-Hu1 and Alpha variant. Positive samples were then sequenced by Swift Normalase Amplicon Panels to determine the causal variant.
+
+
+      SettingTransmission event occurred at events surrounding a wedding outside of Houston, TX. Two patients from India, likely transmitted the Delta variant to other guests.
+
+
+      ParticipantsFollowing a positive SARS-CoV-2 qPCR test at a third-party site, six fully vaccinated patients were investigated. Three males and three females ranged from 53 to 69 years old. One patient suffered from diabetes while three others were classified as overweight. No significant other comorbidities were identified. None of the patients had a history of failed vaccination.
+
+
+      Key PointsO_ST_ABSQuestionC_ST_ABSWhich SARS-CoV-2 variant is responsible for 6 cases of vaccine breakthrough, one interventional monoclonal antibody treatment, and one death?
+
+
+      FindingsViral sequencing revealed 6 vaccinated patients were infected with the Delta SARS-CoV-2 variant. With no histories of vaccine breakthrough, this suggests Delta variant may possess immune evasion in patients that received the Pfizer BNT162b2, Moderna mRNA-1273, and Covaxin BBV152.
+
+
+      MeaningDelta variant may pose the highest risk out of any currently circulating SARS-CoV-2 variants, with increased transmissibility over Alpha variant and possible vaccine breakthrough.
+    authors:
+      - name: Timothy Farinholt
+        orcid: http://orcid.org/0000-0003-1889-3102
+      - name: Harshavardhan Doddapaneni
+        orcid: http://orcid.org/0000-0002-2433-633X
+      - name: Xiang Qin
+        orcid: null
+      - name: Vipin Menon
+        orcid: http://orcid.org/0000-0001-7404-678X
+      - name: Qingchang Meng
+        orcid: null
+      - name: Ginger Metcalf
+        orcid: null
+      - name: Hsu Chao
+        orcid: null
+      - name: Marie-Claude Gingras
+        orcid: http://orcid.org/0000-0003-2570-6360
+      - name: Paige Farinholt
+        orcid: null
+      - name: Charu Agrawal
+        orcid: null
+      - name: Donna Muzny
+        orcid: http://orcid.org/0000-0002-3055-0359
+      - name: Pedro A. Piedra
+        orcid: http://orcid.org/0000-0002-5839-0879
+      - name: Richard A. Gibbs
+        orcid: null
+      - name: Joseph Petrosino
+        orcid: http://orcid.org/0000-0002-4046-6898
+  comment:
+    dislikes: 0
+    thread: "8630584355"
+    numReports: 0
+    likes: 0
+    id: "5457759912"
+    createdAt: 2021-07-16T09:03:00
+    author:
+      username: disqus_XeOjqtDbCX
+      about: ""
+      name: Ashish Agrawal
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_XeOjqtDbCX/
+      url: http://www.theindiantalks.com/
+      location: Delhi
+      id: "93450579"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      I am myself fully vaccinated with Covaxin with no side effects and have an
+      IGG antibody score of 150.00 which is apparently enough as per many
+      studies. 
+
+      While vaccinating with Inactivated virus vaccines one should maintain proper isolation from those who're not vaccinated with it. I don't think travelling between the dose 1 and dose 2+ 14 days was a good idea. Vaccines work but they take time in changing environment
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.06.28.21258780v1
+  tweets:
+    - created_at: Sun Jul 18 22:19:06 +0000 2021
+      id: 1416885263859699700
+      id_str: "1416885263859699712"
+      text: >-
+        💬 medRxiv comment on "Transmission event of SARS-CoV..."
+
+
+        "I am myself fully vaccinated with Covaxin with no side e… https://t.co/y53tBJhOJM
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/y53tBJhOJM
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jul 18 22:19:06 +0000 2021
+      id: 1416885264702656500
+      id_str: "1416885264702656514"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/ifdUoU85Ao
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/ifdUoU85Ao
+      in_reply_to_status_id: 1416885263859699700
+      in_reply_to_status_id_str: "1416885263859699712"
