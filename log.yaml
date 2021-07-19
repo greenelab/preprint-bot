@@ -48000,3 +48000,101 @@
           - url: https://t.co/652MU3io4j
       in_reply_to_status_id: 1417099906712539100
       in_reply_to_status_id_str: "1417099906712539140"
+- preprint:
+    id: "133737"
+    doi: 10.1101/2021.03.14.21253544
+    first_posted: 2021-03-17
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.03.14.21253544v1
+    url: https://api.rxivist.org/v1/papers/133737
+    title: "Vaccine escape in a heterogeneous population: insights for SARS-CoV-2
+      from a simple model"
+    category: epidemiology
+    abstract: As a counter measure to the SARS-CoV-2 pandemic there has been swift
+      development and clinical trial assessment of candidate vaccines, with
+      subsequent deployment as part of mass vaccination campaigns. However, the
+      SARS-CoV-2 virus has demonstrated the ability to mutate and develop
+      variants, which can modify epidemiological properties and potentially also
+      the effectiveness of vaccines. The widespread deployment of highly
+      effective vaccines may rapidly exert selection pressure on the SARS-CoV-2
+      virus directed towards mutations that escape the vaccine induced immune
+      response. This is particularly concerning whilst infection is widespread.
+      By developing and analysing a mathematical model of two population
+      groupings with differing vulnerability and contact rates, we explore the
+      impact of the deployment of vaccine amongst the population on R, cases,
+      disease abundance and vaccine escape pressure. The results from this model
+      illustrate two insights (i) vaccination aimed at reducing prevalence could
+      be more effective at reducing disease than directly vaccinating the
+      vulnerable; (ii) the highest risk for vaccine escape can occur at
+      intermediate levels of vaccination. This work demonstrates a key principle
+      that the careful targeting of vaccines towards particular population
+      groups could reduce disease as much as possible whilst limiting the risk
+      of vaccine escape.
+    authors:
+      - name: Julia R Gog
+        orcid: http://orcid.org/0000-0003-1240-7214
+      - name: Edward M Hill
+        orcid: http://orcid.org/0000-0002-2992-2004
+      - name: Leon Danon
+        orcid: http://orcid.org/0000-0002-7076-1871
+      - name: Robin N Thompson
+        orcid: http://orcid.org/0000-0001-8545-5212
+  comment:
+    dislikes: 0
+    thread: "8455822264"
+    numReports: 0
+    likes: 0
+    id: "5461402704"
+    createdAt: 2021-07-19T14:49:56
+    author:
+      username: juliargog
+      about: ""
+      name: Julia R. Gog
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/juliargog/
+      url: ""
+      location: ""
+      id: "372548794"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      A final version is now published at Royal Society Open Science:
+
+      https://doi.org/10.1098/rsos.210530
+
+
+
+      (Since medRxiv V2: Expanded detail in the methods section, new section in SI on sensitivity to higher d, fixed typos and minor changes for clarity throughout)
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.03.14.21253544v2
+  tweets:
+    - created_at: Mon Jul 19 16:31:43 +0000 2021
+      id: 1417160231747002400
+      id_str: "1417160231747002374"
+      text: >-
+        💬 medRxiv comment on "Vaccine escape in a heterogene..."
+
+
+        "A final version is now published at Royal Society Open S… https://t.co/v2DLkrOCKx
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/v2DLkrOCKx
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jul 19 16:31:43 +0000 2021
+      id: 1417160232762024000
+      id_str: "1417160232762023949"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/ReKZs1I4wV
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/ReKZs1I4wV
+      in_reply_to_status_id: 1417160231747002400
+      in_reply_to_status_id_str: "1417160231747002374"
