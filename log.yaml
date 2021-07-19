@@ -48358,3 +48358,146 @@
           - url: https://t.co/qLh4uladPn
       in_reply_to_status_id: 1417217816969818000
       in_reply_to_status_id_str: "1417217816969818115"
+- preprint:
+    id: "125341"
+    doi: 10.1101/2021.01.15.21249731
+    first_posted: 2021-01-15
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.01.15.21249731v1
+    url: https://api.rxivist.org/v1/papers/125341
+    title: SARS-CoV-2 reinfection in a cohort of 43,000 antibody-positive
+      individuals followed for up to 35 weeks
+    category: epidemiology
+    abstract: "Background: Reinfection with the severe acute respiratory syndrome
+      coronavirus 2 (SARS-CoV-2) has been documented, raising public health
+      concerns. Risk and incidence rate of SARS-CoV-2 reinfection were assessed
+      in a large cohort of antibody-positive persons in Qatar. Methods: All
+      SARS-CoV-2 antibody-positive persons with a PCR-positive swab [&ge;]14
+      days after the first-positive antibody test were individually investigated
+      for evidence of reinfection. Viral genome sequencing was conducted for
+      paired viral specimens to confirm reinfection. Incidence of reinfection
+      was compared to incidence of infection in the complement cohort of those
+      antibody-negative. Results: Among 43,044 anti-SARS-CoV-2 positive persons
+      who were followed for a median of 16.3 weeks (range: 0-34.6), 314
+      individuals (0.7%) had at least one PCR positive swab [&ge;]14 days after
+      the first-positive antibody test. Of these individuals, 129 (41.1%) had
+      supporting epidemiological evidence for reinfection. Reinfection was next
+      investigated using viral genome sequencing. Applying the
+      viral-genome-sequencing confirmation rate, the risk of reinfection was
+      estimated at 0.10% (95% CI: 0.08-0.11%). The incidence rate of reinfection
+      was estimated at 0.66 per 10,000 person-weeks (95% CI: 0.56-0.78).
+      Incidence rate of reinfection versus month of follow-up did not show any
+      evidence of waning of immunity for over seven months of follow-up.
+      Meanwhile, in the complement cohort of 149,923 antibody-negative persons
+      followed for a median of 17.0 weeks (range: 0-45.6), risk of infection was
+      estimated at 2.15% (95% CI: 2.08-2.22%) and incidence rate of infection
+      was estimated at 13.69 per 10,000 person-weeks (95% CI: 13.22-14.14).
+      Efficacy of natural infection against reinfection was estimated at 95.2%
+      (95% CI: 94.1-96.0%). Reinfections were less severe than primary
+      infections. Only one reinfection was severe, two were moderate, and none
+      were critical or fatal. Most reinfections (66.7%) were diagnosed
+      incidentally through random or routine testing, or through contact
+      tracing. Conclusions: Reinfection is rare. Natural infection appears to
+      elicit strong protection against reinfection with an efficacy ~95% for at
+      least seven months."
+    authors:
+      - name: Laith J Abu-Raddad
+        orcid: http://orcid.org/0000-0003-0790-0506
+      - name: Hiam Chemaitelly
+        orcid: http://orcid.org/0000-0002-8756-6968
+      - name: Peter J Coyle
+        orcid: http://orcid.org/0000-0002-0819-6103
+      - name: Joel A Malek
+        orcid: http://orcid.org/0000-0002-1516-8477
+      - name: Ayeda A Ahmed
+        orcid: null
+      - name: Yasmin A. Mohamoud
+        orcid: http://orcid.org/0000-0002-0614-2750
+      - name: Shameem Younuskunju
+        orcid: null
+      - name: Houssein H. Ayoub
+        orcid: http://orcid.org/0000-0003-2512-6657
+      - name: Zaina Al Kanaani
+        orcid: http://orcid.org/0000-0003-2297-4255
+      - name: Einas Al Kuwari
+        orcid: http://orcid.org/0000-0001-8849-2334
+      - name: Adeel A Butt
+        orcid: http://orcid.org/0000-0002-9436-0618
+      - name: Andrew Jeremijenko
+        orcid: http://orcid.org/0000-0002-0375-2713
+      - name: Anvar Hassan Kaleeckal
+        orcid: http://orcid.org/0000-0002-9650-4750
+      - name: Ali Nizar Latif
+        orcid: null
+      - name: Riyazuddin Mohammad Shaik
+        orcid: http://orcid.org/0000-0002-9844-5854
+      - name: Hanan F. Abdul Rahim
+        orcid: http://orcid.org/0000-0002-3719-5142
+      - name: Gheyath K. Nasrallah
+        orcid: http://orcid.org/0000-0001-9252-1038
+      - name: HADI M. YASSINE
+        orcid: http://orcid.org/0000-0001-7592-2788
+      - name: Mohamed G. Al Kuwari
+        orcid: http://orcid.org/0000-0002-9158-5395
+      - name: Hamad Eid Al Romaihi
+        orcid: http://orcid.org/0000-0003-1416-8499
+      - name: Mohamed H. Al-Thani
+        orcid: http://orcid.org/0000-0003-2501-6941
+      - name: Abdullatif Al Khal
+        orcid: null
+      - name: Roberto Bertollini
+        orcid: http://orcid.org/0000-0003-3606-9344
+  comment:
+    dislikes: 0
+    thread: "8389709853"
+    numReports: 0
+    likes: 0
+    id: "5460944306"
+    createdAt: 2021-07-19T03:14:17
+    author:
+      username: vinyanalista
+      about: ""
+      name: Antônio Vinícius
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/vinyanalista/
+      url: http://vinyanalista.com.br
+      location: Terra / Earth
+      id: "143189420"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: "Now published in EClinicalMedicine:
+      https://doi.org/10.1016/j.eclinm.2021.100861"
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.01.15.21249731v2
+  tweets:
+    - created_at: Mon Jul 19 22:19:31 +0000 2021
+      id: 1417247757815976000
+      id_str: "1417247757815975943"
+      text: |-
+        💬 medRxiv comment on "SARS-CoV-2 reinfection in a co..."
+
+        "Now published in EClinicalMedicine: "
+
+        https://t.co/Y0vzulDPTo
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/Y0vzulDPTo
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jul 19 22:19:31 +0000 2021
+      id: 1417247758570987500
+      id_str: "1417247758570987525"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/Us5ECPdQ2j
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/Us5ECPdQ2j
+      in_reply_to_status_id: 1417247757815976000
+      in_reply_to_status_id_str: "1417247757815975943"
