@@ -47793,3 +47793,112 @@
           - url: https://t.co/ifdUoU85Ao
       in_reply_to_status_id: 1416885263859699700
       in_reply_to_status_id_str: "1416885263859699712"
+- preprint:
+    id: "133087"
+    doi: 10.1101/2021.03.11.21253356
+    first_posted: 2021-03-12
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.03.11.21253356v1
+    url: https://api.rxivist.org/v1/papers/133087
+    title: Optimal vaccination strategies for COVID-19 based on dynamical social
+      networks with real-time updating
+    category: infectious-diseases
+    abstract: Vaccination strategy is crucial in fighting against the COVID-19
+      pandemic. Since the supply is limited, contact network-based interventions
+      can be most powerful to set an optimal strategy by identifying high-risk
+      individuals or communities. However, due to the high dimension, only
+      partial and noisy network information can be available in practice,
+      especially for dynamical systems where the contact networks are highly
+      time-variant. Furthermore, numerous mutations of SARS-CoV-2 impact
+      considerably the current infectious probability, requiring real-time
+      network updating algorithms. In this study, we propose a sequential
+      network updating approach based on data assimilation techniques to combine
+      different sources of temporal information. We then prioritise the
+      individuals with high-degree or high-centrality, obtained from the
+      assimilated networks, for vaccination. The assimilation-based approach is
+      compared with the standard method (based on partially observed networks)
+      and a random selection strategy in terms of vaccination effectiveness in a
+      SIR model. The numerical comparison is first carried out using real-world
+      face-to-face dynamical networks collected in a high school, following by
+      sequential multi-layer networks, generated relying on the Barabasi-Albert
+      model emulating the department of Computing at Imperial College London in
+      the UK as an example.
+    authors:
+      - name: Sibo Cheng
+        orcid: http://orcid.org/0000-0002-8707-2589
+      - name: Rossella Arcucci
+        orcid: http://orcid.org/0000-0002-9471-0585
+      - name: Christopher Pain
+        orcid: http://orcid.org/0000-0003-4194-2590
+      - name: Yike Guo
+        orcid: http://orcid.org/0000-0002-3075-2161
+  comment:
+    dislikes: 0
+    thread: "8434540520"
+    numReports: 0
+    likes: 0
+    id: "5457652794"
+    createdAt: 2021-07-16T05:35:56
+    author:
+      username: altamirgomesbispojunior
+      about: ""
+      name: Altamir Gomes Bispo Junior
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/altamirgomesbispojunior/
+      url: ""
+      location: ""
+      id: "59773983"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Hi, I'm one of the authors of [49].
+
+
+
+      I will make the following suggestions:
+
+
+
+      1- I see that medical doctors in several countries (India, China, South Korea etc.) are repurposing drugs and nutraceuticals and they are making huge strides on COVID-19 treatment guidelines. It will for sure be interesting to inform the general public about these possibilities, even if these possibilities are not currently acknowledged by organizations such as the WHO.
+
+
+
+      2- Many of the current COVID-19 vaccines are not sterilizing and thus cannot block transmission efficiently. Virus spread may vary due to different vaccine platforms.
+
+
+
+      3- Vaccines for respiratory viruses are known to have lower immunogenicity on older age cohorts and to have also a vanishing protection against infection and symptomatic infection. This could be added to the model.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.03.11.21253356v1
+  tweets:
+    - created_at: Mon Jul 19 01:03:17 +0000 2021
+      id: 1416926583760330800
+      id_str: "1416926583760330752"
+      text: |-
+        💬 medRxiv comment on "Optimal vaccination strategies..."
+
+        "Hi, I'm one of the authors of [49].
+
+        I will make the fol… https://t.co/Zv3WdmwUG8
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/Zv3WdmwUG8
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jul 19 01:03:17 +0000 2021
+      id: 1416926584670462000
+      id_str: "1416926584670461961"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/hKGoxg98Q8
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/hKGoxg98Q8
+      in_reply_to_status_id: 1416926583760330800
+      in_reply_to_status_id_str: "1416926583760330752"
