@@ -48235,3 +48235,126 @@
           - url: https://t.co/v7TcoohSCF
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "139315"
+    doi: 10.1101/2021.04.20.21255806
+    first_posted: 2021-04-23
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.04.20.21255806v1
+    url: https://api.rxivist.org/v1/papers/139315
+    title: Cerebral venous sinus thrombosis (CVST) is not significantly linked to
+      COVID-19 vaccines or non-COVID vaccines in a large multi-state US health
+      system
+    category: public-and-global-health
+    abstract: "Cerebral venous sinus thrombosis (CVST) has been reported in a small
+      number of individuals who have received the mRNA vaccines or the
+      adenoviral vector vaccines for COVID-19 in the US and Europe. Continued
+      pharmacovigilance is integral to mitigating the risk of rare adverse
+      events that clinical trials are underpowered to detect, however, these
+      anecdotal reports have led to the pause or withdrawal of some vaccines in
+      many jurisdictions and exacerbated vaccine hesitancy at a critical moment
+      in the fight against the COVID-19 pandemic. We investigated the
+      frequencies of CVST seen among individuals who received FDA-authorized
+      COVID-19 vaccines from Pfizer-BioNTech (n = 94,818 doses), Moderna (n =
+      36,350 doses) and Johnson & Johnson - J&J (n = 1,745 doses), and among
+      individuals receiving one of 10 FDA-approved non-COVID-19 vaccines (n =
+      771,805 doses). Comparing the incidence rates of CVST in 30-day time
+      windows before and after vaccination, we found no statistically
+      significant differences for the COVID-19 vaccines or any other vaccines
+      studied in this population. In total, we observed 3 cases of CVST within
+      the 30 days following Pfizer-BioNTech vaccination (2 females, 1 male; Ages
+      (years): [79, 80, 84]), including one individual with a prior history of
+      thrombosis and another individual with recent trauma in the past 30 days.
+      We did not observe any cases of CVST among the patients receiving Moderna
+      or J&J vaccines in this study population. We further found the baseline
+      CVST incidence in the study population between 2017 and 2021 to be 45 to
+      98 per million patient years. Overall, this real-world evidence-based
+      study highlights that CVST is rare and is not significantly associated
+      with COVID-19 vaccination. In addition, there is a need for a concerted
+      international effort to monitor EHR data across diverse patient
+      populations and to investigate the underlying biological mechanisms
+      leading to these rare clotting events."
+    authors:
+      - name: Colin Pawlowski
+        orcid: http://orcid.org/0000-0003-2781-7507
+      - name: John Rincon-Hekking
+        orcid: http://orcid.org/0000-0003-1584-3943
+      - name: Samir Awasthi
+        orcid: http://orcid.org/0000-0001-8392-0205
+      - name: Viral Pandey
+        orcid: null
+      - name: Patrick Lenehan
+        orcid: http://orcid.org/0000-0002-1950-9179
+      - name: AJ Venkatakrishnan
+        orcid: http://orcid.org/0000-0003-2819-3214
+      - name: Sairam Bade
+        orcid: null
+      - name: John C OHoro
+        orcid: null
+      - name: Abinash Virk
+        orcid: http://orcid.org/0000-0003-3437-7159
+      - name: Melanie Swift
+        orcid: http://orcid.org/0000-0002-5900-5573
+      - name: Amy W Williams
+        orcid: null
+      - name: Gregory J Gores
+        orcid: http://orcid.org/0000-0003-3151-009X
+      - name: Andrew D Badley
+        orcid: http://orcid.org/0000-0001-7796-7680
+      - name: John D Halamka
+        orcid: http://orcid.org/0000-0003-2305-6755
+      - name: Venky Soundararajan
+        orcid: http://orcid.org/0000-0001-7434-9211
+  comment:
+    dislikes: 0
+    thread: "8489654099"
+    numReports: 0
+    likes: 0
+    id: "5461088102"
+    createdAt: 2021-07-19T07:58:32
+    author:
+      username: disqus_2AKoVutrSr
+      about: ""
+      name: Nikki
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_2AKoVutrSr/
+      url: ""
+      location: ""
+      id: "244685875"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: And so does the contraceptive pill, knee replacement surgery,
+      sitting for hours, long haul flights. What’s your point?
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.04.20.21255806v1
+  tweets:
+    - created_at: Mon Jul 19 20:20:32 +0000 2021
+      id: 1417217816969818000
+      id_str: "1417217816969818115"
+      text: >-
+        💬 medRxiv comment on "Cerebral venous sinus thrombos..."
+
+
+        "And so does the contraceptive pill, knee replacement sur… https://t.co/69gw79DzUp
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/69gw79DzUp
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jul 19 20:20:33 +0000 2021
+      id: 1417217817926115300
+      id_str: "1417217817926115328"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/qLh4uladPn
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/qLh4uladPn
+      in_reply_to_status_id: 1417217816969818000
+      in_reply_to_status_id_str: "1417217816969818115"
