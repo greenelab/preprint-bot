@@ -48189,3 +48189,49 @@
           - url: https://t.co/652MU3io4j
       in_reply_to_status_id: 1417188962469298200
       in_reply_to_status_id_str: "1417188962469298176"
+- preprint:
+    id: 133905
+    metric: 14
+    title: Geographic Confounding in Genome-Wide Association Studies
+    url: https://api.rxivist.org/v1/papers/133905
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.03.18.435971v1
+    doi: 10.1101/2021.03.18.435971
+    category: genetics
+    first_posted: 2021-03-18
+    abstract: Gene-environment correlations can bias associations between genetic
+      variants and complex traits in genome-wide association studies (GWASs).
+      Here, we control for geographic sources of gene-environment correlation in
+      GWASs on 56 complex traits (N=69,772-271,457). Controlling for geographic
+      region significantly decreases heritability signals for SES-related
+      traits, most strongly for educational attainment and income, indicating
+      that socio-economic differences between regions induce gene-environment
+      correlations that become part of the polygenic signal. For most other
+      complex traits investigated, genetic correlations with educational
+      attainment and income are significantly reduced, most significantly for
+      traits related to BMI, sedentary behavior, and substance use. Controlling
+      for current address has greater impact on the polygenic signal than birth
+      place, suggesting both active and passive sources of gene-environment
+      correlations. Our results show that societal sources of social
+      stratification that extend beyond families introduce regional-level
+      gene-environment correlations that affect GWAS results.
+    authors:
+      - name: Abdel Abdellaoui
+      - name: Karin J.H. Verweij
+      - name: Michel G Nivard
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Mon Jul 19 20:16:55 +0000 2021
+      id: 1417216907372028000
+      id_str: "1417216907372027907"
+      text: >-
+        🔥 bioRxiv Genetics preprint by A. Abdellaoui et al:
+
+
+        "Geographic Confounding in Genome-Wide Association Studies"… https://t.co/v7TcoohSCF
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/v7TcoohSCF
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
