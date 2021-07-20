@@ -49322,3 +49322,139 @@
           - url: https://t.co/uR9zjl4BxP
       in_reply_to_status_id: 1417523816985682000
       in_reply_to_status_id_str: "1417523816985681920"
+- preprint:
+    id: "141057"
+    doi: 10.1101/2021.05.03.21256520
+    first_posted: 2021-05-06
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.03.21256520v1
+    url: https://api.rxivist.org/v1/papers/141057
+    title: The BNT162b2 mRNA vaccine against SARS-CoV-2 reprograms both adaptive and
+      innate immune responses
+    category: infectious-diseases
+    abstract: The mRNA-based BNT162b2 vaccine from Pfizer/BioNTech was the first
+      registered COVID-19 vaccine and has been shown to be up to 95% effective
+      in preventing SARS-CoV-2 infections. Little is known about the broad
+      effects of the new class of mRNA vaccines, especially whether they have
+      combined effects on innate and adaptive immune responses. Here we
+      confirmed that BNT162b2 vaccination of healthy individuals induced
+      effective humoral and cellular immunity against several SARS-CoV-2
+      variants. Interestingly, however, the BNT162b2 vaccine also modulated the
+      production of inflammatory cytokines by innate immune cells upon
+      stimulation with both specific (SARS-CoV-2) and non-specific (viral,
+      fungal and bacterial) stimuli. The response of innate immune cells to TLR4
+      and TLR7/8 ligands was lower after BNT162b2 vaccination, while
+      fungi-induced cytokine responses were stronger. In conclusion, the mRNA
+      BNT162b2 vaccine induces complex functional reprogramming of innate immune
+      responses, which should be considered in the development and use of this
+      new class of vaccines.
+    authors:
+      - name: F. Konstantin Föhse
+        orcid: http://orcid.org/0000-0002-4708-6943
+      - name: Büsranur Geckin
+        orcid: http://orcid.org/0000-0002-4751-4960
+      - name: Gijs Overheul
+        orcid: http://orcid.org/0000-0002-8356-8165
+      - name: Josephine van de Maat
+        orcid: http://orcid.org/0000-0001-7351-4596
+      - name: Gizem Kilic
+        orcid: http://orcid.org/0000-0002-8251-1909
+      - name: Ozlem Bulut
+        orcid: http://orcid.org/0000-0001-7077-6216
+      - name: Helga Dijkstra
+        orcid: null
+      - name: Heidi Lemmers
+        orcid: null
+      - name: S. Andrei Sarlea
+        orcid: null
+      - name: Maartje Reijnders
+        orcid: null
+      - name: Jacobien Hoogerwerf
+        orcid: http://orcid.org/0000-0001-9957-3703
+      - name: Jaap ten Oever
+        orcid: http://orcid.org/0000-0003-2397-0125
+      - name: Elles Simonetti
+        orcid: null
+      - name: Frank L van de Veerdonk
+        orcid: http://orcid.org/0000-0002-1121-4894
+      - name: Leo A.B. Joosten
+        orcid: http://orcid.org/0000-0001-6166-9830
+      - name: Bart L. Haagmans
+        orcid: http://orcid.org/0000-0001-6221-2015
+      - name: Reinout van Crevel
+        orcid: null
+      - name: Yang Li
+        orcid: http://orcid.org/0000-0003-4022-7341
+      - name: Ronald P. van Rij
+        orcid: http://orcid.org/0000-0003-0221-4689
+      - name: Corine GeurtsvanKessel
+        orcid: http://orcid.org/0000-0002-7678-314X
+      - name: Marien I. de Jonge
+        orcid: http://orcid.org/0000-0003-2812-5895
+      - name: Jorge Domínguez-Andrés
+        orcid: http://orcid.org/0000-0002-9091-1961
+      - name: Mihai G. Netea
+        orcid: http://orcid.org/0000-0003-2421-6052
+  comment:
+    dislikes: 0
+    thread: "8508876244"
+    numReports: 0
+    likes: 0
+    id: "5460939936"
+    createdAt: 2021-07-19T03:08:20
+    author:
+      username: milesbabbage
+      about: ""
+      name: Miles Babbage
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/milesbabbage/
+      url: ""
+      location: ""
+      id: "372527611"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      OK, authors, there are problems here. You don't have the sample numbers to
+      make the claims you do, and your data do not bear it. 
+
+
+      Interferon alpha effect you report here seems, from your own graphs, to be an artifact of changes between the first and the second dose, not between vaccine and lack of vaccine. I.e. you have a very minor shift up at t2, which makes the drop at t3 significant - but there is no actual effect between t1 and t3. 
+
+
+      For TNFa data, the R848 seems to be based on one single patient who had a strong increase at t2 that declined in t3. The only significant observation that holds is the one with candida, which then brings up the problem of sampling (test enough things, and you'll get a result somewhere). You need to state your statistics much more clearly. 
+
+
+      There is an possible trend here, but that trend a) needs to also be interpreted in the light of known post-viral effects on the innate immune system (such as e.g. those seen with post-influenza effects on bacterial resistance), and b) needs to stated as trend, not as a definite finding.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.05.03.21256520v1
+  tweets:
+    - created_at: Tue Jul 20 18:29:22 +0000 2021
+      id: 1417552227443544000
+      id_str: "1417552227443544066"
+      text: >-
+        💬 medRxiv comment on "The BNT162b2 mRNA vaccine agai..."
+
+
+        "OK, authors, there are problems here. You don't have the… https://t.co/xSrj7ELv2G
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/xSrj7ELv2G
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jul 20 18:29:22 +0000 2021
+      id: 1417552228290900000
+      id_str: "1417552228290899971"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/dJAkyRxqBb
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/dJAkyRxqBb
+      in_reply_to_status_id: 1417552227443544000
+      in_reply_to_status_id_str: "1417552227443544066"
