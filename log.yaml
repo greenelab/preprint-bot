@@ -49626,3 +49626,108 @@
           - url: https://t.co/qEvO1vUrTQ
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "129426"
+    doi: 10.1101/2021.02.15.431157
+    first_posted: 2021-02-16
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.02.15.431157v1
+    url: https://api.rxivist.org/v1/papers/129426
+    title: A new field instrument for leaf volatiles reveals an unexpected vertical
+      profile of isoprenoid emission capacities in a tropical forest
+    category: plant-biology
+    abstract: "Both plant physiology and atmospheric chemistry are substantially
+      altered by the emission of volatile isoprenoids (VI), such as isoprene and
+      monoterpenes, from plant leaves. Yet, since gaining scientific attention
+      in the 1950's, empirical research on leaf VI has been largely confined to
+      laboratory experiments and atmospheric observations. Here, we introduce a
+      new field instrument designed to bridge the scales from leaf to
+      atmosphere, by enabling precision VI detection in real time from plants in
+      their natural ecological setting. With a field campaign in the Brazilian
+      Amazon, we reveal an unexpected distribution of leaf emission capacities
+      (EC) across the vertical axis of the forest canopy, with EC peaking in the
+      mid-canopy instead of the sun-exposed canopy surface, and high emissions
+      occurring in understory specialist species. Compared to the simple
+      interpretation that VI protect leaves from heat stress at the hot canopy
+      surface, our results encourage a more nuanced view of the adaptive role of
+      VI in plants. We infer that forest emissions to the atmosphere depend on
+      the dynamic microenvironments imposed by canopy structure, and not simply
+      on canopy surface conditions. We provide a new emissions inventory from 51
+      tropical tree species, revealing moderate consistency in EC within
+      taxonomic groups. Our self-contained, portable instrument provides
+      real-time detection and live measurement feedback with precision and
+      detection limits better than 0.5 nmol m-2leaf s-1. We call the instrument
+      'PORCO' based on the gas detection method: photoionization of organic
+      compounds. We provide a thorough validation of PORCO and demonstrate its
+      capacity to detect ecologically driven variation in leaf emission rates
+      and thus accelerate a nascent field of science: the ecology and
+      ecophysiology of plant volatiles."
+    authors:
+      - name: Tyeen C Taylor
+        orcid: http://orcid.org/0000-0002-0926-098X
+      - name: Wit T Wisniewski
+        orcid: http://orcid.org/0000-0001-7527-4450
+      - name: Eliane G Alves
+        orcid: http://orcid.org/0000-0001-5245-1952
+      - name: Raimundo Cosme de Oliveira
+        orcid: null
+      - name: Scott R Saleska
+        orcid: http://orcid.org/0000-0002-4974-3628
+  comment:
+    dislikes: 0
+    thread: "8400849189"
+    numReports: 0
+    likes: 0
+    id: "5462402679"
+    createdAt: 2021-07-20T08:45:57
+    author:
+      username: tyeentaylor
+      about: "Dr. Tyeen Taylor studies the shifting ecology of tropical forests amid
+        the onset of rapid climate warming. He avidly shares the joy and
+        practicality of scientific knowledge with non-scientists through films,
+        photography, writing, and public events. Public Facebook page:
+        @TyeenCTscience. Twitter: @TyeenTaylor. YouTube: Tyeen Taylor. Website:
+        www.ttphilos.org."
+      name: Dr. Tyeen C Taylor
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/tyeentaylor/
+      url: ""
+      location: Tucson, AZ
+      id: "259523735"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: "This article is now published in Frontiers in Forests and Global
+      Change at: https://doi.org/10.3389/ffgc.2021.668228"
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.02.15.431157v1
+  tweets:
+    - created_at: Tue Jul 20 22:19:50 +0000 2021
+      id: 1417610225083949000
+      id_str: "1417610225083949056"
+      text: >-
+        💬 bioRxiv comment on "A new field instrument for lea..."
+
+
+        "This article is now published in Frontiers in Forests an… https://t.co/lWo0jmumaB
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/lWo0jmumaB
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jul 20 22:19:50 +0000 2021
+      id: 1417610225918619600
+      id_str: "1417610225918619650"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/rC1L76S9pZ
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/rC1L76S9pZ
+      in_reply_to_status_id: 1417610225083949000
+      in_reply_to_status_id_str: "1417610225083949056"
