@@ -48501,3 +48501,473 @@
           - url: https://t.co/Us5ECPdQ2j
       in_reply_to_status_id: 1417247757815976000
       in_reply_to_status_id_str: "1417247757815975943"
+- preprint:
+    id: "136728"
+    doi: 10.1101/2021.04.06.438463
+    first_posted: 2021-04-06
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.04.06.438463v1
+    url: https://api.rxivist.org/v1/papers/136728
+    title: Universal prediction of cell cycle position using transfer learning
+    category: genomics
+    abstract: The cell cycle is a highly conserved, continuous process which
+      controls faithful replication and division of cells. Single-cell
+      technologies have enabled increasingly precise measurements of the cell
+      cycle as both as a biological process of interest and as a possible
+      confounding factor. Despite its importance and conservation, there is no
+      universally applicable approach to infer position in the cell cycle with
+      high-resolution from single-cell RNA-seq data. Here, we present tricycle,
+      an R/Bioconductor package, to address this challenge by leveraging key
+      features of the biology of the cell cycle, the mathematical properties of
+      principal component analysis of periodic functions, and the ubiquitous
+      applicability of transfer learning. We show that tricycle can predict any
+      cells position in the cell cycle regardless of the cell type, species of
+      origin, and even sequencing assay. The accuracy of tricycle compares
+      favorably to gold-standard experimental assays which generally require
+      specialized measurements in specifically constructed in vitro systems.
+      Unlike gold-standard assays, tricycle is easily applicable to any
+      single-cell RNA-seq dataset. Tricycle is highly scalable, universally
+      accurate, and eminently pertinent for atlas-level data.
+    authors:
+      - name: Shijie C. Zheng
+        orcid: http://orcid.org/0000-0002-2902-3164
+      - name: Genevieve Stein-O'Brien
+        orcid: http://orcid.org/0000-0001-8681-9110
+      - name: Jonathan J Augustin
+        orcid: http://orcid.org/0000-0002-3302-4426
+      - name: Jared Slosberg
+        orcid: http://orcid.org/0000-0002-1803-2815
+      - name: Giovanni A. Carosso
+        orcid: http://orcid.org/0000-0002-9142-8525
+      - name: Briana Winer
+        orcid: http://orcid.org/0000-0001-8084-039X
+      - name: Gloria Shin
+        orcid: null
+      - name: Hans T. Bjornsson
+        orcid: http://orcid.org/0000-0001-6635-6753
+      - name: Loyal A. Goff
+        orcid: http://orcid.org/0000-0003-2875-451X
+      - name: Kasper D. Hansen
+        orcid: http://orcid.org/0000-0003-0086-0687
+  comment:
+    dislikes: 0
+    thread: "8474469399"
+    numReports: 0
+    likes: 0
+    id: "5461857342"
+    createdAt: 2021-07-19T20:54:30
+    author:
+      username: stephens999
+      about: ""
+      name: stephens999
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/stephens999/
+      url: ""
+      location: ""
+      id: "131896521"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      A Review of Zheng et al, Universal prediction of cell cycle position using
+      transfer learning, by Matthew Stephens
+
+
+      This paper provides a new approach (tricycle) for predicting the
+
+      position of a cell in the cell cycle. The approach claims to work
+
+      regardless of cell type, species and sequencing assay.
+
+      There are several things to like about the paper. In particular,
+
+      the tricycle method is very
+
+      simple: i) compute the first two PCs on
+
+      500 annotated cell-cycle genes in a data set where cell cycle
+
+      is the primary source of variation; ii) project
+
+      any future observations to this 2-d embedding and compute
+
+      the polar angle to predict its cell cycle
+
+      position. Further, the empirical results are promising.
+
+      At the same time I think the paper
+
+      could be substantially improved by removing or
+
+      reducing some of the less innovative parts, toning down some of the rhetoric,
+
+      and focussing on the most convincing empirical results. My comments expand
+
+      on these suggestions.
+
+
+      Main comments:
+
+
+      1. I found most of the material on PCA not to be
+
+      especially novel or interesting. The use of PCA to determine cell cycle
+
+      position has a long history (including many papers cited here),
+
+      and existing mathematical results already go far beyond
+
+      the analysis presented here. The behavior of PCA on cyclic phenomena
+
+      is much more general than presented here, and does not rely on sinusoidal
+
+      functions or "two distinct peaks" etc. Rather it stems
+
+      from the result that cyclic phenomona lead to circulant covariance matrices,
+
+      and all circulant matrices have the same eigenvectors:
+
+      the columns of the discrete Fourier transform matrix. The result
+
+      is that, when the covariance patterns primarily reflect cyclic phenomoena,
+
+      the first two PCs will form a circle/ellipse.
+
+      See Novembre and Stephens (2008) and references therein for further discussion.
+
+      Figure 1 is useful for summarizing the method, but most of the other
+
+      material could be condensed or removed and I think the paper would be improved because
+
+      it would better focus on what is actually new and interesting, the tricycle
+
+      method (currently not introduced until p6) and the empirical assessments of its performance.
+
+
+      2. The paper left me asking myself this: what is the strongest empirical support that tricycle cell
+
+      cycle assignments work in practice? To me, Fig 5 panels c and g are the most convincing, because they are quantitative
+
+      comparisons with an alternative technology (and one that is often considered the
+
+      "gold standard" in this area). I also liked the quantitative comparisons with other
+
+      methods,  and it seems some of those might
+
+      be worth including in the main text. In contrast, the results in Fig 4 are not
+
+      quantitative, and overall not that compelling. The top row
+
+      of panels are kind of useful in demonstrating you get something like a circle.
+
+      but we don't actually know that this corresponds to cell cycle from this picture
+
+      (unless I misunderstood, the colors are inferred, not known).
+
+      And looking at the mPancreas results one might be tempted to use (-3,0) as the
+
+      center of the circle, which would change computation of polar angle quite a bit.
+
+      Is there reason to think that sticking with (0,0) is better? If so, any idea why does
+
+      the circle show this shift? (Similar issues arise, to a lesser extent, with HippNPC).
+
+      The Top2A results are, on their own, too noisy to be convincing -- why not show R2 plots for
+
+      all cell-cycle genes (which could be contrasted with non-cell-cycle genes, and also compared
+
+      with other methods). And as far as I can
+
+      see Fig 4c is, at best, only interesting once one is convinced that the cell cycle
+
+      is being correctly inferred -- nothing here to say that the cell cycle inferences are accurate.
+
+      To be clear, I'm not saying the method does not generalize well across
+
+      data sets; I'm saying that the evidence for this needs to be more clearly presented.
+
+
+
+      3. A less fundamental issue: I don't really think describing this as an example of "transfer learning"
+
+      is helpful. Indeed it is not even clear to me it is accurate.
+
+      For example, in the cited Pan et al 2008, they describe the transfer
+
+      learning problem as follows: "In a transfer learning setting, some labeled data Dsrc are
+
+      available in a source domain, while only unlabeled data Dtar
+
+      are available in the target domain." That does not apply here - everything
+
+      is based on unlabelled data.
+
+
+      More generally, giving the approach a name like "transfer learning" seems to
+
+      suggest that there is something going on to actually make this transfer
+
+      from one dataset to another, or some deeper theoretical reason to think it should work
+
+      --  but I don't believe either of these is true. You are just hoping
+
+      that the PC weights learned in one (carefully chosen) data set will
+
+      also work to capture cell cycle on other data sets.
+
+      It isn't obvious in advance that this rather simple approach
+
+      would work well, and the major contribution of the paper is to assess this
+       empirically.
+
+
+      4. The abstract is hyperbolic. "ubiquitous applicability of transfer learning";
+
+      "can predict any cell's position in the cell cycle",
+
+      "universally accurate", "eminently pertinent"...
+
+
+
+      Minor:
+
+
+      - p2 you introduce the term "cell cycle pseudotime" only to explain later that it is not really a time at all. Why not just go straight into "cell cycle position"
+
+      or "cell cycle phase"? (Also, the term "wall time" may not be familiar to all readers?)
+
+
+      -p5 left column: Figure 2d-> 2f?
+
+
+      - p8, right column:  is "superficial" the right word here?
+
+
+      - Some of the loess fits (eg Fig 2 d-f; Fig 4 panel b, especially mHippNPC) don't look visually very good. Is this
+
+      just an artifact of having 0s, whose density is impossible to see due to overplotting, or is loess over-smoothing? Might trend filtering, as used in Hsiao et al, work better?
+
+
+
+      Refs:
+
+
+      J Novembre and M Stephens. Interpreting principal component analyses of spatial population genetic variation.
+
+      Nat Genet 40(5):646-649, May 2008A Review of Zheng et al, Universal prediction of cell cycle position using transfer learning, by Matthew Stephens
+
+
+      This paper provides a new approach (tricycle) for predicting the
+
+      position of a cell in the cell cycle. The approach claims to work
+
+      regardless of cell type, species and sequencing assay.
+
+      There are several things to like about the paper. In particular,
+
+      the tricycle method is very
+
+      simple: i) compute the first two PCs on
+
+      500 annotated cell-cycle genes in a data set where cell cycle
+
+      is the primary source of variation; ii) project
+
+      any future observations to this 2-d embedding and compute
+
+      the polar angle to predict its cell cycle
+
+      position. Further, the empirical results are promising.
+
+      At the same time I think the paper
+
+      could be substantially improved by removing or
+
+      reducing some of the less innovative parts, toning down some of the rhetoric,
+
+      and focussing on the most convincing empirical results. My comments expand
+
+      on these suggestions.
+
+
+      Main comments:
+
+
+      1. I found most of the material on PCA not to be
+
+      especially novel or interesting. The use of PCA to determine cell cycle
+
+      position has a long history (including many papers cited here),
+
+      and existing mathematical results already go far beyond
+
+      the analysis presented here. The behavior of PCA on cyclic phenomena
+
+      is much more general than presented here, and does not rely on sinusoidal
+
+      functions or "two distinct peaks" etc. Rather it stems
+
+      from the result that cyclic phenomona lead to circulant covariance matrices,
+
+      and all circulant matrices have the same eigenvectors:
+
+      the columns of the discrete Fourier transform matrix. The result
+
+      is that, when the covariance patterns primarily reflect cyclic phenomoena,
+
+      the first two PCs will form a circle/ellipse.
+
+      See Novembre and Stephens (2008) and references therein for further discussion.
+
+      Figure 1 is useful for summarizing the method, but most of the other
+
+      material could be condensed or removed and I think the paper would be improved because
+
+      it would better focus on what is actually new and interesting, the tricycle
+
+      method (currently not introduced until p6) and the empirical assessments of its performance.
+
+
+      2. The paper left me asking myself this: what is the strongest empirical support that tricycle cell
+
+      cycle assignments work in practice? To me, Fig 5 panels c and g are the most convincing, because they are quantitative
+
+      comparisons with an alternative technology (and one that is often considered the
+
+      "gold standard" in this area). I also liked the quantitative comparisons with other
+
+      methods,  and it seems some of those might
+
+      be worth including in the main text. In contrast, the results in Fig 4 are not
+
+      quantitative, and overall not that compelling. The top row
+
+      of panels are kind of useful in demonstrating you get something like a circle.
+
+      but we don't actually know that this corresponds to cell cycle from this picture
+
+      (unless I misunderstood, the colors are inferred, not known).
+
+      And looking at the mPancreas results one might be tempted to use (-3,0) as the
+
+      center of the circle, which would change computation of polar angle quite a bit.
+
+      Is there reason to think that sticking with (0,0) is better? If so, any idea why does
+
+      the circle show this shift? (Similar issues arise, to a lesser extent, with HippNPC).
+
+      The Top2A results are, on their own, too noisy to be convincing -- why not show R2 plots for
+
+      all cell-cycle genes (which could be contrasted with non-cell-cycle genes, and also compared
+
+      with other methods). And as far as I can
+
+      see Fig 4c is, at best, only interesting once one is convinced that the cell cycle
+
+      is being correctly inferred -- nothing here to say that the cell cycle inferences are accurate.
+
+      To be clear, I'm not saying the method does not generalize well across
+
+      data sets; I'm saying that the evidence for this needs to be more clearly presented.
+
+
+
+      3. A less fundamental issue: I don't really think describing this as an example of "transfer learning"
+
+      is helpful. Indeed it is not even clear to me it is accurate.
+
+      For example, in the cited Pan et al 2008, they describe the transfer
+
+      learning problem as follows: "In a transfer learning setting, some labeled data Dsrc are
+
+      available in a source domain, while only unlabeled data Dtar
+
+      are available in the target domain." That does not apply here - everything
+
+      is based on unlabelled data.
+
+
+      More generally, giving the approach a name like "transfer learning" seems to
+
+      suggest that there is something going on to actually make this transfer
+
+      from one dataset to another, or some deeper theoretical reason to think it should work
+
+      --  but I don't believe either of these is true. You are just hoping
+
+      that the PC weights learned in one (carefully chosen) data set will
+
+      also work to capture cell cycle on other data sets.
+
+      It isn't obvious in advance that this rather simple approach
+
+      would work well, and the major contribution of the paper is to assess this
+       empirically.
+
+
+      4. The abstract is hyperbolic. "ubiquitous applicability of transfer learning";
+
+      "can predict any cell's position in the cell cycle",
+
+      "universally accurate", "eminently pertinent"...
+
+
+
+      Minor:
+
+
+      - p2 you introduce the term "cell cycle pseudotime" only to explain later that it is not really a time at all. Why not just go straight into "cell cycle position"
+
+      or "cell cycle phase"? (Also, the term "wall time" may not be familiar to all readers?)
+
+
+      -p5 left column: Figure 2d-> 2f?
+
+
+      - p8, right column:  is "superficial" the right word here?
+
+
+      - Some of the loess fits (eg Fig 2 d-f; Fig 4 panel b, especially mHippNPC) don't look visually very good. Is this
+
+      just an artifact of having 0s, whose density is impossible to see due to overplotting, or is loess over-smoothing? Might trend filtering, as used in Hsiao et al, work better?
+
+
+
+      Refs:
+
+
+      J Novembre and M Stephens. Interpreting principal component analyses of spatial population genetic variation.
+
+      Nat Genet 40(5):646-649, May 2008
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.04.06.438463v2
+  tweets:
+    - created_at: Tue Jul 20 01:07:28 +0000 2021
+      id: 1417290026505879600
+      id_str: "1417290026505879553"
+      text: >-
+        💬 bioRxiv comment on "Universal prediction of cell c..."
+
+
+        "A Review of Zheng et al, Universal prediction of cell cy… https://t.co/0uFH79dRIT
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/0uFH79dRIT
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jul 20 01:07:29 +0000 2021
+      id: 1417290027340550100
+      id_str: "1417290027340550144"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/52W1p4SYI2
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/52W1p4SYI2
+      in_reply_to_status_id: 1417290026505879600
+      in_reply_to_status_id_str: "1417290026505879553"
