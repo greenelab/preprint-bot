@@ -49070,3 +49070,120 @@
           - url: https://t.co/xn3KeDYtZU
       in_reply_to_status_id: 1417462226332565500
       in_reply_to_status_id_str: "1417462226332565514"
+- preprint:
+    id: "147786"
+    doi: 10.1101/2021.06.26.449999
+    first_posted: 2021-06-27
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.26.449999v1
+    url: https://api.rxivist.org/v1/papers/147786
+    title: Genetic basis and dual adaptive role of floral pigmentation in sunflowers
+    category: evolutionary-biology
+    abstract: Variation in floral displays, both between and within species, has
+      been long known to be shaped by the mutualistic interactions that plants
+      establish with their pollinators. However, increasing evidence suggests
+      that abiotic selection pressures influence floral diversity as well. Here
+      we analyze the genetic and environmental factors that underlie patterns of
+      floral pigmentation in wild sunflowers. While sunflower inflorescences
+      appear invariably yellow to the human eye, they display extreme diversity
+      for patterns of ultraviolet pigmentation, which are visible to most
+      pollinators. We show that this diversity is largely controlled by
+      cis-regulatory variation at a single MYB transcription factor, HaMYB111,
+      through accumulation of UV-absorbing flavonol glycosides. As expected,
+      different patterns of ultraviolet pigments in flowers have a strong effect
+      on pollinator preferences. However, variation for floral ultraviolet
+      patterns is also associated with environmental variables, especially
+      relative humidity, across populations of wild sunflowers. Larger
+      ultraviolet patterns, which are found in drier environments, limit
+      transpiration, therefore reducing water loss. The dual role of floral UV
+      patterns in pollination attraction and abiotic responses reveals the
+      complex adaptive balance underlying the evolution of floral traits.
+    authors:
+      - name: Marco Todesco
+        orcid: http://orcid.org/0000-0002-6227-4096
+      - name: Natalia Bercovich
+        orcid: http://orcid.org/0000-0002-7703-2858
+      - name: Amy Kim
+        orcid: null
+      - name: Ivana Imerovski
+        orcid: http://orcid.org/0000-0002-1164-3664
+      - name: Gregory L Owens
+        orcid: http://orcid.org/0000-0002-4019-5215
+      - name: Óscar Dorado Ruiz
+        orcid: null
+      - name: Srinidhi V. Holalu
+        orcid: http://orcid.org/0000-0002-1948-8216
+      - name: Lufiani L Madilao
+        orcid: http://orcid.org/0000-0003-4161-2540
+      - name: Mojtaba Jahani
+        orcid: http://orcid.org/0000-0003-1844-1464
+      - name: Jean-Sébastein Légaré
+        orcid: null
+      - name: Benjamin K Blackman
+        orcid: http://orcid.org/0000-0003-4936-6153
+      - name: Loren Reiseberg
+        orcid: http://orcid.org/0000-0002-2712-2417
+  comment:
+    dislikes: 0
+    thread: "8618581326"
+    numReports: 0
+    likes: 0
+    id: "5461587933"
+    createdAt: 2021-07-19T17:21:41
+    author:
+      username: marcotodesco
+      about: ""
+      name: Marco Todesco
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/marcotodesco/
+      url: ""
+      location: ""
+      id: "200033762"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Hi Nate, thank you! I am glad you found our manuscript interesting.
+
+
+      1) As per you suggestion, we did check VPD, but there is not much correlation with floral UV patterns. What we see is that floral UV patterns in sunflowers are inversely correlated with both temperature and relative humidity, while VPD increases with temperature and decreases with relative humidity. Our interpretation is that in hot, humid places, preventing over-heating of the ligules through transpiration/evaporative cooling is a priority over reducing water loss (even if VDP might be similar to that of colder, drier places).
+
+
+      2) We did measure flower and ligule size on a subset of ~700 individuals that were grown in the first of our common garden experiments, and there is plenty of variation in flower and ligule size, ligule shape and ligule number (that data is included in a recent paper, Todesco et al., Nature 2020). However, this variation is more difficult to interpret because inflorescence size is very well correlated with flowering time in wild sunflowers (plants that flower later are bigger, and bigger plants make bigger inflorescences). There was extensive variation in flowering time between populations of wild <i>H. annuus</i> in our common garden experiment, with plants flowering anywhere between 30 and more than 130 days after being transplanted. While we can control for when these plants flowered in our common garden, we don’t really know how flowering time in Vancouver translates to flowering time in the location of origin of these plants. Measuring flower/ligule size in situ would be much more informative, but we do not have that data.
+
+
+      That said, there is some decent correlation, particularly between relative humidity and relative ligule size (that is, the size of the ligule relative to the size of the whole inflorescence), with plants coming from population with higher humidity having larger ligules. The correlation might be clearer for relative ligule size because it is be less likely to be affected by flowering time/plant size; we use ligule UV proportion (LUVp) to measure floral UV patterns instead of absolute measurements of UV bullseye size exactly for that reason. A previous study from our lab (in <i>H. argophyllus</i>, a different sunflower species) found that in a segregating population, all absolute measures of floral UV pigmentation (e.g. diameter of UV bullseye) mapped to a big flowering time QTL, while LUVp measurements mapped to different regions of the genome (incidentally, in the paper I mentioned before we also confirmed that that QTL in <i>H. argophyllus</i> is indeed due to a well-known flowering time regulator, which was part of a recent large introgression).
+
+      To sum up, while there is some indication that sunflowers have smaller flowers/ligules in drier climates, it would take in-depth field studies to be able to say something with a modicum of certainty.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.06.26.449999v1
+  tweets:
+    - created_at: Tue Jul 20 14:17:45 +0000 2021
+      id: 1417488904907808800
+      id_str: "1417488904907808770"
+      text: >-
+        💬 bioRxiv comment on "Genetic basis and dual adaptiv..."
+
+
+        "Hi Nate, thank you! I am glad you found our manuscript i… https://t.co/coNQpU7VBt
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/coNQpU7VBt
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jul 20 14:17:45 +0000 2021
+      id: 1417488905792852000
+      id_str: "1417488905792851978"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/w1lLGsVgol
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/w1lLGsVgol
+      in_reply_to_status_id: 1417488904907808800
+      in_reply_to_status_id_str: "1417488904907808770"
