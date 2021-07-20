@@ -49458,3 +49458,85 @@
           - url: https://t.co/dJAkyRxqBb
       in_reply_to_status_id: 1417552227443544000
       in_reply_to_status_id_str: "1417552227443544066"
+- preprint:
+    id: 146540
+    metric: 42
+    title: SARS-CoV-2 spike P681R mutation, a hallmark of the Delta variant,
+      enhances viral fusogenicity and pathogenicity
+    url: https://api.rxivist.org/v1/papers/146540
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.17.448820v1
+    doi: 10.1101/2021.06.17.448820
+    category: microbiology
+    first_posted: 2021-06-17
+    abstract: During the current SARS-CoV-2 pandemic, a variety of mutations have
+      been accumulated in the viral genome, and currently, four variants of
+      concerns (VOCs) are considered as the hazardous SARS-CoV-2 variants to the
+      human society1. The newly emerging VOC, the B.1.617.2/Delta variant,
+      closely associates with a huge COVID-19 surge in India in Spring 20212.
+      However, its virological property remains unclear. Here, we show that the
+      B.1.617.2/Delta variant is highly fusogenic, and notably, more pathogenic
+      than prototypic SARS-CoV-2 in infected hamsters. The P681R mutation in the
+      spike protein, which is highly conserved in this lineage, facilitates the
+      spike protein cleavage and enhances viral fusogenicity. Moreover, we
+      demonstrate that the P681R-bearing virus exhibits higher pathogenicity
+      than the parental virus. Our data suggest that the P681R mutation is a
+      hallmark that characterizes the virological phenotype of the
+      B.1.617.2/Delta variant and is closely associated with enhanced
+      pathogenicity.
+    authors:
+      - name: Akatsuki Saito
+      - name: Takashi Irie
+      - name: Rigel Suzuki
+      - name: Tadashi Maemura
+      - name: Hesham Nasser
+      - name: Keiya Uriu
+      - name: Yusuke Kosugi
+      - name: Kotaro Shirakawa
+      - name: Kenji Sadamasu
+      - name: Izumi Kimura
+      - name: Jumpei Ito
+      - name: Jiaqi Wu
+      - name: Kiyoko Iwatsuki-Horimoto
+      - name: Mutsumi Ito
+      - name: Seiya Yamayoshi
+      - name: Seiya Ozono
+      - name: Erika P Butlertanaka
+      - name: Yuri L Tanaka
+      - name: Ryo Shimizu
+      - name: Kenta Shimizu
+      - name: Kumiko Yoshimatsu
+      - name: Ryoko Kawabata
+      - name: Takemasa Sakaguchi
+      - name: Kenzo Tokunaga
+      - name: Isao Yoshida
+      - name: Hiroyuki Asakura
+      - name: Mami Nagashima
+      - name: Yasuhiro Kazuma
+      - name: Ryosuke Nomura
+      - name: Yasuhito Horisawa
+      - name: Kazuhisa Yoshimura
+      - name: Akifumi Takaori-Kondo
+      - name: Masaki Imai
+      - name: The Genotype to Phenotype Japan (G2P-Japan) Consortium
+      - name: So Nakagawa
+      - name: Terumasa Ikeda
+      - name: Takasuke Fukuhara
+      - name: Yoshihiro Kawaoka
+      - name: Kei Sato
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Tue Jul 20 20:16:36 +0000 2021
+      id: 1417579215013224400
+      id_str: "1417579215013224454"
+      text: >-
+        🔥 bioRxiv Microbiology preprint by A. Saito et al:
+
+
+        "SARS-CoV-2 spike P681R mutation, a hallmark of the Delta varia… https://t.co/p9u5eebCDB
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/p9u5eebCDB
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
