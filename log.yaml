@@ -49540,3 +49540,89 @@
           - url: https://t.co/p9u5eebCDB
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "147094"
+    doi: 10.1101/2021.06.21.449316
+    first_posted: 2021-06-22
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.21.449316v1
+    url: https://api.rxivist.org/v1/papers/147094
+    title: "ShinyArchR.UiO: User-friendly, integrative and open-source tool for
+      visualisation of single-cell ATAC-seq data using ArchR"
+    category: bioinformatics
+    abstract: "Motivation: Mapping of chromatin accessibility landscapes in
+      single-cells and the integration with gene expression enables a better
+      understanding of gene regulatory mechanisms defining cell identities and
+      cell-fate determination in development and disease. Generally, raw data
+      generated from single-cell Assay for Transposase-Accessible Chromatin
+      sequencing (scATAC-seq) are deposited in reposito-ries that are
+      inaccessible due to lack of in-depth knowledge of computational
+      programming. Results: We have developed ShinyArchR.UiO, an R-based shiny
+      app, that facilitates scATAC-seq data accessibility and visualisation in a
+      user-friendly, interactive, and open-source web interface. ShinyArchR.UiO
+      is a tool that can streamline collaborative efforts for interpretation of
+      massive chro-matin accessible data and promotes open access data sharing
+      for wider audiences."
+    authors:
+      - name: Ankush Sharma
+        orcid: http://orcid.org/0000-0002-1399-7503
+      - name: Akshay Akshay
+        orcid: null
+      - name: Marie Rogne
+        orcid: http://orcid.org/0000-0002-3594-9000
+      - name: Ragnhild Eskeland
+        orcid: http://orcid.org/0000-0003-2789-3171
+  comment:
+    dislikes: 0
+    thread: "8609164645"
+    numReports: 0
+    likes: 0
+    id: "5462601768"
+    createdAt: 2021-07-20T13:19:09
+    author:
+      username: ankushsak
+      about: ""
+      name: Ankush
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/ankushsak/
+      url: ""
+      location: ""
+      id: "510510"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: The typographical error in Github repository link . Correct link
+      for accessing the repository is
+      https://Github.com/EskelandLab/ShinyArchRUiO
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.06.21.449316v1
+  tweets:
+    - created_at: Tue Jul 20 20:20:24 +0000 2021
+      id: 1417580169410265000
+      id_str: "1417580169410265089"
+      text: >-
+        💬 bioRxiv comment on "ShinyArchR.UiO: User-friendly,..."
+
+
+        "The typographical error in Github repository link . Corr… https://t.co/0Cn36zeeSk
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/0Cn36zeeSk
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jul 20 20:20:24 +0000 2021
+      id: 1417580170572013600
+      id_str: "1417580170572013569"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/qEvO1vUrTQ
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/qEvO1vUrTQ
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
