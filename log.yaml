@@ -48971,3 +48971,102 @@
           - url: https://t.co/52W1p4SYI2
       in_reply_to_status_id: 1417290026505879600
       in_reply_to_status_id_str: "1417290026505879553"
+- preprint:
+    id: "90185"
+    doi: 10.1101/2020.07.06.190595
+    first_posted: 2020-07-06
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.07.06.190595v1
+    url: https://api.rxivist.org/v1/papers/90185
+    title: Multi-omic profiling of primary mouse neutrophils reveals a pattern of
+      sex and age-related functional regulation
+    category: genomics
+    abstract: >-
+      Neutrophils are the most abundant white blood cells in humans and
+      constitute one of the first lines of defense in the innate immune
+      response. Neutrophils are extremely short-lived cells, which survive less
+      than a day after reaching terminal differentiation. Thus, little is known
+      about how organismal aging, rather than the daily cellular aging process,
+      may impact neutrophil biology. In addition, accumulating evidence suggests
+      that both immunity and organismal aging are sex-dimorphic. Here, we
+      describe a multi-omic resource of mouse primary bone marrow neutrophils
+      from young and old female and male mice, at the transcriptomic,
+      metabolomic and lipidomic levels. Importantly, we identify widespread
+      age-related and sex-dimorphic regulation of 'omics' in neutrophils,
+      specifically regulation of chromatin. Using machine-learning, we identify
+      candidate molecular drivers of age-related and sex-dimorphic
+      transcriptional regulation of neutrophils. We leverage our resource to
+      predict increased levels/release of neutrophil elastase in male mice. To
+      date, this dataset represents the largest multi-omics resource for the
+      study of neutrophils across biological sex and ages. This resource
+      identifies molecular states linked to neutrophil characteristics linked to
+      organismal age or sex, which could be targeted to improve immune responses
+      across individuals.
+
+
+      ### Competing Interest Statement
+
+
+      The authors have declared no competing interest.
+    authors:
+      - name: Ryan Lu
+        orcid: http://orcid.org/0000-0001-8627-2880
+      - name: Shalina Taylor
+        orcid: http://orcid.org/0000-0002-5573-6483
+      - name: Kévin Contrepois
+        orcid: http://orcid.org/0000-0001-9678-5161
+      - name: Mathew Ellenberger
+        orcid: null
+      - name: Nirmal K. Sampathkumar
+        orcid: http://orcid.org/0000-0002-5125-9114
+      - name: Bérénice A. Benayoun
+        orcid: http://orcid.org/0000-0002-7401-4777
+  comment:
+    dislikes: 0
+    thread: "8113488291"
+    numReports: 0
+    likes: 0
+    id: "5461604854"
+    createdAt: 2021-07-19T17:34:53
+    author:
+      name: Bérénice Anath Benayoun
+      url: ""
+      profileUrl: ""
+      emailHash: ""
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: "The study from this preprint has been published in Nature Aging
+      7/19/2021: https://www.nature.com/articles/s43587-021-00086-8#Ack1"
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.07.06.190595v1
+  tweets:
+    - created_at: Tue Jul 20 12:31:44 +0000 2021
+      id: 1417462226332565500
+      id_str: "1417462226332565514"
+      text: >-
+        💬 bioRxiv comment on "Multi-omic profiling of primar..."
+
+
+        "The study from this preprint has been published in Natur… https://t.co/nqzzgGMpRF
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/nqzzgGMpRF
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jul 20 12:31:44 +0000 2021
+      id: 1417462227360272400
+      id_str: "1417462227360272386"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/xn3KeDYtZU
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/xn3KeDYtZU
+      in_reply_to_status_id: 1417462226332565500
+      in_reply_to_status_id_str: "1417462226332565514"
