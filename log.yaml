@@ -50294,3 +50294,93 @@
           - url: https://t.co/652MU30MFJ
       in_reply_to_status_id: 1417885098469253000
       in_reply_to_status_id_str: "1417885098469253123"
+- preprint:
+    id: "149556"
+    doi: 10.1101/2021.07.09.451701
+    first_posted: 2021-07-09
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.09.451701v1
+    url: https://api.rxivist.org/v1/papers/149556
+    title: "Your head is there to move you around: Goal-driven models of the primate
+      dorsal pathway"
+    category: neuroscience
+    abstract: "Neurons in the dorsal visual pathway of the mammalian brain are
+      selective for motion stimuli, with the complexity of stimulus
+      representations increasing along the hierarchy. This progression is
+      similar to that of the ventral visual pathway, which is well characterized
+      by artificial neural networks (ANNs) optimized for object recognition. In
+      contrast, there are no image-computable models of the dorsal stream with
+      comparable explanatory power. We hypothesized that the properties of
+      dorsal stream neurons could be explained by a simple learning objective:
+      the need for an organism to orient itself during self-motion. To test this
+      hypothesis, we trained a 3D ResNet in a self-supervised manner to predict
+      an agent's self-motion parameters from visual stimuli in a simulated
+      environment. We found that the responses in this network accounted well
+      for the selectivity of neurons in a large database of single-neuron
+      recordings from the dorsal visual stream of non-human primates. In
+      contrast, ANNs trained for action recognition or with a contrastive
+      objective could not explain responses in the dorsal stream, despite also
+      being trained on naturalistic videos with moving objects. These results
+      demonstrate that an ecologically relevant, self-supervised cost function
+      can account for dorsal stream properties in the primate brain."
+    authors:
+      - name: Patrick J Mineault
+        orcid: http://orcid.org/0000-0001-5519-842X
+      - name: Shahab Bakhtiari
+        orcid: http://orcid.org/0000-0003-2439-7252
+      - name: Blake A Richards
+        orcid: http://orcid.org/0000-0001-9662-2151
+      - name: Christopher C. Pack
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8639713497"
+    numReports: 0
+    likes: 0
+    id: "5462193939"
+    createdAt: 2021-07-20T02:42:17
+    author:
+      username: patrickmineault
+      about: ""
+      name: Patrick Mineault
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/patrickmineault/
+      url: ""
+      location: ""
+      id: "216580447"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Thanks! I'm curious as well, will definitely add that to the next revision.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.07.09.451701v1
+  tweets:
+    - created_at: Wed Jul 21 18:25:50 +0000 2021
+      id: 1417913727681183700
+      id_str: "1417913727681183744"
+      text: >-
+        💬 bioRxiv comment on "Your head is there to move you..."
+
+
+        "Thanks! I'm curious as well, will definitely add that to… https://t.co/2mIgxiaqC3
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/2mIgxiaqC3
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed Jul 21 18:25:51 +0000 2021
+      id: 1417913728520032300
+      id_str: "1417913728520032260"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/XgnQTomjWN
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/XgnQTomjWN
+      in_reply_to_status_id: 1417913727681183700
+      in_reply_to_status_id_str: "1417913727681183744"
