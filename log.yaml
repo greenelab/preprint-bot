@@ -50384,3 +50384,86 @@
           - url: https://t.co/XgnQTomjWN
       in_reply_to_status_id: 1417913727681183700
       in_reply_to_status_id_str: "1417913727681183744"
+- preprint:
+    id: 100751
+    metric: 22
+    title: Drug repurposing screen identifies masitinib as a 3CLpro inhibitor that
+      blocks replication of SARS-CoV-2 in vitro
+    url: https://api.rxivist.org/v1/papers/100751
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.08.31.274639v1
+    doi: 10.1101/2020.08.31.274639
+    category: microbiology
+    first_posted: 2020-09-01
+    abstract: >-
+      There is an urgent need for anti-viral agents that treat SARS-CoV-2
+      infection. The shortest path to clinical use is repurposing of drugs that
+      have an established safety profile in humans. Here, we first screened a
+      library of 1,900 clinically safe drugs for inhibiting replication of OC43,
+      a human beta-coronavirus that causes the common-cold and is a relative of
+      SARS-CoV-2, and identified 108 effective drugs. We further evaluated the
+      top 26 hits and determined their ability to inhibit SARS-CoV-2, as well as
+      other pathogenic RNA viruses. 20 of the 26 drugs significantly inhibited
+      SARS-CoV-2 replication in human lung cells (A549 epithelial cell line),
+      with EC50 values ranging from 0.1 to 8 micromolar. We investigated the
+      mechanism of action for these and found that masitinib, a drug originally
+      developed as a tyrosine-kinase inhibitor for cancer treatment, strongly
+      inhibited the activity of the SARS-CoV-2 main protease 3CLpro. X-ray
+      crystallography revealed that masitinib directly binds to the active site
+      of 3CLpro, thereby blocking its enzymatic activity. Mastinib also
+      inhibited the related viral protease of picornaviruses and blocked
+      picornaviruses replication. Thus, our results show that masitinib has
+      broad anti-viral activity against two distinct beta-coronaviruses and
+      multiple picornaviruses that cause human disease and is a strong candidate
+      for clinical trials to treat SARS-CoV-2 infection.
+
+
+      ### Competing Interest Statement
+
+
+      The authors have declared no competing interest.
+    authors:
+      - name: Nir Drayman
+      - name: Krysten A. Jones
+      - name: Saara-Anne Azizi
+      - name: Heather M Froggatt
+      - name: Kemin Tan
+      - name: Natalia Ivanovna Maltseva
+      - name: Siquan Chen
+      - name: Vlad Nicolaescu
+      - name: Steve Dvorkin
+      - name: Kevin Furlong
+      - name: Rahul S. Kathayat
+      - name: Mason R. Firpo
+      - name: Vincent Mastrodomenico
+      - name: Emily A Bruce
+      - name: Madaline M. Schmidt
+      - name: Robert Jedrzejczak
+      - name: Miguel Á. Muñoz-Alía
+      - name: Brooke Schuster
+      - name: Vishnu Nair
+      - name: Jason W. Botten
+      - name: Christopher Byron Brooke
+      - name: Susan C. Baker
+      - name: Bryan C. Mounce
+      - name: Nicholas S Heaton
+      - name: Bryan C. Dickinson
+      - name: Andrzej Jaochimiak
+      - name: Glenn Randall
+      - name: Savaş Tay
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Wed Jul 21 20:17:34 +0000 2021
+      id: 1417941844579610600
+      id_str: "1417941844579610624"
+      text: >-
+        🔥 bioRxiv Microbiology preprint by N. Drayman et al:
+
+
+        "Drug repurposing screen identifies masitinib as a 3CLpro inh… https://t.co/4DrtbmPRIu
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/4DrtbmPRIu
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
