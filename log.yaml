@@ -50056,3 +50056,150 @@
           - url: https://t.co/oTURmeVcNy
       in_reply_to_status_id: 1417824588713676800
       in_reply_to_status_id_str: "1417824588713676808"
+- preprint:
+    id: "143052"
+    doi: 10.1101/2021.05.20.21257520
+    first_posted: 2021-05-24
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.20.21257520v1
+    url: https://api.rxivist.org/v1/papers/143052
+    title: "ACTIVATE-2: A DOUBLE-BLIND RANDOMIZED TRIAL OF BCG VACCINATION AGAINST
+      COVID19 IN INDIVIDUALS AT RISK"
+    category: infectious-diseases
+    abstract: BCG vaccination induces heterologous protection against respiratory
+      tract infections, and in children improves survival independently of
+      tuberculosis prevention. The phase III ACTIVATE-2 study assessed whether
+      BCG could also protect against COVID19 in the elderly. In this
+      double-blind, randomized trial, elderly Greek patients were randomized
+      (1:1) to receive either BCG revaccination or placebo at hospital
+      discharge, followed by 6 months observation for incidence of COVID19
+      infection. BCG revaccination resulted in 68% risk reduction for total
+      COVID19 clinical and microbiological diagnoses (OR 0.32, 95% CI
+      0.13-0.79). Five patients in the placebo group and one in the
+      BCG-vaccinated group had severe COVID19 that necessitated hospitalization.
+      3 months after BCG vaccination 1.3% of placebo and 4.7% of BCG-vaccinated
+      volunteers had anti-SARS-CoV-2 antibodies. These data argue that BCG
+      revaccination is safe and protects the elderly against COVID19. BCG
+      revaccination may represent a viable preventive measure against COVID19.
+    authors:
+      - name: Maria Tsilika
+        orcid: null
+      - name: Esther Taks
+        orcid: null
+      - name: Konstantinos Dolianitis
+        orcid: null
+      - name: Antigone Kotsaki
+        orcid: null
+      - name: Konstantinos Leventogiannis
+        orcid: null
+      - name: Christina Damoulari
+        orcid: null
+      - name: Maria Kostoula
+        orcid: null
+      - name: Maria Paneta
+        orcid: null
+      - name: Gerogios Adamis
+        orcid: null
+      - name: Ilias C. Papanikolaou
+        orcid: null
+      - name: Kimon Stamatelopoulos
+        orcid: null
+      - name: Amalia Bolanou
+        orcid: null
+      - name: Konstantinos Katsaros
+        orcid: null
+      - name: Christina Delavinia
+        orcid: null
+      - name: Ioannis Perdios
+        orcid: null
+      - name: Aggeliki Pandi
+        orcid: null
+      - name: Konstantinos Tsiakos
+        orcid: null
+      - name: Nektarios Proios
+        orcid: null
+      - name: Emmanouela Kalogianni
+        orcid: null
+      - name: Ioannis Delis
+        orcid: http://orcid.org/0000-0001-8940-5036
+      - name: Efstathios Skliros
+        orcid: null
+      - name: Karolina Akinosoglou
+        orcid: http://orcid.org/0000-0002-4289-9494
+      - name: Aggeliki Perdikouli
+        orcid: null
+      - name: Garyfallia Poulakou
+        orcid: null
+      - name: Haralampos Milionis
+        orcid: http://orcid.org/0000-0003-3958-2266
+      - name: Eva Athanasopoulou
+        orcid: null
+      - name: Eleftheria Kalpaki
+        orcid: null
+      - name: Leda Efstratiou
+        orcid: null
+      - name: Varvara Perraki
+        orcid: null
+      - name: Antonios Papadopoulos
+        orcid: null
+      - name: Mihai G. Netea
+        orcid: http://orcid.org/0000-0003-2421-6052
+      - name: Evangelos Giamarellos-Bourboulis
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8547318416"
+    numReports: 0
+    likes: 0
+    id: "5463652957"
+    createdAt: 2021-07-21T07:38:44
+    author:
+      username: emelineoudin
+      about: ""
+      name: emeline OUDIN
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/emelineoudin/
+      url: ""
+      location: ""
+      id: "372629618"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Hello, i've check. Grèce street vaccination on 27 décembre 
+
+      https://www.reuters.com/business/healthcare-pharmaceuticals/greek-nursing-home-gets-best-new-years-present-vaccinations-begin-2021-01-04/.
+
+      26.000 vaccinated at january 8th. 5000 jab per day so mathematiquely 125.000 on January 28th (only healthcare and eldery)
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.05.20.21257520v1
+  tweets:
+    - created_at: Wed Jul 21 14:17:50 +0000 2021
+      id: 1417851313149423600
+      id_str: "1417851313149423616"
+      text: >-
+        💬 medRxiv comment on "ACTIVATE-2: A DOUBLE-BLIND RAN..."
+
+
+        "Hello, i've check. Grèce street vaccination on 27 décemb… https://t.co/KtDDIxSjr2
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/KtDDIxSjr2
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed Jul 21 14:17:50 +0000 2021
+      id: 1417851314034421800
+      id_str: "1417851314034421764"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/aYnY2HA5IH
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/aYnY2HA5IH
+      in_reply_to_status_id: 1417851313149423600
+      in_reply_to_status_id_str: "1417851313149423616"
