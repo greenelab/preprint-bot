@@ -50467,3 +50467,157 @@
           - url: https://t.co/4DrtbmPRIu
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "93903"
+    doi: 10.1101/2020.08.07.238329
+    first_posted: 2020-08-07
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.08.07.238329v3
+    url: https://api.rxivist.org/v1/papers/93903
+    title: Genome Diversity in Ukraine
+    category: genomics
+    abstract: >-
+      The main goal of this collaborative effort is to provide genome wide data
+      for the previously underrepresented population in Eastern Europe, and to
+      provide cross-validation of the data from genome sequences and genotypes
+      of the same individuals acquired by different technologies. We collected
+      97 genome-grade DNA samples from consented individuals representing major
+      regions of Ukraine that were consented for the public data release.
+      DNBSEQ-G50 sequences, and genotypes by an Illumina GWAS chip were
+      cross-validated on multiple samples, and additionally referenced to one
+      sample that has been resequenced by Illumina NovaSeq6000 S4 at high
+      coverage. The genome data has been searched for genomic variation
+      represented in this population, and a number of variants have been
+      reported: large structural variants, indels, CNVs, SNPs and
+      microsatellites. This study provides the largest to-date survey of genetic
+      variation in Ukraine, creating a public reference resource aiming to
+      provide data for historic and medical research in a large understudied
+      population. While most of the common variation is shared with other
+      European populations, this survey of population variation contributes a
+      number of novel SNPs and structural variants that have not been reported
+      in the gnomAD/1KG databases representing global distribution of genomic
+      variation. This data will contribute a wealth of new information bringing
+      forth different risk and/or protective alleles. The newly discovered low
+      frequency and local variants can be added to the current genotyping arrays
+      for genome wide association studies, clinical trials, and in genome
+      assessment of proliferating cancer cells.
+
+
+      ### Competing Interest Statement
+
+
+      The following authors declare that they have no competing interests: Taras K. Oleksyk, Walter W. Wolfsberger, Alexandra Weber, Khrystyna Shchubelka, Stephanie O. Castro-Marquez, Sarah Medley, Alina Urbanovych, Patricia Boldyzhar, Viktoriya Stakhovska, Kateryna Malyar, Yaroslava Hasynets, Juan L. Rodriguez-Flores, Fabia Battistuzzi, Siru Chen, Meredith Yeager, Michael Dean, Olga T. Oleksyk, Ryan E. Mills , and Volodymyr Smolanka The following authors may have competing interests: Yuan Liu, Huanming Yang, Olga Levchuk, Alla Patrus, Nelya Lazar
+    authors:
+      - name: Taras K. Oleksyk
+        orcid: http://orcid.org/0000-0002-8148-3918
+      - name: Walter W. Wolfsberger
+        orcid: null
+      - name: Alexandra Weber
+        orcid: null
+      - name: Khrystyna Shchubelka
+        orcid: null
+      - name: Olga T. Oleksyk
+        orcid: null
+      - name: Olga Levchuk
+        orcid: null
+      - name: Alla Patrus
+        orcid: null
+      - name: Nelya Lazar
+        orcid: null
+      - name: Stephanie O. Castro-Marquez
+        orcid: null
+      - name: Patricia Boldyzhar
+        orcid: null
+      - name: Alina Urbanovych
+        orcid: null
+      - name: Viktoriya Stakhovska
+        orcid: null
+      - name: Kateryna Malyar
+        orcid: null
+      - name: Svitlana Chervyakova
+        orcid: null
+      - name: Olena Podoroha
+        orcid: null
+      - name: Natalia Kovalchuk
+        orcid: null
+      - name: Mikhailo Neymet
+        orcid: null
+      - name: Yaroslava Hasynets
+        orcid: null
+      - name: Juan L. Rodriguez-Flores
+        orcid: null
+      - name: Sarah Medley
+        orcid: null
+      - name: Fabia Ursula Battistuzzi
+        orcid: http://orcid.org/0000-0003-1852-2934
+      - name: Ryan Liu
+        orcid: null
+      - name: Yong Hou
+        orcid: http://orcid.org/0000-0002-0420-0726
+      - name: Siru Chen
+        orcid: null
+      - name: Huanming Yang
+        orcid: null
+      - name: Meredith Yeager
+        orcid: null
+      - name: Michael Dean
+        orcid: http://orcid.org/0000-0003-2234-0631
+      - name: Ryan E. Mills
+        orcid: http://orcid.org/0000-0003-3425-6998
+      - name: Volodymyr Smolanka
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8157107909"
+    numReports: 0
+    likes: 0
+    id: "5463979521"
+    createdAt: 2021-07-21T14:37:48
+    author:
+      username: tarasoleksyk
+      about: ""
+      name: Taras Oleksyk
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/tarasoleksyk/
+      url: ""
+      location: ""
+      id: "99396374"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      A modified and improved 
+
+      version of this article has been published in GigaScience.   doi: 10.1093/gigascience/giaa159
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.08.07.238329v1
+  tweets:
+    - created_at: Wed Jul 21 20:21:25 +0000 2021
+      id: 1417942813405188000
+      id_str: "1417942813405188097"
+      text: |-
+        💬 bioRxiv comment on "Genome Diversity in Ukraine..."
+
+        "A modified and improved 
+        version of this article has been p… https://t.co/ErGfNsH9JO
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/ErGfNsH9JO
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed Jul 21 20:21:25 +0000 2021
+      id: 1417942814378270700
+      id_str: "1417942814378270720"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/IBV3Qxtnum
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/IBV3Qxtnum
+      in_reply_to_status_id: 1417942813405188000
+      in_reply_to_status_id_str: "1417942813405188097"
