@@ -49731,3 +49731,224 @@
           - url: https://t.co/rC1L76S9pZ
       in_reply_to_status_id: 1417610225083949000
       in_reply_to_status_id_str: "1417610225083949056"
+- preprint:
+    id: "147637"
+    doi: 10.1101/2021.06.25.449905
+    first_posted: 2021-06-25
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.25.449905v1
+    url: https://api.rxivist.org/v1/papers/147637
+    title: Persistence of SARS CoV-2 S1 Protein in CD16+ Monocytes in Post-Acute
+      Sequelae of COVID-19 (PASC) Up to 15 Months Post-Infection
+    category: immunology
+    abstract: The recent COVID-19 pandemic is a treatment challenge in the acute
+      infection stage but the recognition of chronic COVID-19 symptoms termed
+      post-acute sequelae SARS-CoV-2 infection (PASC) may affect up to 30% of
+      all infected individuals. The underlying mechanism and source of this
+      distinct immunologic condition three months or more after initial
+      infection remains elusive. Here, we investigated the presence of
+      SARS-CoV-2 S1 protein in 46 individuals. We analyzed T-cell, B-cell, and
+      monocytic subsets in both severe COVID-19 patients and in patients with
+      post-acute sequelae of COVID-19 (PASC). The levels of both intermediate
+      (CD14+, CD16+) and non-classical monocyte (CD14Lo, CD16+) were
+      significantly elevated in PASC patients up to 15 months post-acute
+      infection compared to healthy controls (P=0.002 and P=0.01, respectively).
+      A statistically significant number of non-classical monocytes contained
+      SARS-CoV-2 S1 protein in both severe (P=0.004) and PASC patients (P=0.02)
+      out to 15 months post-infection. Non-classical monocytes were sorted from
+      PASC patients using flow cytometric sorting and the SARS-CoV-2 S1 protein
+      was confirmed by mass spectrometry. Cells from 4 out of 11 severe COVID-19
+      patients and 1 out of 26 PASC patients contained ddPCR+ peripheral blood
+      mononuclear cells, however, only fragmented SARS-CoV-2 RNA was found in
+      PASC patients. No full length sequences were identified, and no sequences
+      that could account for the observed S1 protein were identified in any
+      patient. Non-classical monocytes are capable of causing inflammation
+      throughout the body in response to fractalkine/CX3CL1 and RANTES/CCR5.
+    authors:
+      - name: Bruce Patterson
+        orcid: null
+      - name: Edgar B Francisco
+        orcid: null
+      - name: Ram Yogendra
+        orcid: null
+      - name: Emily Long
+        orcid: null
+      - name: Amruta Pise
+        orcid: null
+      - name: Hallison Rodrigues
+        orcid: null
+      - name: Eric Hall
+        orcid: null
+      - name: Monica Herrera
+        orcid: null
+      - name: Purvi Parikh
+        orcid: null
+      - name: Jose Guevara-Coto
+        orcid: null
+      - name: Timothy Triche
+        orcid: null
+      - name: Paul Scott
+        orcid: null
+      - name: Saboor Hekmati
+        orcid: null
+      - name: Dennis Maglinte
+        orcid: null
+      - name: Xaiolan Chang
+        orcid: null
+      - name: Rodrigo Rodriguez
+        orcid: null
+      - name: Javier Mora
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8639378797"
+    numReports: 0
+    likes: 0
+    id: "5462653813"
+    createdAt: 2021-07-20T14:01:52
+    author:
+      username: msymeonides
+      about: ""
+      name: Mel Symeonides
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/msymeonides/
+      url: ""
+      location: ""
+      id: "371521897"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      (My peer review no longer appears because it was made on the first version
+      of the article, and it unfortunately did not receive a response before the
+      manuscript was updated. I am thus reposting it here on the second version,
+      hoping for a response. The review is identical to the first one, apart
+      from the comment on the new sequencing data.)
+
+
+      With this study, Patterson et al. present a potentially very significant finding: that SARS-CoV-2 antigen persists in non-classical monocytes from Long COVID patients up to 15 months after the initial infection. The data supporting this finding are of moderate to low strength, as presented, primarily due to a wide range of major and minor presentation issues that are listed below. Most of these can be addressed easily, though it is unclear if some additional controls may be required. Finally, some orthogonal approaches are suggested that could be potentially very valuable in terms of increasing confidence in the findings (namely microscopy and immunoblotting), though these are not essential for the interpretation of the results as shown.
+
+
+
+      The authors are to be commended for tackling Long COVID head-on and getting right to the heart of the matter in terms of finding the pathological cause of this disease. That said, unfortunately, this manuscript requires considerable revision in order to be interpretable and allow others to reproduce the findings (which will be of critical importance, given their potential significance).
+
+
+
+
+
+      Major issues:
+
+
+
+      - Table 1 and the accompanying text seems to indicate that PBMCs were tested for the presence of viral RNA by ddPCR. However, in the Material/Methods section, it is stated that nucleic acids were extracted from plasma, not from PBMCs. Please clarify this point as it is of critical relevance. Indeed, both plasma and PBMCs should have been individually tested in order to determine whether viral RNA was solely intracellular.
+
+
+
+      - It is very unclear what Figure 2 is presenting. Presumably each row represents a different subject, but it is not denoted which subject belongs to which group, making intepretation very difficult. I presume this was an ommission.
+
+
+
+      - Supplementary Table 1 was not provided, making it very difficult to evaluate the flow cytometry data. Even if that table were present, the methods provided for flow cytometry are very sparse. What steps were undertaken to establish the specificity of the Spike antibody? Was the Spike staining done after fixation and permeabilization? Was PE conjugation of this antibody done in-house, and if so, using which kit, and how was it verified that the conjugation and quenching were successful and that staining was specific within the context of the entire antibody panel? Were FMO controls done in the context of this new panel that includes the S1 antibody? Was Fc block included? etc.
+
+
+
+      - The newly-added sequencing data are difficult to interpret. It seems that the authors interpret the poor sequence coverage as indicative of non-replicating virus and in line with high Ct values, yet they do not seem to comment on the fact that there is nevertheless some seemingly full-length viral genome present in these cells! This is a potentially very important finding and its source will need to be investigated. Additionally, the sequencing results are inconsistent with the PBMC RT-PCR results, where only LH5 was positive, yet LH1-5 all had similar sequence coverage. The names of the samples in Table 2 do not correspond to any other name in this manuscript, clearly they were not renamed as they should have been. In fact, some of these sample names look curiously like name initials, which is a potential study subject data privacy issue. Finally, it does not seem that any healthy controls or previous COVID/non-LH subjects were tested in the same manner, which would be very valuable information.
+
+
+
+
+      - In general, the Figure Legends are very sparse and should be much more descriptive.
+
+
+
+
+
+      Minor/moderate issues:
+
+
+
+      - Table 1 shows that one of the study subjects was asymptomatic. Where is this subject grouped in the subsequent analysis? ALso, "NS" is not defined, presumably it means "nasopharyngeal swab"?
+
+
+
+      - In Figure 2, left column, the CD14/CD16 gates shown were not applied equally from sample to sample. Furthermore, in the middle column it looks like S1+ non-classical cells tend to have a low-SSC profile, while S1- cells have a high-SSC profile that clusters together with intermediate cells. This suggests that the intermediate/non-classical discriminating gates may not have been set appropriately. 
+
+
+
+      - The quantification shown in the middle column of Figure 2 is labeled "CD16+CD14+COVIDS1+", however no "CD16+CD14+" subset is defined. Presumably the authors refer to the aggregate of the "CD14++CD16+" intermediate and "CD14loCD16+" non-classical subsets. This should be clearly stated as it makes interpretation of the data shown very difficult. Additionally, the quantification is based on the aggregate population, whereas based on the color coding, one would expect individual quantification for each subset. Given the relatively very minor contribution of the intermediate subset to the observed Spike S1 signal, it is unclear why this was included at all in this plot - why not just show the non-classical subset and base the quantification solely based on that, or alternatively, show quantification of each subset rather than their aggregate?
+
+
+
+      - The labeling in Figure 3 could be better, the angled X axis labels are very difficult to follow. Maybe just indicate the monocyte subset as a title above each plot, and/or label each plot as a subfigure?
+
+
+
+      - No information is provided on the statistical analyses done.
+
+
+
+      - I did not look into all the cited work, but in one case (ref. no. 19) was puzzled to see that a review article was cited in which the relevant information was in turn derived from a single primary research article. Surely it makes more sense to just cite that primary research paper rather than the review?
+
+
+
+
+
+      General comments:
+
+
+
+      - Why was S1 the only SARS-CoV-2 antigen stained for? One would expect that you would have quickly tried to look for other viral antigens, particularly Nucleocapsid, in order to begin to understand whether there might be virus particles present, especially since you found viral RNA in some samples. Additionally, some microscopy data on sorted non-classical monocytes would have been very valuable to validate what you see by flow cytometry, also because one could then evaluate whether the Spike signal in these cells looks like the expected pattern for protein being actively synthesized by the cell and present on the cell surface, or whether it is captured antigen from some site of viral persistence and is sequestered in some intracellular compartment. Finally, a Western blot for Spike (and other viral antigens) in flow-sorted monocytes would be of immense value to further validate the presence of this antigen and observe the state of the protein - indeed, it is rather odd that you seemingly went for LCMS before trying either microscopy or a Western blot!
+
+
+
+      - The potential connections with the CX3CL1 pathway mentioned in Discussion are very interesting. Unfortunately, the authors have not demonstrated any elevation of CX3CL1 associated with severe acute COVID or long COVID disease, nor the presence of CX3CR1 on the particular cells of interest. If such data exist, please present them, otherwise this Discussion is rather speculative and much more work will be required to frame it in the appropriate context for a primary research paper. Alternatively, this discussion might be better suited for a separate Review article.
+
+
+
+      - Much of the published work on Long COVID and other post-COVID conditions such as MIS-C is omitted here, and should be cited and discussed as appropriate.
+
+
+
+
+
+      Mel Symeonides, Ph.D.
+
+      Postdoctoral Associate
+
+      Department of Microbiology & Molecular Genetics
+
+      University of Vermont
+
+      Burlington, VT
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.06.25.449905v2
+  tweets:
+    - created_at: Wed Jul 21 01:04:38 +0000 2021
+      id: 1417651697984450600
+      id_str: "1417651697984450570"
+      text: >-
+        💬 bioRxiv comment on "Persistence of SARS CoV-2 S1 P..."
+
+
+        "(My peer review no longer appears because it was made on… https://t.co/7XZJj878Z0
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/7XZJj878Z0
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed Jul 21 01:04:38 +0000 2021
+      id: 1417651698907156500
+      id_str: "1417651698907156490"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/cWG31NeMoQ
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/cWG31NeMoQ
+      in_reply_to_status_id: 1417651697984450600
+      in_reply_to_status_id_str: "1417651697984450570"
