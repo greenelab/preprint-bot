@@ -50956,3 +50956,116 @@
           - url: https://t.co/oTURmeVcNy
       in_reply_to_status_id: 1418187210734637000
       in_reply_to_status_id_str: "1418187210734637059"
+- preprint:
+    id: "146930"
+    doi: 10.1101/2021.06.20.21259195
+    first_posted: 2021-06-21
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.20.21259195v1
+    url: https://api.rxivist.org/v1/papers/146930
+    title: Rapid displacement of SARS-CoV-2 variant B.1.1.7 by B.1.617.2 and P.1 in
+      the United States
+    category: infectious-diseases
+    abstract: The SARS-CoV-2 variant of concern B.1.617.2 displaced B.1.1.7 as the
+      dominant variant in England and other countries. This study aimed to
+      determine whether B.1.617.2 was also displacing B.1.1.7 in the United
+      States. We analyzed PCR testing results and viral sequencing results of
+      samples collected across the United States, and showed that B.1.1.7 was
+      rapidly being displaced and is no longer responsible for the majority of
+      new cases. The percentage of SARS-CoV-2 positive cases that are B.1.1.7
+      dropped from 67% in May 2021 to 33.4% in just 5 weeks. Our analysis showed
+      rapid growth of variants B.1.617.2 and P.1 as the primary drivers for this
+      displacement. Currently, the growth rate of B.1.617.2 was higher than P.1
+      in the US (0.66 vs. 0.34), which is consistent with reports from other
+      countries.
+    authors:
+      - name: Alexandre Bolze
+        orcid: http://orcid.org/0000-0001-7399-2766
+      - name: Elizabeth T Cirulli
+        orcid: http://orcid.org/0000-0001-7808-2809
+      - name: Shishi Luo
+        orcid: null
+      - name: Simon White
+        orcid: http://orcid.org/0000-0001-6375-2363
+      - name: Dana Wyman
+        orcid: null
+      - name: Andrew Dei Rossi
+        orcid: null
+      - name: Tyler Cassens
+        orcid: null
+      - name: Sharoni Jacobs
+        orcid: null
+      - name: Jason Nguyen
+        orcid: http://orcid.org/0000-0002-6812-9017
+      - name: Jimmy M Ramirez
+        orcid: null
+      - name: Efren Sandoval
+        orcid: null
+      - name: Xueqing Wang
+        orcid: http://orcid.org/0000-0002-2049-8403
+      - name: David Wong
+        orcid: null
+      - name: David Becker
+        orcid: null
+      - name: Marc Laurent
+        orcid: null
+      - name: James Lu
+        orcid: http://orcid.org/0000-0002-1873-7049
+      - name: Magnus Isaksson
+        orcid: null
+      - name: Nicole L Washington
+        orcid: http://orcid.org/0000-0001-8936-9143
+      - name: William Lee
+        orcid: http://orcid.org/0000-0001-9582-4413
+  comment:
+    dislikes: 0
+    thread: "8623269636"
+    numReports: 0
+    likes: 0
+    id: "5460493630"
+    createdAt: 2021-07-18T18:29:06
+    author:
+      username: paulbuehrens
+      about: ""
+      name: Paul Buehrens
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/paulbuehrens/
+      url: ""
+      location: ""
+      id: "64878129"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Who is modeling the rapid growth of the delta variant in the US?
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.06.20.21259195v2
+  tweets:
+    - created_at: Thu Jul 22 14:21:39 +0000 2021
+      id: 1418214664228331500
+      id_str: "1418214664228331523"
+      text: >-
+        💬 medRxiv comment on "Rapid displacement of SARS-CoV..."
+
+
+        "Who is modeling the rapid growth of the delta variant in… https://t.co/8ElHPHHmui
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/8ElHPHHmui
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jul 22 14:21:40 +0000 2021
+      id: 1418214665323114500
+      id_str: "1418214665323114499"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/M9ds9DVYq7
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/M9ds9DVYq7
+      in_reply_to_status_id: 1418214664228331500
+      in_reply_to_status_id_str: "1418214664228331523"
