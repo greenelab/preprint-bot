@@ -51427,3 +51427,95 @@
           - url: https://t.co/RovD70PgU0
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "145989"
+    doi: 10.1101/2021.06.14.448057
+    first_posted: 2021-06-14
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.14.448057v1
+    url: https://api.rxivist.org/v1/papers/145989
+    title: Early functional connectivity in the developing sensorimotor network that
+      is independent of sensory experience
+    category: neuroscience
+    abstract: Neonatal sensory experience shapes development of neural pathways
+      carrying sensory information to the cortex. These pathways link to wider
+      functional networks that coordinate activity of separate cortical regions,
+      but it remains unknown when these broader networks emerge or how their
+      maturation is influenced by sensory experience. By imaging activity across
+      the cortex in neonatal mice, we have found unexpectedly early emergence of
+      coordinated activity within a sensorimotor network that includes
+      whisker-related somatosensory cortex and motor cortex. This network is
+      spontaneously active but is not engaged by sensory stimulation, even
+      though whisker deflection reliably drives cortical activity within barrel
+      cortex. Acute silencing of the sensory periphery ablated spontaneous
+      activity that was restricted to barrel cortex but spared this early
+      sensorimotor network coactivity, suggesting that it is driven from
+      elsewhere. Furthermore, perturbing sensory experience by whisker trimming
+      did not impact emergence or early maturation of spontaneous activity in
+      the sensorimotor network. As such, functional sensorimotor cortical
+      networks develop early and, in contrast to development of ascending
+      sensory pathways, their initial maturation is independent of sensory
+      experience.
+    authors:
+      - name: Christine M Cross
+        orcid: null
+      - name: Laura Mediavilla Santos
+        orcid: null
+      - name: Nick Whiteley
+        orcid: null
+      - name: Karen Luyt
+        orcid: http://orcid.org/0000-0002-9806-1092
+      - name: Michael C Ashby
+        orcid: http://orcid.org/0000-0002-8593-8473
+  comment:
+    dislikes: 0
+    thread: "8621187594"
+    numReports: 0
+    likes: 0
+    id: "5465141221"
+    createdAt: 2021-07-22T11:25:14
+    author:
+      name: Michael Ashby
+      url: ""
+      profileUrl: ""
+      emailHash: ""
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Many thanks for your comment. I agree that we haven't covered that
+      experience-independent phase of visual system development enough. We will
+      definitely update the paper and adjust to emphasise the independence from
+      activity generated at the sensory periphery (as opposed to spontaneous
+      activity from there).
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.06.14.448057v2
+  tweets:
+    - created_at: Thu Jul 22 20:20:50 +0000 2021
+      id: 1418305053530771500
+      id_str: "1418305053530771465"
+      text: >-
+        💬 bioRxiv comment on "Early functional connectivity ..."
+
+
+        "Many thanks for your comment. I agree that we haven't co… https://t.co/MPV1kaIwOs
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/MPV1kaIwOs
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jul 22 20:20:50 +0000 2021
+      id: 1418305054533210000
+      id_str: "1418305054533210121"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/LzakIG4zNj
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/LzakIG4zNj
+      in_reply_to_status_id: 1418305053530771500
+      in_reply_to_status_id_str: "1418305053530771465"
