@@ -51346,3 +51346,84 @@
           - url: https://t.co/X7tff3Zz4b
       in_reply_to_status_id: 1418275839351922700
       in_reply_to_status_id_str: "1418275839351922689"
+- preprint:
+    id: 150999
+    metric: 52
+    title: Unlike Chloroquine, mefloquine inhibits SARS-CoV-2 infection in
+      physiologically relevant cells and does not induce viral variants.
+    url: https://api.rxivist.org/v1/papers/150999
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.21.451321v1
+    doi: 10.1101/2021.07.21.451321
+    category: microbiology
+    first_posted: 2021-07-21
+    abstract: Repositioning of clinical approved drugs could represent the fastest
+      way to identify therapeutic options during public health emergencies, the
+      majority of drugs explored for repurposing as antivirals for 2019
+      coronavirus disease (COVID-19) have failed to demonstrate clinical
+      benefit. Without specific antivirals, the severe acute respiratory
+      syndrome coronavirus 2 (SARS-CoV-2) pandemic continues to cause major
+      global mortality. Antimalarial drugs, such as chloroquine
+      (CQ)/hydroxychloroquine (HCQ) and mefloquine have emerged as potential
+      anti-SARS-CoV-2 antivirals. CQ/HCQ entered the Solidarity and RECOVERY
+      clinical trials against COVID-19 and showed lack of efficacy. Importantly,
+      mefloquine is not a 4-aminoquinoline like CQ and HCQ and has been
+      previously repurposed for other respiratory diseases. Unlike the
+      4-aminoquinolines that accumulate in the high pH of intracellular
+      lysosomes of the lung, the high respiratory tract penetration of
+      mefloquine is driven by its high lipophilicity. While CQ and HCQ exhibit
+      activity in Vero E6 cells, their activity is obviated in
+      TMPRSS2-expressing cells, such as Calu-3 cells, which more accurately
+      recapitulate in vivo entry mechanisms for SARS-CoV-2. Accordingly, here we
+      report the anti-SARS-CoV-2 activity of mefloquine in Calu-3 type II
+      pneumocytes and primary human monocytes. Mefloquine inhibited SARS-CoV-2
+      replication, including the gamma variant, in Calu-3 cells with low
+      cytotoxicity and EC50 and EC90 values of 1.2 and 5.3 uM, respectively. In
+      addition, mefloquine reduced up to 68% the SARS-CoV-2 RNA levels in
+      infected monocytes, reducing viral-induced inflammation. Mefloquine
+      blocked early steps of the SARS-CoV-2 replicative cycle and was less prone
+      than CQ to induce drug-associated viral mutations and synergized with RNA
+      polymerase inhibitor. The pharmacological parameters of mefloquine are
+      consistent with its plasma exposure in humans and its tissue-to-plasma
+      predicted coefficient points that this drug may accumulate in the lungs.
+      These data indicate that mefloquine could represent an orally available
+      clinically approved drug option against COVID-19 and should not be
+      neglected on the basis of the failure of CQ and HCQ.
+    authors:
+      - name: Carolina Q. Sacramento
+      - name: Natalia Fintelman-Rodrigues
+      - name: Suelen S. G. Dias
+      - name: Jairo R Temerozo
+      - name: Aline de Paula D. Da Silva
+      - name: Carine S. da Silva
+      - name: Andre C. Ferreira
+      - name: Mayara Mattos
+      - name: Vinicius C. Soares
+      - name: Filipe Pereira-Dutra
+      - name: Milene D. Miranda
+      - name: Debora F. Barreto-Vieira
+      - name: Marcos Alexandre N. da Silva
+      - name: Suzana de Siqueira Santos
+      - name: Mateo Torres
+      - name: Rajith K. R. Rajoli
+      - name: Alberto Paccanaro
+      - name: Andrew Owen
+      - name: Dumith C Bou-Habib
+      - name: Patricia T Bozza
+      - name: Thiago Moreno L. Souza
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Thu Jul 22 20:17:02 +0000 2021
+      id: 1418304096545640400
+      id_str: "1418304096545640448"
+      text: >-
+        🔥 bioRxiv Microbiology preprint by C. Q. Sacramento et al:
+
+
+        "Unlike Chloroquine, mefloquine inhibits SARS-CoV-2 inf… https://t.co/RovD70PgU0
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/RovD70PgU0
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
