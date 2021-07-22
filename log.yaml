@@ -51519,3 +51519,112 @@
           - url: https://t.co/LzakIG4zNj
       in_reply_to_status_id: 1418305053530771500
       in_reply_to_status_id_str: "1418305053530771465"
+- preprint:
+    id: "150257"
+    doi: 10.1101/2021.07.15.452392
+    first_posted: 2021-07-15
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.15.452392v1
+    url: https://api.rxivist.org/v1/papers/150257
+    title: Measuring biodiversity from DNA in the air
+    category: ecology
+    abstract: Impacts of the biodiversity crisis far exceed our ability to monitor
+      changes in terrestrial ecosystems. Environmental DNA has revolutionized
+      aquatic biomonitoring, permitting remote population and diversity
+      assessments. Here we demonstrate that DNA from terrestrial animals can now
+      be collected from the air under natural conditions, a ground-breaking
+      advance for terrestrial biomonitoring. Using air samples from a zoological
+      park, where species are spatially confined and unique compared to native
+      fauna, we show that DNA in air can be used to identify the captive species
+      and their potential interactions with local taxa. Air samples contained
+      DNA from 25 species of mammal and bird including 17 known (and distinct)
+      terrestrial zoo species. We also identified food items from air sampled in
+      enclosures and detected four taxa native to the local area, including the
+      Eurasian hedgehog, endangered in the UK, and the muntjac deer, a locally
+      established invasive species. Our data provide evidence that airDNA is
+      concentrated around recently inhabited areas (e.g., indoor enclosures) but
+      that there is dispersal away from the source suggesting an ecology to
+      airDNA movement which highlights the potential for airDNA sampling at
+      distance. Our data clearly demonstrate the profound potential of air as a
+      source of DNA for global terrestrial biomonitoring and ecological
+      analysis.
+    authors:
+      - name: Elizabeth L. Clare
+        orcid: http://orcid.org/0000-0002-6563-3365
+      - name: Chloe K Economou
+        orcid: null
+      - name: Frances J Bennett
+        orcid: null
+      - name: Caitlin E Dyer
+        orcid: null
+      - name: Katherine Adams
+        orcid: null
+      - name: Benjamin McRobie
+        orcid: null
+      - name: Rosie Drinkwater
+        orcid: http://orcid.org/0000-0001-6892-1664
+      - name: Joanne E. Littlefair
+        orcid: http://orcid.org/0000-0002-4481-0211
+  comment:
+    dislikes: 0
+    thread: "8650063202"
+    numReports: 0
+    likes: 0
+    id: "5465076409"
+    createdAt: 2021-07-22T09:52:07
+    author:
+      username: disqus_1vZFHMsvy7
+      about: ""
+      name: Isabella H
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_1vZFHMsvy7/
+      url: ""
+      location: ""
+      id: "372678581"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Dear Authors,
+
+      I have some suggestions regarding your preprint.
+
+      Although the investigation of eDNA from air is an understudied field let me make you aware of some studies which were mainly focused on microbial an fungal bioaerosols (10.1016/j.scitotenv.2020.144092, 10.1073/pnas.0811003106, 10.1093/femsec/fiy031) and collection methods (e.g. 10.1021/acs.est.7b01480, 10.1371/journal.pone.0141158, 10.1128/AEM.01589-18). Maybe you want to include some of this literature in your manuscript.
+
+      In addition it would be great if you could add the primer sequence of Mam1 and Mam2 to the manuscript. Regarding figure 2, I guess it could help if you included boxplots in 2a and maybe a logarithmic scale for Fig.2b or you may think to exclude the two outliers form the visualization.
+
+      All the best
+
+      Isabella
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.07.15.452392v1
+  tweets:
+    - created_at: Thu Jul 22 22:19:30 +0000 2021
+      id: 1418334917797171200
+      id_str: "1418334917797171200"
+      text: |-
+        💬 bioRxiv comment on "Measuring biodiversity from DN..."
+
+        "Dear Authors,
+        I have some suggestions regarding your pre… https://t.co/QpXDu02YiY
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/QpXDu02YiY
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jul 22 22:19:30 +0000 2021
+      id: 1418334918904488000
+      id_str: "1418334918904487940"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/NK7Mc8HReC
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/NK7Mc8HReC
+      in_reply_to_status_id: 1418334917797171200
+      in_reply_to_status_id_str: "1418334917797171200"
