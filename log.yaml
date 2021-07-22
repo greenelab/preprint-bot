@@ -51233,3 +51233,116 @@
           - url: https://t.co/0z3rHjK5bK
       in_reply_to_status_id: 1418247907074101200
       in_reply_to_status_id_str: "1418247907074101255"
+- preprint:
+    id: "130285"
+    doi: 10.1101/2021.02.19.431951
+    first_posted: 2021-02-19
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.02.19.431951v1
+    url: https://api.rxivist.org/v1/papers/130285
+    title: "Countering reproducibility issues in mathematical models with software
+      engineering techniques: A case study using a one-dimensional mathematical
+      model of the atrioventricular node"
+    category: systems-biology
+    abstract: One should assume that in silico experiments in systems biology are
+      less susceptible to reproducibility issues than their wet-lab
+      counterparts, because they are free from natural biological variations and
+      their environment can be fully controlled. However, recent studies show
+      that only half of the published mathematical models of biological systems
+      can be reproduced without substantial effort. In this article we examine
+      the potential causes for failed or cumbersome reproductions in a case
+      study of a one-dimensional mathematical model of the atrioventricular
+      node, which took us four months to reproduce. The model demonstrates that
+      even otherwise rigorous studies can be hard to reproduce due to missing
+      information, errors in equations and parameters, a lack in available data
+      files, non-executable code, missing or incomplete experiment protocols,
+      and missing rationales behind equations. Many of these issues seem similar
+      to problems that have been solved in software engineering using techniques
+      such as unit testing, regression tests, continuous integration, version
+      control, archival services, and a thorough modular design with extensive
+      documentation. Applying these techniques, we reimplement the examined
+      model using the modeling language Modelica. The resulting workflow is
+      independent of the model and can be translated to SBML, CellML, and other
+      languages. It guarantees methods reproducibility by executing automated
+      tests in a virtual machine on a server that is physically separated from
+      the development environment. Additionally, it facilitates results
+      reproducibility, because the model is more understandable and because the
+      complete model code, experiment protocols, and simulation data are
+      published and can be accessed in the exact version that was used in this
+      article. We found the additional design and documentation effort well
+      justified, even just considering the immediate benefits during development
+      such as easier and faster debugging, increased understandability of
+      equations, and a reduced requirement for looking up details from the
+      literature.
+    authors:
+      - name: Christopher Schölzel
+        orcid: http://orcid.org/0000-0001-8627-0594
+      - name: Valeria Blesius
+        orcid: http://orcid.org/0000-0002-2391-242X
+      - name: Gernot Ernst
+        orcid: http://orcid.org/0000-0001-5224-0338
+      - name: Alexander Goesmann
+        orcid: http://orcid.org/0000-0002-7086-2568
+      - name: Andreas Dominik
+        orcid: http://orcid.org/0000-0002-9368-0812
+  comment:
+    dislikes: 0
+    thread: "8405583259"
+    numReports: 0
+    likes: 0
+    id: "5465443872"
+    createdAt: 2021-07-22T15:20:36
+    author:
+      username: yoramreich
+      about: ""
+      name: Yoram Reich
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/yoramreich/
+      url: ""
+      location: ""
+      id: "365367826"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      You are correct that MBSE in general have usability problems. We wrote a
+      paper about it (Shaked and Reich, 2021), demonstrating that
+      domain-specific modeling - a particular way of MBSE - is much more
+      approachable and the paper I pointed to in my previous message (Shaked and
+      reich, 2020), is exactly such domain-specific modeling. It is much easier
+      than general purpose and could be tailored to fit particular purposed. 
+
+
+      Shaked, A., & Reich, Y. (2021). Using Domain-Specific Models to Facilitate Model-Based Systems-Engineering: Development Process Design Modeling with OPM and PROVE. Applied Sciences, 11(4), 1532.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.02.19.431951v1
+  tweets:
+    - created_at: Thu Jul 22 18:24:45 +0000 2021
+      id: 1418275839351922700
+      id_str: "1418275839351922689"
+      text: >-
+        💬 bioRxiv comment on "Countering reproducibility iss..."
+
+
+        "You are correct that MBSE in general have usability prob… https://t.co/3lV6yJCxfr
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/3lV6yJCxfr
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jul 22 18:24:45 +0000 2021
+      id: 1418275840211701800
+      id_str: "1418275840211701761"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/X7tff3Zz4b
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/X7tff3Zz4b
+      in_reply_to_status_id: 1418275839351922700
+      in_reply_to_status_id_str: "1418275839351922689"
