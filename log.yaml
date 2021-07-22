@@ -50753,3 +50753,103 @@
           - url: https://t.co/eQVSQuTGsy
       in_reply_to_status_id: 1417972499002843100
       in_reply_to_status_id_str: "1417972499002843144"
+- preprint:
+    id: "118350"
+    doi: 10.1101/2020.10.28.20221671
+    first_posted: 2020-10-29
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2020.10.28.20221671v1
+    url: https://api.rxivist.org/v1/papers/118350
+    title: Accurate Prediction of Breast Cancer Survival through Coherent Voting
+      Networks with Gene Expression Profiling
+    category: oncology
+    abstract: We describe a novel machine learning methodology which we call
+      Coherent Voting Network (CVN) and we demonstrate its usefulness by
+      building a 5-years prognostic predictor for post-surgery breast cancer
+      patients based on CVNs. Coherent Voting Network (CVN) is a supervised
+      learning paradigm designed explicitly to uncover non-linear, combinatorial
+      patterns in complex data, within a statistical robust framework. Breast
+      Cancer patients after surgery may receive several types of post-surgery
+      adjuvant therapeutic regimen (endocrine, radio- or chemo-therapy, and
+      combinations thereof) aiming at reducing relapse and the formation of
+      metastases, and thus favouring log term survival. We wish to predict the
+      outcome of adjuvant therapy using just small molecular fingerprints (mRNA)
+      of the patients transcriptome. Our aim is to have simultaneously high
+      scores for PPV (positive predictive value) and NPV (negative predictive
+      value) as these are important indices for the final clinical applications
+      of the predictor. A Training-validate-test protocol is applied onto CVN
+      built on patient data from the Metabric Consortium (about 2000 patients).
+      For the testing pool of 82 lymph node positive patients we obtain PPV 0.77
+      and NPV 0.78 (Odds Ratio 11.50); for the pool of 61 lymph node negative
+      patients we obtain PPV 0.68 and NPV 0.88 (Odds Ratio 16.07). Improved
+      results are obtained on some specific sub-types of BC. For the testing
+      pool of 16 TNBC patients we obtain PPV 1.0 and NPV 0.83 (Odds Ratio
+      45.00). For the testing pool of 18 HER2+ patients we obtain PPV 0.91 and
+      NPV 1.0 (Odds Ratio 40.00). For the testing pool of 41 Luminal B patients
+      we obtain PPV 0.75 and NPV 0.95 (Odds Ratio 60.00). Effectiveness of the
+      selected fingerprints is confirmed also on several independent data sets
+      (for a total of 601 patients) from the NCBI Gene Expression Omnibus (GEO).
+    authors:
+      - name: Marco Pellegrini
+        orcid: http://orcid.org/0000-0003-3151-9481
+  comment:
+    dislikes: 0
+    thread: "8256904447"
+    numReports: 0
+    likes: 0
+    id: "5461453536"
+    createdAt: 2021-07-19T15:32:51
+    author:
+      username: disqus_t3OZvRuTx3
+      about: ""
+      name: Marco Pellegrini
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_t3OZvRuTx3/
+      url: ""
+      location: ""
+      id: "372550626"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      This paper in revised form  has been accepted in a peer-reviewed journal:
+
+      Pellegrini, 
+
+      M. Accurate prediction of breast cancer survival through coherent voting networks with gene expression profiling.
+
+      Sci Rep 11, 14645 (2021). https://doi.org/10.1038/s41598-021-94243-z
+
+      link: https://www.nature.com/articles/s41598-021-94243-z
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2020.10.28.20221671v1
+  tweets:
+    - created_at: Thu Jul 22 01:04:54 +0000 2021
+      id: 1418014154338799600
+      id_str: "1418014154338799619"
+      text: >-
+        💬 medRxiv comment on "Accurate Prediction of Breast ..."
+
+
+        "This paper in revised form  has been accepted in a peer-… https://t.co/PK4PDP5qaG
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/PK4PDP5qaG
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jul 22 01:04:54 +0000 2021
+      id: 1418014155030900700
+      id_str: "1418014155030900741"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/s0H6bv4vzD
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/s0H6bv4vzD
+      in_reply_to_status_id: 1418014154338799600
+      in_reply_to_status_id_str: "1418014154338799619"
