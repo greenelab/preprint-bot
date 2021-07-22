@@ -51069,3 +51069,167 @@
           - url: https://t.co/M9ds9DVYq7
       in_reply_to_status_id: 1418214664228331500
       in_reply_to_status_id_str: "1418214664228331523"
+- preprint:
+    id: "146991"
+    doi: 10.1101/2021.06.22.21259318
+    first_posted: 2021-06-22
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.22.21259318v1
+    url: https://api.rxivist.org/v1/papers/146991
+    title: "Efficacy of Proxalutamide in Hospitalized COVID-19 Patients: A
+      Randomized, Double-Blind, Placebo-Controlled, Parallel-Design Clinical
+      Trial"
+    category: infectious-diseases
+    abstract: "Background: Severe acute respiratory syndrome coronavirus 2
+      (SARS-CoV-2) infectivity is mediated by the androgen-promoted protease,
+      transmembrane protease, serine 2 (TMPRSS2). Previously, we have shown that
+      treatment with proxalutamide, a non-steroidal androgen receptor
+      antagonist, accelerates viral clearance and clinical remission in
+      outpatients with coronavirus disease 2019 (COVID-19) compared to placebo.
+      The effects in hospitalized COVID-19 patients were unknown. Methods: Men
+      and women hospitalized but not requiring mechanical ventilation were
+      randomized (1:1 ratio) to receive 300 mg of proxalutamide per day or
+      placebo for 14 days. The study was conducted at eight sites in the state
+      of Amazonas, Brazil. The primary outcome measure was the clinical status
+      (8-point ordinal scale) at 14-days post-randomization. The primary
+      efficacy endpoint was the 14-day recovery ratio (alive hospital discharge
+      [scores 1, 2]). Findings: A total of 645 patients were randomized (317
+      received proxalutamide, 328 placebo) and underwent intention-to-treat
+      analysis. The 14-day median ordinal scale score in the proxalutamide group
+      was 1 (interquartile range [IQR]=1-2) versus 7 (IQR=2-8) for placebo,
+      P<0.001. The 14-day recovery rate was 81.4% for proxalutamide and 35.7%
+      for placebo (recovery ratio, 2.28; 95% CI 1.95-2.66 [P<0.001]). The 28-day
+      all-cause mortality rate was 11.0% for proxalutamide versus 49.4% for
+      placebo (hazard ratio, 0.16; 95% CI 0.11-0.24). The median
+      post-randomization time to recovery was 5 days (IQR=3-8) for proxalutamide
+      versus 10 days (IQR=6-15) for placebo. Interpretation: Hospitalized
+      COVID-19 patients not requiring mechanical ventilation receiving
+      proxalutamide had a 128% higher recovery rate than those treated with
+      placebo. All-cause mortality was reduced by 77.7% over 28 days.
+      (ClinicalTrials.gov number, NCT04728802)."
+    authors:
+      - name: Flavio A Cadegiani
+        orcid: http://orcid.org/0000-0002-2699-4344
+      - name: Daniel N Fonseca
+        orcid: null
+      - name: John McCoy
+        orcid: http://orcid.org/0000-0003-1577-9910
+      - name: Ricardo A. Zimerman
+        orcid: null
+      - name: Fatima N Mirza
+        orcid: http://orcid.org/0000-0003-1299-6258
+      - name: Michael N Correia
+        orcid: null
+      - name: Renan N Barros
+        orcid: null
+      - name: Dirce C Onety
+        orcid: null
+      - name: Karla Cristina P Israel
+        orcid: null
+      - name: Brenda G Almeida
+        orcid: null
+      - name: Emilyn O Guerreiro
+        orcid: null
+      - name: Jose Enrique M Medeiros
+        orcid: null
+      - name: Raquel N Nicolau
+        orcid: null
+      - name: Luiza FM Nicolau
+        orcid: null
+      - name: Rafael X Cunha
+        orcid: null
+      - name: Maria Fernanda R Barroco
+        orcid: null
+      - name: Patricia S da Silva
+        orcid: null
+      - name: Gabriel S. Ferreira
+        orcid: http://orcid.org/0000-0003-1554-8346
+      - name: Flavio Renan PC Alcantara
+        orcid: null
+      - name: Angelo M Ribeiro
+        orcid: null
+      - name: Felipe O de Almeida
+        orcid: null
+      - name: Adailson A de Souza
+        orcid: null
+      - name: Suzyane S do Rosario
+        orcid: null
+      - name: Raysa WS Paulain
+        orcid: null
+      - name: Alessandra Reis
+        orcid: null
+      - name: Marissa Li
+        orcid: null
+      - name: Claudia E Thompson
+        orcid: null
+      - name: Gerald J Nau
+        orcid: null
+      - name: Carlos Gustavo Wambier
+        orcid: http://orcid.org/0000-0002-4636-4489
+      - name: Andy Goren
+        orcid: http://orcid.org/0000-0002-8190-2289
+  comment:
+    dislikes: 0
+    thread: "8608446739"
+    numReports: 0
+    likes: 0
+    id: "5460452230"
+    createdAt: 2021-07-18T17:48:18
+    author:
+      username: olavoamaral
+      about: ""
+      name: Olavo Amaral
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/olavoamaral/
+      url: ""
+      location: ""
+      id: "331288656"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      In their discussion, the authors attribute the imbalance between study
+      arms within hospital sites in Table S1 to the fact that randomization was
+      not stratified by study site and to batch delivery of drugs to remote
+      sites. However, if the trial was truly randomized as described in the
+      Supplementary Appendix, it is hard to understand how the extreme imbalance
+      in the distribution of arms in each site could have happened by chance
+      alone.
+
+      When one considers the distribution of arms in the 3 centers located in Manaus, where patients are described to have been randomized independently, there is a total of 97 patients in the active group vs. 298 in the placebo group. Using the chisq.test function in R, the p value for obtaining this distribution if patients had an equal chance of being randomized to either group is 4.8e-24 (amounting to a chance of roughly 1 in 200 sextillion).
+
+      For the remote sites, one cannot estimate this chance exactly, as the authors report that randomization was performed for batches of 5-50 patients. Nevertheless, the distribution is even more unbalanced (220 patients in the active group vs. 30 patients in the placebo group), and also seems unlikely to have occurred by chance (and in the opposite direction as that of Manaus, thus balancing the distribution in the whole trial almost exactly).
+
+      Although this imbalance would not explain the difference in the main outcomes between groups by itself, as the stratified analyses in Tables S3 and S4 show effects favoring the active treatment at all sites, it does call into question whether randomization was really carried out as described. Can the authors please clarify on what happened?
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.06.22.21259318v1
+  tweets:
+    - created_at: Thu Jul 22 16:33:45 +0000 2021
+      id: 1418247907074101200
+      id_str: "1418247907074101255"
+      text: >-
+        💬 medRxiv comment on "Efficacy of Proxalutamide in H..."
+
+
+        "In their discussion, the authors attribute the imbalance… https://t.co/7Ilu3zx1Ps
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/7Ilu3zx1Ps
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jul 22 16:33:45 +0000 2021
+      id: 1418247907996835800
+      id_str: "1418247907996835843"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/0z3rHjK5bK
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/0z3rHjK5bK
+      in_reply_to_status_id: 1418247907074101200
+      in_reply_to_status_id_str: "1418247907074101255"
