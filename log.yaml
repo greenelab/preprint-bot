@@ -52414,3 +52414,105 @@
           - url: https://t.co/hhgi4SpP5o
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "119582"
+    doi: 10.1101/2020.11.30.397463
+    first_posted: 2020-11-30
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2020.11.30.397463v1
+    url: https://api.rxivist.org/v1/papers/119582
+    title: Loss of a subunit of vacuolar ATPase identifies unexpected biological
+      signatures of reduced organelle acidification in vivo
+    category: molecular-biology
+    abstract: The inability to maintain a strictly regulated endo(lyso)somal acidic
+      pH through the proton-pumping action of the vacuolar-ATPases has been
+      associated with various human diseases including heritable connective
+      tissue disorders, neurodegenerative diseases and cancer. Multiple studies
+      have investigated the pleiotropic effects of reduced acidification in
+      vitro, but the mechanisms elicited by impaired endo(lyso)somal
+      acidification in vivo remain poorly understood. Here, we show that loss of
+      atp6v1e1b in zebrafish leads to early mortality, associated with
+      craniofacial dysmorphisms, vascular anomalies, cardiac dysfunction,
+      hypotonia and epidermal structural defects, reminiscent of the phenotypic
+      manifestations in cutis laxa patients carrying a defect in the ATP6V1E1
+      gene. Mechanistically, we found that in vivo genetic depletion of
+      atp6v1e1b leads to N-glycosylation defects and reduced maturation of
+      endosomal and lysosomal vesicles, but retains the hypoxia-mediated
+      response. In order to gain further insights into the processes affected by
+      aberrant organelle acidification, we performed an untargeted analysis of
+      the transcriptome and metabolome in early atp6v1e1b-deficient larvae. We
+      report multiple affected pathways including but not limited to oxidative
+      phosphorylation, sphingolipid and fatty acid metabolism with profound
+      defects in mitochondrial respiration. Taken together, our results identify
+      new complex biological effects of reduced organelle acidification in vivo,
+      which likely contribute to the multisystemic manifestations observed in
+      disorders caused by v-ATPase deficiency.
+    authors:
+      - name: Lore Pottie
+        orcid: http://orcid.org/0000-0001-5102-975X
+      - name: Wouter Van Gool
+        orcid: null
+      - name: Michiel Vanhooydonck
+        orcid: http://orcid.org/0000-0001-7350-9009
+      - name: Franz-Georg Hanisch
+        orcid: http://orcid.org/0000-0003-3619-7039
+      - name: Geert Goeminne
+        orcid: http://orcid.org/0000-0002-0337-2999
+      - name: Andreja Rajkovic
+        orcid: http://orcid.org/0000-0003-1062-0564
+      - name: Paul Coucke
+        orcid: http://orcid.org/0000-0001-7119-586X
+      - name: Patrick Sips
+        orcid: http://orcid.org/0000-0001-9241-5980
+      - name: Bert Callewaert
+        orcid: http://orcid.org/0000-0002-9743-4205
+  comment:
+    dislikes: 0
+    thread: "8296640576"
+    numReports: 0
+    likes: 0
+    id: "5466404214"
+    createdAt: 2021-07-23T10:24:10
+    author:
+      name: Lore Pottie
+      url: ""
+      profileUrl: ""
+      emailHash: ""
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Our preprint has been published
+      (https://doi.org/10.1371/journal.pgen.1009603). The link will follow
+      forthcoming.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.11.30.397463v1
+  tweets:
+    - created_at: Fri Jul 23 20:19:37 +0000 2021
+      id: 1418667137728610300
+      id_str: "1418667137728610305"
+      text: >-
+        💬 bioRxiv comment on "Loss of a subunit of vacuolar ..."
+
+
+        "Our preprint has been published ( The link will follow f… https://t.co/Pncb1bQe8J
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/Pncb1bQe8J
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jul 23 20:19:38 +0000 2021
+      id: 1418667138705879000
+      id_str: "1418667138705879041"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/Mg5rYPMLch
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/Mg5rYPMLch
+      in_reply_to_status_id: 1418667137728610300
+      in_reply_to_status_id_str: "1418667137728610305"
