@@ -52054,3 +52054,182 @@
           - url: https://t.co/FJPPxN9YkE
       in_reply_to_status_id: 1418576114906275800
       in_reply_to_status_id_str: "1418576114906275842"
+- preprint:
+    id: "124614"
+    doi: 10.1101/2020.12.28.20248193
+    first_posted: 2021-01-04
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2020.12.28.20248193v1
+    url: https://api.rxivist.org/v1/papers/124614
+    title: "GestaltMatcher: Overcoming the limits of rare disease matching using
+      facial phenotypic descriptors"
+    category: genetic-and-genomic-medicine
+    abstract: A large fraction of monogenic disorders causes craniofacial
+      abnormalities with characteristic facial morphology. These disorders can
+      be diagnosed more efficiently with the support of computer-aided
+      next-generation phenotyping tools, such as DeepGestalt. These tools have
+      learned to associate facial phenotypes with the underlying syndrome
+      through training on thousands of patient photographs. However, this
+      "supervised" approach means that diagnoses are only possible if the
+      disorder was part of the training set. To improve recognition of
+      ultra-rare disorders, we created GestaltMatcher, which uses a deep
+      convolutional neural network based on the DeepGestalt framework. We used
+      photographs of 17,560 patients with 1,115 rare disorders to define a
+      "Clinical Face Phenotype Space". Distance between cases in the phenotype
+      space defines syndromic similarity, allowing test patients to be matched
+      to a molecular diagnosis even when the disorder was not included in the
+      training set. Similarities among patients with previously unknown disease
+      genes can also be detected. Therefore, in concert with mutation data,
+      GestaltMatcher could accelerate the clinical diagnosis of patients with
+      ultra-rare disorders and facial dysmorphism, as well as enable the
+      delineation of novel phenotypes.
+    authors:
+      - name: Tzung-Chien Hsieh
+        orcid: http://orcid.org/0000-0003-3828-4419
+      - name: Aviram Bar-Haim
+        orcid: null
+      - name: Shahida Moosa
+        orcid: http://orcid.org/0000-0002-4463-3067
+      - name: Nadja Ehmke
+        orcid: http://orcid.org/0000-0003-1449-9909
+      - name: Karen W Gripp
+        orcid: null
+      - name: Jean Tori Pantel
+        orcid: http://orcid.org/0000-0002-2674-4660
+      - name: Magdalena Danyel
+        orcid: http://orcid.org/0000-0001-6631-3198
+      - name: Martin Atta Mensah
+        orcid: http://orcid.org/0000-0001-8080-8779
+      - name: Denise Horn
+        orcid: http://orcid.org/0000-0003-0870-8911
+      - name: Stanislav Rosnev
+        orcid: http://orcid.org/0000-0003-0256-7038
+      - name: Nicole Fleischer
+        orcid: http://orcid.org/0000-0002-1313-9429
+      - name: Guilherme Bonini
+        orcid: null
+      - name: Alexander Hustinx
+        orcid: null
+      - name: Alexander Schmid
+        orcid: null
+      - name: Alexej Knaus
+        orcid: http://orcid.org/0000-0003-0366-0533
+      - name: Behnam Javanmardi
+        orcid: null
+      - name: Hannah Klinkhammer
+        orcid: null
+      - name: Hellen Lesmann
+        orcid: null
+      - name: Sugirthan Sivalingam
+        orcid: null
+      - name: Tom Kamphans
+        orcid: http://orcid.org/0000-0003-4848-7885
+      - name: Wolfgang Meiswinkel
+        orcid: null
+      - name: Frédéric Ebstein
+        orcid: http://orcid.org/0000-0002-3729-7878
+      - name: Elke Krüger
+        orcid: http://orcid.org/0000-0002-2551-242X
+      - name: Sébastien Küry
+        orcid: http://orcid.org/0000-0001-5497-0465
+      - name: Stéphane Bézieau
+        orcid: http://orcid.org/0000-0003-0095-1319
+      - name: Axel Schmidt
+        orcid: http://orcid.org/0000-0002-4318-0799
+      - name: Sophia Peters
+        orcid: null
+      - name: Hartmut Engels
+        orcid: null
+      - name: Elisabeth Mangold
+        orcid: null
+      - name: Martina Kreiß
+        orcid: null
+      - name: Kirsten Cremer
+        orcid: null
+      - name: Claudia Perne
+        orcid: null
+      - name: Regina C. Betz
+        orcid: null
+      - name: Tim Bender
+        orcid: null
+      - name: Kathrin Grundmann-Hauser
+        orcid: null
+      - name: Tobias B Haack
+        orcid: null
+      - name: Matias Wagner
+        orcid: http://orcid.org/0000-0002-4454-8823
+      - name: Theresa Brunet
+        orcid: http://orcid.org/0000-0002-5183-780X
+      - name: Heidi Beate Bentzen
+        orcid: http://orcid.org/0000-0001-8285-818X
+      - name: Luisa Averdunk
+        orcid: null
+      - name: Kimberly Christine Coetzer
+        orcid: null
+      - name: Gholson J Lyon
+        orcid: http://orcid.org/0000-0002-5869-0716
+      - name: Malte Spielmann
+        orcid: http://orcid.org/0000-0002-0583-4683
+      - name: Christian Schaaf
+        orcid: http://orcid.org/0000-0002-2148-7490
+      - name: Stefan Mundlos
+        orcid: http://orcid.org/0000-0002-9788-3166
+      - name: Markus M. Nöthen
+        orcid: http://orcid.org/0000-0002-8770-2464
+      - name: Peter Krawitz
+        orcid: http://orcid.org/0000-0002-3194-8625
+  comment:
+    dislikes: 0
+    thread: "8342022961"
+    numReports: 0
+    likes: 0
+    id: "5466478070"
+    createdAt: 2021-07-23T12:04:42
+    author:
+      username: disqus_lvszrxlx7e
+      about: ""
+      name: Harry Matthews
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_lvszrxlx7e/
+      url: ""
+      location: ""
+      id: "372728376"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Very fascinating work. I read it with great interest. I think some
+      Supplementary Tables are missing, though. In the supplementary pdf I see
+      up to Supplementary Table 3. But in the caption of main figure 5 there is
+      reference to a Supplementary Table 6.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2020.12.28.20248193v1
+  tweets:
+    - created_at: Fri Jul 23 16:32:02 +0000 2021
+      id: 1418609863299674000
+      id_str: "1418609863299674113"
+      text: >-
+        💬 medRxiv comment on "GestaltMatcher: Overcoming the..."
+
+
+        "Very fascinating work. I read it with great interest. I… https://t.co/P4GhYjiybV
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/P4GhYjiybV
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jul 23 16:32:02 +0000 2021
+      id: 1418609864402604000
+      id_str: "1418609864402604036"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/sbDfLznZQZ
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/sbDfLznZQZ
+      in_reply_to_status_id: 1418609863299674000
+      in_reply_to_status_id_str: "1418609863299674113"
