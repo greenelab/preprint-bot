@@ -51734,3 +51734,176 @@
           - url: https://t.co/sUpgXQ9kCx
       in_reply_to_status_id: 1418376369034170400
       in_reply_to_status_id_str: "1418376369034170368"
+- preprint:
+    id: "75352"
+    doi: 10.1101/2020.02.26.966580
+    first_posted: 2020-02-29
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.02.26.966580v1
+    url: https://api.rxivist.org/v1/papers/75352
+    title: ACCLIMATION OF PHOTOSYNTHESIS TO THE ENVIRONMENT 1 regulates Photosystem
+      II Supercomplex dynamics in response to light in Chlamydomonas reinhardtii
+    category: plant-biology
+    abstract: Photosynthetic organisms require acclimation mechanisms to regulate
+      photosynthesis in response to light conditions. Here, two mutant alleles
+      of ACCLIMATION OF PHOTOSYNTHESIS TO THE ENVIRONMENT 1 (ape1) have been
+      characterized in Chlamydomonas reinhardtii. The ape1 mutants are
+      photosensitive and show PSII photoinhibition during high light acclimation
+      or under high light stress. The ape1 mutants retain more PSII
+      super-complexes and have changes to thylakoid stacking relative to control
+      strains during photosynthetic growth at different light intensities. The
+      APE1 protein is found in all oxygenic phototrophs and encodes a 25 kDa
+      thylakoid protein that interacts with the Photosystem II core complex as
+      monomers, dimers and supercomplexes. We propose a model where APE1 bound
+      to PSII supercomplexes releases core complexes and promotes PSII
+      heterogeneity influencing the stacking of Chlamydomonas thylakoids. APE1
+      is a regulator in light acclimation and its function is to reduce
+      over-excitation of PSII centres and avoid PSII photoinhibition to increase
+      the resilience of photosynthesis to high light.
+    authors:
+      - name: Marie Chazaux
+        orcid: http://orcid.org/0000-0002-5023-2948
+      - name: Stefano Caffarri
+        orcid: http://orcid.org/0000-0002-4729-7679
+      - name: Juliane Da Graça
+        orcid: http://orcid.org/0000-0002-1879-617X
+      - name: Stephan Cuiné
+        orcid: http://orcid.org/0000-0002-3000-3355
+      - name: Magali Floriani
+        orcid: http://orcid.org/0000-0001-5461-0486
+      - name: Pawel Brzezowski
+        orcid: http://orcid.org/0000-0003-3082-6818
+      - name: Gilles Peltier
+        orcid: http://orcid.org/0000-0002-2226-3931
+      - name: Bernard Genty
+        orcid: null
+      - name: Jean Alric
+        orcid: http://orcid.org/0000-0003-3574-2234
+      - name: Xenie Johnson
+        orcid: http://orcid.org/0000-0003-3424-7047
+  comment:
+    dislikes: 0
+    thread: "7893966768"
+    numReports: 0
+    likes: 0
+    id: "5465033852"
+    createdAt: 2021-07-22T08:29:35
+    author:
+      username: alizee_malnoe
+      about: I am an Assistant Professor at Umeå Plant Science Centre. My research
+        group investigates the molecular mechanisms of plant photoprotection.
+      name: Alizée Malnoë
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/alizee_malnoe/
+      url: https://malnoelab.com
+      location: Umeå, Sweden
+      id: "372667583"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      The manuscript by Chazaux et al. presents the characterisation of
+      <i>ape1</i> mutant alleles of Chlamydomonas and shows that they do not
+      acclimate as well to increases in light intensity as does the wild type,
+      consistent with the Arabidopsis <i>ape1</i> mutant described in 2003
+      (Walters et al.). The authors have clearly shown that APE1 is a thylakoid
+      membrane protein required for the proper function of PSII at high light
+      intensities. The absence of APE1 leads to changes in thylakoid
+      architecture and an altered composition of photosynthetic complexes (20%
+      less D1/D2 and 20% more LHCII in ape1). In this new submission, they have
+      unequivocally demonstrated that APE1 directly interacts with PSII
+      (co-migration of APE1 with the monomer and dimer of PSII which is altered
+      in deltaPSII but not in deltaPSI as well as cross-linking with PSII).
+      Furthermore, they have shown that in the absence of APE1, PSII
+      supercomplexes (sc) accumulate (BN-2D and in vivo measurements of antenna
+      size). This accumulation of PSII sc leads to photoinhibition and the
+      authors propose that the role of APE1 is to modulate the formation of
+      supercomplexes for optimal photosynthesis.
+
+
+      I largely agree with these conclusions and think that this body of work moves the field forward. I have several comments however that should be addressed (see below). My main issue lies in the interpretation of Figure 7A and B (photoinhibition experiment) and lines 314-318. My previous comment on that point still stands: if D1 damage would be increased in <i>ape1</i>, we should expect a lower amount of D1 upon inhibition of repair. However according to Fig7B, this is not the case (<i>ape1</i> has apparently the same level of D1 as in wt). The <i>mph1</i> mutant described by Liu and Last 2015 Plant Journal 82:731–743, is proposed to have more PSII damage which translates as less D1 accumulation upon inhibition of repair (coincidentally also in Figure 7B!) Granted this is in Arabidopsis and the timepoint for D1 is 2h HL, I would still recommend repeating that experiment e.g. a 2h HL+inh checking D1 accumulation. As is, what I take away from Fig7B is that the rate of repair is slower in ape1. If I understand correctly, the authors imply that because of the large antenna size, D1 is more prone to photodamage but given this other interpretation (slower D1 repair), how about the idea that repair is slower due to D1 being more trapped in PSII dimer and sc? You discuss this idea in paragraph from line 519.
+
+
+      This interpretation better fits the conservation of APE1 in cyanobacteria which do not possess PSII sc and agrees with the possible constitutive function in maintenance of PSII state described line 516. The title of the article should then be changed accordingly.
+
+
+      Major comments
+
+
+      Line 71 - I understand the decision from the authors to cite reviews and state that “many” proteins are involved in PSII biogenesis, maintenance and repair. I would however recommend citing Liu and Last 2019 Frontiers in Plant Science 10:975 and either introduce or discuss more what factors are known to modulate PSII sc (e.g. from this review MET1; in <i>met1</i> mutant less PSII SC, accelerated D1 degradation; as stated above should we expect <i>ape1</i>, more PSII SC, slower D1 degradation?)
+
+      Line 114, line 256 - RC47 should be defined as reaction center 47 (see Komenda J 2006 J Biol Chem 281: 1145–1151), it can be both an assembly or repair intermediate.
+
+      Line 129 - “Atape1” should be written as “The Arabidopsis <i>ape1</i> mutant” for clarity.
+
+      Line 229 – “and is not strictly required for their assembly”, I do not agree with that statement, chaperone required for assembly can accumulate to wild type level in absence of the main subunit of a given complex.
+
+      Line 319 to 325 – Description of partial complementation (lower chla/b in HL and intermediate GPX5 accumulation) and possible explanation (since APE1 protein accumulates to wild type level) should be provided.
+
+      Line 341 – for this paragraph, it would help the non-initiated to add more introduction on alpha and beta centres and what is meant exactly by “PSII heterogeneity”.
+
+      Line 573 – The method for generating the mutant library that led to isolation of <i>ape1-1</i> is missing
+
+      Line 676 -  Provide amino acid number where the sequence used for recombinant proteins starts
+
+      Fig1D,E – The data is the same as in the previous submitted version, <i>ape1-1</i> should say <i>drbcL ape1-1</i> in Fig1D,F and 1E control is cc-4533.
+
+      Figure 2B – orientation of protein? please indicate stroma and lumen compartment
+
+      Fig2C – comment on reason for signal to be lower in isolated thylakoid compared to total cell extracts, usually the opposite occurs, unless APE1 is dual-targeted?
+
+      Fig4B – comment on more PSI(2) band in <i>ape1</i> mutant
+
+      Fig5 – comment on APE1 oligomers. I agree that cross-linking with PSII demonstrates that APE1 is not a free protein but upon solubilization different subcomplexes are resolved, especially in the deltaPSI and deltaPSII mutants.
+
+      Fig7C – comment on nature of the band right below E and above F enriched in the complemented line.
+
+
+      Minor comments
+
+      Line 147 and other instances – Figures are called twice
+
+      Line 184 – should read “violaceus”
+
+      Line 286 – change decorated to probed
+
+      Line 401 – should read “photoinhibition”
+
+      Fig6A – annotate nature of B5 and 8 to help reader
+
+      Fig9 – is this in MIN? how many days? Light intensity?
+
+
+      Alizée Malnoë (Umeå University) – prompted by a journal; I’m an assistant professor, my research group investigates the molecular mechanisms of plant photoprotection. I performed a bachelor project internship in Gilles Peltier’s group, Jean Alric and Xenie Johnson are former colleagues from the group I performed my PhD studies in.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.02.26.966580v1
+  tweets:
+    - created_at: Fri Jul 23 12:31:32 +0000 2021
+      id: 1418549337164943400
+      id_str: "1418549337164943362"
+      text: >-
+        💬 bioRxiv comment on "ACCLIMATION OF PHOTOSYNTHESIS ..."
+
+
+        "The manuscript by Chazaux et al. presents the characteri… https://t.co/hexgzwApYe
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/hexgzwApYe
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jul 23 12:31:32 +0000 2021
+      id: 1418549338217730000
+      id_str: "1418549338217730053"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/6a8O2ReBkG
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/6a8O2ReBkG
+      in_reply_to_status_id: 1418549337164943400
+      in_reply_to_status_id_str: "1418549337164943362"
