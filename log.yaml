@@ -51628,3 +51628,109 @@
           - url: https://t.co/NK7Mc8HReC
       in_reply_to_status_id: 1418334917797171200
       in_reply_to_status_id_str: "1418334917797171200"
+- preprint:
+    id: "148199"
+    doi: 10.1101/2021.06.30.450627
+    first_posted: 2021-06-30
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.30.450627v1
+    url: https://api.rxivist.org/v1/papers/148199
+    title: A Genetic Screen for Suppressors of Cryptic 5' Splicing in C. elegans
+      Reveals Roles for KIN17 and PRCC in Maintaining Both 5' and 3' Splice Site
+      Identity
+    category: molecular-biology
+    abstract: Pre-mRNA splicing is an essential step of eukaryotic gene expression
+      carried out by a series of dynamic macromolecular protein/RNA complexes,
+      known collectively and individually as the spliceosome. This series of
+      spliceosomal complexes define, assemble on, and catalyze the removal of
+      introns. Molecular model snapshots of intermediates in the process have
+      been created from cryo-EM data, however, many aspects of the dynamic
+      changes that occur in the spliceosome are not fully understood.
+      Caenorhabditis elegans follow the GU-AG rule of splicing, with almost all
+      introns beginning with 5' GU and ending with 3' AG. These splice sites are
+      identified early in the splicing cycle, but as the cycle progresses and
+      ''custody'' of the pre-mRNA splice sites is passed from factor to factor
+      as the catalytic site is built, the mechanism by which splice site
+      identity is maintained or re-established through these dynamic changes is
+      unclear. We performed a genetic screen in C. elegans for factors that are
+      capable of changing 5' splice site choice. We report that KIN17 and PRCC
+      are involved in splice site choice, the first functional splicing role
+      proposed for either of these proteins. Previously identified suppressors
+      of cryptic 5' splicing promote distal cryptic GU splice sites, however,
+      mutations in KIN17 and PRCC instead promote usage of an unusual proximal
+      5' splice site which defines an intron beginning with UU, separated by 1nt
+      from a GU donor. We performed high-throughput mRNA sequencing analysis and
+      found that mutations in PRCC but not KIN17 changed 5' splice sites
+      genome-wide, promoting usage of nearby non-consensus sites. We further
+      found that mutations in KIN17 and PRCC changed dozens of 3' splice sites,
+      promoting non-consensus sites upstream of canonical splice sites. Our work
+      has uncovered both fine and coarse mechanisms by which the spliceosome
+      maintains splice site identity during the complex assembly process.
+    authors:
+      - name: Jessie MNG Lopez
+        orcid: http://orcid.org/0000-0002-9222-6749
+      - name: Kenneth Osterhoudt
+        orcid: null
+      - name: Catiana Holland Cartwright
+        orcid: null
+      - name: Sol Katzman
+        orcid: http://orcid.org/0000-0002-1787-1246
+      - name: Alan M. Zahler
+        orcid: http://orcid.org/0000-0003-0027-1647
+  comment:
+    dislikes: 0
+    thread: "8624080045"
+    numReports: 0
+    likes: 0
+    id: "5466000558"
+    createdAt: 2021-07-22T23:32:19
+    author:
+      username: JMNGLOPEZ
+      about: ""
+      name: Jessie Lopez
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/JMNGLOPEZ/
+      url: ""
+      location: ""
+      id: "372707708"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      There is a DIY audiobook of this paper available on YouTube if you would
+      rather hear the author read the paper.
+
+
+      https://www.youtube.com/watch?v=46SZygXZwOs
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.06.30.450627v1
+  tweets:
+    - created_at: Fri Jul 23 01:04:13 +0000 2021
+      id: 1418376369034170400
+      id_str: "1418376369034170368"
+      text: >-
+        💬 bioRxiv comment on "A Genetic Screen for Suppresso..."
+
+
+        "There is a DIY audiobook of this paper available on YouT… https://t.co/6wKPwEbDDx
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/6wKPwEbDDx
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jul 23 01:04:13 +0000 2021
+      id: 1418376369810165800
+      id_str: "1418376369810165766"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/sUpgXQ9kCx
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/sUpgXQ9kCx
+      in_reply_to_status_id: 1418376369034170400
+      in_reply_to_status_id_str: "1418376369034170368"
