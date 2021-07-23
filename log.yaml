@@ -51907,3 +51907,150 @@
           - url: https://t.co/6a8O2ReBkG
       in_reply_to_status_id: 1418549337164943400
       in_reply_to_status_id_str: "1418549337164943362"
+- preprint:
+    id: "134158"
+    doi: 10.1101/2021.03.17.21252755
+    first_posted: 2021-03-20
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.03.17.21252755v1
+    url: https://api.rxivist.org/v1/papers/134158
+    title: The Clinical Genome Resource (ClinGen) Familial Hypercholesterolemia
+      Variant Curation Expert Panel consensus guidelines for LDLR variant
+      classification
+    category: genetic-and-genomic-medicine
+    abstract: "Purpose: In 2015, the American College of Medical Genetics and
+      Genomics (ACMG) and the Association for Molecular Pathology (AMP)
+      published consensus standardized guidelines for variant classification in
+      Mendelian disorders. To increase accuracy and consistency, the Clinical
+      Genome Resource (ClinGen) Familial Hypercholesterolemia (FH) Variant
+      Curation Expert Panel (VCEP) was tasked with optimizing the existing
+      ACMG/AMP framework for disease-specific classification in FH. Here, we
+      provide consensus recommendations for the most common FH-causing gene,
+      LDLR, where >2,300 unique FH-associated variants have been identified.
+      Methods: The multidisciplinary FH VCEP met in person and through frequent
+      emails and conference calls to develop LDLR-specific modifications of
+      ACMG/AMP guidelines. Through iteration, pilot testing, debate and
+      commentary, consensus among experts was reached. Results: The consensus
+      LDLR variant modifications to existing ACMG/AMP guidelines include: 1)
+      alteration of population frequency thresholds; 2) delineation of
+      loss-of-function variant types; 3) functional study criteria
+      specifications; 4) co-segregation criteria specifications; and 5) specific
+      use and thresholds for in silico prediction tools, among others.
+      Conclusion: Establishment of these guidelines as the new standard in the
+      clinical laboratory setting will result in a more evidence-based,
+      harmonized method for LDLR variant classification worldwide, thereby
+      improving the care of FH patients."
+    authors:
+      - name: Joana R. Chora
+        orcid: null
+      - name: Michael A Iacocca
+        orcid: null
+      - name: Lukas Tichy
+        orcid: null
+      - name: Hannah Wand
+        orcid: http://orcid.org/0000-0001-8662-3353
+      - name: C. Lisa Kurtz
+        orcid: null
+      - name: Heather Zimmermann
+        orcid: null
+      - name: Annette Leon
+        orcid: null
+      - name: Maggie Williams
+        orcid: null
+      - name: Steve E Humphries
+        orcid: null
+      - name: Amanda J Hooper
+        orcid: null
+      - name: Mark Trinder
+        orcid: null
+      - name: Liam R. Brunham
+        orcid: http://orcid.org/0000-0002-3686-3807
+      - name: Alexandre Costa Pereira
+        orcid: null
+      - name: Cinthia E. Jannes
+        orcid: null
+      - name: Margaret Chen
+        orcid: null
+      - name: Jessica Chonis
+        orcid: null
+      - name: Jian Wang
+        orcid: http://orcid.org/0000-0002-0788-6604
+      - name: Serra Kim
+        orcid: null
+      - name: Tami Johnston
+        orcid: null
+      - name: Premysl Soucek
+        orcid: null
+      - name: Michal Kramarek
+        orcid: null
+      - name: Sarah E. Leigh
+        orcid: null
+      - name: Alain Carrie
+        orcid: null
+      - name: Eric J Sijbrands
+        orcid: null
+      - name: Robert A Hegele
+        orcid: http://orcid.org/0000-0003-2861-5325
+      - name: Tomas Freiberger
+        orcid: null
+      - name: Joshua W. Knowles
+        orcid: null
+      - name: Mafalda Bourbon
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8444797689"
+    numReports: 0
+    likes: 1
+    id: "5463703297"
+    createdAt: 2021-07-21T09:05:50
+    author:
+      username: haowenguan
+      about: ""
+      name: haowen guan
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/haowenguan/
+      url: ""
+      location: ""
+      id: "372631791"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      I have a few questions about this guideline:
+
+      1.Could i use this guideline to other genes or panels ?
+
+      2. Is there any chance that i can get the code about <i>In silico prediction of splicing effects in LDLR</i>
+    forum: medrxiv
+    points: 1
+    link: https://www.medrxiv.org/content/10.1101/2021.03.17.21252755v1
+  tweets:
+    - created_at: Fri Jul 23 14:17:56 +0000 2021
+      id: 1418576114906275800
+      id_str: "1418576114906275842"
+      text: |-
+        💬 medRxiv comment on "The Clinical Genome Resource (..."
+
+        "I have a few questions about this guideline:
+        1.Could i u… https://t.co/aGDmHfAo73
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/aGDmHfAo73
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jul 23 14:17:56 +0000 2021
+      id: 1418576115808018400
+      id_str: "1418576115808018437"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/FJPPxN9YkE
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/FJPPxN9YkE
+      in_reply_to_status_id: 1418576114906275800
+      in_reply_to_status_id_str: "1418576114906275842"
