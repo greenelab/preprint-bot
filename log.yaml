@@ -52516,3 +52516,125 @@
           - url: https://t.co/Mg5rYPMLch
       in_reply_to_status_id: 1418667137728610300
       in_reply_to_status_id_str: "1418667137728610305"
+- preprint:
+    id: "143204"
+    doi: 10.1101/2021.05.18.21257385
+    first_posted: 2021-05-25
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.18.21257385v1
+    url: https://api.rxivist.org/v1/papers/143204
+    title: Mask mandate and use efficacy in state-level COVID-19 containment
+    category: epidemiology
+    abstract: "Background: Containment of the COVID-19 pandemic requires
+      evidence-based strategies to reduce transmission. Because COVID-19 can
+      spread via respired droplets, many states have mandated mask use in public
+      settings. Randomized control trials have not clearly demonstrated mask
+      efficacy against respiratory viruses, but observational studies suggest
+      greater mask compliance may be associated with lower infection rates. We
+      hypothesized that statewide mask mandates and mask use are associated with
+      lower COVID-19 case growth rates in the United States. Methods: We
+      calculated total COVID-19 case growth and mask use for the continental
+      United States with data from the Centers for Disease Control and
+      Prevention and Institute for Health Metrics and Evaluation. We estimated
+      post-mask mandate case growth in non-mandate states using median issuance
+      dates of neighboring states with mandates. Results: Case growth was not
+      significantly different between mandate and non-mandate states at low or
+      high transmission rates, and surges were equivocal. Mask use predicted
+      lower case growth at low, but not high transmission rates. Growth rates
+      were comparable between states in the top and bottom mask use quintiles
+      adjusted for normalized total cases early in the pandemic and unadjusted
+      after peak Fall-Winter infections. Mask use did not predict Summer 2020
+      case growth for non-Northeast states or Fall-Winter 2020 growth for all
+      states. Conclusions: Mask mandates and use are not associated with slower
+      state-level COVID-19 spread during COVID-19 growth surges. COVID-19
+      containment requires future research and implementation of existing
+      efficacious strategies."
+    authors:
+      - name: Damian Guerra
+        orcid: http://orcid.org/0000-0002-6621-4656
+      - name: Daniel J Guerra
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8550177462"
+    numReports: 0
+    likes: 0
+    id: "5466221789"
+    createdAt: 2021-07-23T04:36:35
+    author:
+      username: disqus_UGLefoQbcU
+      about: ""
+      name: robert brown
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_UGLefoQbcU/
+      url: ""
+      location: ""
+      id: "193978307"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Masks work. This is a statement of fact. I can make this statement
+      because viruses must follow physical laws. So until you or anyone else can
+      provide a body of evidence showing that viruses are not bound by physical
+      laws you have no argument. We do however need to deal with that body of
+      evidence how is it some studies reach a conclusion that’s opposed to
+      reality? By having a fatal flaw. This study has it. The goal is to
+      determine if masks are effective. So why are they studying if people are
+      actually wearing them? Assuming that a mandate means higher mask usage is
+      a bad assumption. Assuming no mandate lowers usage is another bad
+      assumption. Assuming that areas with and without mandates are closed
+      systems is a really bad assumption. Yet for this study and indeed the body
+      of evidence you claim supports the masks don’t work conclusion to work as
+      intended and be capable of answering the question all these things would
+      need to be true. And as someone who has traveled through areas with and
+      without mandates I can say none of those appear to be true. So how do
+      masks work? This is important to understand many people assume that the
+      goal is filtration but it’s not. Sure a cloth or paper mask can filter a
+      lot of droplets and the particles with them but that’s not the primary
+      mechanism here. How does a sail catch the wind? The air is perfectly
+      capable of passing right through a cloth sail so how does that work? Air
+      is a fluid which for our purposes means it takes the path of least
+      resistance. If you take the carrier of a virus no mask and just normal
+      breathing droplets containing viral particles will quickly spread out into
+      the surrounding area where they will be inhaled by others thus infecting
+      them as well. However if you have some sort of barrier in place like say a
+      mask the air will quickly loose energy the droplets as well and they will
+      fall quickly and for the most part harmlessly to the ground. Why mandates
+      and not just choice? Well if you could not guess by the description the
+      mechanic at play isn’t filtration. Yes a cloth or paper mask can capture
+      some droplets but respiration has a vacuum element and if someone infected
+      without a mask is spewing particles people around them are still going to
+      suck those in. So the function of a mask isn’t to protect yourself it’s to
+      protect other people. That wraps up this mini lecture any questions?
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.05.18.21257385v1
+  tweets:
+    - created_at: Fri Jul 23 22:19:29 +0000 2021
+      id: 1418697299811778600
+      id_str: "1418697299811778565"
+      text: >-
+        💬 medRxiv comment on "Mask mandate and use efficacy ..."
+
+
+        "Masks work. This is a statement of fact. I can make this… https://t.co/0Me7dJMsP5
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/0Me7dJMsP5
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jul 23 22:19:29 +0000 2021
+      id: 1418697300667510800
+      id_str: "1418697300667510785"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/652MU3io4j
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/652MU3io4j
+      in_reply_to_status_id: 1418697299811778600
+      in_reply_to_status_id_str: "1418697299811778565"
