@@ -52233,3 +52233,129 @@
           - url: https://t.co/sbDfLznZQZ
       in_reply_to_status_id: 1418609863299674000
       in_reply_to_status_id_str: "1418609863299674113"
+- preprint:
+    id: "150663"
+    doi: 10.1101/2021.07.15.21260561
+    first_posted: 2021-07-19
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.07.15.21260561v1
+    url: https://api.rxivist.org/v1/papers/150663
+    title: Viral Load of SARS-CoV-2 in Respiratory Aerosols Emitted by COVID-19
+      Patients while Breathing, Talking, and Singing
+    category: infectious-diseases
+    abstract: "Background: Multiple SARS-CoV-2 superspreading events suggest that
+      aerosols play an important role in driving the COVID-19 pandemic. However,
+      the detailed roles of coarse (>5m) and fine ([&le;]5m) respiratory
+      aerosols produced when breathing, talking, and singing are not
+      well-understood. Methods: Using a G-II exhaled breath collector, we
+      measured viral RNA in coarse and fine respiratory aerosols emitted by
+      COVID-19 patients during 30 minutes of breathing, 15 minutes of talking,
+      and 15 minutes of singing. Results: Among the 22 study participants, 13
+      (59%) emitted detectable levels of SARS-CoV-2 RNA in respiratory aerosols,
+      including 3 asymptomatic patients and 1 presymptomatic patient. Viral
+      loads ranged from 63 - 5,821 N gene copies per expiratory activity.
+      Patients earlier in illness were more likely to emit detectable RNA, and
+      loads differed significantly between breathing, talking, and singing. The
+      largest proportion of SARS-CoV-2 RNA copies was emitted by singing (53%),
+      followed by talking (41%) and breathing (6%). Overall, fine aerosols
+      constituted 85% of the viral load detected in our study. Virus cultures
+      were negative. Conclusions: Fine aerosols produced by talking and singing
+      contain more SARS-CoV-2 copies than coarse aerosols and may play a
+      significant role in the transmission of SARS-CoV-2. Exposure to fine
+      aerosols should be mitigated, especially in indoor environments where
+      airborne transmission of SARS-CoV-2 is likely to occur. Isolating viable
+      SARS-CoV-2 from respiratory aerosol samples remains challenging, and
+      whether this can be more easily accomplished for emerging SARS-CoV-2
+      variants is an important enquiry for future studies."
+    authors:
+      - name: Kristen K. Coleman
+        orcid: http://orcid.org/0000-0003-0024-3400
+      - name: Douglas Jie Wen Tay
+        orcid: null
+      - name: Kai Sen Tan
+        orcid: null
+      - name: Sean Wei Xiang Ong
+        orcid: http://orcid.org/0000-0002-8570-436X
+      - name: Than The Son
+        orcid: null
+      - name: Ming Hui Koh
+        orcid: null
+      - name: Yi Qing Chin
+        orcid: null
+      - name: Haziq Nasir
+        orcid: null
+      - name: Tze Minn Mak
+        orcid: null
+      - name: Justin Jang Hann Chu
+        orcid: null
+      - name: Donald K. Milton
+        orcid: http://orcid.org/0000-0002-0550-7834
+      - name: Vincent T.K. Chow
+        orcid: null
+      - name: Paul Anantharajah Tambyah
+        orcid: null
+      - name: Mark Chen
+        orcid: null
+      - name: Tham Kwok Wai
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8660749285"
+    numReports: 0
+    likes: 0
+    id: "5466460591"
+    createdAt: 2021-07-23T11:43:39
+    author:
+      username: andyround
+      about: ""
+      name: andyround
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/andyround/
+      url: ""
+      location: ""
+      id: "372727738"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Fascinating, thanks. What I can’t square between studies like yours
+      and the one on cynomolgus monkeys on the one hand, and the range of
+      estimates of sizes of droplets in respiratory exhalations on the other (as
+      recently reviewed by Lydia Bourouiba for example), is how the quantity of
+      viral RNA apparently scales with the *number* of droplets rather than
+      their volume. It implies that the concentration of viruses per droplet is
+      hugely dependent on the size of the droplet and I can’t think of a
+      mechanism to achieve this - are viruses massively self-repelling? (over
+      micron-scale distances?) Are they highly surface active? I wonder if you
+      have thought about this.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.07.15.21260561v2
+  tweets:
+    - created_at: Fri Jul 23 18:24:32 +0000 2021
+      id: 1418638173551399000
+      id_str: "1418638173551398916"
+      text: >-
+        💬 medRxiv comment on "Viral Load of SARS-CoV-2 in Re..."
+
+
+        "Fascinating, thanks. What I can’t square between studies… https://t.co/n5wBKXkVbc
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/n5wBKXkVbc
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jul 23 18:24:32 +0000 2021
+      id: 1418638174327296000
+      id_str: "1418638174327296005"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/jkD92sUM09
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/jkD92sUM09
+      in_reply_to_status_id: 1418638173551399000
+      in_reply_to_status_id_str: "1418638173551398916"
