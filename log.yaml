@@ -52359,3 +52359,58 @@
           - url: https://t.co/jkD92sUM09
       in_reply_to_status_id: 1418638173551399000
       in_reply_to_status_id_str: "1418638173551398916"
+- preprint:
+    id: 119230
+    metric: 29
+    title: Ultrafast end-to-end protein structure prediction enables high-throughput
+      exploration of uncharacterised proteins
+    url: https://api.rxivist.org/v1/papers/119230
+    biorxiv_url: https://biorxiv.org/content/10.1101/2020.11.27.401232v1
+    doi: 10.1101/2020.11.27.401232
+    category: bioinformatics
+    first_posted: 2020-11-27
+    abstract: Deep learning-based prediction of protein structure usually begins by
+      constructing a multiple sequence alignment (MSA) containing homologues of
+      the target protein. The most successful approaches combine large feature
+      sets derived from MSAs, and considerable computational effort is spent
+      deriving these input features. We present a method that greatly reduces
+      the amount of preprocessing required for a target MSA, while producing
+      main chain coordinates as a direct output of a deep neural network. The
+      network makes use of just three recurrent networks and a stack of residual
+      convolutional layers, making the predictor very fast to run, and easy to
+      install and use. Our approach constructs a directly learned representation
+      of the sequences in an MSA, starting from a one-hot encoding of the
+      sequences. When supplemented with an approximate precision matrix, the
+      learned representation can be used to produce structural models of
+      comparable or greater accuracy as compared to our original DMPfold method,
+      while requiring less than a second to produce a typical model. This level
+      of accuracy and speed allows very large-scale 3-D modelling of proteins on
+      minimal hardware, and we demonstrate that by producing models for over 1.3
+      million uncharacterized regions of proteins extracted from the BFD
+      sequence clusters. After constructing an initial set of approximate
+      models, we select a confident subset of over 30,000 models for further
+      refinement and analysis, revealing putative novel protein folds. We also
+      provide updated models for over 5,000 Pfam families studied in the
+      original DMPfold paper.
+    authors:
+      - name: Shaun M Kandathil
+      - name: Joe G Greener
+      - name: Andy M Lau
+      - name: David T Jones
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Fri Jul 23 20:16:07 +0000 2021
+      id: 1418666255704338400
+      id_str: "1418666255704338433"
+      text: >-
+        🔥 bioRxiv Bioinformatics preprint by S. M. Kandathil et al:
+
+
+        "Ultrafast end-to-end protein structure prediction ena… https://t.co/hhgi4SpP5o
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/hhgi4SpP5o
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
