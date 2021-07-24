@@ -52990,3 +52990,106 @@
           - url: https://t.co/GmRAl2Ix8D
       in_reply_to_status_id: 1418938268461289500
       in_reply_to_status_id_str: "1418938268461289480"
+- preprint:
+    id: "151054"
+    doi: 10.1101/2021.07.19.21260808
+    first_posted: 2021-07-22
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.07.19.21260808v1
+    url: https://api.rxivist.org/v1/papers/151054
+    title: Delta variants of SARS-CoV-2 cause significantly increased vaccine
+      breakthrough COVID-19 cases in Houston, Texas
+    category: pathology
+    abstract: Genetic variants of SARS-CoV-2 have repeatedly altered the course of
+      the COVID-19 pandemic, and disease in individual patients. Delta variants
+      (B.1.617.2, AY.2, and AY.3) are now the focus of international concern
+      because they are causing widespread COVID-19 disease globally. Vaccine
+      breakthrough cases caused by SARS-CoV-2 variants also are of considerable
+      public health and medical concern worldwide. As part of a comprehensive
+      project, we sequenced the genomes of 3,913 SARS-CoV-2 from patient samples
+      acquired March 15, 2021 through July 3, 2021 in the Houston Methodist
+      hospital system and studied vaccine breakthrough cases. During the study
+      period Delta variants increased to cause 58% of all COVID-19 cases and
+      spread throughout the metropolitan Houston area. In addition, Delta
+      variants caused a significantly higher rate of vaccine breakthrough cases
+      (19.7% compared to 5.8% for all other variants). Importantly, only 6.5% of
+      all COVID-19 cases occurred in fully immunized individuals, and relatively
+      few of these patients required hospitalization. Our genomic and
+      epidemiologic data emphasize that vaccines used in the United States are
+      highly effective in decreasing severe COVID-19 disease, hospitalizations,
+      and deaths.
+    authors:
+      - name: James M. Musser
+        orcid: http://orcid.org/0000-0002-7765-4956
+      - name: Paul A. Christensen
+        orcid: null
+      - name: Randall J. Olsen
+        orcid: http://orcid.org/0000-0003-4828-7322
+      - name: Scott Wesley Long
+        orcid: http://orcid.org/0000-0003-3043-5307
+      - name: Sishir Subedi
+        orcid: null
+      - name: James J Davis
+        orcid: null
+      - name: Parsa Hodjat
+        orcid: null
+      - name: Debbie R. Walley
+        orcid: null
+      - name: Jacob C. Kinskey
+        orcid: null
+      - name: Jimmy D Gollihar
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8663912566"
+    numReports: 0
+    likes: 0
+    id: "5467514050"
+    createdAt: 2021-07-24T06:42:21
+    author:
+      username: itellu3times
+      about: ""
+      name: itellu3times
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/itellu3times/
+      url: ""
+      location: ""
+      id: "49572364"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Need to compare with background - what is the vaccination rate for
+      Houston, during the period of the study?  This may completely dominate the
+      purported findings.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.07.19.21260808v1
+  tweets:
+    - created_at: Sat Jul 24 16:30:24 +0000 2021
+      id: 1418971839225860000
+      id_str: "1418971839225860105"
+      text: >-
+        💬 medRxiv comment on "Delta variants of SARS-CoV-2 c..."
+
+
+        "Need to compare with background - what is the vaccinatio… https://t.co/kPzqtoQK1U
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/kPzqtoQK1U
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jul 24 16:30:24 +0000 2021
+      id: 1418971840085627000
+      id_str: "1418971840085626880"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/vSwaatj7aM
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/vSwaatj7aM
+      in_reply_to_status_id: 1418971839225860000
+      in_reply_to_status_id_str: "1418971839225860105"
