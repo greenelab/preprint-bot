@@ -52868,3 +52868,125 @@
           - url: https://t.co/oTURmeVcNy
       in_reply_to_status_id: 1418911444465242000
       in_reply_to_status_id_str: "1418911444465242115"
+- preprint:
+    id: "143297"
+    doi: 10.1101/2021.05.23.21257686
+    first_posted: 2021-05-25
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.23.21257686v1
+    url: https://api.rxivist.org/v1/papers/143297
+    title: Addressing anti-syncytin antibody levels, and fertility and breastfeeding
+      concerns, following BNT162B2 COVID-19 mRNA vaccination
+    category: obstetrics-and-gynecology
+    abstract: "Objective: To determine whether antibodies against the SARS-CoV-2
+      spike protein following BNT162B2 (Pfizer-BioNTech) COVID-19 mRNA
+      vaccination cross-react with human syncytin-1 protein, and if BNT162B2
+      mRNA enters breast milk. Methods: In this observational cohort study of
+      female front-line workers with no history of COVID-19 infection, we
+      amplified BNT162B2 mRNA in plasma and breast milk and assayed
+      anti-SARS-CoV-2 neutralising antibodies and anti-human syncytin-1 binding
+      antibodies in plasma, at early (1-4 days) and late (4-7 weeks) time points
+      following first-dose vaccination. Results: Fifteen consented participants
+      (mean age 40.4 years, various ethnicities) who received at least one dose
+      of BNT162B2, including five breast-feeding women and two women who were
+      inadvertently vaccinated in early pregnancy, were recruited. BNT162B2
+      mRNA, detected by amplifying part of the spike-encoding region, was
+      detected in plasma 1-4 days following the first dose (n=13), but not 4-5
+      weeks later (n=2), nor was the mRNA isolated from aqueous or lipid breast
+      milk fractions collected 0-7 days post-vaccination (n=5). Vaccine
+      recipients demonstrated strong SARS-CoV-2 neutralising activity by at
+      least four weeks after the first dose (n=15), including the two pregnant
+      women. None had placental anti-syncytin-1 binding antibodies at either
+      time-point following vaccination. Conclusions: BNT162B2-vaccinated women
+      did not transmit vaccine mRNA to breast milk, and did not produce a
+      concurrent humoral response to syncytin-1, suggesting that
+      cross-reactivity to syncytin-1 on the developing trophoblast, or other
+      adverse effects in the breast-fed infant from vaccine mRNA ingestion, are
+      unlikely."
+    authors:
+      - name: Citra Nurfarah Mattar
+        orcid: http://orcid.org/0000-0003-0068-6957
+      - name: Winston Koh
+        orcid: http://orcid.org/0000-0003-4611-6490
+      - name: Yiqi Seow
+        orcid: http://orcid.org/0000-0001-7040-3006
+      - name: Shawn Hoon
+        orcid: http://orcid.org/0000-0002-3892-3332
+      - name: Aparna VENKATESH
+        orcid: http://orcid.org/0000-0001-8639-9232
+      - name: Pradip Dashraath
+        orcid: http://orcid.org/0000-0002-4095-3186
+      - name: Li Min LIM
+        orcid: null
+      - name: Judith ONG
+        orcid: null
+      - name: Rachel Jiayu Lee
+        orcid: null
+      - name: Nuryanti Johana
+        orcid: null
+      - name: Julie SL Yeo
+        orcid: null
+      - name: David Shao Hong Chong
+        orcid: null
+      - name: Lay Kok Tan
+        orcid: http://orcid.org/0000-0002-7790-2171
+      - name: Jerry Kok Yen Chan
+        orcid: http://orcid.org/0000-0002-0246-2159
+      - name: Mahesh Choolani
+        orcid: http://orcid.org/0000-0001-8336-0973
+      - name: Paul Tambyah
+        orcid: http://orcid.org/0000-0003-0405-771X
+  comment:
+    dislikes: 0
+    thread: "8551357360"
+    numReports: 0
+    likes: 0
+    id: "5466206113"
+    createdAt: 2021-07-23T04:08:13
+    author:
+      username: gralinjamespritchard
+      about: ""
+      name: Gralin James Pritchard
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/gralinjamespritchard/
+      url: ""
+      location: ""
+      id: "370175272"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Nobody can. I'm guessing they just drew a line above the cluster
+      and called it a a day. Apparently, a low threshold = none. Tell that to
+      pregnant womens' TLR-9, I guess.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.05.23.21257686v1
+  tweets:
+    - created_at: Sat Jul 24 14:17:00 +0000 2021
+      id: 1418938268461289500
+      id_str: "1418938268461289480"
+      text: >-
+        💬 medRxiv comment on "Addressing anti-syncytin antib..."
+
+
+        "Nobody can. I'm guessing they just drew a line above the… https://t.co/XAqBd4dVDF
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/XAqBd4dVDF
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jul 24 14:17:00 +0000 2021
+      id: 1418938269308444700
+      id_str: "1418938269308444678"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/GmRAl2Ix8D
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/GmRAl2Ix8D
+      in_reply_to_status_id: 1418938268461289500
+      in_reply_to_status_id_str: "1418938268461289480"
