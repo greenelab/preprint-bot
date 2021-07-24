@@ -53188,3 +53188,64 @@
           - url: https://t.co/652MU3io4j
       in_reply_to_status_id: 1419000474724876300
       in_reply_to_status_id_str: "1419000474724876292"
+- preprint:
+    id: 125092
+    metric: 12
+    title: Fatal neuroinvasion of SARS-CoV-2 in K18-hACE2 mice is partially
+      dependent on hACE2 expression
+    url: https://api.rxivist.org/v1/papers/125092
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.01.13.425144v1
+    doi: 10.1101/2021.01.13.425144
+    category: pathology
+    first_posted: 2021-01-13
+    abstract: >-
+      Animal models recapitulating the distinctive features of severe COVID-19
+      are critical to enhance our understanding of SARS-CoV-2 pathogenesis.
+      Transgenic mice expressing human angiotensin-converting enzyme 2 (hACE2)
+      under the cytokeratin 18 promoter (K18-hACE2) represent a lethal model of
+      SARS-CoV-2 infection. However, the cause(s) and mechanisms of lethality in
+      this mouse model remain unclear. Here, we evaluated the spatiotemporal
+      dynamics of SARS-CoV-2 infection for up to 14 days post-infection. Despite
+      infection and moderate inflammation in the lungs, lethality was invariably
+      associated with viral neuroinvasion and neuronal damage (including spinal
+      motor neurons). Neuroinvasion occurred following virus transport through
+      the olfactory neuroepithelium in a manner that was only partially
+      dependent on hACE2. Interestingly, SARS-CoV-2 tropism was overall neither
+      widespread among nor restricted to only ACE2-expressing cells. Although
+      our work incites caution in the utility of the K18-hACE2 model to study
+      global aspects of SARS-CoV-2 pathogenesis, it underscores this model as a
+      unique platform for exploring the mechanisms of SARS-CoV-2
+      neuropathogenesis.
+
+
+      SUMMARYCOVID-19 is a respiratory disease caused by SARS-CoV-2, a betacoronavirus. Here, we show that in a widely used transgenic mouse model of COVID-19, lethality is invariably associated with viral neuroinvasion and the ensuing neuronal disease, while lung inflammation remains moderate.
+    authors:
+      - name: Mariano Carossino
+      - name: Paige Montanaro
+      - name: Aoife O'Connell
+      - name: Devin Kenney
+      - name: Hans Gertje
+      - name: Kyle Grosz
+      - name: Susanna Kurnick
+      - name: Markus Bosmann
+      - name: Mohsan Saeed
+      - name: Udeni Balasuriya
+      - name: Florian Douam
+      - name: Nicholas A. Crossland
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Sat Jul 24 20:15:39 +0000 2021
+      id: 1419028523998716000
+      id_str: "1419028523998715906"
+      text: >-
+        🔥 bioRxiv Pathology preprint by M. Carossino et al:
+
+
+        "Fatal neuroinvasion of SARS-CoV-2 in K18-hACE2 mice is partia… https://t.co/LlgmhhKAyC
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/LlgmhhKAyC
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
