@@ -53552,3 +53552,103 @@
           - url: https://t.co/CoQvYKR7A5
       in_reply_to_status_id: 1419101358293229600
       in_reply_to_status_id_str: "1419101358293229571"
+- preprint:
+    id: "102545"
+    doi: 10.1101/2020.10.30.361584
+    first_posted: 2020-10-30
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.10.30.361584v1
+    url: https://api.rxivist.org/v1/papers/102545
+    title: Allosteric regulation in CRISPR/Cas1-Cas2 protospacer acquisition
+      mediated by DNA in association with Cas2
+    category: biophysics
+    abstract: >-
+      Cas1 and Cas2 are highly conserved proteins across CRISPR-Cas systems and
+      play a significant role in protospacer acquisition. Here we study the
+      protospacer (or ps) DNA binding, recognition, and response to cleavage on
+      the protospacer-adjacent-motif complementary sequence or PAMc by
+      Cas1-Cas2, implementing all-atom molecular dynamics simulations. First, we
+      noticed that two active sites of Cas1&1′ bind asymmetrically to two
+      identical PAMc in the simulation. For psDNA containing only one PAMc to be
+      recognized, it is then found that the non-PAMc association site remains
+      destabilized until after the bound PAMc being cleaved. Thus, correlation
+      appears to exist between the two active sites, which can be allosterically
+      mediated by psDNA and Cas2&2′ in bridging. To substantiate such findings,
+      we further simulated Cas1-Cas2 in complex with synthesized psDNA sequences
+      psL and psH, which have been measured with low and high efficiency in
+      acquisition, respectively. Notably, such inter-site correlation becomes
+      largely enhanced for Cas1-Cas2 in complex with psH, and remains low with
+      psL. Hence, our studies demonstrate that PAMc recognition and cleavage in
+      one active site of Cas1-Cas2 allosterically regulates non-PAMc
+      association/reaction in the other site, and such allosteric regulation is
+      mediated by non-catalytic Cas2 and DNA protospacer in acquisition.
+
+
+      ### Competing Interest Statement
+
+
+      The authors have declared no competing interest.
+    authors:
+      - name: Chunhong Long
+        orcid: null
+      - name: Liqiang Dai
+        orcid: http://orcid.org/0000-0001-9842-2524
+      - name: Chao E
+        orcid: null
+      - name: Lin-Tai Da
+        orcid: http://orcid.org/0000-0002-1589-5754
+      - name: Jin Yu
+        orcid: http://orcid.org/0000-0001-8224-1374
+  comment:
+    dislikes: 0
+    thread: "8258395722"
+    numReports: 0
+    likes: 0
+    id: "5468016963"
+    createdAt: 2021-07-24T18:06:14
+    author:
+      username: disqus_hr2VghaKIp
+      about: ""
+      name: Jin Yu
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_hr2VghaKIp/
+      url: ""
+      location: ""
+      id: "344891414"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: "published online: https://doi.org/10.1016/j.bpj.2021.06.007"
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.10.30.361584v1
+  tweets:
+    - created_at: Sun Jul 25 12:30:26 +0000 2021
+      id: 1419273839427600400
+      id_str: "1419273839427600393"
+      text: |-
+        💬 bioRxiv comment on "Allosteric regulation in CRISP..."
+
+        "published online: "
+
+        https://t.co/ESSJ9dDrHk
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/ESSJ9dDrHk
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jul 25 12:30:26 +0000 2021
+      id: 1419273840220377000
+      id_str: "1419273840220377089"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/k8ccuJIJfN
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/k8ccuJIJfN
+      in_reply_to_status_id: 1419273839427600400
+      in_reply_to_status_id_str: "1419273839427600393"
