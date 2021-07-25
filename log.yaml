@@ -53652,3 +53652,110 @@
           - url: https://t.co/k8ccuJIJfN
       in_reply_to_status_id: 1419273839427600400
       in_reply_to_status_id_str: "1419273839427600393"
+- preprint:
+    id: "140726"
+    doi: 10.1101/2021.05.03.442491
+    first_posted: 2021-05-04
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.05.03.442491v1
+    url: https://api.rxivist.org/v1/papers/140726
+    title: A proteomics database for CNS proteins of the great pond snail Lymnaea
+      stagnalis
+    category: bioinformatics
+    abstract: Applications of key technologies in bioscientific and biomedical
+      research, such as qRT-PCR or LC-MS based proteomics, are generating large
+      biological data sets (omics data) which are useful for the identification
+      and quantification of biomarkers involved in molecular mechanisms of any
+      research area of interest. Genome, transcriptome and proteome databases
+      are already available for a number of model organisms including
+      vertebrates and invertebrates. However, there is insufficient information
+      available for protein sequences of certain invertebrates, such as the
+      great pond snail Lymnaea stagnalis, a model organism that has been used
+      highly successfully in elucidating evolutionarily conserved mechanisms of
+      learning and memory, ageing and age-related as well as amyloid beta
+      induced memory decline. Here, we present the design and benchmarking of a
+      new proteomics database (LymSt-PDB) for the identification of proteins
+      from the Central Nervous System (CNS) of Lymnaea stagnalis by LC-MS based
+      proteomics.
+    authors:
+      - name: Sarah Wooller
+        orcid: null
+      - name: Aikaterini Anagnostopoulou
+        orcid: null
+      - name: Benno Kuropka
+        orcid: http://orcid.org/0000-0001-5088-6346
+      - name: Michael Crossley
+        orcid: null
+      - name: Paul R Benjamin
+        orcid: null
+      - name: Frances Pearl
+        orcid: null
+      - name: Ildikó Kemenes
+        orcid: http://orcid.org/0000-0002-8722-8766
+      - name: György Kemenes
+        orcid: http://orcid.org/0000-0003-2004-8725
+      - name: Murat Eravci
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8506026938"
+    numReports: 0
+    likes: 0
+    id: "5467099138"
+    createdAt: 2021-07-23T21:07:12
+    author:
+      username: etsuroito
+      about: ""
+      name: Etsuro Ito
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/etsuroito/
+      url: ""
+      location: ""
+      id: "372747559"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Dear my Lymnaea friends,
+
+      Thank you for your wonderful job for the preparation of database of proteomics.
+
+      We are now applying LC-MS to our Lymnaea studies and thus your database encourages to advance our studies.
+
+      Please continue such useful work to not only Lymnaea researchers but also other molluscan researchers.
+
+      Best,
+
+      Etsu
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.05.03.442491v1
+  tweets:
+    - created_at: Sun Jul 25 14:17:11 +0000 2021
+      id: 1419300703168782300
+      id_str: "1419300703168782339"
+      text: |-
+        💬 bioRxiv comment on "A proteomics database for CNS ..."
+
+        "Dear my Lymnaea friends,
+        Thank you for your wonderful jo… https://t.co/isuNiuXV96
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/isuNiuXV96
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jul 25 14:17:11 +0000 2021
+      id: 1419300704192237600
+      id_str: "1419300704192237571"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/Kx5QsJW68D
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/Kx5QsJW68D
+      in_reply_to_status_id: 1419300703168782300
+      in_reply_to_status_id_str: "1419300703168782339"
