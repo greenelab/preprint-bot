@@ -54018,3 +54018,68 @@
           - url: https://t.co/jDpPx4OObZ
       in_reply_to_status_id: 1419362807640961000
       in_reply_to_status_id_str: "1419362807640961025"
+- preprint:
+    id: 131736
+    metric: 72
+    title: Blockade of SARS-CoV-2 infection in-vitro by highly potent
+      PI3K-α/mTOR/BRD4 inhibitor
+    url: https://api.rxivist.org/v1/papers/131736
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.03.02.433604v1
+    doi: 10.1101/2021.03.02.433604
+    category: pharmacology-and-toxicology
+    first_posted: 2021-03-03
+    abstract: >-
+      Pathogenic viruses like SARS-CoV-2 and HIV hijack the host molecular
+      machinery to establish infection and survival in infected cells. This has
+      led the scientific community to explore the molecular mechanisms by which
+      SARS-CoV-2 infects host cells, establishes productive infection, and
+      causes life-threatening pathophysiology. Very few targeted therapeutics
+      for COVID-19 currently exist, such as remdesivir. Recently, a proteomic
+      approach explored the interactions of 26 of 29 SARS-CoV-2 proteins with
+      cellular targets in human cells and identified 67 interactions as
+      potential targets for drug development. Two of the critical targets, the
+      bromodomain and extra-terminal domain proteins (BETs): BRD2/BRD4 and mTOR,
+      are inhibited by the dual inhibitory small molecule SF2523 at nanomolar
+      potency. SF2523 is the only known mTOR PI3K-/(BRD2/BRD4) inhibitor with
+      potential to block two orthogonal pathways necessary for SARS-CoV-2
+      pathogenesis in human cells. Our results demonstrate that SF2523
+      effectively blocks SARS-CoV-2 replication in lung bronchial epithelial
+      cells in vitro, showing an IC50 value of 1.5 {micro}M, comparable to IC50
+      value of remdesivir (1.1 {micro}M). Further, we demonstrated that the
+      combination of doses of SF2523 and remdesivir is highly synergistic: it
+      allows for the reduction of doses of SF2523 and remdesivir by 25-fold and
+      4-fold, respectively, to achieve the same potency observed for a single
+      inhibitor. Because SF2523 inhibits two SARS-CoV-2 driven pathogenesis
+      mechanisms involving BRD2/BRD4 and mTOR signaling, our data suggest that
+      SF2523 alone or in combination with remdesivir could be a novel and
+      efficient therapeutic strategy to block SARS-CoV-2 infection and hence be
+      beneficial in preventing severe COVID-19 disease evolution.
+
+
+      One Sentence SummaryEvidence of in silico designed chemotype (SF2523) targeting PI3K-/mTOR/BRD4 inhibits SARS-CoV-2 infection and is highly synergistic with remdesivir.
+    authors:
+      - name: Arpan Acharya
+      - name: Kabita Pandey
+      - name: Michellie Thurman
+      - name: Kishore B. Challagundala
+      - name: Kendra R. Vann
+      - name: Tatiana G. Kutateladze
+      - name: Guillermo A Morales
+      - name: Donald L. Durden
+      - name: Siddappa N. Byrareddy
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Sun Jul 25 20:15:36 +0000 2021
+      id: 1419390902477500400
+      id_str: "1419390902477500421"
+      text: |-
+        🔥 bioRxiv Pharmacology-and-toxicology preprint by A. Acharya et al:
+
+        "Blockade of SARS-CoV-2 infection in-vitro by… https://t.co/x1UU0dcSiB
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/x1UU0dcSiB
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
