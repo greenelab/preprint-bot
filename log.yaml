@@ -53439,3 +53439,116 @@
           - url: https://t.co/652MU30MFJ
       in_reply_to_status_id: 1419059564800999400
       in_reply_to_status_id_str: "1419059564800999428"
+- preprint:
+    id: "127482"
+    doi: 10.1101/2021.01.24.21250418
+    first_posted: 2021-02-01
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.01.24.21250418v1
+    url: https://api.rxivist.org/v1/papers/127482
+    title: Targeting TGF-b pathway with COVID-19 Drug Candidate ARTIVeda/PulmoHeal
+      Accelerates Recovery from Mild-Moderate COVID-19
+    category: infectious-diseases
+    abstract: "Our COVID-19 drug candidate ARTIVeda/PulmoHeal is a novel gelatin
+      capsule formulation of the Artemisia extract Ayurveda for oral delivery of
+      TGF-b targeting anti-malaria phytomedicine Artemisinin with documented
+      anti-inflammatory and anti-SARS-CoV-2 activity. Here we report the safety
+      and efficacy of ARTIVeda in adult COVID-19 patients with symptomatic
+      mild-moderate COVID-19, who were treated in a randomized, open-label Phase
+      IV study in Bangalore, Karnataka, India (Clinical Trials Registry India
+      identifier: CTRI/2020/09/028044). ARTIVeda showed a very favorable safety
+      profile, and the only ARTIVeda-related adverse events were transient mild
+      rash and mild hypertension. Notably, ARTIVeda, when added to the SOC,
+      accelerated the recovery of patients with mild-moderate COVID-19. While
+      all patients were symptomatic at baseline (WHO score = 2-4), 31 of 39
+      (79.5%) of patients treated with ARTIVeda plus SOC became asymptomatic
+      (WHO score = 1) by the end of the 5-day therapy, including 10 of 10
+      patients with severe dry cough 7 of 7 patients with severe fever. By
+      comparison, 12 of 21 control patients (57.1%) treated with SOC alone
+      became asymptomatic on day 5 (P=0.028, Fishers exact test). This clinical
+      benefit was particularly evident when the treatment outcomes of
+      hospitalized COVID-19 patients (WHO score = 4) treated with SOC alone
+      versus SOC plus ARTIVeda were compared. The median time to becoming
+      asymptomatic was only 5 days for the SOC plus ARTIVeda group (N=18) but 14
+      days for the SOC alone group (N=10) (P=0.004, Log-rank test). These data
+      provide clinical proof of concept that targeting the TGF-b pathway with
+      ARTIVeda may contribute to a faster recovery of patients with
+      mild-moderate COVID-19 when administered early in the course of their
+      disease."
+    authors:
+      - name: Vuong Trieu
+        orcid: null
+      - name: Saran Saund
+        orcid: null
+      - name: Prashant Rahate
+        orcid: null
+      - name: Viljay Barge
+        orcid: null
+      - name: Sunil Nalk
+        orcid: null
+      - name: Hitesh Windlass
+        orcid: null
+      - name: Fatih Uckun
+        orcid: http://orcid.org/0000-0001-9334-183X
+  comment:
+    dislikes: 0
+    thread: "8379959167"
+    numReports: 0
+    likes: 0
+    id: "5467152463"
+    createdAt: 2021-07-23T21:59:46
+    author:
+      username: vuong_trieu
+      about: ""
+      name: Vuong Trieu
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/vuong_trieu/
+      url: ""
+      location: ""
+      id: "372749248"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      This paper is now published at
+
+
+
+
+
+      https://www.openaccessjournals.com/articles/targeting-tgf-pathway-with-covid19-drug-candidate-artivedapulmoheal-accelerates-recovery-from-mildmoderate-covid19.pdf
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.01.24.21250418v1
+  tweets:
+    - created_at: Sun Jul 25 01:05:04 +0000 2021
+      id: 1419101358293229600
+      id_str: "1419101358293229571"
+      text: |-
+        💬 medRxiv comment on "Targeting TGF-b pathway with C..."
+
+        "This paper is now published at
+
+        "
+
+        https://t.co/YVAwn5hkw1
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/YVAwn5hkw1
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jul 25 01:05:04 +0000 2021
+      id: 1419101359102742500
+      id_str: "1419101359102742533"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/CoQvYKR7A5
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/CoQvYKR7A5
+      in_reply_to_status_id: 1419101358293229600
+      in_reply_to_status_id_str: "1419101358293229571"
