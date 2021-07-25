@@ -54183,3 +54183,136 @@
           - url: https://t.co/oTURmeVcNy
       in_reply_to_status_id: 1419391770069196800
       in_reply_to_status_id_str: "1419391770069196804"
+- preprint:
+    id: "150671"
+    doi: 10.1101/2021.07.16.21260608
+    first_posted: 2021-07-19
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.07.16.21260608v1
+    url: https://api.rxivist.org/v1/papers/150671
+    title: Genome-wide association analysis reveals extensive genetic overlap
+      between mood instability and psychiatric disorders but divergent patterns
+      of genetic effects
+    category: psychiatry-and-clinical-psychology
+    abstract: Mood instability (MOOD) is a transdiagnostic phenomenon with a
+      prominent neurobiological basis. Recent genome-wide association studies
+      found significant positive genetic correlation between MOOD and major
+      depression (DEP) and weak correlations with other psychiatric disorders.
+      We investigated the polygenic overlap between MOOD and psychiatric
+      disorders beyond genetic correlation to better characterize putative
+      shared genetic determinants. Summary statistics for schizophrenia (SCZ,
+      n=105,318), bipolar disorder (BIP, n=413,466), DEP (n=450,619),
+      attention-deficit hyperactivity disorder (ADHD, n=53,293) and MOOD
+      (n=363,705), were analysed using the bivariate causal mixture model and
+      conjunctional false discovery rate methods to estimate the proportion of
+      shared variants influencing MOOD and each disorder, and identify jointly
+      associated genomic loci. MOOD correlated positively with all psychiatric
+      disorders, but with wide variation in strength (rg=0.10-0.62). Of 10.4K
+      genomic variants influencing MOOD, 4K-9.4K were estimated to influence
+      psychiatric disorders. MOOD was jointly associated with DEP at 163 loci,
+      SCZ at 110, BIP at 60 and ADHD at 25, with consistent genetic effects in
+      independent samples. Fifty-three jointly associated loci were overlapping
+      across two or more disorders (transdiagnostic), seven of which had
+      discordant effect directions on psychiatric disorders. Genes mapped to
+      loci associated with MOOD and all four disorders were enriched in a single
+      gene-set, synapse organization. The extensive polygenic overlap indicates
+      shared molecular underpinnings across MOOD and psychiatric disorders.
+      However, distinct patterns of genetic correlation and effect directions of
+      shared loci suggest divergent effects on corresponding neurobiological
+      mechanisms which may relate to differences in the core clinical features
+      of each disorder.
+    authors:
+      - name: Guy Hindley
+        orcid: http://orcid.org/0000-0003-1666-4701
+      - name: Kevin S. O'Connell
+        orcid: http://orcid.org/0000-0002-6865-8795
+      - name: Zillur Rahman
+        orcid: null
+      - name: Oleksandr Frei
+        orcid: http://orcid.org/0000-0002-6427-2625
+      - name: Shahram Bahrami
+        orcid: null
+      - name: Alexey A Shadrin
+        orcid: http://orcid.org/0000-0002-7467-250X
+      - name: Margrethe Collier Hoegh
+        orcid: null
+      - name: Weiqiu Cheng
+        orcid: null
+      - name: Naz Karadag
+        orcid: null
+      - name: Aihua Lin
+        orcid: null
+      - name: Linn Rodevand
+        orcid: null
+      - name: Chun Chieh Fan
+        orcid: http://orcid.org/0000-0001-9437-2128
+      - name: Srdjan Djurovic
+        orcid: http://orcid.org/0000-0002-8140-8061
+      - name: Trine Vik Lagerberg
+        orcid: http://orcid.org/0000-0003-3579-0789
+      - name: Anders Dale
+        orcid: null
+      - name: Olav B. Smeland
+        orcid: http://orcid.org/0000-0002-3761-5215
+      - name: Ole Andreassen
+        orcid: http://orcid.org/0000-0002-4461-3568
+  comment:
+    dislikes: 0
+    thread: "8657234347"
+    numReports: 0
+    likes: 0
+    id: "5465687068"
+    createdAt: 2021-07-22T18:39:09
+    author:
+      username: berniemulvey
+      about: ""
+      name: Bernie Mulvey
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/berniemulvey/
+      url: ""
+      location: ""
+      id: "368811423"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Did you check which genes are driving the "synapse organization"
+      enrichment? The clustered protocadherin locus is GWAS significant in, I
+      believe, all of these disorders. Several of those 20-some genes have
+      ontology terms including "synapse organization" (which is true of these
+      genes). However, the density and complex transcriptional regulation of
+      these along with LD results in several PCDH genes being associated to
+      variants by QTLs and so forth. Just sharing to be cautious, as this
+      phenomenon has spoiled many a moment of ontologic excitement in my own
+      work.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.07.16.21260608v1
+  tweets:
+    - created_at: Sun Jul 25 22:19:11 +0000 2021
+      id: 1419422001182101500
+      id_str: "1419422001182101504"
+      text: >-
+        💬 medRxiv comment on "Genome-wide association analys..."
+
+
+        "Did you check which genes are driving the "synapse organ… https://t.co/3ZLoTq4Bmt
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/3ZLoTq4Bmt
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jul 25 22:19:11 +0000 2021
+      id: 1419422002155114500
+      id_str: "1419422002155114497"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/QdXewoXrgn
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/QdXewoXrgn
+      in_reply_to_status_id: 1419422001182101500
+      in_reply_to_status_id_str: "1419422001182101504"
