@@ -53759,3 +53759,158 @@
           - url: https://t.co/Kx5QsJW68D
       in_reply_to_status_id: 1419300703168782300
       in_reply_to_status_id_str: "1419300703168782339"
+- preprint:
+    id: "150667"
+    doi: 10.1101/2021.07.15.21260621
+    first_posted: 2021-07-19
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.07.15.21260621v1
+    url: https://api.rxivist.org/v1/papers/150667
+    title: Antibody and T cell responses to Sinopharm/BBIBP-CorV in naive and
+      previously infected individuals in Sri Lanka
+    category: allergy-and-immunology
+    abstract: "Background: As there are limited data of the immunogenicity of the
+      Sinopharm/BBIBP-CorV in different populations, antibody responses against
+      different SARS-CoV-2 variants of concern and T cell responses, we
+      investigated the immunogenicity of the vaccine, in individuals in Sri
+      Lanka. Methods: SARS-CoV-2-specific antibodies were measured in 282
+      individuals who were seronegative at baseline, and ACE2 receptor blocking
+      antibodies, antibodies to the receptor binding domain (RBD) of the wild
+      type (WT), B.1.1.7, B.1.351 and B.1.617.2, ex vivo and cultured IFN{gamma}
+      ELISpot assays, intracellular cytokine secretion assays and B cell ELISpot
+      assays were carried out in a sub cohort of the vaccinees at 4 weeks and at
+      6 weeks (2 weeks after the second dose). Results: 95% of the vaccinees
+      seroconverted, although the seroconversion rates were significantly lower
+      (p<0.001) in individuals >60 years (93.3%) compared to those who were 20
+      to 39 years (98.9%). 81.25% had ACE2 receptor blocking antibodies at 6
+      weeks, and there was no difference in these antibody titres in vaccine
+      sera compared to convalescent sera (p=0.44). Vaccinees had significantly
+      less (p<0.0001) antibodies to the RBD of WT and B.1.1.7, although there
+      was no difference in antibodies to the RBD of B.1.351 and B.1.617.2
+      compared to convalescent sera. 27.7% of 46.4% of vaccinees had ex vivo
+      IFN{gamma} and cultured ELISpot responses respectively, and IFN{gamma} and
+      CD107a responses were detected by flow cytometry. Conclusions:
+      Sinopharm/BBIBP-CorV appeared to induce high seroconversion rates and
+      induce a similar level of antibody responses against ACE2 receptor,
+      B.1.617.2 and B.1.351 as seen following natural infection."
+    authors:
+      - name: Chandima Jeewandara
+        orcid: http://orcid.org/0000-0002-5150-6648
+      - name: Inoka Sepali Aberathna
+        orcid: null
+      - name: Pradeep Dharshana Pushpakumara
+        orcid: null
+      - name: Achala Kamaladasa
+        orcid: null
+      - name: Dinuka Guruge
+        orcid: null
+      - name: Deshni Jayathilaka
+        orcid: null
+      - name: Banuri Gunesekara
+        orcid: null
+      - name: Shyrar Tanussiya
+        orcid: null
+      - name: Heshan Kuruppu
+        orcid: null
+      - name: Thushali Ranasinghe
+        orcid: null
+      - name: Shashika Dayarathne
+        orcid: null
+      - name: Osanda Dissanayaka
+        orcid: null
+      - name: Nayanathara Gamalath
+        orcid: null
+      - name: Dinithi Ekanayaka
+        orcid: null
+      - name: M.P.D.J. Jayamali
+        orcid: null
+      - name: Ayesha Wijesinghe
+        orcid: null
+      - name: Madushika Dissanayaka
+        orcid: null
+      - name: Deshan Madushanka
+        orcid: null
+      - name: Tibutius Jayadas
+        orcid: null
+      - name: Anushika Mudunkotuwa
+        orcid: null
+      - name: Gayasha Somathilaka
+        orcid: null
+      - name: Michael James Harvie
+        orcid: null
+      - name: Thashmi Nimasha
+        orcid: null
+      - name: Saubhagya Danasekara
+        orcid: null
+      - name: Ruwan Wijayamuni
+        orcid: null
+      - name: Lisa Schimanski
+        orcid: null
+      - name: Tiong Tan
+        orcid: null
+      - name: Tao Dong
+        orcid: http://orcid.org/0000-0002-3702-3965
+      - name: Alain Townsend
+        orcid: http://orcid.org/0000-0002-3702-0107
+      - name: Graham Ogg
+        orcid: http://orcid.org/0000-0002-3097-045X
+      - name: Gathsaurie Neelika Malavige
+        orcid: http://orcid.org/0000-0001-9201-0449
+  comment:
+    dislikes: 0
+    thread: "8657232403"
+    numReports: 0
+    likes: 0
+    id: "5466953165"
+    createdAt: 2021-07-23T18:58:56
+    author:
+      username: jayamaara
+      about: ""
+      name: Jayamaara
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/jayamaara/
+      url: ""
+      location: ""
+      id: "372741630"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      This study shows there is some immunity has built up in vaccinated
+      individuals. But we still don't know whether this immunity can prevent the
+      infection or the severity of disease if infected. 
+
+
+      This study is not an assessment of the risk of severe disease, hospitalization, and death of vaccinated group against a non-vaccinated group, nor a comparison between different vaccines. We still don't know the efficacy of most vaccines against VOCs like delta. It's better to adhere to safety measures even if you are vaccinated, until we have better data to say otherwise.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.07.15.21260621v1
+  tweets:
+    - created_at: Sun Jul 25 16:30:08 +0000 2021
+      id: 1419334162532733000
+      id_str: "1419334162532732930"
+      text: >-
+        💬 medRxiv comment on "Antibody and T cell responses ..."
+
+
+        "This study shows there is some immunity has built up in… https://t.co/7ArPxuyJ0p
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/7ArPxuyJ0p
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Jul 25 16:30:09 +0000 2021
+      id: 1419334163354763300
+      id_str: "1419334163354763271"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/JVRxUJSWxJ
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/JVRxUJSWxJ
+      in_reply_to_status_id: 1419334162532733000
+      in_reply_to_status_id_str: "1419334162532732930"
