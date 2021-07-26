@@ -54901,3 +54901,60 @@
           - url: https://t.co/IZ2dBUEY3o
       in_reply_to_status_id: 1419726584429359000
       in_reply_to_status_id_str: "1419726584429359105"
+- preprint:
+    id: 151530
+    metric: 34
+    title: Strong and opponent contributions of dorsomedial striatal pathways to
+      behavior depends on cognitive demands and task strategy
+    url: https://api.rxivist.org/v1/papers/151530
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.23.453573v1
+    doi: 10.1101/2021.07.23.453573
+    category: neuroscience
+    first_posted: 2021-07-25
+    abstract: A classic view of the striatum holds that activity in direct and
+      indirect pathways oppositely modulates motor output. Whether this involves
+      direct control of movement, or reflects a cognitive process underlying
+      movement, has remained unresolved. Here we find that strong, opponent
+      control of behavior by the two pathways of the dorsomedial striatum (DMS)
+      depends on a task's cognitive demands. Furthermore, a latent state model
+      (a hidden markov model with generalized linear model observations) reveals
+      that - even within a single task - the contribution of the two pathways to
+      behavior is state-dependent. Specifically, the two pathways have large
+      contributions in one of two states associated with a strategy of evidence
+      accumulation, compared to a state associated with a strategy of repeating
+      previous choices. Thus, both the cognitive demands imposed by a task, as
+      well as the strategy that mice pursue within a task, determine whether DMS
+      pathways provide strong and opponent control of behavior.
+    authors:
+      - name: Scott Bolkan
+      - name: Iris Stone
+      - name: Lucas Pinto
+      - name: Zoe Ashwood
+      - name: Jorge Garcia
+      - name: Alison Herman
+      - name: Priyanka Singh
+      - name: Akhil Bandi
+      - name: Julia Cox
+      - name: Christopher Zimmerman
+      - name: Jounhong Cho
+      - name: Ben Engelhard
+      - name: Sue Koay
+      - name: Jonathan Pillow
+      - name: Ilana Witten
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Mon Jul 26 20:16:08 +0000 2021
+      id: 1419753421389934600
+      id_str: "1419753421389934592"
+      text: >-
+        🔥 bioRxiv Neuroscience preprint by S. Bolkan et al:
+
+
+        "Strong and opponent contributions of dorsomedial striatal pat… https://t.co/WtccLx5ouO
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/WtccLx5ouO
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
