@@ -54316,3 +54316,175 @@
           - url: https://t.co/QdXewoXrgn
       in_reply_to_status_id: 1419422001182101500
       in_reply_to_status_id_str: "1419422001182101504"
+- preprint:
+    id: "149831"
+    doi: 10.1101/2021.07.07.21260122
+    first_posted: 2021-07-12
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.07.07.21260122v1
+    url: https://api.rxivist.org/v1/papers/149831
+    title: Viral infection and Transmission in a large well-traced outbreak caused
+      by the Delta SARS-CoV-2 variant
+    category: epidemiology
+    abstract: We report the first local transmission of the SARS-CoV-2 Delta variant
+      in mainland China. All 167 infections could be traced back to the first
+      index case. Daily sequential PCR testing of the quarantined subjects
+      indicated that the viral loads of Delta infections, when they first become
+      PCR+, were on average ~1000 times greater compared to A/B lineage
+      infections during initial epidemic wave in China in early 2020, suggesting
+      potentially faster viral replication and greater infectiousness of Delta
+      during early infection. We performed high-quality sequencing on samples
+      from 126 individuals. Reliable epidemiological data meant that, for 111
+      transmission events, the donor and recipient cases were known. The
+      estimated transmission bottleneck size was 1-3 virions with most minor
+      intra-host single nucleotide variants (iSNVs) failing to transmit to the
+      recipients. However, transmission heterogeneity of SARS-CoV-2 was also
+      observed. The transmission of minor iSNVs resulted in at least 4 of the 30
+      substitutions identified in the outbreak, highlighting the contribution of
+      intra-host variants to population level viral diversity during rapid
+      spread. Disease control activities, such as the frequency of population
+      testing, quarantine during pre-symptomatic infection, and level of virus
+      genomic surveillance should be adjusted in order to account for the
+      increasing prevalence of the Delta variant worldwide.
+    authors:
+      - name: Baisheng Li
+        orcid: null
+      - name: Aiping Deng
+        orcid: null
+      - name: Kuibiao Li
+        orcid: null
+      - name: Yao Hu
+        orcid: null
+      - name: Zhencui Li
+        orcid: null
+      - name: Qianling Xiong
+        orcid: null
+      - name: Zhe Liu
+        orcid: http://orcid.org/0000-0002-3592-3150
+      - name: Qianfang Guo
+        orcid: null
+      - name: Lirong Zou
+        orcid: null
+      - name: Huan Zhang
+        orcid: http://orcid.org/0000-0001-9366-2385
+      - name: Meng Zhang
+        orcid: http://orcid.org/0000-0002-9753-0635
+      - name: Fangzhu Ouyang
+        orcid: null
+      - name: Juan Su
+        orcid: null
+      - name: Wenzhe Su
+        orcid: null
+      - name: Jing Xu
+        orcid: http://orcid.org/0000-0003-3773-7973
+      - name: Huifang Lin
+        orcid: null
+      - name: Jing Sun
+        orcid: http://orcid.org/0000-0003-3741-0962
+      - name: Jinju Peng
+        orcid: null
+      - name: Huimin Jiang
+        orcid: null
+      - name: Pingping Zhou
+        orcid: null
+      - name: Ting Hu
+        orcid: http://orcid.org/0000-0001-6382-0602
+      - name: Min Luo
+        orcid: null
+      - name: Yingtao Zhang
+        orcid: null
+      - name: Huanying Zheng
+        orcid: null
+      - name: Jianpeng Xiao
+        orcid: null
+      - name: Tao Liu
+        orcid: http://orcid.org/0000-0002-8818-8313
+      - name: Rongfei Che
+        orcid: null
+      - name: Hanri Zeng
+        orcid: null
+      - name: Zhonghua Zheng
+        orcid: null
+      - name: Yushi Huang
+        orcid: null
+      - name: Jianxiang Yu
+        orcid: null
+      - name: Lina Yi
+        orcid: null
+      - name: Jie Wu
+        orcid: null
+      - name: Jingdiao Chen
+        orcid: null
+      - name: Haojie Zhong
+        orcid: null
+      - name: Xiaoling Deng
+        orcid: null
+      - name: min Kang
+        orcid: null
+      - name: Oliver G. Pybus
+        orcid: http://orcid.org/0000-0002-8797-2667
+      - name: Matthew Hall
+        orcid: http://orcid.org/0000-0002-5073-442X
+      - name: Katrina A Lythgoe
+        orcid: http://orcid.org/0000-0002-7089-7680
+      - name: Yan Li
+        orcid: http://orcid.org/0000-0003-3820-5960
+      - name: Jun Yuan
+        orcid: null
+      - name: Jianfeng He
+        orcid: null
+      - name: Jing Lu
+        orcid: http://orcid.org/0000-0002-5791-4749
+  comment:
+    dislikes: 0
+    thread: "8644440599"
+    numReports: 0
+    likes: 0
+    id: "5465648336"
+    createdAt: 2021-07-22T18:07:27
+    author:
+      username: ken_jacobie
+      about: ""
+      name: Ken Jacobie
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/ken_jacobie/
+      url: ""
+      location: ""
+      id: "236832084"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: What was the average age and INNATE IMMUNE SYSTEM STATUS of these
+      167 person in this study? How many were CHEMOTHERAPY recipients etc...
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.07.07.21260122v1
+  tweets:
+    - created_at: Mon Jul 26 01:03:13 +0000 2021
+      id: 1419463281828315100
+      id_str: "1419463281828315145"
+      text: >-
+        💬 medRxiv comment on "Viral infection and Transmissi..."
+
+
+        "What was the average age and INNATE IMMUNE SYSTEM STATUS… https://t.co/u0LdJEai8f
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/u0LdJEai8f
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jul 26 01:03:13 +0000 2021
+      id: 1419463282713366500
+      id_str: "1419463282713366529"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/v3X1joMTJY
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/v3X1joMTJY
+      in_reply_to_status_id: 1419463281828315100
+      in_reply_to_status_id_str: "1419463281828315145"
