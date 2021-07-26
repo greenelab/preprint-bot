@@ -54958,3 +54958,126 @@
           - url: https://t.co/WtccLx5ouO
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "93916"
+    doi: 10.1101/2020.08.07.240150
+    first_posted: 2020-08-07
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.08.07.240150v1
+    url: https://api.rxivist.org/v1/papers/93916
+    title: Polyandry and senescence shape egg size variation in a precocial bird.
+    category: evolutionary-biology
+    abstract: >-
+      Identifying age-dependent trade-offs between reproductive effort and
+      survival in wild organisms is central for understanding the evolutionary
+      mechanisms of senescence. According to the disposable soma theory,
+      early-life energy investments in reproduction compromise late-life
+      investments in somatic maintenance - leading to senescence. Once thought
+      to only be detectable in captive populations, senescence has recently been
+      documented by several longitudinal studies of wild organisms. However,
+      some reproductive traits that are used to quantify senescence may also be
+      shaped by other age-dependent processes such as mating tactics. For
+      instance, polygamy, which is often positively associated with age, may
+      lead to reduced gamete size due to trade-offs between gamete quantity and
+      quality. Here we investigate how mating behaviour and senescence are
+      associated with reproductive trade-offs of female snowy plovers
+      (Charadrius nivosus). Snowy plovers are long-lived shorebirds (longevity
+      record: 19 years) that produce several nests each year, with females
+      either being polyandrous and sequentially changing partners between
+      breeding attempts or remaining monogamous between attempts. We examined
+      how age, seasonality, and mating tactics affect within-female variation in
+      egg volume using repeated measures collected over a 14-year period. Our
+      results provide clear evidence for senescence in snowy plover females
+      starting at three years of age. Furthermore, females laid smaller eggs in
+      years when they were polyandrous compared to years when they were
+      monogamous, with early- and late-season clutches having the smallest eggs.
+      We suggest that individual female reproductive performance is regulated by
+      flexible mating tactics and age- and season-dependent effects. Our
+      findings highlight the existence of multiple trade-offs for female
+      reproductive investments that likely shape individual variation in
+      lifetime reproductive success. We encourage future research investigating
+      reproductive senescence of wild populations to incorporate age-dependent
+      reproductive investments in light of mating system dynamics.
+
+
+      ### Competing Interest Statement
+
+
+      The authors have declared no competing interest.
+    authors:
+      - name: Lourenco Falcao Rodrigues
+        orcid: http://orcid.org/0000-0003-1371-649X
+      - name: Anne G Eberhart-Hertel
+        orcid: http://orcid.org/0000-0001-7952-8243
+      - name: Medardo Cruz-Lopez
+        orcid: http://orcid.org/0000-0003-1737-9398
+      - name: Erick Gonzalez-Medina
+        orcid: http://orcid.org/0000-0002-9748-8641
+      - name: Julia Schroeder
+        orcid: http://orcid.org/0000-0002-4136-843X
+      - name: Clemens Kuepper
+        orcid: http://orcid.org/0000-0002-1507-8033
+      - name: Luke J Eberhart-Hertel
+        orcid: http://orcid.org/0000-0001-7311-6088
+  comment:
+    dislikes: 0
+    thread: "8157071620"
+    numReports: 0
+    likes: 0
+    id: "5469341877"
+    createdAt: 2021-07-25T22:51:40
+    author:
+      username: lukeeberharthertel
+      about: ""
+      name: Luke Eberhart-Hertel
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/lukeeberharthertel/
+      url: ""
+      location: ""
+      id: "372839211"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Thank you, Martin, for your constructive pre-pub review of our pre-print.
+
+
+      Please see our response here: https://rpubs.com/leberhart/publons-response-9286190
+
+
+      And our revised manuscript here: https://www.biorxiv.org/content/10.1101/2021.07.21.453188v1
+
+
+      Note: there is currently no possibility on the Publons platform for authors to upload a response to reviews of their work, hence why we have made our response publicly accessible via the Rpubs link.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.08.07.240150v1
+  tweets:
+    - created_at: Mon Jul 26 20:21:03 +0000 2021
+      id: 1419754658592141300
+      id_str: "1419754658592141312"
+      text: >-
+        💬 bioRxiv comment on "Polyandry and senescence shape..."
+
+
+        "Thank you, Martin, for your constructive pre-pub review… https://t.co/OtXs2CJcuJ
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/OtXs2CJcuJ
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jul 26 20:21:03 +0000 2021
+      id: 1419754659573649400
+      id_str: "1419754659573649408"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/ZEDPtkjinr
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/ZEDPtkjinr
+      in_reply_to_status_id: 1419754658592141300
+      in_reply_to_status_id_str: "1419754658592141312"
