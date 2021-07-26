@@ -54786,3 +54786,118 @@
           - url: https://t.co/oTURmeVcNy
       in_reply_to_status_id: 1419697090448568300
       in_reply_to_status_id_str: "1419697090448568325"
+- preprint:
+    id: "151060"
+    doi: 10.1101/2021.07.21.453188
+    first_posted: 2021-07-22
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.21.453188v1
+    url: https://api.rxivist.org/v1/papers/151060
+    title: Egg size variation in a long-lived polyandrous shorebird in the context
+      of senescence and breeding phenology
+    category: evolutionary-biology
+    abstract: "Anisogamy is a central component of sex role evolution, however, the
+      effect of female-female mating competition on egg size variation in
+      polyandrous species is unclear. Moreover, egg size may also be shaped by
+      age-dependent trade-offs between reproductive investments and somatic
+      maintenance that are responsible for senescence. Here we investigate how
+      mating behaviour and senescence are associated with egg size variation in
+      female snowy plovers (Charadrius nivosus). Snowy plovers are long-lived
+      shorebirds (longevity record: 20 years) that often produce several nests
+      each year, with females either sequentially changing partners between
+      breeding attempts or remaining monogamous between attempts. We examined
+      how age, seasonality, body size, and mating behaviour relate to within-
+      and between-female variation in egg volume using repeated measures
+      collected over a 15-year period. We found no evidence of reproductive
+      senescence in egg volume in snowy plover females. Rather, egg volume,
+      polyandry, and re-nesting were strongly linked to breeding phenology:
+      early breeding females had a higher likelihood of being polyandrous or
+      replacing failed clutches, yet these individuals laid smaller eggs likely
+      due to physiological limitations associated with the early season. Older
+      individuals and local recruits secured the earliest breeding opportunities
+      in the season suggesting that prior experience could give an edge in the
+      female-female competition for mates. Larger females laid the largest eggs,
+      as expected, but there was no relationship between body size and lay date
+      - implying that size may not provide an advantage in female-female
+      competition. Our findings highlight the existence of several direct and
+      indirect constraints on female reproductive investment that likely shape
+      individual variation in lifetime reproductive success. Future research
+      investigating reproductive senescence of wild populations should consider
+      mating system dynamics when examining variation in reproductive
+      investment."
+    authors:
+      - name: Luke J Eberhart-Hertel
+        orcid: http://orcid.org/0000-0001-7311-6088
+      - name: Lourenco Falcao Rodrigues
+        orcid: http://orcid.org/0000-0003-1371-649X
+      - name: Johannes Krietsch
+        orcid: http://orcid.org/0000-0002-8080-1734
+      - name: Anne G Eberhart-Hertel
+        orcid: http://orcid.org/0000-0001-7952-8243
+      - name: Medardo Cruz-Lopez
+        orcid: http://orcid.org/0000-0003-1737-9398
+      - name: Karina Alejandra Vazquez-Rojas
+        orcid: null
+      - name: Erick Gonzalez-Medina
+        orcid: http://orcid.org/0000-0002-9748-8641
+      - name: Julia Schroeder
+        orcid: http://orcid.org/0000-0002-4136-843X
+      - name: Clemens Kuepper
+        orcid: http://orcid.org/0000-0002-1507-8033
+  comment:
+    dislikes: 0
+    thread: "8664302916"
+    numReports: 0
+    likes: 0
+    id: "5469363443"
+    createdAt: 2021-07-25T23:20:14
+    author:
+      username: lukeeberharthertel
+      about: ""
+      name: Luke Eberhart-Hertel
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/lukeeberharthertel/
+      url: ""
+      location: ""
+      id: "372839211"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      This pre-print is a major revision of a previous pre-print found here:
+      https://www.biorxiv.org/content/10.1101/2020.08.07.240150v1
+
+
+      Please also see the comments related to the prior version for links to a pre-publication review of the work on Publons, and our open-access response to this review.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.07.21.453188v1
+  tweets:
+    - created_at: Mon Jul 26 18:29:29 +0000 2021
+      id: 1419726584429359000
+      id_str: "1419726584429359105"
+      text: >-
+        💬 bioRxiv comment on "Egg size variation in a long-l..."
+
+
+        "This pre-print is a major revision of a previous pre-pri… https://t.co/X2Tropmojp
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/X2Tropmojp
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Jul 26 18:29:29 +0000 2021
+      id: 1419726585343750100
+      id_str: "1419726585343750148"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/IZ2dBUEY3o
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/IZ2dBUEY3o
+      in_reply_to_status_id: 1419726584429359000
+      in_reply_to_status_id_str: "1419726584429359105"
