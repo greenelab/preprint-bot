@@ -55583,3 +55583,126 @@
           - url: https://t.co/652MU3io4j
       in_reply_to_status_id: 1420025603722555400
       in_reply_to_status_id_str: "1420025603722555398"
+- preprint:
+    id: "142062"
+    doi: 10.1101/2021.05.14.21257248
+    first_posted: 2021-05-17
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.14.21257248v1
+    url: https://api.rxivist.org/v1/papers/142062
+    title: Interim Report of a Phase 2 Randomized Trial of a Plant-Produced
+      Virus-Like Particle Vaccine for Covid-19 in Healthy Adults Aged 18-64 and
+      Older Adults Aged 65 and Older
+    category: infectious-diseases
+    abstract: The rapid spread of SARS-CoV-2 globally continues to impact humanity
+      on a global scale with rising morbidity and mortality. Despite the
+      development of multiple effective vaccines, new vaccines continue to be
+      required to supply ongoing demand. We report Day 42 interim safety and
+      immunogenicity data from a Phase 2, randomized, placebo-controlled trial
+      in Adults aged 18+ immunized with a virus-like particle vaccine candidate
+      produced in plants displaying SARS-CoV-2 spike glycoprotein (CoVLP)
+      adjuvanted with AS03 (NCT04636697). This report focuses on presenting
+      safety, tolerability and immunogenicity, as measured by neutralizing
+      antibody (NAb) and cell mediated immunity (IFN-{gamma} and IL-4 ELISpot)
+      responses, in Adults aged 18-64 (Adults) and Older Adults aged 65+ (Older
+      Adults). CoVLP adjuvanted with AS03 was well-tolerated and adverse events
+      (AE) were primarily mild or moderate and of transient duration. AEs in
+      Older Adults were more limited than those observed in the Adult
+      population. CoVLP with AS03 induced a significant humoral immune response
+      in both age cohorts. CoVLP with AS03 induced a greater humoral response in
+      Adults than Older Adults after a single dose but this effect was overcome
+      with a second dose when both age cohorts responded with NAb titers that
+      were ~10-fold higher than those in a panel of sera from patients
+      recovering from COVID-19. A single dose of CoVLP with AS03 induced a
+      significant IFN-{gamma} response in both age cohorts; a second dose
+      significantly boosted IFN-{gamma} and IL-4 responses in both age cohorts.
+      Adults generated a stronger IFN-{gamma} and IL-4 cellular response than
+      did Older Adults after one or two doses of AS03-adjuvanted CoVLP. Safety
+      and immunogenicity from Adults with comorbidities as well as final safety
+      and immunogenicity responses after 12 months will be reported upon
+      availability.
+    authors:
+      - name: Philipe Gobeil
+        orcid: null
+      - name: Stéphane Pillet
+        orcid: null
+      - name: Annie Séguin
+        orcid: null
+      - name: Iohann Boulay
+        orcid: null
+      - name: Asif Mahmood
+        orcid: null
+      - name: Donald C Vinh
+        orcid: null
+      - name: Nathalie Charland
+        orcid: null
+      - name: Philippe Boutet
+        orcid: null
+      - name: François P Roman
+        orcid: null
+      - name: Robbert Van Der Most
+        orcid: null
+      - name: Maria de los Angeles Ceregido Perez
+        orcid: null
+      - name: Brian J Ward
+        orcid: null
+      - name: Nathalie Landry
+        orcid: http://orcid.org/0000-0003-3500-0484
+  comment:
+    dislikes: 0
+    thread: "8524534867"
+    numReports: 0
+    likes: 0
+    id: "5470439013"
+    createdAt: 2021-07-26T20:40:57
+    author:
+      username: Double_Up
+      about: ""
+      name: Double_Up
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/Double_Up/
+      url: ""
+      location: ""
+      id: "23881310"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: So far, so good.  No infectious agents added to the SARS-2 shot,
+      that's a plus, and if Phase 3 goes as well this Medicago-GSK shot may be
+      safe enough for many I know to take, with so many possibly having SARS-2
+      already but no way to prove it since tests are garbage and antibody tests
+      are about 50% accurate at best.  Safety over hype.  People I work with
+      cannot take any SARS-2 shots due to medical conditions they have but
+      they're being treated like cattle, horrible.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.05.14.21257248v1
+  tweets:
+    - created_at: Tue Jul 27 16:32:12 +0000 2021
+      id: 1420059456294031400
+      id_str: "1420059456294031362"
+      text: >-
+        💬 medRxiv comment on "Interim Report of a Phase 2 Ra..."
+
+
+        "So far, so good.  No infectious agents added to the SARS… https://t.co/fXKpC2CoYw
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/fXKpC2CoYw
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jul 27 16:32:12 +0000 2021
+      id: 1420059457191612400
+      id_str: "1420059457191612416"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/5wHaTwuGUe
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/5wHaTwuGUe
+      in_reply_to_status_id: 1420059456294031400
+      in_reply_to_status_id_str: "1420059456294031362"
