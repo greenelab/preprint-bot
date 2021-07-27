@@ -55366,3 +55366,112 @@
           - url: https://t.co/oTURmeVcNy
       in_reply_to_status_id: 1419825911789236200
       in_reply_to_status_id_str: "1419825911789236235"
+- preprint:
+    id: "107398"
+    doi: 10.1101/2020.03.10.20033761
+    first_posted: 2020-03-13
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2020.03.10.20033761v1
+    url: https://api.rxivist.org/v1/papers/107398
+    title: Inferring the number of COVID-19 cases from recently reported deaths
+    category: epidemiology
+    abstract: We estimate the number of COVID-19 cases from newly reported deaths in
+      a population without previous reports. Our results suggest that by the
+      time a single death occurs, hundreds to thousands of cases are likely to
+      be present in that population. This suggests containment via contact
+      tracing will be challenging at this point, and other response strategies
+      should be considered. Our approach is implemented in a publicly available,
+      user-friendly, online tool.
+    authors:
+      - name: Thibaut Jombart
+        orcid: http://orcid.org/0000-0003-2226-8692
+      - name: Kevin van Zandvoort
+        orcid: null
+      - name: Timothy W Russell
+        orcid: http://orcid.org/0000-0001-5610-6080
+      - name: Christopher I Jarvis
+        orcid: http://orcid.org/0000-0002-0812-2446
+      - name: Amy Gimma
+        orcid: http://orcid.org/0000-0003-2645-7212
+      - name: Sam Abbott
+        orcid: http://orcid.org/0000-0001-8057-8037
+      - name: Samuel Clifford
+        orcid: http://orcid.org/0000-0002-3774-3882
+      - name: Sebastian Funk
+        orcid: http://orcid.org/0000-0002-2842-3406
+      - name: Hamish Gibbs
+        orcid: http://orcid.org/0000-0003-4413-453X
+      - name: Yang Liu
+        orcid: http://orcid.org/0000-0003-4433-1066
+      - name: Carl A.B. Pearson
+        orcid: http://orcid.org/0000-0003-0701-7860
+      - name: Nikos I Bosse
+        orcid: null
+      - name: Centre for the Mathematical Modelling of Infectious Diseases COVID-19
+          Working Group
+        orcid: null
+      - name: Rosalind M Eggo
+        orcid: http://orcid.org/0000-0002-0362-6717
+      - name: Adam J Kucharski
+        orcid: http://orcid.org/0000-0001-8814-9421
+      - name: W. John Edmunds
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "7913207556"
+    numReports: 0
+    likes: 0
+    id: "5470739007"
+    createdAt: 2021-07-27T01:29:32
+    author:
+      username: vaskorbasak
+      about: ""
+      name: Vaskor Basak
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/vaskorbasak/
+      url: ""
+      location: ""
+      id: "137163069"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Thank you very much for sharing this paper. I am interested to know
+      what lag time was assumed between infections and deaths when calculating
+      or inferring the CFR figures. Was it possible to use a distribution of
+      variable lag times, based on real life data, for more sophisticated
+      modelling? Also, has the lag time increased and/or CFR decreased as new
+      medical interventions have slowed down the rapid onset of Covid-19 for
+      severe cases requiring hospitalisation, since the beginning of the
+      pandemic?
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2020.03.10.20033761v1
+  tweets:
+    - created_at: Tue Jul 27 12:31:39 +0000 2021
+      id: 1419998920479019000
+      id_str: "1419998920479019020"
+      text: >-
+        💬 medRxiv comment on "Inferring the number of COVID-..."
+
+
+        "Thank you very much for sharing this paper. I am interes… https://t.co/4JMb7wdbMD
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/4JMb7wdbMD
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jul 27 12:31:39 +0000 2021
+      id: 1419998921477263400
+      id_str: "1419998921477263361"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/3TtJqJ2x8c
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/3TtJqJ2x8c
+      in_reply_to_status_id: 1419998920479019000
+      in_reply_to_status_id_str: "1419998920479019020"
