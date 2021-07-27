@@ -55475,3 +55475,111 @@
           - url: https://t.co/3TtJqJ2x8c
       in_reply_to_status_id: 1419998920479019000
       in_reply_to_status_id_str: "1419998920479019020"
+- preprint:
+    id: "143204"
+    doi: 10.1101/2021.05.18.21257385
+    first_posted: 2021-05-25
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.18.21257385v1
+    url: https://api.rxivist.org/v1/papers/143204
+    title: Mask mandate and use efficacy in state-level COVID-19 containment
+    category: epidemiology
+    abstract: "Background: Containment of the COVID-19 pandemic requires
+      evidence-based strategies to reduce transmission. Because COVID-19 can
+      spread via respired droplets, many states have mandated mask use in public
+      settings. Randomized control trials have not clearly demonstrated mask
+      efficacy against respiratory viruses, but observational studies suggest
+      greater mask compliance may be associated with lower infection rates. We
+      hypothesized that statewide mask mandates and mask use are associated with
+      lower COVID-19 case growth rates in the United States. Methods: We
+      calculated total COVID-19 case growth and mask use for the continental
+      United States with data from the Centers for Disease Control and
+      Prevention and Institute for Health Metrics and Evaluation. We estimated
+      post-mask mandate case growth in non-mandate states using median issuance
+      dates of neighboring states with mandates. Results: Case growth was not
+      significantly different between mandate and non-mandate states at low or
+      high transmission rates, and surges were equivocal. Mask use predicted
+      lower case growth at low, but not high transmission rates. Growth rates
+      were comparable between states in the top and bottom mask use quintiles
+      adjusted for normalized total cases early in the pandemic and unadjusted
+      after peak Fall-Winter infections. Mask use did not predict Summer 2020
+      case growth for non-Northeast states or Fall-Winter 2020 growth for all
+      states. Conclusions: Mask mandates and use are not associated with slower
+      state-level COVID-19 spread during COVID-19 growth surges. COVID-19
+      containment requires future research and implementation of existing
+      efficacious strategies."
+    authors:
+      - name: Damian Guerra
+        orcid: http://orcid.org/0000-0002-6621-4656
+      - name: Daniel J Guerra
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8550177462"
+    numReports: 0
+    likes: 0
+    id: "5470636570"
+    createdAt: 2021-07-26T23:43:18
+    author:
+      username: rusbowden
+      about: ""
+      name: rusbowden
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/rusbowden/
+      url: ""
+      location: ""
+      id: "10245173"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      We have a problem here, DaveGinOly, with you not sticking with the topic
+      of mask-wearing and fretting about what may be some flaw in my
+      understanding of something you feel to be an expert on -- and yet you cite
+      nothing to back up anything you say. My "pull quote" says nothing about
+      me, and my shortcomings, whatever they may be, have very little to do, in
+      the grand scheme of things, with the pandemic. 
+
+
+      The study started with the fact that mask wearing stopped the flu from spreading, and used known factors to plug into the simulation. It was not the reverse, that there was a simulation, based on a hypothetical model, to show how mask wearing might hypothetically work.
+
+
+      It's saying, now that we know the effect of mask wearing on this past season's spread of the flu, we can attempt a simulation of previous years. It's like saying, if only our team's unsuccessful goalie blocked as many shots as some successful goalie, we would have won such-and-so more games and been champions. So let's get a better goalie for upcoming years.
+
+
+      You are incorrect about the real world results. The study starts with real world results, and simulates what this could have meant for previous years.
+
+
+      FYI, within the same state, and you choose the state, we know that mask wearing has helped cities get out of the "red". Double masking has been shown to prevent both the contraction and, when contracted, the severity of the virus. We also know which mask ought go on top when doing so. More mask research papers and discussions listed here: https://www.medrxiv.org/content/10.1101/2021.05.18.21257385v1#comment-5398414471
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.05.18.21257385v1
+  tweets:
+    - created_at: Tue Jul 27 14:17:41 +0000 2021
+      id: 1420025603722555400
+      id_str: "1420025603722555398"
+      text: >-
+        💬 medRxiv comment on "Mask mandate and use efficacy ..."
+
+
+        "We have a problem here, DaveGinOly, with you not stickin… https://t.co/94RIKPaG6Y
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/94RIKPaG6Y
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jul 27 14:17:41 +0000 2021
+      id: 1420025604670382000
+      id_str: "1420025604670382090"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/652MU3io4j
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/652MU3io4j
+      in_reply_to_status_id: 1420025603722555400
+      in_reply_to_status_id_str: "1420025603722555398"
