@@ -56025,3 +56025,174 @@
           - url: https://t.co/sQsOpFz7pT
       in_reply_to_status_id: 1420116312978821000
       in_reply_to_status_id_str: "1420116312978821125"
+- preprint:
+    id: "139518"
+    doi: 10.1101/2021.04.23.441192
+    first_posted: 2021-04-26
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.04.23.441192v1
+    url: https://api.rxivist.org/v1/papers/139518
+    title: Development of an oral swab based microbiome test for the detection of
+      feline dental disease
+    category: genomics
+    abstract: Variations in the microbial composition of the mouth (the oral
+      microbiome) have known associations with dental and systemic disease.
+      While this is relatively well understood in humans, research on this topic
+      in companion animals, and in cats in particular, has been limited. In this
+      study, we used oral microbiome data obtained from shotgun metagenomic
+      sequencing of 38,000 cats (data gathered through a direct-to-consumer cat
+      DNA testing platform) to reveal the staggering diversity of the feline
+      oral microbiome, identifying 8,344 microbial species across the entire
+      cohort. We used a subset of these data points (6,110 cats) to develop a
+      feline dental health test able to assess whether a cat is at risk of
+      having periodontal disease, tooth resorption and halitosis based on their
+      oral microbiome. After filtering out classified microbial reads with low
+      abundance, we were able to detect, on average, 606 microbes per oral
+      microbiome sample, identifying not just bacteria, but also viruses, fungi,
+      archaea and protozoa. Due to the shortage of available published research
+      on the microbial signature of tooth resorption and halitosis in cats, we
+      used our periodontal disease feline cohort (n=570) to validate our
+      approach. We observed microbial compositional abundance trends consistent
+      with previously reported findings from feline, canine and human studies on
+      periodontal disease. We used compositional abundance-based statistical
+      methods relying on pairwise log-ratio (PLR) transformation to identify
+      microbes significantly correlated with each of the three dental conditions
+      of interest. We identified a set of 27 microbes that are predictive for
+      all three dental conditions, as well as microbes specifically predictive
+      of periodontal disease, tooth resorption or halitosis. We used the
+      compositional abundance profiles of predictive microbes to develop a risk
+      score based model assessing the probability that a cat is suffering from
+      each of the three dental conditions. The model had highest sensitivity for
+      halitosis (72%) and highest specificity for tooth resorption (78%).
+      Lastly, we observed relatively consistent dental disease risk profiles
+      when we compared data from sample collection methods targeting the whole
+      mouth versus those targeting the gum line specifically. In contrast,
+      samples collected in triplicates from the same cats using a sampling
+      method targeting the whole mouth showed more variation in the generated
+      risk profiles. This was likely due to a failure to consistently collect
+      sufficient sample material from areas of the mouth where microbes relevant
+      to dental pathology would be found in highest amounts (i.e., the gum
+      line). For this reason, we have modified the instructions of the test to
+      emphasize the importance of targeting the gum line during sample
+      collection. Regular at home or in clinic screening with the feline dental
+      health test described in this study has the potential to facilitate early
+      detection and prevention of dental disease.
+    authors:
+      - name: Damian Kao
+        orcid: null
+      - name: Julie Yang
+        orcid: null
+      - name: Sean Nisperos
+        orcid: null
+      - name: Norma Drew
+        orcid: null
+      - name: Polina Berezovskaya
+        orcid: null
+      - name: Kaushalya Kuruppu
+        orcid: null
+      - name: Yuliana Mihaylova
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8493743300"
+    numReports: 0
+    likes: 0
+    id: "5470690498"
+    createdAt: 2021-07-27T00:40:11
+    author:
+      username: charleswarden
+      about: I am a Bioinformatics Specialist at City of Hope, but comments represent
+        my own opinions.
+      name: Charles Warden
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/charleswarden/
+      url: https://sites.google.com/site/cwarden45/about-me
+      location: Monrovia, CA
+      id: "84464988"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Hi,
+
+
+      Thank you very much for posting this preprint.
+
+
+      I can think of a number of questions, but I hope these are the most important:
+
+
+      <b>1)</b> I noticed that you filter for samples with “<i>>10,000 and <500,000 classified microbial reads</i>.”
+
+
+      <b>Does this filter also apply to returning results to customers?</b>
+
+
+      Based upon data / results I will mention in <b>2)</b>, I believe my cat’s samples may have had <a href="https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/basepaws_Dental_Health_Test/HCWGS0003.23.HCWGS0003_Kraken2.kreport">~25% bacterial reads</a> (at least for the ~15% WGS sample).  For the earlier lcWGS samples (for “Health + Breed” kits), I thought they were 2-4 million reads each.  If the Dental Health Test was similar, then I think my cat’s sample(s) would have had “<i><500,000 classified microbial reads</i>”.  However, I am not sure if I am misunderstanding something?
+
+
+      <b>2)</b> You can see the various measurements for my 1 cat here:
+
+
+      <a href="https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/basepaws_Dental_Health_Test">https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/basepaws_Dental_Health_Test</a>
+
+
+      My question is whether there is some figure in this preprint that I can use to compare the scores for my cat (or <b><i>any</i> customer can do for their cat</b>), compared to the density distributions cases and controls used for the risk estimation in this paper (for what I might call a training set)?
+
+
+      I am also curious if those proportions say consistent among batches (and filtered samples or full samples, if they are all returned to customers).
+
+
+      I think this might be similar to <b>Figure 3</b>, but I am not sure how to map the scores for my cat.
+
+
+      <b>3)</b> Relative to the ordinary sample collection, is anything added to the liquid to limit or prevent<b> post-collection bacterial blooms</b>?
+
+
+      If something was already added, is there any evidence that helps restrict / prevent bacterial growth from earlier tests?
+
+
+      <b>4)</b> The Competing Interest Statement currently says “<i>The authors have declared no competing interest</i>”.  However, because you are working for a company that offers a Dental Health Test based upon these results, I believe you need to declare a <b>competing interest</b>.  Is there something that I might be missing?
+
+
+      Thanks again!
+
+
+      Sincerely,
+
+      Charles
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.04.23.441192v1
+  tweets:
+    - created_at: Tue Jul 27 22:19:34 +0000 2021
+      id: 1420146874015748000
+      id_str: "1420146874015748105"
+      text: |-
+        💬 bioRxiv comment on "Development of an oral swab ba..."
+
+        "Hi,
+
+        Thank you very much for posting this preprint.
+
+        I c… https://t.co/35SsiN6Wxe
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/35SsiN6Wxe
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jul 27 22:19:34 +0000 2021
+      id: 1420146874942697500
+      id_str: "1420146874942697473"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/zyft4OhGvf
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/zyft4OhGvf
+      in_reply_to_status_id: 1420146874015748000
+      in_reply_to_status_id_str: "1420146874015748105"
