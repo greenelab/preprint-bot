@@ -55822,3 +55822,84 @@
           - url: https://t.co/sQsOpFz7pT
       in_reply_to_status_id: 1420088686709026800
       in_reply_to_status_id_str: "1420088686709026819"
+- preprint:
+    id: 143963
+    metric: 16
+    title: A connectomic study of a petascale fragment of human cerebral cortex
+    url: https://api.rxivist.org/v1/papers/143963
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.05.29.446289v1
+    doi: 10.1101/2021.05.29.446289
+    category: neuroscience
+    first_posted: 2021-05-30
+    abstract: We acquired a rapidly preserved human surgical sample from the
+      temporal lobe of the cerebral cortex. We stained a 1 mm3 volume with heavy
+      metals, embedded it in resin, cut more than 5000 slices at ~30 nm and
+      imaged these sections using a high-speed multibeam scanning electron
+      microscope. We used computational methods to render the three-dimensional
+      structure of 50,000 cells, hundreds of millions of neurites and 133.7
+      million synaptic connections. The 1.4 petabyte electron microscopy volume,
+      the segmented cells, cell parts, blood vessels, myelin, inhibitory and
+      excitatory synapses, and 100 manually proofread cells are available to
+      peruse online. Despite the incompleteness of the automated segmentation
+      caused by split and merge errors, many interesting features were evident.
+      Glia outnumbered neurons 2:1 and oligodendrocytes were the most common
+      cell type in the volume. The E:I balance of neurons was 69:31%, similar to
+      the ratio of excitatory versus inhibitory synapses in the volume, which
+      was 63:37%. The E:I ratio of synapses was significantly higher on
+      pyramidal neurons than inhibitory interneurons. We found that deep layer
+      excitatory cell types can be classified into subsets, based on structural
+      and connectivity differences, that chandelier interneurons not only
+      innervate excitatory neuron initial segments as previously described, but
+      also each others initial segments. Furthermore, among the thousands of
+      weak connections established on each neuron, there exist rarer highly
+      powerful axonal inputs that establish multi-synaptic contacts (up to ~20
+      synapses) with target neurons. Our analysis indicates that these strong
+      inputs are specific, and allow small numbers of axons to have an outsized
+      role in the activity of some of their postsynaptic partners.
+    authors:
+      - name: Alexander Shapson-Coe
+      - name: Michal Januszewski
+      - name: Daniel R Berger
+      - name: Art Pope
+      - name: Yuelong Wu
+      - name: Tim Blakely
+      - name: Richard L. Schalek
+      - name: Peter H Li
+      - name: Shuohong Wang
+      - name: Jeremy Maitlin-Shepard
+      - name: Neha Karlupia
+      - name: Sven Dorkenwald
+      - name: Evelina Sjostedt
+      - name: Laramie Leavitt
+      - name: Dongil Lee
+      - name: Luke Bailey
+      - name: Angerica Fitzmaurice
+      - name: Rohin Kar
+      - name: Benjamin Field
+      - name: Hank Wu
+      - name: Julian Wagner-Carena
+      - name: David Aley
+      - name: Joanna Lau
+      - name: Zudi Lin
+      - name: Donglai Wei
+      - name: Hanspeter Pfister
+      - name: Adi Peleg
+      - name: Viren Jain
+      - name: Jeff W Lichtman
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Tue Jul 27 20:14:43 +0000 2021
+      id: 1420115454069153800
+      id_str: "1420115454069153796"
+      text: >-
+        🔥 bioRxiv Neuroscience preprint by A. Shapson-Coe et al:
+
+
+        "A connectomic study of a petascale fragment of human cer… https://t.co/V8h7ea3V6k
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/V8h7ea3V6k
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
