@@ -55706,3 +55706,119 @@
           - url: https://t.co/5wHaTwuGUe
       in_reply_to_status_id: 1420059456294031400
       in_reply_to_status_id_str: "1420059456294031362"
+- preprint:
+    id: "141140"
+    doi: 10.1101/2021.05.06.21256615
+    first_posted: 2021-05-08
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.06.21256615v1
+    url: https://api.rxivist.org/v1/papers/141140
+    title: "The evidence on transmission dynamics of COVID-19 from pre- and
+      asymptomatic cases: protocol for a systematic review. (Version 2 modified
+      on 6 July 2021)"
+    category: infectious-diseases
+    abstract: "Background The role of cases of SARS-CoV-2 who remain without
+      symptoms throughout the active phase of the disease (asymptomatics) and
+      those who have not developed symptoms yet when surveyed (pre-symptomatics)
+      is at present unclear, despite the important role that they may play in
+      infecting third parties. There is also a lack of clarity on the role of
+      pauci-symptomatic persons with COVID-19 and the degree to which they may
+      be associated with transmission compared to fully symptomatic persons.
+      Methods We will search LitCovid, medRxiv, Google Scholar and the WHO
+      Covid-19 database using Covid-19, SARS-CoV-2, transmission, and
+      appropriate synonyms as search terms. We will also search the reference
+      lists of included studies are searched for additional relevant studies. We
+      will include studies of people exposed to SARS CoV-2 within 2-14 days
+      (incubation time) of close contact or suspected community or institutional
+      exposure to index asymptomatic infected individuals, as defined in each
+      study with secondary case(s) infected. We will only include studies which
+      provide microbiological proof of transmission outcome (culturable virus
+      and /or genic sequencing). The inclusion of higher-quality evidence should
+      overcome the methodological shortcomings of lower quality studies. We will
+      assess quality of the chain of transmission evidence, microbiological
+      proof and adequacy of follow up and symptom monitoring. Expected results
+      We intend to present the evidence in three distinct packages: study
+      description, methodological quality assessment and data extracted. We
+      intend summarising the evidence and drawing conclusions"
+    authors:
+      - name: Tom Jefferson
+        orcid: http://orcid.org/0000-0002-4778-2949
+      - name: Annette Pluddemann
+        orcid: http://orcid.org/0000-0003-2101-0390
+      - name: Elisabeth Spencer
+        orcid: null
+      - name: Jon Brassey
+        orcid: http://orcid.org/0000-0002-7812-6311
+      - name: Cecilia Rosca
+        orcid: http://orcid.org/0000-0003-2412-1942
+      - name: IGHO ONAKPOYA
+        orcid: null
+      - name: David Evans
+        orcid: null
+      - name: John Conly
+        orcid: null
+      - name: Carl Heneghan
+        orcid: http://orcid.org/0000-0002-1009-1992
+  comment:
+    dislikes: 0
+    thread: "8651614699"
+    numReports: 0
+    likes: 0
+    id: "5470213711"
+    createdAt: 2021-07-26T17:44:49
+    author:
+      username: fortunisko
+      about: ""
+      name: Fortu Nisko
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/fortunisko/
+      url: ""
+      location: ""
+      id: "360538392"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      From expected results.
+
+
+      We intend to present the evidence in three distinct packages: study description, methodological quality assessment and data extracted. We intend on summarising the evidence and drawing conclusions as to the quality of the evidence.
+
+
+      Fair enough. A ruthlessly non-politiccal assessment of the quality of scientific evidence will be the most significant portion of the research. Perhaps you might add to the discussion portion of your research paper the impact of basing policy on evidennce that does not meet the standard for policy-grade evidence. This is a very important discussion. Policy-makers seem to be ignorant of the standards necessary to draw conclusions that then can translate into sound policies for public health. They seem to have fallen into the trap of self-perpetuating policies that become untethered from an assessment of the quality of evidence.
+
+
+      Wishing you luck and good fortune in your pursuit of a  worthy goal re quality of evidence.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.05.06.21256615v2
+  tweets:
+    - created_at: Tue Jul 27 18:28:21 +0000 2021
+      id: 1420088686709026800
+      id_str: "1420088686709026819"
+      text: |-
+        💬 medRxiv comment on "The evidence on transmission d..."
+
+        "From expected results.
+
+        We intend to present the evidenc… https://t.co/A5iACL1xwU
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/A5iACL1xwU
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Jul 27 18:28:21 +0000 2021
+      id: 1420088687694647300
+      id_str: "1420088687694647301"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/sQsOpFz7pT
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/sQsOpFz7pT
+      in_reply_to_status_id: 1420088686709026800
+      in_reply_to_status_id_str: "1420088686709026819"
