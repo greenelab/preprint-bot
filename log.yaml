@@ -56710,3 +56710,108 @@
           - url: https://t.co/Rx20xWMeiY
       in_reply_to_status_id: 1420422051182035000
       in_reply_to_status_id_str: "1420422051182034948"
+- preprint:
+    id: "150975"
+    doi: 10.1101/2021.07.20.453145
+    first_posted: 2021-07-21
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.20.453145v1
+    url: https://api.rxivist.org/v1/papers/150975
+    title: "Adolescent Development of Biological Rhythms: Estradiol Dependence and
+      Effects of Combined Contraceptives"
+    category: physiology
+    abstract: "Purpose: Adolescence is a period of continuous development, including
+      the maturation of endogenous rhythms across systems and timescales.
+      Although these dynamic changes are well recognized, their continuous
+      structure and hormonal dependence have not been systematically
+      characterized. Given the well-established link between core body
+      temperature (CBT) and reproductive hormones in adults, we hypothesized
+      that high-resolution CBT can be applied to passively monitor pubertal
+      development and disruption with high fidelity. Methods: To examine this
+      possibility, we used signal processing to investigate the trajectory of
+      CBT rhythms at the within-day (ultradian), daily (circadian), and
+      ovulatory timescales, their dependence on estradiol, and the effects of
+      hormonal contraceptives. Results: Puberty onset was marked by a rise in
+      fecal estradiol (fE2), followed by an elevation in CBT and circadian
+      power. This time period marked the commencement of 4-day rhythmicity in
+      fE2, CBT, and ultradian power marking the onset of the estrous cycle. The
+      rise in circadian amplitude was accelerated by E2 treatment, indicating a
+      role for this hormone in rhythmic development. Contraceptive
+      administration in later adolescence reduced CBT and circadian power and
+      resulted in disruption to 4-day cycles that persisted after
+      discontinuation. Conclusions: Our data reveal with precise temporal
+      resolution how biological rhythms change across adolescence and
+      demonstrate a role for E2 in the emergence and preservation of multiscale
+      rhythmicity. These findings also demonstrate how hormones delivered
+      exogenously in a non-rhythmic pattern can disrupt rhythmic development.
+      These data lay the groundwork for a future in which temperature metrics
+      provide an inexpensive, convenient method for monitoring pubertal
+      maturation and support the development of hormone therapies that better
+      mimic and support human chronobiology."
+    authors:
+      - name: Azure Dominique Grant
+        orcid: http://orcid.org/0000-0003-2956-4267
+      - name: Linda Wilbrecht
+        orcid: http://orcid.org/0000-0003-3492-8141
+      - name: Lance J Kriegsfeld
+        orcid: http://orcid.org/0000-0002-6361-1496
+  comment:
+    dislikes: 0
+    thread: "8662497505"
+    numReports: 0
+    likes: 0
+    id: "5472711765"
+    createdAt: 2021-07-28T14:33:17
+    author:
+      name: CircaReader
+      url: ""
+      profileUrl: ""
+      emailHash: ""
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Interesting paper with exciting results. There are certainly valuable
+      implications from these findings.  After reading through, I had several
+      comments that I thought I would share.  
+
+
+      1. Add legend to figure 1 x axis, “Days”. Perhaps p-day would be useful.
+
+      2. Is it standard to have text labels describing the results as seen in figure 2?
+
+      3. What is the purpose of the colored arrows in figure 2?
+
+      4. What is meant by ‘significant trend’ in figure 2/4? What test was used to determine this? Probably will need to clarify this statement
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.07.20.453145v1
+  tweets:
+    - created_at: Wed Jul 28 18:25:07 +0000 2021
+      id: 1420450259281481700
+      id_str: "1420450259281481728"
+      text: >-
+        💬 bioRxiv comment on "Adolescent Development of Biol..."
+
+
+        "Interesting paper with exciting results. There are certa… https://t.co/8RfAQ4y1hJ
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/8RfAQ4y1hJ
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed Jul 28 18:25:07 +0000 2021
+      id: 1420450260338417700
+      id_str: "1420450260338417665"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/l80y3Op07z
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/l80y3Op07z
+      in_reply_to_status_id: 1420450259281481700
+      in_reply_to_status_id_str: "1420450259281481728"
