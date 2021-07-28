@@ -56316,3 +56316,168 @@
           - url: https://t.co/sQsOpFz7pT
       in_reply_to_status_id: 1420188892360286200
       in_reply_to_status_id_str: "1420188892360286209"
+- preprint:
+    id: "143395"
+    doi: 10.1101/2021.05.24.21257738
+    first_posted: 2021-05-26
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.24.21257738v1
+    url: https://api.rxivist.org/v1/papers/143395
+    title: "Post-vaccination SARS-CoV-2 infection: risk factors and illness profile
+      in a prospective, observational community-based case-control study"
+    category: epidemiology
+    abstract: "Background: Both BNT162b2 and ChAdOx1 vaccines show good efficacy in
+      clinical trials and real-world data. However, some still contract
+      SARS-CoV-2 post-vaccination. This study identifies risk factors associated
+      with SARS-CoV-2 infection at least 14 days after first vaccination and
+      describes characteristics of post-vaccination illness. Methods: Cases were
+      UK adults reporting post-vaccination SARS-CoV-2 infection between 8th
+      December 2020 and 1st May 2021, reporting on the COVID Symptom Study app.
+      We assessed the associations of age, frailty, comorbidity, area-level
+      deprivation and lifestyle factors with infection (vaccinated cases vs.
+      negative-vaccinated controls); and vaccination with illness profile
+      (vaccinated cases vs positive-unvaccinated controls). Findings:
+      Post-vaccination infection risk was substantially higher in older adults
+      with frailty (OR= 2.78, 95% CI [1.98-3.89], p-value<0.0001) and in
+      individuals living in most deprived areas (OR vs. intermediate group=1.22,
+      95%CI [1.04-1.43], p-value=0.01). Risk was lower in individuals with a
+      healthier diet (OR=0.73, 95%CI [0.62-0.86], p-value<0.0001) and without
+      obesity (OR=0.6, 95% CI [0.44-0.82], p-value=0.001). Vaccination was
+      associated with reduced odds of hospitalisation (OR=0.36, 95%CI
+      [0.28-0.46], p-value<0.0001), and high acute-symptom burden (OR=0.51,
+      95%CI [0.42-0.61], p-value<0.0001). In the 60+ age group, risk of >28 days
+      illness was lower following vaccination (OR=0.72 , 95%CI [0.51-1.00],
+      p-value=0.05). Most symptoms were reported less in positive-vaccinated vs.
+      positive-unvaccinated individuals, except sneezing, which was more common
+      post-vaccination (OR=1.24, 95%CI [1.05-1.46], p-value=0.01).
+      Interpretation: Our findings highlight reduced symptom burden and duration
+      in those infected post-vaccination. Whilst reassuring, our data should
+      prompt efforts to boost vaccine effectiveness in at-risk populations;
+      moreover, targeted infection control measures will still be appropriate to
+      minimise SARS-CoV-2 infection."
+    authors:
+      - name: Michela Antonelli
+        orcid: http://orcid.org/0000-0002-3005-4523
+      - name: Rose S. Penfold
+        orcid: http://orcid.org/0000-0001-7023-7108
+      - name: Jordi Merino
+        orcid: http://orcid.org/0000-0001-8312-1438
+      - name: Carole H. Sudre
+        orcid: http://orcid.org/0000-0001-5753-428X
+      - name: Erika Molteni
+        orcid: http://orcid.org/0000-0001-7773-8140
+      - name: Sarah Berry
+        orcid: null
+      - name: Liane S Canas
+        orcid: null
+      - name: Mark S Graham
+        orcid: http://orcid.org/0000-0002-4170-1095
+      - name: Kerstin Klaser
+        orcid: http://orcid.org/0000-0002-5230-6939
+      - name: Marc Modat
+        orcid: http://orcid.org/0000-0002-5277-8530
+      - name: Benjamin Murray
+        orcid: http://orcid.org/0000-0002-2413-923X
+      - name: Eric Kerfoot
+        orcid: http://orcid.org/0000-0002-7255-6417
+      - name: Liyuan Chen
+        orcid: http://orcid.org/0000-0002-4099-4332
+      - name: Jie Deng
+        orcid: null
+      - name: Marc F Österdahl
+        orcid: null
+      - name: Nathan J Cheetham
+        orcid: null
+      - name: David Alden Drew
+        orcid: null
+      - name: Long Nguyen
+        orcid: http://orcid.org/0000-0002-5436-4219
+      - name: Joan Capdeila
+        orcid: null
+      - name: Christina Hu
+        orcid: null
+      - name: Somesh Selvachandran
+        orcid: null
+      - name: Lorenzo Polidori
+        orcid: null
+      - name: Anna May
+        orcid: null
+      - name: Jonathan Wolf
+        orcid: http://orcid.org/0000-0002-0530-2257
+      - name: Andrew T. Chan
+        orcid: http://orcid.org/0000-0001-7284-6767
+      - name: Alexander Hammers
+        orcid: http://orcid.org/0000-0001-9530-4848
+      - name: Emma Duncan
+        orcid: null
+      - name: Tim Spector
+        orcid: http://orcid.org/0000-0002-9795-0365
+      - name: Sebastien Ourselin
+        orcid: http://orcid.org/0000-0002-5694-5340
+      - name: Claire J. Steves
+        orcid: http://orcid.org/0000-0002-4910-0489
+  comment:
+    dislikes: 0
+    thread: "8555519904"
+    numReports: 0
+    likes: 0
+    id: "5469738238"
+    createdAt: 2021-07-26T10:03:20
+    author:
+      username: christophterasa
+      about: ""
+      name: Christoph Terasa
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/christophterasa/
+      url: ""
+      location: ""
+      id: "67279553"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      In Table 2 on page 12, the heading on the rightmost column reads
+
+      <blockquote>Control group of unvaccinated users testing <b><u>negative</u></b></blockquote>
+
+
+
+      Shouldn't that be
+
+      <blockquote>Control group of unvaccinated users testing <b><u>positive</u></b></blockquote>
+
+
+
+      This is what I gathered from the text, and it makes more sense.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.05.24.21257738v2
+  tweets:
+    - created_at: Wed Jul 28 12:33:21 +0000 2021
+      id: 1420361735408521200
+      id_str: "1420361735408521226"
+      text: >-
+        💬 medRxiv comment on "Post-vaccination SARS-CoV-2 in..."
+
+
+        "In Table 2 on page 12, the heading on the rightmost colu… https://t.co/keMBW8C4Sj
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/keMBW8C4Sj
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed Jul 28 12:33:21 +0000 2021
+      id: 1420361736566153200
+      id_str: "1420361736566153216"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/jqzdMihvhU
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/jqzdMihvhU
+      in_reply_to_status_id: 1420361735408521200
+      in_reply_to_status_id_str: "1420361735408521226"
