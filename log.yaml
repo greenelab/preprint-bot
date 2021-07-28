@@ -56815,3 +56815,52 @@
           - url: https://t.co/l80y3Op07z
       in_reply_to_status_id: 1420450259281481700
       in_reply_to_status_id_str: "1420450259281481728"
+- preprint:
+    id: 132045
+    metric: 47
+    title: Tissue specific targeting of DNA nanodevices in a multicellular living
+      organism
+    url: https://api.rxivist.org/v1/papers/132045
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.03.05.434169v1
+    doi: 10.1101/2021.03.05.434169
+    category: biochemistry
+    first_posted: 2021-03-06
+    abstract: Nucleic acid nanodevices present great potential as agents for
+      logic-based therapeutic intervention as well as in basic biology. Often,
+      however, the disease targets that need corrective action are localized in
+      specific organs and thus realizing the full potential of DNA nanodevices
+      also requires ways to target them to specific cell-types in vivo. Here we
+      show that by exploiting either endogenous or synthetic receptor-ligand
+      interactions and by leveraging the biological barriers presented by the
+      organism, we can target extraneously introduced DNA nanodevices to
+      specific cell types in C. elegans, with sub-cellular precision. The
+      amenability of DNA nanostructures to tissue-specific targeting in vivo
+      significantly expands their utility in biomedical applications and
+      discovery biology.
+    authors:
+      - name: Kasturi Chakraborty
+      - name: Sunaina Surana
+      - name: Simona Martin
+      - name: Jihad Aburas
+      - name: Sandrine Moutel
+      - name: Franck Perez
+      - name: Sandhya P Koushika
+      - name: Paschalis Kratsios
+      - name: Yamuna Krishnan
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Wed Jul 28 20:16:03 +0000 2021
+      id: 1420478178146062300
+      id_str: "1420478178146062337"
+      text: >-
+        🔥 bioRxiv Biochemistry preprint by K. Chakraborty et al:
+
+
+        "Tissue specific targeting of DNA nanodevices in a multic… https://t.co/d4NDwWavMu
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/d4NDwWavMu
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
