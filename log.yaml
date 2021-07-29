@@ -57143,3 +57143,130 @@
           - url: https://t.co/zKi1j2aTDY
       in_reply_to_status_id: 1420508752118050800
       in_reply_to_status_id_str: "1420508752118050821"
+- preprint:
+    id: "149748"
+    doi: 10.1101/2021.07.10.451903
+    first_posted: 2021-07-11
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.10.451903v1
+    url: https://api.rxivist.org/v1/papers/149748
+    title: Bacteria are everywhere, even in your COI marker gene data!
+    category: bioinformatics
+    abstract: The mitochondrial cytochrome C oxidase subunit I gene (COI) is
+      commonly used in eDNA metabarcoding studies, especially for assessing
+      metazoan diversity. Yet, a great number of COI operational taxonomic units
+      or/and amplicon sequence variants are retrieved from such studies and
+      referred to as "dark matter", and do not get a taxonomic assignment with a
+      reference sequence. For a thorough investigation of this dark matter, we
+      have developed the Dark mAtteR iNvestigator (DARN) software tool. A
+      reference COI-oriented phylogenetic tree was built from 1,240 consensus
+      sequences covering all the three domains of life, with more than 80% of
+      those representing eukaryotic taxa. With respect to eukaryotes, consensus
+      sequences at the family level were constructed from 183,330 retrieved from
+      the Midori reference 2 database. Similarly, sequences from 559 bacterial
+      genera and 41 archaeal were retrieved from the BOLD database. DARN makes
+      use of the phylogenetic tree to investigate and quantify pre-processed
+      sequences of amplicon samples to provide both a tabular and a graphical
+      overview of phylogenetic assignments. To evaluate DARN, both environmental
+      and bulk metabarcoding samples from different aquatic environments using
+      various primer sets were analysed. We demonstrate that a large proportion
+      of non-target prokaryotic organisms such as bacteria and archaea are also
+      amplified in eDNA samples and we suggest bacterial COI sequences to be
+      included in the reference databases used for the taxonomy assignment to
+      allow for further analyses of dark matter. DARN source code is available
+      on GitHub at https://github.com/hariszaf/darn and you may find it as a
+      Docker at https://hub.docker.com/r/hariszaf/darn.
+    authors:
+      - name: Haris Zafeiropoulos
+        orcid: http://orcid.org/0000-0002-4405-6802
+      - name: Laura Gargan
+        orcid: http://orcid.org/0000-0001-6034-4858
+      - name: Sanni Hintikka
+        orcid: http://orcid.org/0000-0001-6684-5194
+      - name: Christina Pavloudi
+        orcid: http://orcid.org/0000-0001-5106-6067
+      - name: Jens Carlsson
+        orcid: http://orcid.org/0000-0002-9262-5627
+  comment:
+    dislikes: 0
+    thread: "8643312810"
+    numReports: 0
+    likes: 0
+    id: "5473284469"
+    createdAt: 2021-07-28T21:58:46
+    author:
+      username: charleswarden
+      about: I am a Bioinformatics Specialist at City of Hope, but comments represent
+        my own opinions.
+      name: Charles Warden
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/charleswarden/
+      url: https://sites.google.com/site/cwarden45/about-me
+      location: Monrovia, CA
+      id: "84464988"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Hi,
+
+
+      Thank you very much positing this preprint.
+
+
+      I apologize if I overlooked something, but is your strategy doing something to try and gauge whether the "dark matter" is related to the COI gene or is off-target sequence that may be contamination?
+
+
+      As one example, I think there have been periods of time where top BLAST hits for PhiX sequence have said something else (because the lab didn't realize the PhiX spike-in could barcode hop into samples): https://www.biostars.org/p/376585/#435110
+
+
+      Or, even if the PhiX sequences are already filtered, do you think DARN can help with things like this post-publication review thread:
+
+
+      https://www.nature.com/articles/s41598-019-42455-9#article-comments
+
+
+      In that second example, you can do things like filter for sequences present in at least 2 reads in at least 1 sample.  However, you can also see some troubleshooting that I think might be somewhat more similar <a href="https://github.com/cwarden45/PRJNA513845-eDNA_reanalysis/tree/master/metagenomics">here</a>, and I am wondering if you think DARN might help identify groups of samples with a higher fraction of sequences that might not be a good representation the original biological sample.
+
+
+      Thank you again!  I think the topic is quite interesting and important.
+
+
+      Sincerely,
+
+      Charles
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.07.10.451903v1
+  tweets:
+    - created_at: Thu Jul 29 01:02:02 +0000 2021
+      id: 1420550147998687200
+      id_str: "1420550147998687236"
+      text: |-
+        💬 bioRxiv comment on "Bacteria are everywhere, even ..."
+
+        "Hi,
+
+        Thank you very much positing this preprint.
+
+        I apol… https://t.co/Z4st2DDdbq
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/Z4st2DDdbq
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jul 29 01:02:02 +0000 2021
+      id: 1420550148812386300
+      id_str: "1420550148812386304"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/dcEHMj9egQ
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/dcEHMj9egQ
+      in_reply_to_status_id: 1420550147998687200
+      in_reply_to_status_id_str: "1420550147998687236"
