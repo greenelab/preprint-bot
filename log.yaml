@@ -57459,3 +57459,102 @@
           - url: https://t.co/ybCOwnRou5
       in_reply_to_status_id: 1420750412416573400
       in_reply_to_status_id_str: "1420750412416573456"
+- preprint:
+    id: "144845"
+    doi: 10.1101/2021.06.02.21258231
+    first_posted: 2021-06-05
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.02.21258231v1
+    url: https://api.rxivist.org/v1/papers/144845
+    title: Effectiveness of mRNA COVID-19 Vaccines among Employees in an American
+      Healthcare System
+    category: infectious-diseases
+    abstract: Background. The mRNA SARS-CoV-2 vaccines have shown great promise in
+      clinical trials. The purpose of this study was to evaluate the
+      effectiveness of these vaccines under real-world conditions in the USA.
+      Methods. Employees of the Cleveland Clinic Health System, previously not
+      infected with SARS-CoV-2, and working in Ohio on Dec 16, 2020, the day
+      COVID-19 vaccination began, were included. The cumulative incidence of
+      SARS-CoV-2 infection, over the next 5 months, was compared among those who
+      received the vaccine and those who did not, by modeling vaccination as a
+      time-dependent covariate in Cox proportional hazards regression analyses
+      adjusted for the slope of the epidemic curve as a continuous
+      time-dependent covariate. Results. Of the 46866 included employees, 28223
+      (60%) were vaccinated by the end of the study period. The cumulative
+      incidence of SARS-CoV-2 infection was much higher among those not
+      vaccinated than those vaccinated. Only 15 (0.7%) of the 2154 SARS-CoV-2
+      infections during the study occurred among those vaccinated. After
+      adjusting for the slope of the epidemic curve, age, and job type,
+      vaccination was associated with a significantly reduced risk of SARS-CoV-2
+      infection (HR 0.03, 95% C.I. 0.02 - 0.06, p < 0.001), corresponding to a
+      vaccine effectiveness rate of 97.1% (95% CI 94.3 - 98.5). Vaccine
+      effectiveness was 89.2% at 7 days and 95.0% at 14 days after the first
+      vaccine dose. Conclusions. The mRNA SARS-CoV-2 vaccines are over 97%
+      protective against COVID-19 in the working-age population, with
+      substantial protection possibly apparent within a few days of the first
+      dose.
+    authors:
+      - name: Nabin K. Shrestha
+        orcid: http://orcid.org/0000-0001-6766-9874
+      - name: Amy S. Nowacki
+        orcid: null
+      - name: Patrick C. Burke
+        orcid: null
+      - name: Paul Terpeluk
+        orcid: null
+      - name: Steven M. Gordon
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8575541177"
+    numReports: 0
+    likes: 0
+    id: "5472692941"
+    createdAt: 2021-07-28T14:18:10
+    author:
+      username: disqus_o95zHIS3r8
+      about: ""
+      name: H.
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_o95zHIS3r8/
+      url: ""
+      location: ""
+      id: "372961184"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: 5,372 were excluded from study due to infection how many had any
+      vaccine?  795 not considered vaccinated how many had vaccine
+      injection?  These are important questions.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.06.02.21258231v1
+  tweets:
+    - created_at: Thu Jul 29 16:37:18 +0000 2021
+      id: 1420785516581212200
+      id_str: "1420785516581212166"
+      text: >-
+        💬 medRxiv comment on "Effectiveness of mRNA COVID-19..."
+
+
+        "5,372 were excluded from study due to infection how many… https://t.co/ylYkB6YzmM
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/ylYkB6YzmM
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jul 29 16:37:18 +0000 2021
+      id: 1420785517466198000
+      id_str: "1420785517466198016"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/hgU7PqRLRa
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/hgU7PqRLRa
+      in_reply_to_status_id: 1420785516581212200
+      in_reply_to_status_id_str: "1420785516581212166"
