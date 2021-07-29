@@ -57558,3 +57558,183 @@
           - url: https://t.co/hgU7PqRLRa
       in_reply_to_status_id: 1420785516581212200
       in_reply_to_status_id_str: "1420785516581212166"
+- preprint:
+    id: "144576"
+    doi: 10.1101/2021.06.03.446862
+    first_posted: 2021-06-03
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.03.446862v1
+    url: https://api.rxivist.org/v1/papers/144576
+    title: Unrestrained growth of correctly oriented microtubules instructs axonal
+      microtubule orientation
+    category: cell-biology
+    abstract: In many eukaryotic cells, directed molecular transport occurs along
+      microtubules. Within neuronal axons, transport over vast distances
+      particularly relies on uniformly oriented microtubules, whose plus-ends
+      point towards the distal axon tip (+end out). However, axonal microtubules
+      initially have mixed orientations, and what breaks this orientation
+      symmetry is poorly understood. Using live imaging, physical modeling and
+      simulations, we found that +end out microtubules surpass a growth
+      transition and undergo persistent long-term growth. In contrast,
+      oppositely oriented microtubules remain short. We confirmed experimentally
+      and in silico that the enhanced growth of +end out microtubules is
+      critical for achieving uniform microtubule orientation. Our data suggest
+      that the accelerated growth kinetics of correctly oriented microtubules
+      instructs overall axonal microtubule orientation, thus enabling efficient
+      long-range transport essential for neuronal functioning.
+    authors:
+      - name: Maximilian AH Jakobs
+        orcid: http://orcid.org/0000-0002-0879-7937
+      - name: Assaf Zemel
+        orcid: null
+      - name: Kristian Franze
+        orcid: http://orcid.org/0000-0002-8425-7297
+  comment:
+    dislikes: 0
+    thread: "8571415257"
+    numReports: 0
+    likes: 0
+    id: "5473875496"
+    createdAt: 2021-07-29T10:14:35
+    author:
+      username: disqus_VYxqCWKMak
+      about: Working on molecular mechanisms of axon degeneration, in particular
+        regulation by  NMNAT2 and SARM1
+      name: Michael Coleman
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_VYxqCWKMak/
+      url: https://colemanlab.brc.cam.ac.uk
+      location: University of Cambridge
+      id: "372971573"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      This is a really interesting article on a topic we tend to take for
+      granted and then realise we (or at least I !) just hadn't thought about
+      and certainly couldn't explain. Some mechanisms for microtubule polarity
+      sorting in axons had been previously proposed but were recognised as being
+      insufficient to fully explain the observations. Very nice original science
+      with important implications for nervous system development, axon
+      regeneration and neurodegenerative disease.
+
+
+
+      <b>Summary of findings</b>
+
+
+
+      Unlike dendrites, axons have microtubules that are almost all oriented with their growing (+) ends outwards. The mechanistic basis of this is not completely understood. Axonal microtubules are in a constant state of dynamic equilibrium, with their + ends growing but being subject to periodic ‘catastrophe’ that shortens them, either by dying back from their previously growing + ends or by severing them to create two 'daughter' microtubules, each with the potential for new growth. Unlike in other cell types, axonal microtubules are not attached to the centrosome but form a tiling array along the axon composed of individual microtubules from a few microns to over 100 microns in length (see work of Peter Baas and colleagues). Some kind of relationship between this dynamic equilibrium and selection of polarity appears likely but it has been unclear what that might be.
+
+
+
+      To understand the mechanism, Jakobs et al used live imaging of microtubules in Drosophila axons in culture, labelled with EB1-GFP, which marks the growing tip. They find that during early axon growth in culture, microtubules with their + ends oriented distally have a growth advantage over those in the opposite orientation, so that over time + end-out becomes the dominant orientation. 
+
+
+
+      First, they show that each microtubule growth events is (on average) longer if the microtubule is further distal in a growing axon and if the microtubule is oriented + end out. The difference between + end out, and in, microtubules is more marked distally. 
+
+
+
+      Then, they measure the shrinkage distances in these same orientations and locations using double labelling of EB1 and tubulin. They use a mathematical model to show that + end-out oriented microtubules near growing tips have essentially unbounded growth (since the average growth event is longer in distance than the average shrinkage event), while in other locations and orientations average microtubule length stabilises because of the larger contribution of shrinkage events. 
+
+
+
+
+      Using two methods to disrupt microtubule polymerisation (nocodazole and increased osmolarity) they then confirmed the importance of this +/- growth difference in establishing unipolarity. They also hypothesised that microtubule growth promoting proteins locally synthesised at the axon tip, such as p150, would explain the longer growth cycles of +end out oriented microtubules there, and supported this hypothesis with p150 knockdown and dominant negative mutants. Again, removing the growth length differential also removed the orientation difference.
+
+
+
+      Finally, they address the orientation imbalance in more proximal axon regions that is less easy to explain based on a p150 gradient. They propose a model in which dynein-mediated sliding of – end out orientated microtubules towards the cell body, and templating of new microtubules, essentially matching existing orientation bias, could explain these differences. No additional data are presented for this part but it clearly forms a new hypothesis for further testing.
+
+
+
+      <b>Implications</b>
+
+
+
+      Axonal transport deficits are an important driver of axon loss and neurological deficits. For example, mutations in the anterograde motor protein KIF5A are associated with hereditary spastic paraplegia, Charcot-Marie Tooth disease and ALS, all disorders of long axon degeneration in which distal regions are affected first. Toxic blockade of axonal transport, for example in vincristine neuropathy, is also an important cause of axon damage. This article sheds light on the basic mechanisms that establish, and presumably also maintain effective, directional axonal transport. 
+
+
+
+      Severe defects in this process of selection would be expected to result in failure of neuronal differentiation or axon growth. The likely phenotypic outcome of a severe defect would be embryonic lethality but partial defects could also occur and could therefore underlie disorders of axonal transport even if axons do initially form and carry out the process. Indeed, p150 mutations are associated with ALS. It would be really interesting to know how such mutations affect microtubule polarity and whether this underlies pathogenesis in these cases of ALS, or indeed in any other neurodegenerative disorders. It is challenging to address this in vivo, even in animal models, because of the requirement for live imaging of microtubule growth so I am not aware of any previous studies, but it is in principle an achievable aim now this mechanism has been identified.
+
+
+
+      <b>Limitations</b>
+
+
+
+      At present these findings are limited to Drosophila axons (seemingly dispersed starting from the entire CNS?) so it remains to be confirmed whether there are similar patterns in mammalian axons, and in different neuronal subtypes (e.g., CNS/PNS, motor/sensory, etc).
+
+
+
+      <b>Minor suggestions for improvement</b>
+
+
+
+      Just a presentational thing but in Fig 1E legend, would it be clearer to say ‘blue, right to left downwards’ than ‘blue, left to right upwards’ since these microtubule are in fact growing from right to left? Or probably the colour-coding explained in part D is already sufficient without this extra explanation? 
+
+
+
+      A bit more introduction to what is templating and sliding would be helpful.
+
+
+
+      It would be just marginally easier to follow without the switch in axon orientation between Figs 1-3 and Fig 4. But this is a minor point that perhaps just keeps our reversal learning sharp anyway!
+
+
+
+      <b>Questions for the authors</b>
+
+
+
+      Superficially, it could be imagined that the more stable an axonal microtubule the better, since they are so crucial for axonal transport. Yet, this is clearly not the case, otherwise the state of dynamic equilibrium would not have evolved. Does this new model for selection of orientation shed any light on what that advantage of the dynamic equilibrium is?
+
+
+
+      Studies of shrinkage events are so far limited to shrinkage from the distal end. Is there any contribution also from severing and how could that be measured?
+
+
+
+      If +end-out microtubules at the distal end have unbounded growth what eventually stops them? Something must do this in the end because otherwise a mature axon would be clogged with lots of microtubules extending right up to the distal tip. Is this one of the functions of severing?
+
+
+
+      In Fig 3b and c, there seems to be not only a decrease in + end-out growth distances but an increase in the growth of – end out microtubules. The same is true in Fig 3j and k when p150 is disrupted. Are these consistent observations and what could explain them? It would seem more likely that these interventions would disrupt microtubule growth regardless of orientation? 
+
+
+
+      To what extent do you think similar mechanisms may operate in mature axons, or is this phenomenon limited to axon growth stages? At the very least it seems likely that they also recur during axon regeneratio but in this context it would be very interesting to know if there are CNS/PNS differences in vertebrates given the difference in axon regeneration.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.06.03.446862v1
+  tweets:
+    - created_at: Thu Jul 29 18:29:23 +0000 2021
+      id: 1420813722315108400
+      id_str: "1420813722315108356"
+      text: >-
+        💬 bioRxiv comment on "Unrestrained growth of correct..."
+
+
+        "This is a really interesting article on a topic we tend… https://t.co/qQiQR0gPUl
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/qQiQR0gPUl
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jul 29 18:29:23 +0000 2021
+      id: 1420813723216793600
+      id_str: "1420813723216793604"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/2kNEHGyAC8
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/2kNEHGyAC8
+      in_reply_to_status_id: 1420813722315108400
+      in_reply_to_status_id_str: "1420813722315108356"
