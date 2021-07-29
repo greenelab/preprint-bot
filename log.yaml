@@ -57270,3 +57270,104 @@
           - url: https://t.co/dcEHMj9egQ
       in_reply_to_status_id: 1420550147998687200
       in_reply_to_status_id_str: "1420550147998687236"
+- preprint:
+    id: "149252"
+    doi: 10.1101/2021.07.05.21260050
+    first_posted: 2021-07-07
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.07.05.21260050v1
+    url: https://api.rxivist.org/v1/papers/149252
+    title: Progressive Increase in Virulence of Novel SARS-CoV-2 Variants in
+      Ontario, Canada
+    category: infectious-diseases
+    abstract: "Background: The period from February to June 2021 was one during
+      which initial wild-type SARS-CoV-2 strains were supplanted in Ontario,
+      Canada, first by variants of concern (VOC) with the N501Y mutation
+      (Alpha/B1.1.17, Beta/B.1.351 and Gamma/P.1 variants), and then by the
+      Delta/B.1.617 variant. The increased transmissibility of these VOCs has
+      been documented but data for increased virulence is limited. We used
+      Ontario COVID-19 case data to evaluate the virulence of these VOCs
+      compared to non-VOC SARS-CoV-2 infections, as measured by risk of
+      hospitalization, intensive care unit (ICU) admission, and death. Methods:
+      We created a retrospective cohort of people in Ontarios testing positive
+      for SARS-CoV-2 and screened for VOCs, with dates of test report between
+      February 7 and June 22, 2021 (n=211,197). We constructed mixed effects
+      logistic regression models with hospitalization, ICU admission, and death
+      as outcome variables. Models were adjusted for age, sex, time,
+      comorbidities, and pregnancy status. Health units were included as random
+      intercepts. Results: Compared to non-VOC SARS-CoV-2 strains, the adjusted
+      elevation in risk associated with N501Y-positive variants was 59% (49-69%)
+      for hospitalization; 105% (82-134%) for ICU admission; and 61% (40-87%)
+      for death. Increases with Delta variant were more pronounced: 120%
+      (93-153%) for hospitalization; 287% (198-399%) for ICU admission; and 137%
+      (50-230%) for death. Interpretation: The progressive increase in
+      transmissibility and virulence of SARS-CoV-2 VOCs will result in a
+      significantly larger, and more deadly, pandemic than would have occurred
+      in the absence of VOC emergence."
+    authors:
+      - name: David Fisman
+        orcid: http://orcid.org/0000-0001-5009-6926
+      - name: Ashleigh Tuite
+        orcid: http://orcid.org/0000-0002-4373-9337
+  comment:
+    dislikes: 0
+    thread: "8644668449"
+    numReports: 0
+    likes: 0
+    id: "5472826361"
+    createdAt: 2021-07-28T15:59:28
+    author:
+      username: jrghennemann
+      about: ""
+      name: Jörg Hennemann
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/jrghennemann/
+      url: ""
+      location: ""
+      id: "372856097"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Thank you or your contribution! I still do not understand, how this
+      works. If vaccination is interfering the ration between deaths from Delta
+      and all the other variants, what is the study based on? Hard numbers shown
+      are just those in table 1. How can a "lower death rate" cause a "higher
+      death risk"? This for me only makes sense, if the time between infection
+      and death is much longer for Delta. But there are no data presented
+      supporting this thesis. I`m really confused here, especially because the
+      German press and also the first "experts" forecast the end of the world
+      because of this study. You don't find their results unreasonable, but did
+      you find a proof for the conclusion "Delta ist more dangerous" in the
+      paper? I didn`t..
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.07.05.21260050v2
+  tweets:
+    - created_at: Thu Jul 29 12:31:54 +0000 2021
+      id: 1420723759250501600
+      id_str: "1420723759250501635"
+      text: >-
+        💬 medRxiv comment on "Progressive Increase in Virule..."
+
+
+        "Thank you or your contribution! I still do not understan… https://t.co/jBUkrBBx70
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/jBUkrBBx70
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jul 29 12:31:54 +0000 2021
+      id: 1420723760273920000
+      id_str: "1420723760273920006"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/puR7zuoA1m
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/puR7zuoA1m
+      in_reply_to_status_id: 1420723759250501600
+      in_reply_to_status_id_str: "1420723759250501635"
