@@ -57738,3 +57738,61 @@
           - url: https://t.co/2kNEHGyAC8
       in_reply_to_status_id: 1420813722315108400
       in_reply_to_status_id_str: "1420813722315108356"
+- preprint:
+    id: 151853
+    metric: 21
+    title: Disruption of the TCA cycle reveals an ATF4-dependent integration of
+      redox and amino acid metabolism
+    url: https://api.rxivist.org/v1/papers/151853
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.27.453996v1
+    doi: 10.1101/2021.07.27.453996
+    category: biochemistry
+    first_posted: 2021-07-27
+    abstract: The Tricarboxylic Acid Cycle (TCA) cycle is arguably the most critical
+      metabolic cycle in physiology and exists as an essential interface
+      coordinating cellular metabolism, bioenergetics, and redox homeostasis.
+      Despite decades of research, a comprehensive investigation into the
+      consequences of TCA cycle dysfunction remains elusive. Here, we targeted
+      two TCA cycle enzymes, fumarate hydratase (FH) and succinate dehydrogenase
+      (SDH), and combined metabolomics, transcriptomics, and proteomics analyses
+      to fully appraise the consequences of TCA cycle inhibition (TCAi) in
+      kidney epithelial cells. Our comparative approach shows that TCAi elicits
+      a convergent rewiring of redox and amino acid metabolism dependent on the
+      activation of ATF4 and the integrated stress response (ISR). Furthermore,
+      we also uncover a divergent metabolic response, whereby acute FHi, but not
+      SDHi, can maintain asparagine levels via reductive carboxylation and
+      maintenance of cytosolic aspartate synthesis. Our work highlights an
+      important interplay between the TCA cycle, redox biology and amino acid
+      homeostasis.
+    authors:
+      - name: Dylan Gerard Ryan
+      - name: Ming Yang
+      - name: Hiran A Prag
+      - name: Giovanny Rodriguez Blanco
+      - name: Efterpi Nikitopoulou
+      - name: Marc Segarra-Mondejar
+      - name: Christopher A Powell
+      - name: Tim Young
+      - name: Nils Burger
+      - name: Jan Lj Miljkovic
+      - name: Michal Minczuk
+      - name: Michael P Murphy
+      - name: Alexander Von Kriegsheim
+      - name: Christian Frezza
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Thu Jul 29 20:17:00 +0000 2021
+      id: 1420840803988123600
+      id_str: "1420840803988123656"
+      text: >-
+        🔥 bioRxiv Biochemistry preprint by D. G. Ryan et al:
+
+
+        "Disruption of the TCA cycle reveals an ATF4-dependent integr… https://t.co/M29eXkOcsE
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/M29eXkOcsE
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
