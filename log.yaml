@@ -57371,3 +57371,91 @@
           - url: https://t.co/puR7zuoA1m
       in_reply_to_status_id: 1420723759250501600
       in_reply_to_status_id_str: "1420723759250501635"
+- preprint:
+    id: "151604"
+    doi: 10.1101/2021.07.23.21261030
+    first_posted: 2021-07-26
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.07.23.21261030v1
+    url: https://api.rxivist.org/v1/papers/151604
+    title: "Breakthrough Symptomatic COVID-19 Infections Leading to Long Covid:
+      Report from Long Covid Facebook Group Poll"
+    category: epidemiology
+    abstract: Vaccines have been shown to be extremely effective in preventing
+      COVID-19 hospitalizations and deaths. However, a question remains whether
+      vaccine breakthrough cases can still lead to Post-Acute Sequelae of
+      SARS-CoV-2 (PASC), also known as Long Covid. To address this question, the
+      Survivor Corps group, a grassroots COVID-19 organization focused on
+      patient support and research, posted a poll to its 169,900 members that
+      asked about breakthrough cases, Long Covid, and hospitalizations. 1,949
+      people who self-report being fully vaccinated have responded to date.
+      While robust data are needed in a larger, unbiased sample to extrapolate
+      rates to the population, we analyzed the results of this public poll to
+      determine what people were reporting regarding Long Covid after
+      breakthrough infection and to prompt discussion of how breakthrough cases
+      are measured. The poll was posted in the Survivor Corps Facebook group
+      (~169,900 members). Of the 1,949 participants who responded to the poll,
+      44 reported a symptomatic breakthrough case and 24 of those reported that
+      the case led to symptoms of Long Covid. 1 of these 24 cases was reported
+      to have led to hospitalization in addition to Long Covid.
+    authors:
+      - name: Daisy Massey
+        orcid: http://orcid.org/0000-0002-9922-7808
+      - name: Diana Berrent
+        orcid: null
+      - name: Harlan Krumholz
+        orcid: http://orcid.org/0000-0003-2046-127X
+  comment:
+    dislikes: 0
+    thread: "8672605173"
+    numReports: 0
+    likes: 0
+    id: "5472799871"
+    createdAt: 2021-07-28T15:39:52
+    author:
+      username: disqus_9R7Zqrbul4
+      about: ""
+      name: TS
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_9R7Zqrbul4/
+      url: ""
+      location: ""
+      id: "372964515"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Agreed..  would have been nice if the authors took a little extra
+      time in developing their methodology to obtain meaningful results instead
+      of this rush job.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.07.23.21261030v1
+  tweets:
+    - created_at: Thu Jul 29 14:17:49 +0000 2021
+      id: 1420750412416573400
+      id_str: "1420750412416573456"
+      text: >-
+        💬 medRxiv comment on "Breakthrough Symptomatic COVID..."
+
+
+        "Agreed..  would have been nice if the authors took a lit… https://t.co/8g25UTQg4i
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/8g25UTQg4i
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jul 29 14:17:49 +0000 2021
+      id: 1420750413712687000
+      id_str: "1420750413712687113"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/ybCOwnRou5
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/ybCOwnRou5
+      in_reply_to_status_id: 1420750412416573400
+      in_reply_to_status_id_str: "1420750412416573456"
