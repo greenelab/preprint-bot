@@ -57796,3 +57796,114 @@
           - url: https://t.co/M29eXkOcsE
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "107711"
+    doi: 10.1101/2020.03.20.20037325
+    first_posted: 2020-03-23
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2020.03.20.20037325v1
+    url: https://api.rxivist.org/v1/papers/107711
+    title: Predicting COVID-19 malignant progression with AI techniques
+    category: infectious-diseases
+    abstract: >-
+      Background and purposeThe worldwide pandemic of coronavirus disease 2019
+      (COVID-19) greatly challenges public medical systems. With limited medical
+      resources, the treatment priority is determined by the severity of
+      patients. However, many mild outpatients quickly deteriorate into
+      severe/critical stage. It is crucial to early identify them and give
+      timely treatment for optimizing treatment strategy and reducing mortality.
+      This study aims to establish an AI model to predict mild patients with
+      potential malignant progression.
+
+
+      MethodsA total of 133 consecutively mild COVID-19 patients at admission who was hospitalized in Wuhan Pulmonary Hospital from January 3 to February 13, 2020, were selected in this retrospective IRB-approved study. All mild patients were categorized into groups with or without malignant progression. The clinical and laboratory data at admission, the first CT, and the follow-up CT at the severe/critical stage of the two groups were compared. Both multivariate logistic regression and deep learning-based methods were used to build the prediction models, with their area under ROC curves (AUC) compared.
+
+
+      ResultsMultivariate logistic regression depicted 6 risk factors for malignant progression: age >55years (OR 5.334, 95%CI 1.8-15.803), comorbid with hypertension (OR 5.093, 95%CI 1.236-20.986), a decrease of albumin (OR 4.01, 95%CI 1.216-13.223), a decrease of lymphocyte (OR 3.459, 95%CI 1.067-11.209), the progressive consolidation from CT1 to CTsevere (OR 1.235, 95%CI 1.018-1.498), and elevated HCRP (OR 1.015, 95%CI 1.002-1.029); and one protective factor: the presence of fibrosis at CT1 (OR 0.656, 95%CI 0.473-0.91). By combining the clinical data and the temporal information of the CT data, our deep learning-based models achieved the best AUC of 0.954, which outperformed logistic regression (AUC: 0.893),
+
+
+      ConclusionsOur deep learning-based methods can identify the mild patients who are easy to deteriorate into severe/critical cases efficiently and accurately, which undoubtedly helps to optimize the treatment strategy, reduce mortality, and relieve the medical pressure.
+    authors:
+      - name: Cong Fang
+        orcid: null
+      - name: Song Bai
+        orcid: null
+      - name: Qianlan Chen
+        orcid: null
+      - name: Yu Zhou
+        orcid: http://orcid.org/0000-0002-2102-9377
+      - name: Liming Xia
+        orcid: null
+      - name: Lixin Qin
+        orcid: null
+      - name: Shi Gong
+        orcid: null
+      - name: Xudong Xie
+        orcid: null
+      - name: Chunhua Zhou
+        orcid: null
+      - name: Dandan Tu
+        orcid: null
+      - name: Changzheng Zhang
+        orcid: null
+      - name: Xiaowu Liu
+        orcid: null
+      - name: Weiwei Chen
+        orcid: null
+      - name: Xiang Bai
+        orcid: null
+      - name: Philip H.S. Torr
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8200620005"
+    numReports: 0
+    likes: 0
+    id: "5473456849"
+    createdAt: 2021-07-29T01:05:33
+    author:
+      username: lukezabotka
+      about: ""
+      name: Luke Zabotka
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/lukezabotka/
+      url: ""
+      location: ""
+      id: "370352118"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: "Article published: https://doi.org/10.1016/j.media.2021.102096"
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2020.03.20.20037325v3
+  tweets:
+    - created_at: Thu Jul 29 20:20:52 +0000 2021
+      id: 1420841776827584500
+      id_str: "1420841776827584522"
+      text: |-
+        💬 medRxiv comment on "Predicting COVID-19 malignant ..."
+
+        "Article published: "
+
+        https://t.co/IqhmufnCeE
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/IqhmufnCeE
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jul 29 20:20:52 +0000 2021
+      id: 1420841777662242800
+      id_str: "1420841777662242819"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/Dp6U8rHowB
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/Dp6U8rHowB
+      in_reply_to_status_id: 1420841776827584500
+      in_reply_to_status_id_str: "1420841776827584522"
