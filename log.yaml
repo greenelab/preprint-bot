@@ -57907,3 +57907,91 @@
           - url: https://t.co/Dp6U8rHowB
       in_reply_to_status_id: 1420841776827584500
       in_reply_to_status_id_str: "1420841776827584522"
+- preprint:
+    id: "151604"
+    doi: 10.1101/2021.07.23.21261030
+    first_posted: 2021-07-26
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.07.23.21261030v1
+    url: https://api.rxivist.org/v1/papers/151604
+    title: "Breakthrough Symptomatic COVID-19 Infections Leading to Long Covid:
+      Report from Long Covid Facebook Group Poll"
+    category: epidemiology
+    abstract: Vaccines have been shown to be extremely effective in preventing
+      COVID-19 hospitalizations and deaths. However, a question remains whether
+      vaccine breakthrough cases can still lead to Post-Acute Sequelae of
+      SARS-CoV-2 (PASC), also known as Long Covid. To address this question, the
+      Survivor Corps group, a grassroots COVID-19 organization focused on
+      patient support and research, posted a poll to its 169,900 members that
+      asked about breakthrough cases, Long Covid, and hospitalizations. 1,949
+      people who self-report being fully vaccinated have responded to date.
+      While robust data are needed in a larger, unbiased sample to extrapolate
+      rates to the population, we analyzed the results of this public poll to
+      determine what people were reporting regarding Long Covid after
+      breakthrough infection and to prompt discussion of how breakthrough cases
+      are measured. The poll was posted in the Survivor Corps Facebook group
+      (~169,900 members). Of the 1,949 participants who responded to the poll,
+      44 reported a symptomatic breakthrough case and 24 of those reported that
+      the case led to symptoms of Long Covid. 1 of these 24 cases was reported
+      to have led to hospitalization in addition to Long Covid.
+    authors:
+      - name: Daisy Massey
+        orcid: http://orcid.org/0000-0002-9922-7808
+      - name: Diana Berrent
+        orcid: null
+      - name: Harlan Krumholz
+        orcid: http://orcid.org/0000-0003-2046-127X
+  comment:
+    dislikes: 0
+    thread: "8672605173"
+    numReports: 0
+    likes: 0
+    id: "5474313521"
+    createdAt: 2021-07-29T17:01:13
+    author:
+      username: disqus_ahb8GdlFBK
+      about: ""
+      name: Jodi Schneider
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_ahb8GdlFBK/
+      url: ""
+      location: ""
+      id: "373017327"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: An Israeli study of healthcare workers published in NEJM says "Most
+      breakthrough cases were mild or asymptomatic, although 19% had persistent
+      symptoms (>6 weeks)." http://doi.org/10.1056/NEJMoa2109072
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.07.23.21261030v1
+  tweets:
+    - created_at: Thu Jul 29 22:20:56 +0000 2021
+      id: 1420871995860955100
+      id_str: "1420871995860955139"
+      text: >-
+        💬 medRxiv comment on "Breakthrough Symptomatic COVID..."
+
+
+        "An Israeli study of healthcare workers published in NEJM… https://t.co/QWAsp0th8E
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/QWAsp0th8E
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Jul 29 22:20:57 +0000 2021
+      id: 1420871996812968000
+      id_str: "1420871996812967938"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/ybCOwnzNCx
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/ybCOwnzNCx
+      in_reply_to_status_id: 1420871995860955100
+      in_reply_to_status_id_str: "1420871995860955139"
