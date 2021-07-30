@@ -58410,3 +58410,99 @@
           - url: https://t.co/iDH6QN3LFS
       in_reply_to_status_id: 1421113964906172400
       in_reply_to_status_id_str: "1421113964906172418"
+- preprint:
+    id: "149465"
+    doi: 10.1101/2021.07.07.451145
+    first_posted: 2021-07-09
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.07.451145v1
+    url: https://api.rxivist.org/v1/papers/149465
+    title: A geospatial mapping pipeline for ecologists
+    category: ecology
+    abstract: Geospatial modelling can give fundamental insights in the biogeography
+      of life, providing key information about the living world in current and
+      future climate scenarios. Emerging statistical and machine learning
+      approaches can help us to generate new levels of predictive accuracy in
+      exploring the spatial patterns in ecological and biophysical processes.
+      Although these statistical models cannot necessarily represent the
+      essential mechanistic insights that are needed to understand global
+      biogeochemical processes under ever-changing environmental conditions,
+      they can provide unparalleled predictive insights that can be useful for
+      exploring the variation in biophysical processes across space. As such,
+      these emerging tools can be a valuable approach to complement existing
+      mechanistic approaches as we aim to understand the biogeography of Earth's
+      ecosystems. Here, we present a comprehensive methodology that efficiently
+      handles large datasets to produce global predictions. This mapping
+      pipeline can be used to generate quantitative, spatially explicit
+      predictions, with a particular emphasis on spatially-explicit insights
+      into the evaluation of model uncertainties and inaccuracies.
+    authors:
+      - name: Johan van den Hoogen
+        orcid: http://orcid.org/0000-0001-6624-8461
+      - name: Niamh Robmann
+        orcid: null
+      - name: Devin Routh
+        orcid: null
+      - name: Thomas Lauber
+        orcid: null
+      - name: Nina van Tiel
+        orcid: null
+      - name: Olga Danylo
+        orcid: null
+      - name: Thomas W. Crowther
+        orcid: http://orcid.org/0000-0001-5674-8913
+  comment:
+    dislikes: 0
+    thread: "8638855821"
+    numReports: 0
+    likes: 0
+    id: "5475317413"
+    createdAt: 2021-07-30T11:03:02
+    author:
+      username: pedrochake
+      about: ""
+      name: pedro chake
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/pedrochake/
+      url: ""
+      location: ""
+      id: "373059591"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: It is really worrying for science to see so many of these papers
+      simply denying all what constitute good science. ALL good works are
+      ignored, do the authors really think that they are the first doing mapping
+      and ecological modelling?
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.07.07.451145v1
+  tweets:
+    - created_at: Fri Jul 30 16:31:22 +0000 2021
+      id: 1421146409781366800
+      id_str: "1421146409781366787"
+      text: >-
+        💬 bioRxiv comment on "A geospatial mapping pipeline ..."
+
+
+        "It is really worrying for science to see so many of thes… https://t.co/939yWqF6BC
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/939yWqF6BC
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jul 30 16:31:22 +0000 2021
+      id: 1421146410641207300
+      id_str: "1421146410641207303"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/5WqN8O13q4
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/5WqN8O13q4
+      in_reply_to_status_id: 1421146409781366800
+      in_reply_to_status_id_str: "1421146409781366787"
