@@ -58302,3 +58302,111 @@
           - url: https://t.co/m0cKLPNLDg
       in_reply_to_status_id: 1421086371033329700
       in_reply_to_status_id_str: "1421086371033329664"
+- preprint:
+    id: "130004"
+    doi: 10.1101/2021.02.26.21252096
+    first_posted: 2021-03-08
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.02.26.21252096v1
+    url: https://api.rxivist.org/v1/papers/130004
+    title: "Self-reported real-world safety and reactogenicity of COVID-19 vaccines:
+      An international vaccine-recipient survey."
+    category: public-and-global-health
+    abstract: "Background: The safety of COVID-19 vaccines has been demonstrated in
+      selected populations in recent studies, but more data in specific groups
+      is needed to inform vaccine choice and health policy. Objectives: An
+      international, online survey was conducted to compare the safety,
+      tolerability and reactogenicity of available COVID-19 vaccines in
+      different recipient groups. Methods: This survey was launched in February
+      2021, for 11 days. Recipients of a first COVID-19 vaccine dose [&ge;]7
+      days prior to survey completion were eligible. The incidence and severity
+      of vaccination side effects were assessed. Results: Survey was completed
+      by 2,002 respondents, of whom 26.6% had prior COVID-19 infection (68.8%
+      laboratory confirmed). Prior COVID-19 infection was associated with
+      increased risk of any side effect (risk ratio 1.08, 95% confidence
+      intervals [1.05-1.11]), fever (2.24 [1.86-2.70]), breathlessness (2.05
+      [1.28-3.29]), flu-like illness (1.78 [1.51-2.10]), fatigue (1.34
+      [1.20-1.49]) and local reactions (1.10 [1.06-1.15]). It was also
+      associated with increased risk of severe side effects, leading to hospital
+      care (1.56 [1.14-2.12]). While mRNA vaccines were associated with a higher
+      incidence of any side effect (1.06 [1.01-1.11]) compared to viral
+      vector-based vaccines, these were generally milder (p<0.001), mostly local
+      reactions. Importantly, mRNA vaccine-recipients reported considerably
+      lower incidence of systemic reactions (RR<0.6) including anaphylaxis,
+      swelling, flu-like illness, breathlessness and fatigue, and of side
+      effects requiring hospital care (0.42 [0.31-0.58]). Conclusion: For the
+      first time, our study links prior COVID-19 illness with increased
+      incidence of vaccination side effects and demonstrates that mRNA vaccines
+      cause milder, less frequent systemic side effects, but more local
+      reactions."
+    authors:
+      - name: Alexander G. Mathioudakis
+        orcid: http://orcid.org/0000-0002-4675-9616
+      - name: Murad Ghrew
+        orcid: null
+      - name: Andrew Ustianowski
+        orcid: null
+      - name: Shazaad Ahmad
+        orcid: http://orcid.org/0000-0002-0400-8937
+      - name: Ray Borrow
+        orcid: http://orcid.org/0000-0002-0691-6568
+      - name: Lida Pieretta Papavasileiou
+        orcid: null
+      - name: Dimitrios Petrakis
+        orcid: null
+      - name: Nawar Diar Bakerly
+        orcid: http://orcid.org/0000-0003-2102-1997
+  comment:
+    dislikes: 0
+    thread: "8428482931"
+    numReports: 0
+    likes: 0
+    id: "5475006983"
+    createdAt: 2021-07-30T02:26:52
+    author:
+      username: tobydelamo
+      about: Schoolteacher and Supermom
+      name: tobydelamo
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/tobydelamo/
+      url: ""
+      location: Seattle
+      id: "116798296"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Unfortunately, publishing this is going to increase vaccine
+      hesitancy among those with prior covid illness. Not sure this is something
+      that should have been studied...
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.02.26.21252096v1
+  tweets:
+    - created_at: Fri Jul 30 14:22:26 +0000 2021
+      id: 1421113964906172400
+      id_str: "1421113964906172418"
+      text: >-
+        💬 medRxiv comment on "Self-reported real-world safet..."
+
+
+        "Unfortunately, publishing this is going to increase vacc… https://t.co/2tboezNplK
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/2tboezNplK
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jul 30 14:22:27 +0000 2021
+      id: 1421113965954826200
+      id_str: "1421113965954826246"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/iDH6QN3LFS
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/iDH6QN3LFS
+      in_reply_to_status_id: 1421113964906172400
+      in_reply_to_status_id_str: "1421113964906172418"
