@@ -58662,3 +58662,125 @@
           - url: https://t.co/Ir8KorUPND
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "144019"
+    doi: 10.1101/2021.05.28.446065
+    first_posted: 2021-05-30
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.05.28.446065v1
+    url: https://api.rxivist.org/v1/papers/144019
+    title: No evidence of human genome integration of SARS-CoV-2 found by long-read
+      DNA sequencing
+    category: genomics
+    abstract: A recent study proposed severe acute respiratory syndrome coronavirus
+      2 (SARS-CoV-2) hijacks the LINE-1 (L1) retrotransposition machinery to
+      integrate into the DNA of infected cells. If confirmed, this finding could
+      have significant clinical implications. Here, we applied deep (>50x)
+      long-read Oxford Nanopore Technologies (ONT) sequencing to HEK293T cells
+      infected with SARS-CoV-2, and did not find the virus integrated into the
+      genome. By examining ONT data from separate HEK293T cultivars, we
+      completely resolved 78 L1 insertions arising in vitro in the absence of L1
+      overexpression systems. ONT sequencing applied to hepatitis B virus (HBV)
+      positive liver cancer tissues located a single HBV insertion. These
+      experiments demonstrate reliable resolution of retrotransposon and
+      exogenous virus insertions via ONT sequencing. That we found no evidence
+      of SARS-CoV-2 integration suggests such events are, at most, extremely
+      rare in vivo, and therefore are unlikely to drive oncogenesis or explain
+      post-recovery detection of the virus.
+    authors:
+      - name: Nathan Smits
+        orcid: null
+      - name: Jay Rasmussen
+        orcid: null
+      - name: Gabriela O. Bodea
+        orcid: null
+      - name: Alberto A Amarilla
+        orcid: null
+      - name: Patricia Gerdes
+        orcid: null
+      - name: Francisco J. Sanchez-Luque
+        orcid: http://orcid.org/0000-0003-1138-6124
+      - name: Prabha Ajjikuttira
+        orcid: null
+      - name: Naphak Modhiran
+        orcid: null
+      - name: Benjamin Liang
+        orcid: null
+      - name: Jamila Faivre
+        orcid: null
+      - name: Ira W Deveson
+        orcid: http://orcid.org/0000-0003-3861-0472
+      - name: Alexander A Khromykh
+        orcid: http://orcid.org/0000-0001-6206-6935
+      - name: Daniel Watterson
+        orcid: null
+      - name: Adam D Ewing
+        orcid: http://orcid.org/0000-0002-4544-994X
+      - name: Geoffrey J Faulkner
+        orcid: http://orcid.org/0000-0001-5769-4494
+  comment:
+    dislikes: 0
+    thread: "8666697743"
+    numReports: 0
+    likes: 0
+    id: "5475794309"
+    createdAt: 2021-07-30T18:01:48
+    author:
+      name: Andreas Martin Lisewski
+      url: ""
+      profileUrl: ""
+      emailHash: ""
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Central to the authors’ conclusions is their Fig. 3A (middle panel) which,
+      however, is misleading: by including the y-axis origin (0) the authors
+      unrealistically imply that they had an unlimited number n of ONT sequence
+      reads. 
+
+      While apparently they do not report this number for their own experiments, it can be estimated from their Table S1 (n ~ Yield/N50).
+
+
+
+      It then follows that in Fig. 3A (middle) their data only gives a non-zero upper bound (< 1/n) for the “Proportion of total ONT sequence (%)”, which here becomes about two orders of magnitude smaller than the levels reported by Zhang et al. (to which they directly compare).
+
+
+
+      In summary, their main message then boils down to the following: without strong over-expression of L1 (as done in Zhang et al.), and without proper controls of other relevant virus/host factors, the fraction of candidate SARS-CoV-2 genomic integration events observed is about two orders of magnitude smaller than the one reported Zhang et al.
+
+
+
+      This finding certainly does not invalidate (or “contradict") the important and far-reaching result reported by the Jaenisch group.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.05.28.446065v2
+  tweets:
+    - created_at: Fri Jul 30 20:19:49 +0000 2021
+      id: 1421203903538946000
+      id_str: "1421203903538946056"
+      text: >-
+        💬 bioRxiv comment on "No evidence of human genome in..."
+
+
+        "Central to the authors’ conclusions is their Fig. 3A (mi… https://t.co/g8mrFI4u7Z
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/g8mrFI4u7Z
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jul 30 20:19:50 +0000 2021
+      id: 1421203904428134400
+      id_str: "1421203904428134407"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/9PATjBrxnV
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/9PATjBrxnV
+      in_reply_to_status_id: 1421203903538946000
+      in_reply_to_status_id_str: "1421203903538946056"
