@@ -58613,3 +58613,52 @@
           - url: https://t.co/F7h2hElncP
       in_reply_to_status_id: 1421174923825926100
       in_reply_to_status_id_str: "1421174923825926147"
+- preprint:
+    id: 150837
+    metric: 8
+    title: Spontaneous emergence of multicellular heritability
+    url: https://api.rxivist.org/v1/papers/150837
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.19.452990v1
+    doi: 10.1101/2021.07.19.452990
+    category: evolutionary-biology
+    first_posted: 2021-07-20
+    abstract: The Major Transitions in evolution include events and processes that
+      result in the emergence of new levels of biological individuality. For
+      collectives to undergo Darwinian evolution, their traits must be
+      heritable, but the emergence of higher-level heritability is poorly
+      understood and has long been considered a stumbling block for nascent
+      evolutionary transitions. A change in the means by which genetic
+      information is utilized and transmitted has been presumed necessary. Using
+      analytical models, synthetic biology, and biologically-informed
+      simulations, we explored the emergence of trait heritability during the
+      evolution of multicellularity. Contrary to existing theory, we show that
+      no additional layer of genetic regulation is necessary for traits of
+      nascent multicellular organisms to become heritable; rather, heritability
+      and the capacity to respond to natural selection on multicellular-level
+      traits can arise ''for free.'' In fact, we find that a key emergent
+      multicellular trait, organism size at reproduction, is usually more
+      heritable than the underlying cell-level trait upon which it is based,
+      given reasonable assumptions.
+    authors:
+      - name: Seyed Alireza Zamani-Dahaj
+      - name: Anthony Burnetti
+      - name: Thomas Day
+      - name: william C Ratcliff
+      - name: Peter J. Yunker
+      - name: Matthew D Herron
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Fri Jul 30 20:16:05 +0000 2021
+      id: 1421202963389841400
+      id_str: "1421202963389841408"
+      text: |-
+        🔥 bioRxiv Evolutionary-biology preprint by S. A. Zamani-Dahaj et al:
+
+        "Spontaneous emergence of multicellular herit… https://t.co/Ir8KorUPND
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/Ir8KorUPND
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
