@@ -58506,3 +58506,110 @@
           - url: https://t.co/5WqN8O13q4
       in_reply_to_status_id: 1421146409781366800
       in_reply_to_status_id_str: "1421146409781366787"
+- preprint:
+    id: "151960"
+    doi: 10.1101/2021.07.28.453864
+    first_posted: 2021-07-28
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.28.453864v1
+    url: https://api.rxivist.org/v1/papers/151960
+    title: The epithelial-specific ER stress sensor IRE1β enables host-microbiota
+      crosstalk to affect colon goblet cell development
+    category: cell-biology
+    abstract: Epithelial cells lining mucosal surfaces of the gastrointestinal and
+      respiratory tracts uniquely express IRE1{beta} (Ern2), a paralogue of the
+      most evolutionarily conserved endoplasmic reticulum stress sensor IRE1.
+      How IRE1{beta} functions at the host-environment interface and why a
+      second IRE1 paralogue evolved remain incompletely understood. Using
+      conventionally raised and germ-free Ern2-/- mice, we found that IRE1{beta}
+      was required for microbiota-induced goblet cell maturation and mucus
+      barrier assembly in the colon. This occurred only after colonization of
+      the alimentary tract with normal gut microflora, which induced IRE1{beta}
+      expression. IRE1{beta} acted by splicing Xbp1 mRNA to expand ER function
+      and prevent ER stress in goblet cells. Although IRE1 can also splice Xbp1
+      mRNA, it did not act redundantly to IRE1{beta} in this context. By
+      regulating assembly of the colon mucus layer, IRE1{beta} further shaped
+      the composition of the gut microbiota. Mice lacking IRE1{beta} had a
+      dysbiotic microbial community that failed to induce goblet cell
+      development when transferred into germ-free wild type mice. These results
+      show that IRE1{beta} evolved at mucosal surfaces to mediate crosstalk
+      between gut microbes and the colonic epithelium required for normal
+      homeostasis and host defense.
+    authors:
+      - name: Michael J. Grey
+        orcid: http://orcid.org/0000-0001-7805-7398
+      - name: Heidi De Luca
+        orcid: null
+      - name: Doyle V Ward
+        orcid: null
+      - name: Irini A. M. Kreulen
+        orcid: null
+      - name: Sage E. Foley
+        orcid: null
+      - name: Jay R Thiagarajah
+        orcid: null
+      - name: Beth A. McCormick
+        orcid: null
+      - name: Jerrold R Turner
+        orcid: http://orcid.org/0000-0003-0627-9455
+      - name: Wayne I Lencer
+        orcid: http://orcid.org/0000-0001-7346-2730
+  comment:
+    dislikes: 0
+    thread: "8678433824"
+    numReports: 0
+    likes: 0
+    id: "5475282819"
+    createdAt: 2021-07-30T10:11:56
+    author:
+      username: disqus_JNVBDeaHLu
+      about: ""
+      name: David Ron
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_JNVBDeaHLu/
+      url: https://ron.cimr.cam.ac.uk
+      location: University of Cambridge, United Kingdom
+      id: "292386302"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      This study takes on the interesting question of mouse Ern2's role in
+      goblet cell development and function, mucous layer integrity and the
+      intestinal host-microbe interface.
+
+      The emphasis, understandably, is on the mechanistic basis of the fitness-benefit arising from the duplication of the ancestral gene that gave rise to the two ERN paralogues: the broadly expressed ERN1 and mucous producing secretory epithelium-selective ERN2 of vertebrates.
+
+      The finding that epithelial-selective depletion of mouse Xbp1, phenocopies the consequences of germline deletion of Ern2 is taken as evidence that Ern2 exerts at least some of its effects in goblet cells, via XBP1 - an effector common to the products of both ERN genes (IRE1a and IRE1b). This conclusion is plausible, but the data presented in figure 1A and 3A also suggests that the consequences of XBP1 depletion in terms of Alcian Blue positive cell number are 2X more severe than those of Ern2 deletion (~0.17 cells per crypt in wildtype, versus ~0.12 in the Ern2∆ and ~0.06 in the XBP1∆). This may arise from XBP1 having a broad role in tissue development, with secondary consequences on goblet cells, but may also arise from a contribution of IRE1a (the product of the Ern1 gene) to XBP1 splicing in goblet cells - in other words reflecting functional redundancy between the two ERN isoforms in mucous producing cells. The latter possibility seems at odds with the emphasis in the abstracts on non-redundancy of the two isoforms, which suggests important qualitative differences between the two, whereas the two genes may in fact be pullin.g in the same direction, in so far as their effector functions are concerned.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.07.28.453864v1
+  tweets:
+    - created_at: Fri Jul 30 18:24:40 +0000 2021
+      id: 1421174923825926100
+      id_str: "1421174923825926147"
+      text: >-
+        💬 bioRxiv comment on "The epithelial-specific ER str..."
+
+
+        "This study takes on the interesting question of mouse Er… https://t.co/EzYLuUNDBz
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/EzYLuUNDBz
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jul 30 18:24:40 +0000 2021
+      id: 1421174924710973400
+      id_str: "1421174924710973446"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/F7h2hElncP
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/F7h2hElncP
+      in_reply_to_status_id: 1421174923825926100
+      in_reply_to_status_id_str: "1421174923825926147"
