@@ -58784,3 +58784,95 @@
           - url: https://t.co/9PATjBrxnV
       in_reply_to_status_id: 1421203903538946000
       in_reply_to_status_id_str: "1421203903538946056"
+- preprint:
+    id: "55658"
+    doi: 10.1101/700237
+    first_posted: 2019-07-14
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/700237v1
+    url: https://api.rxivist.org/v1/papers/55658
+    title: Can the microbiome influence host evolutionary trajectories?
+    category: evolutionary-biology
+    abstract: The microbiome shapes many traits in hosts, but we still do not
+      understand how it influences host evolution. To impact host evolution, the
+      microbiome must be heritable and have phenotypic effects on the host.
+      However, the complex inheritance and context-dependence of the microbiome
+      challenges traditional models of organismal evolution. Here, we take a
+      multifaceted approach to identify conditions in which the microbiome
+      influences host evolutionary trajectories. We explore quantitative genetic
+      models to highlight how microbial inheritance and phenotypic effects can
+      modulate host evolutionary responses to selection. We synthesize the
+      literature across diverse taxa to find common scenarios of microbiome
+      driven host evolution. First, hosts may leverage locally adapted microbes,
+      increasing survivorship in stressful environments. Second, microbial
+      variation may increase host phenotypic variation, enabling exploration of
+      novel fitness landscapes. We further illustrate these effects by
+      performing a meta-analysis of artificial selection in Drosophila, finding
+      that bacterial diversity also frequently responds to host selection. We
+      conclude by outlining key avenues of research and experimental procedures
+      to improve our understanding of the complex interplay between hosts and
+      microbiomes. By synthesizing perspectives through multiple conceptual and
+      analytical approaches, we show how microbiomes can influence the
+      evolutionary trajectories of hosts.
+    authors:
+      - name: Lucas P. Henry
+        orcid: http://orcid.org/0000-0002-3130-4643
+      - name: Marjolein Bruijning
+        orcid: null
+      - name: Simon K.G. Forsberg
+        orcid: null
+      - name: Julien F. Ayroles
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "7531999502"
+    numReports: 0
+    likes: 0
+    id: "5474574647"
+    createdAt: 2021-07-29T20:22:05
+    author:
+      username: umueller
+      about: ""
+      name: umueller
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/umueller/
+      url: ""
+      location: ""
+      id: "4531288"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: "Box 1, left column, last paragraph: S is the selection
+      differential, not the selection coefficient"
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/700237v1
+  tweets:
+    - created_at: Fri Jul 30 22:19:27 +0000 2021
+      id: 1421234009372307500
+      id_str: "1421234009372307457"
+      text: >-
+        💬 bioRxiv comment on "Can the microbiome influence h..."
+
+
+        "Box 1, left column, last paragraph: S is the selection d… https://t.co/obUYfz4cNi
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/obUYfz4cNi
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Jul 30 22:19:27 +0000 2021
+      id: 1421234010282504200
+      id_str: "1421234010282504195"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/nxfIRx60Wr
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/nxfIRx60Wr
+      in_reply_to_status_id: 1421234009372307500
+      in_reply_to_status_id_str: "1421234009372307457"
