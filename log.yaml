@@ -59588,3 +59588,79 @@
           - url: https://t.co/m0cKLPwaeG
       in_reply_to_status_id: 1421537299406286800
       in_reply_to_status_id_str: "1421537299406286849"
+- preprint:
+    id: 127607
+    metric: 18
+    title: Enhanced immunogenicity of a synthetic DNA vaccine expressing consensus
+      SARS-CoV-2 Spike protein using needle-free immunization
+    url: https://api.rxivist.org/v1/papers/127607
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.02.01.429219v1
+    doi: 10.1101/2021.02.01.429219
+    category: immunology
+    first_posted: 2021-02-01
+    abstract: The ongoing global pandemic of Coronavirus Disease 2019 (COVID-19)
+      calls for an urgent development of effective and safe prophylactic and
+      therapeutic measures. Severe acute respiratory syndrome coronavirus 2
+      (SARS-CoV-2) spike (S) glycoprotein is a major immunogenic and protective
+      protein, and plays a crucial role in viral pathogenesis. In this study, we
+      successfully constructed a synthetic codon-optimized DNA-based vaccine as
+      a countermeasure against SARS-CoV-2; denoted as VIU-1005. The design was
+      based on the synthesis of codon-optimized coding sequence for optimal
+      mammalian expression of a consensus full-length S glycoprotein. The
+      successful construction of the vaccine was confirmed by restriction
+      digestion and sequencing, and the protein expression of the S protein was
+      confirmed by western blot and immunofluorescence staining in mammalian
+      cells. The immunogenicity of the vaccine was tested in two mouse models
+      (BALB/c and C57BL/6J). Th1-skewed systemic S-specific IgG antibodies and
+      neutralizing antibodies (nAbs) were significantly induced in both models
+      four weeks post three injections with 100 g of the VIU-1005 vaccine via
+      intramuscular needle injection but not intradermal or subcutaneous routes.
+      Importantly, such immunization induced long-lasting IgG response in mice
+      that lasted for at least 6 months. Interestingly, using a needle-free
+      system, we showed an enhanced immunogenicity of VIU-1005 in which lower
+      doses such as 25-50 g or less number of doses were able to elicit
+      significantly high levels of Th1-biased systemic S-specific IgG antibodies
+      and nAbs via intramuscular immunization compared to needle immunization.
+      Compared to the intradermal needle injection which failed to induce any
+      significant immune response, intradermal needle-free immunization elicited
+      robust Th1-biased humoral response similar to that observed with
+      intramuscular immunization. Furthermore, immunization with VIU-1005
+      induced potent S-specific cellular response as demonstrated by the
+      significantly high levels of IFN-{gamma}, TNF and IL-2 cytokines
+      production in memory CD8+ and CD4+ T cells in BALB/c mice. Together, our
+      results demonstrate that the synthetic VIU-1005 candidate DNA vaccine is
+      highly immunogenic and capable of inducing long-lasting and Th1-skewed
+      immune response in mice. Furthermore, we show that the use of needle-free
+      system could enhance the immunogenicity and minimize doses needed to
+      induce protective immunity in mice, supporting further preclinical and
+      clinical testing of this candidate vaccine.
+    authors:
+      - name: Saswan S Alamri
+      - name: Khalid A Alluhaybi
+      - name: Rowa Y Alhabbab
+      - name: Abdullah Algaissi
+      - name: Sarah Almahboub
+      - name: Mohamed A Alfaleh
+      - name: Turki S Abujamel
+      - name: Wesam Abdulaal
+      - name: M-Zaki ElAssouli
+      - name: Rahaf Alharbi
+      - name: Mazen Hassanain
+      - name: Anwar M Hashem
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Sat Jul 31 20:15:34 +0000 2021
+      id: 1421565220464509000
+      id_str: "1421565220464508931"
+      text: >-
+        🔥 bioRxiv Immunology preprint by S. S. Alamri et al:
+
+
+        "Enhanced immunogenicity of a synthetic DNA vaccine expressin… https://t.co/lOfBb5qKCk
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/lOfBb5qKCk
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
