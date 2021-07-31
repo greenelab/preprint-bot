@@ -58876,3 +58876,143 @@
           - url: https://t.co/nxfIRx60Wr
       in_reply_to_status_id: 1421234009372307500
       in_reply_to_status_id_str: "1421234009372307457"
+- preprint:
+    id: "148434"
+    doi: 10.1101/2021.06.28.21259039
+    first_posted: 2021-07-02
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.06.28.21259039v1
+    url: https://api.rxivist.org/v1/papers/148434
+    title: COVID-19 vaccines and evidence-based medicine
+    category: public-and-global-health
+    abstract: OBJECTIVE To clarify efficacy, effectiveness, and harm of available
+      vaccines for COVID-19, using measures in evidence-based medicine (EBM)
+      that, in addition to relative risk reduction, consider absolute risk
+      reduction and variations in baseline risks. DESIGN Systematic review of
+      studies that have considered impacts of vaccines in relation to baseline
+      risks. Calculation of risk reduction and harms from published data in two
+      random controlled trials and one population-based implementation study.
+      Analysis of risk reductions in geographical areas with varying baseline
+      risks. Comparison of results concerning COVID-19 vaccine and selected
+      prior vaccines. SETTING Random controlled trials of Pfizer and Moderna
+      vaccines in multiple countries; population-based study using Pfizer
+      vaccine in Israel. Counties with varying baseline risks in the United
+      States; states with varying baseline risks in India. PARTICIPANTS 43,448
+      and 30,420 subjects in the random controlled trials; 1,198,236 subjects in
+      the population-based study. INTERVENTIONS Multi-site random controlled
+      trials of vaccine efficacy; population-based administration of vaccine
+      with determination of effectiveness by comparison of vaccinated and
+      unvaccinated subjects. MAIN OUTCOME MEASURES Relative risk reduction
+      (RRR), absolute risk reduction (ARR), number needed to be vaccinated to
+      prevent one symptomatic infection (NNV), absolute risk of the intervention
+      (ARI), and number needed to harm (NNH). RESULTS A systematic review of
+      literature in medicine and public health showed very few reports regarding
+      ARR, NNV, ARI, and NNH; use of these indicators to compare benefits versus
+      harms; or analysis of these EBM indicators in the context of varying
+      baseline risks. From data in the two random controlled trials and one
+      population-based study, calculated ARR was approximately 1 percent (as
+      compared to RRR of 50 to 95 percent), and NNV was in the range of 100 to
+      500. In comparisons of ARR and NNV versus ARI and NNH, benefits and harms
+      were not markedly different. From a sensitivity analysis of ARR and NNV in
+      population groups with varying baseline risks, the effectiveness of
+      vaccines as measured by ARR and NNV was substantially higher in regions
+      with high as compared to low baseline risks. The ARR for COVID-19 vaccines
+      was somewhat smaller and the NNV somewhat larger than achieved by some
+      vaccines to prevent influenza and smallpox. CONCLUSION The efficacy and
+      effectiveness of major COVID-19 vaccines, as measured by RRR, are
+      impressive. As measured by ARR and NNV, which take into account variation
+      in baseline risks, the effectiveness of the vaccines is substantially
+      higher in areas with higher baseline risks. This finding can contribute to
+      educational efforts, informed consent procedures, and policy making about
+      priorities for vaccine distribution, especially under conditions of access
+      barriers linked to poverty and inequality. WHAT IS ALREADY KNOWN ON THIS
+      TOPIC Major COVID-19 vaccines so far have shown impressive efficacy in
+      random controlled trials and effectiveness in population-based studies. To
+      determine efficacy and effectiveness, these studies have used relative
+      risk reduction (RRR), which shows the difference in event rate between
+      those receiving and not receiving a vaccine. Reports of efficacy and
+      effectiveness have not yet clarified other key indicators from
+      evidence-based medicine (EBM) that consider variations baseline risks.
+      Such indicators include measures of benefits such as absolute risk
+      reduction (ARR) and number needed to be vaccinated (NNV), as well as
+      measures of harm such as absolute risk of the intervention (ARI) and
+      number needed to harm (NNH). WHAT THIS STUDY ADDS For COVID-19 vaccines,
+      calculated ARR is somewhat lower and NNV somewhat higher than for certain
+      prior vaccines such as those for influenza and smallpox. Indicators of
+      harm for COVID-19 vaccines, as measured by ARI and NNH, appear to be in
+      the same order of magnitude as indicators of benefit such as ARR and NNV.
+      The effectiveness of COVID-19 vaccines, as measured by ARR and NNV, is
+      substantially higher in geographical areas with high baseline risk,
+      compared to areas with low baseline risk. These findings can assist in
+      informed consent procedures, educational efforts, and priority setting in
+      policies about distribution of vaccines, especially in the context of
+      access barriers related to poverty and inequality.
+    authors:
+      - name: Andrew Larkin
+        orcid: null
+      - name: Howard Waitzkin
+        orcid: http://orcid.org/0000-0001-5084-6117
+  comment:
+    dislikes: 0
+    thread: "8626339152"
+    numReports: 0
+    likes: 0
+    id: "5473832490"
+    createdAt: 2021-07-29T08:59:44
+    author:
+      username: disqus_CDUZwoWjil
+      about: ""
+      name: Johannes
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_CDUZwoWjil/
+      url: ""
+      location: ""
+      id: "159169073"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: |-
+      "We obtained the baseline risks for selected U.S. counties from the Johns
+       Hopkins University dashboard and for selected states of India from the 
+      New York Times dashboard"
+
+
+      JHU has received well in excess of $100,000,000 from the BMGF.
+
+
+      Is this a potential conflict of interest ?
+
+
+      Many Thanks.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.06.28.21259039v1
+  tweets:
+    - created_at: Sat Jul 31 01:02:36 +0000 2021
+      id: 1421275065136697300
+      id_str: "1421275065136697345"
+      text: >-
+        💬 medRxiv comment on "COVID-19 vaccines and evidence..."
+
+
+        ""We obtained the baseline risks for selected U.S. counti… https://t.co/bWalIRrC7q
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/bWalIRrC7q
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jul 31 01:02:36 +0000 2021
+      id: 1421275066118123500
+      id_str: "1421275066118123524"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/1boRqzyH8h
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/1boRqzyH8h
+      in_reply_to_status_id: 1421275065136697300
+      in_reply_to_status_id_str: "1421275065136697345"
