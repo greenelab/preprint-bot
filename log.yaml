@@ -59016,3 +59016,111 @@
           - url: https://t.co/1boRqzyH8h
       in_reply_to_status_id: 1421275065136697300
       in_reply_to_status_id_str: "1421275065136697345"
+- preprint:
+    id: "151584"
+    doi: 10.1101/2021.07.22.21260942
+    first_posted: 2021-07-25
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.07.22.21260942v1
+    url: https://api.rxivist.org/v1/papers/151584
+    title: Safety and Immunogenicity of Nanocovax, a SARS-CoV-2 Recombinant Spike
+      Protein Vaccine
+    category: infectious-diseases
+    abstract: Background Nanocovax is a recombinant severe acute respiratory
+      syndrome coronavirus 2 subunit vaccine composed of full-length prefusion
+      stabilized recombinant SARS-CoV-2 spike glycoproteins (S-2P) and aluminum
+      hydroxide adjuvant. Methods We conducted a dose-escalation, open label
+      trial (phase 1) and a randomized, double-blind, placebo-controlled trial
+      (phase 2) to evaluate the safety and immunogenicity of the Nanocovax
+      vaccine (in 25 microgram (mcg), 50 mcg, and 75 mcg doses, aluminum
+      hydroxide adjuvanted). In phase 1, 60 participants received two
+      intramuscular injection of the vaccine following dose-escalation
+      procedure. The primary outcomes were reactogenicity and laboratory tests
+      to evaluate the vaccine safety. In phase 2 which involved in 560 healthy
+      adults, the primary outcomes are vaccine safety; and anti-S IgG antibody
+      response. Secondary outcomes were surrogate virus neutralization,
+      wild-type SARS-CoV-2 neutralization, and T-cell responses by intracellular
+      staining (ICS) for interferon gamma (IFNg). We performed primary analyses
+      at day 35 and day 42. Results For phase 1 study, no serious adverse events
+      (SAE) were observed for all 60 participants. Most adverse events (AE) were
+      grade 1 and disappeared shortly after injection. For phase 2 study, after
+      randomization, 480 participants were assigned to receive the vaccine with
+      adjuvant, and 80 participants were assigned to receive placebo.
+      Reactogenicity was absent or mild in the majority of participants and of
+      short duration (mean, [&le;]3 days). Unsolicited adverse events were mild
+      in most participants. There were no serious adverse events related to
+      Nanocovax. Regarding the immunogenicity, Nanocovax induced robust anti-S
+      antibody responses. There was no statistical difference in antibody
+      responses among dose strengths on Day 42, in terms of anti S-IgG level and
+      neutralizing antibody titer. Conclusions Up to 42 days, Nanocovax vaccine
+      was safe, well tolerated and induced robust immune responses. We propose
+      using Nanocovax 25 mcg for Phase 3 to evaluate the vaccine efficacy.
+      (Research funded by Nanogen Pharmaceutical Biotechnology JSC., and the
+      Ministry of Science and Technology of Vietnam; ClinicalTrials.gov number,
+      NCT04683484.)
+    authors:
+      - name: Thuy P Nguyen
+        orcid: null
+      - name: Quyet Do
+        orcid: null
+      - name: Lan T Lan
+        orcid: null
+      - name: Duc V Dinh
+        orcid: null
+      - name: Hiep Khong
+        orcid: http://orcid.org/0000-0003-4888-7862
+      - name: Si Minh Do
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8671526357"
+    numReports: 0
+    likes: 0
+    id: "5473790615"
+    createdAt: 2021-07-29T07:39:07
+    author:
+      username: disqus_V47AR3q8hU
+      about: ""
+      name: ncn
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_V47AR3q8hU/
+      url: ""
+      location: ""
+      id: "372998096"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Will this preprint be submitted to a peer-review journal? Wish the
+      research team all the best.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.07.22.21260942v1
+  tweets:
+    - created_at: Sat Jul 31 12:31:07 +0000 2021
+      id: 1421448337417547800
+      id_str: "1421448337417547777"
+      text: >-
+        💬 medRxiv comment on "Safety and Immunogenicity of N..."
+
+
+        "Will this preprint be submitted to a peer-review journal… https://t.co/5iSWwCjdre
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/5iSWwCjdre
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Jul 31 12:31:07 +0000 2021
+      id: 1421448338289922000
+      id_str: "1421448338289922048"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/ZcK5zBoahj
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/ZcK5zBoahj
+      in_reply_to_status_id: 1421448337417547800
+      in_reply_to_status_id_str: "1421448337417547777"
