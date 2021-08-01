@@ -60059,3 +60059,107 @@
           - url: https://t.co/s87cp8UEXr
       in_reply_to_status_id: 1421639841498939400
       in_reply_to_status_id_str: "1421639841498939393"
+- preprint:
+    id: "151766"
+    doi: 10.1101/2021.07.23.21260998
+    first_posted: 2021-07-27
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.07.23.21260998v1
+    url: https://api.rxivist.org/v1/papers/151766
+    title: "Risk of Myocarditis from COVID-19 Infection in People Under Age 20: A
+      Population-Based Analysis"
+    category: public-and-global-health
+    abstract: Background There have been recent reports of myocarditis (including
+      myocarditis, pericarditis or myopericarditis) as a side-effect of
+      mRNA-based COVID-19 vaccines, particularly in young males. Less
+      information is available regarding the risk of myocarditis from COVID-19
+      infection itself. Such data would be helpful in developing a complete
+      risk-benefit analysis for this population. Methods A de-identified,
+      limited data set was created from the TriNetX Research Network,
+      aggregating electronic health records from 48 mostly large U.S. Healthcare
+      Organizations (HCOs). Inclusion criteria were a first COVID-19 diagnosis
+      during the April 1, 2020 - March 31, 2021 time period, with an outpatient
+      visit 1 month to 2 years before, and another 6 months to 2 years before
+      that. Analysis was stratified by sex and age (12-17, 12-15, 16-19).
+      Patients were excluded for any prior cardiovascular condition. Primary
+      outcome was an encounter diagnosis of myocarditis within 90 days following
+      the index date. Rates of COVID-19 cases and myocarditis not identified in
+      the system were estimated and the results adjusted accordingly. Wilson
+      score intervals were used for 95% confidence intervals due to the very low
+      probability outcome. Results For the 12-17-year-old male cohort, 6/6,846
+      (0.09%) patients developed myocarditis overall, with an adjusted rate per
+      million of 876 cases (Wilson score interval 402 - 1,911). For the 12-15
+      and 16-19 male age groups, the adjusted rates per million were 601 (257 -
+      1,406) and 561 (240 - 1,313). For 12-17-year-old females, there were 3
+      (0.04%) cases of myocarditis of 7,361 patients. The adjusted rate was 213
+      (73 - 627) per million cases. For the 12-15- and 16-19-year-old female
+      cohorts the adjusted rates per million cases were 235 (64 - 857) and 708
+      (359 - 1,397). The outcomes occurred either within 5 days (40.0%) or from
+      19-82 days (~60.0%). Conclusions Myocarditis (or pericarditis or
+      myopericarditis) from primary COVID19 infection occurred at a rate as high
+      as 450 per million in young males. Young males infected with the virus are
+      up 6 times more likely to develop myocarditis as those who have received
+      the vaccine.
+    authors:
+      - name: Mendel E Singer
+        orcid: http://orcid.org/0000-0002-3331-3340
+      - name: Ira B. Taub
+        orcid: http://orcid.org/0000-0001-6031-0420
+      - name: David C. Kaelber
+        orcid: http://orcid.org/0000-0001-7855-9515
+  comment:
+    dislikes: 0
+    thread: "8674814320"
+    numReports: 0
+    likes: 0
+    id: "5473246671"
+    createdAt: 2021-07-28T21:23:03
+    author:
+      username: disqus_PApx4tY87R
+      about: ""
+      name: zega
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_PApx4tY87R/
+      url: ""
+      location: ""
+      id: "91575499"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: In vaccine case it was 4 days mean time, in case of CT 18 kids
+      ended hospitalized in the beginning
+      https://www.nbcconnecticut.com/news/coronavirus/connecticut-confirms-at-least-18-cases-of-apparent-heart-problems-in-young-people-after-covid-19-vaccination/2494534/  number
+      of kids received vacine up to that time was 20K in CT? Calculate risk
+      analysis in those cases...
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.07.23.21260998v1
+  tweets:
+    - created_at: Sun Aug 01 12:30:25 +0000 2021
+      id: 1421810547625021400
+      id_str: "1421810547625021444"
+      text: >-
+        💬 medRxiv comment on "Risk of Myocarditis from COVID..."
+
+
+        "In vaccine case it was 4 days mean time, in case of CT 1… https://t.co/rI6IfwPK8E
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/rI6IfwPK8E
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Aug 01 12:30:25 +0000 2021
+      id: 1421810548375703600
+      id_str: "1421810548375703560"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/zKi1j1TiMq
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/zKi1j1TiMq
+      in_reply_to_status_id: 1421810547625021400
+      in_reply_to_status_id_str: "1421810547625021444"
