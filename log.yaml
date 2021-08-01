@@ -60163,3 +60163,148 @@
           - url: https://t.co/zKi1j1TiMq
       in_reply_to_status_id: 1421810547625021400
       in_reply_to_status_id_str: "1421810547625021444"
+- preprint:
+    id: "118013"
+    doi: 10.1101/2020.10.19.20214494
+    first_posted: 2020-10-21
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2020.10.19.20214494v1
+    url: https://api.rxivist.org/v1/papers/118013
+    title: "Attributes and predictors of Long-COVID: analysis of COVID cases and
+      their symptoms collected by the Covid Symptoms Study App"
+    category: infectious-diseases
+    abstract: Reports of "Long-COVID", are rising but little is known about
+      prevalence, risk factors, or whether it is possible to predict a
+      protracted course early in the disease. We analysed data from 4182
+      incident cases of COVID-19 who logged their symptoms prospectively in the
+      COVID Symptom Study app. 558 (13.3%) had symptoms lasting >=28 days, 189
+      (4.5%) for >=8 weeks and 95 (2.3%) for >=12 weeks. Long-COVID was
+      characterised by symptoms of fatigue, headache, dyspnoea and anosmia and
+      was more likely with increasing age, BMI and female sex. Experiencing more
+      than five symptoms during the first week of illness was associated with
+      Long-COVID, OR=3.53 [2.76;4.50]. A simple model to distinguish between
+      short and long-COVID at 7 days, which gained a ROC-AUC of 76%, was
+      replicated in an independent sample of 2472 antibody positive individuals.
+      This model could be used to identify individuals for clinical trials to
+      reduce long-term symptoms and target education and rehabilitation
+      services.
+    authors:
+      - name: Carole H. Sudre
+        orcid: http://orcid.org/0000-0001-5753-428X
+      - name: Benjamin Murray
+        orcid: http://orcid.org/0000-0002-2413-923X
+      - name: Thomas Varsavsky
+        orcid: http://orcid.org/0000-0002-8624-8116
+      - name: Mark S Graham
+        orcid: http://orcid.org/0000-0002-4170-1095
+      - name: Rose S. Penfold
+        orcid: http://orcid.org/0000-0001-7023-7108
+      - name: Ruth C. E. Bowyer
+        orcid: http://orcid.org/0000-0002-6941-8160
+      - name: Joan Capdevila Pujol
+        orcid: http://orcid.org/0000-0003-1658-1076
+      - name: Kerstin Klaser
+        orcid: http://orcid.org/0000-0002-5230-6939
+      - name: Michela Antonelli
+        orcid: http://orcid.org/0000-0002-3005-4523
+      - name: Liane S Canas
+        orcid: http://orcid.org/0000-0002-2553-1284
+      - name: Erika Molteni
+        orcid: http://orcid.org/0000-0001-7773-8140
+      - name: Marc Modat
+        orcid: http://orcid.org/0000-0002-5277-8530
+      - name: M. Jorge Cardoso
+        orcid: http://orcid.org/0000-0003-1284-2558
+      - name: Anna May
+        orcid: null
+      - name: Sajaysurya Ganesh
+        orcid: http://orcid.org/0000-0002-3720-4176
+      - name: Richard Davies
+        orcid: http://orcid.org/0000-0003-2050-3994
+      - name: Long Nguyen
+        orcid: http://orcid.org/0000-0002-5436-4219
+      - name: David A. Drew
+        orcid: http://orcid.org/0000-0002-8813-0816
+      - name: Christina M. Astley
+        orcid: null
+      - name: Amit D. Joshi
+        orcid: null
+      - name: Jordi Merino
+        orcid: http://orcid.org/0000-0001-8312-1438
+      - name: Neli Tsereteli
+        orcid: null
+      - name: Tove Fall
+        orcid: http://orcid.org/0000-0003-2071-5866
+      - name: Maria F Gomez
+        orcid: http://orcid.org/0000-0001-6210-3142
+      - name: Emma L. Duncan
+        orcid: http://orcid.org/0000-0002-8143-4403
+      - name: Cristina Menni
+        orcid: http://orcid.org/0000-0001-9790-0571
+      - name: Frances M. K. Williams
+        orcid: http://orcid.org/0000-0002-2998-2744
+      - name: Paul W Franks
+        orcid: http://orcid.org/0000-0002-0520-7604
+      - name: Andrew T. Chan
+        orcid: http://orcid.org/0000-0001-7284-6767
+      - name: Jonathan Wolf
+        orcid: http://orcid.org/0000-0002-0530-2257
+      - name: Sebastien Ourselin
+        orcid: http://orcid.org/0000-0002-5694-5340
+      - name: Tim Spector
+        orcid: null
+      - name: Claire J. Steves
+        orcid: http://orcid.org/0000-0002-4910-0489
+  comment:
+    dislikes: 0
+    thread: "8247166575"
+    numReports: 0
+    likes: 0
+    id: "5472682211"
+    createdAt: 2021-07-28T14:09:18
+    author:
+      username: disqus92942
+      about: ""
+      name: Meta Discourse 1
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus92942/
+      url: https://pubmed.ncbi.nlm.nih.gov
+      location: ""
+      id: "319206909"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Fyi, see also https://www.bmj.com/content/374/bmj.n1648
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2020.10.19.20214494v1
+  tweets:
+    - created_at: Sun Aug 01 14:16:58 +0000 2021
+      id: 1421837362531819500
+      id_str: "1421837362531819523"
+      text: |-
+        💬 medRxiv comment on "Attributes and predictors of L..."
+
+        "Fyi, see also "
+
+        https://t.co/iIVbIcfCsh
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/iIVbIcfCsh
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Aug 01 14:16:58 +0000 2021
+      id: 1421837363337171000
+      id_str: "1421837363337170944"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/NVZlXVTyql
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/NVZlXVTyql
+      in_reply_to_status_id: 1421837362531819500
+      in_reply_to_status_id_str: "1421837362531819523"
