@@ -60542,3 +60542,70 @@
           - url: https://t.co/KWTqgZj0HV
       in_reply_to_status_id: 1421899539599040500
       in_reply_to_status_id_str: "1421899539599040520"
+- preprint:
+    id: 152309
+    metric: 7
+    title: "Highly efficient SARS-CoV-2 infection of human cardiomyocytes: spike
+      protein-mediated cell fusion and its inhibition"
+    url: https://api.rxivist.org/v1/papers/152309
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.30.454437v1
+    doi: 10.1101/2021.07.30.454437
+    category: microbiology
+    first_posted: 2021-07-30
+    abstract: "Severe cardiovascular complications can occur in coronavirus disease
+      of 2019 (COVID-19) patients. Cardiac damage is attributed mostly to a
+      bystander effect: the aberrant host response to acute respiratory
+      infection. However, direct infection of cardiac tissue by severe acute
+      respiratory syndrome coronavirus 2 (SARS-CoV-2) also occurs. We examined
+      here the cardiac tropism of SARS-CoV-2 in human induced pluripotent stem
+      cell-derived cardiomyocytes (hiPSC-CM) that beat spontaneously. These
+      cardiomyocytes express the angiotensin I converting-enzyme 2 (ACE2)
+      receptor and a subset of the proteases that mediate spike protein cleavage
+      in the lungs, but not transmembrane protease serine 2 (TMPRSS2).
+      Nevertheless, SARS-CoV-2 infection was productive: viral transcripts
+      accounted for about 88% of total mRNA. In the cytoplasm of infected
+      hiPSC-CM, smooth walled exocytic vesicles contained numerous 65-90 nm
+      particles with typical ribonucleocapsid structures, and virus-like
+      particles with knob-like spikes covered the cell surface. To better
+      understand the mechanisms of SARS-CoV-2 spread in hiPSC-CM we engineered
+      an expression vector coding for the spike protein with a monomeric
+      emerald-green fluorescent protein fused to its cytoplasmic tail (S-mEm).
+      Proteolytic processing of S-mEm and the parental spike were equivalent.
+      Live cell imaging tracked spread of S-mEm signal from cell to cell and
+      documented formation of syncytia. A cell-permeable, peptide-based molecule
+      that blocks the catalytic site of furin abolished cell fusion. A spike
+      mutant with the single amino acid change R682S that inactivates the furin
+      cleavage site was fusion inactive. Thus, SARS-CoV-2 can replicate
+      efficiently in hiPSC-CM and furin activation of its spike protein is
+      required for fusion-based cytopathology. This hiPSC-CM platform provides
+      an opportunity for target-based drug discovery in cardiac COVID-19."
+    authors:
+      - name: Chanakha  K. Navaratnarajah
+      - name: David  R. Pease
+      - name: Peter Halfmann
+      - name: Biruhalem Taye
+      - name: Alison Barkhymer
+      - name: Kyle  G. Howell
+      - name: Jon  E. Charlesworth
+      - name: Trace  A. Christensen
+      - name: Yoshihiro Kawaoka
+      - name: Roberto Cattaneo
+      - name: Jay  W. Schneider
+      - name: Timothy J. Nelson (Director), Boyd Rasmussen and Frank J. Secreto
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Sun Aug 01 20:16:59 +0000 2021
+      id: 1421927966242656300
+      id_str: "1421927966242656258"
+      text: >-
+        🔥 bioRxiv Microbiology preprint by C. K. Navaratnarajah et al:
+
+
+        "Highly efficient SARS-CoV-2 infection of human car… https://t.co/9TOFSMbgcn
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/9TOFSMbgcn
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
