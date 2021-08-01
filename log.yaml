@@ -60308,3 +60308,103 @@
           - url: https://t.co/NVZlXVTyql
       in_reply_to_status_id: 1421837362531819500
       in_reply_to_status_id_str: "1421837362531819523"
+- preprint:
+    id: "149252"
+    doi: 10.1101/2021.07.05.21260050
+    first_posted: 2021-07-07
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.07.05.21260050v1
+    url: https://api.rxivist.org/v1/papers/149252
+    title: Progressive Increase in Virulence of Novel SARS-CoV-2 Variants in
+      Ontario, Canada
+    category: infectious-diseases
+    abstract: "Background: The period from February to June 2021 was one during
+      which initial wild-type SARS-CoV-2 strains were supplanted in Ontario,
+      Canada, first by variants of concern (VOC) with the N501Y mutation
+      (Alpha/B1.1.17, Beta/B.1.351 and Gamma/P.1 variants), and then by the
+      Delta/B.1.617 variant. The increased transmissibility of these VOCs has
+      been documented but data for increased virulence is limited. We used
+      Ontario COVID-19 case data to evaluate the virulence of these VOCs
+      compared to non-VOC SARS-CoV-2 infections, as measured by risk of
+      hospitalization, intensive care unit (ICU) admission, and death. Methods:
+      We created a retrospective cohort of people in Ontarios testing positive
+      for SARS-CoV-2 and screened for VOCs, with dates of test report between
+      February 7 and June 22, 2021 (n=211,197). We constructed mixed effects
+      logistic regression models with hospitalization, ICU admission, and death
+      as outcome variables. Models were adjusted for age, sex, time,
+      comorbidities, and pregnancy status. Health units were included as random
+      intercepts. Results: Compared to non-VOC SARS-CoV-2 strains, the adjusted
+      elevation in risk associated with N501Y-positive variants was 59% (49-69%)
+      for hospitalization; 105% (82-134%) for ICU admission; and 61% (40-87%)
+      for death. Increases with Delta variant were more pronounced: 120%
+      (93-153%) for hospitalization; 287% (198-399%) for ICU admission; and 137%
+      (50-230%) for death. Interpretation: The progressive increase in
+      transmissibility and virulence of SARS-CoV-2 VOCs will result in a
+      significantly larger, and more deadly, pandemic than would have occurred
+      in the absence of VOC emergence."
+    authors:
+      - name: David Fisman
+        orcid: http://orcid.org/0000-0001-5009-6926
+      - name: Ashleigh Tuite
+        orcid: http://orcid.org/0000-0002-4373-9337
+  comment:
+    dislikes: 0
+    thread: "8644668449"
+    numReports: 0
+    likes: 1
+    id: "5471931454"
+    createdAt: 2021-07-27T21:57:49
+    author:
+      username: mdgraymsncom
+      about: ""
+      name: mdgray@msn.com
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/mdgraymsncom/
+      url: ""
+      location: ""
+      id: "335133913"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: The confounder may be vaccinations and vaccination breakthroughs.
+      Canada has had high vaccinations during the study timeframe. And was
+      particularly high during the period Delta became dominant. Since Delta
+      deaths were skewed towards the end of the period it's probable that deaths
+      were missed in their 2 week end window. Also, while vaccines are quite
+      effective, infections do occur. Unfortunately, the authors did not have
+      individual vaccination records of the cases. So the key to the higher
+      virulence numbers may be their modeling of vaccination impact. It would be
+      good if the paper had some tables and details of that model and how their
+      results followed. I don't find their results unreasonable given that.
+    forum: medrxiv
+    points: 1
+    link: https://www.medrxiv.org/content/10.1101/2021.07.05.21260050v2
+  tweets:
+    - created_at: Sun Aug 01 16:30:16 +0000 2021
+      id: 1421870908189421600
+      id_str: "1421870908189421571"
+      text: >-
+        💬 medRxiv comment on "Progressive Increase in Virule..."
+
+
+        "The confounder may be vaccinations and vaccination break… https://t.co/pT0XzaBbqa
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/pT0XzaBbqa
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Aug 01 16:30:16 +0000 2021
+      id: 1421870909141434400
+      id_str: "1421870909141434377"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/puR7zuGbpW
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/puR7zuGbpW
+      in_reply_to_status_id: 1421870908189421600
+      in_reply_to_status_id_str: "1421870908189421571"
