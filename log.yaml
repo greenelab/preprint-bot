@@ -60408,3 +60408,137 @@
           - url: https://t.co/puR7zuGbpW
       in_reply_to_status_id: 1421870908189421600
       in_reply_to_status_id_str: "1421870908189421571"
+- preprint:
+    id: "145489"
+    doi: 10.1101/2021.06.09.447478
+    first_posted: 2021-06-10
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.06.09.447478v1
+    url: https://api.rxivist.org/v1/papers/145489
+    title: Molecular recognition of an acyl-peptide hormone and activation of
+      ghrelin receptor
+    category: biophysics
+    abstract: Ghrelin, also called &quotthe hunger hormone&quot, is a gastric
+      peptide hormone that regulates food intake, body weight, as well as taste
+      sensation, reward cognition, learning and memory. One unique feature of
+      ghrelin is its acylation, primarily with an octanoic acid, which is
+      essential for its binding and activation of the ghrelin receptor, a G
+      protein-coupled receptor. The multifaceted roles of ghrelin make ghrelin
+      receptor a highly attractive drug target for growth retardation, obesity,
+      and metabolic disorders. Here we present two cryo-electron microscopy
+      structures of Gq-coupled ghrelin receptor bound to ghrelin and a synthetic
+      agonist, GHRP-6. Analysis of these two structures reveals a unique binding
+      pocket for the octanoyl group, which guides the correct positioning of the
+      peptide to initiate the receptor activation. Together with mutational and
+      functional data, our structures define the rules for recognition of the
+      acylated peptide hormone and activation of ghrelin receptor, and provide
+      structural templates to facilitate drug design targeting ghrelin receptor.
+    authors:
+      - name: Yue Wang
+        orcid: http://orcid.org/0000-0002-1788-1102
+      - name: Shimeng Guo
+        orcid: http://orcid.org/0000-0002-8086-5092
+      - name: Youwen Zhuang
+        orcid: null
+      - name: Ying Yun
+        orcid: null
+      - name: Peiyu Xu
+        orcid: null
+      - name: Xinheng He
+        orcid: null
+      - name: Jia Guo
+        orcid: null
+      - name: Wanchao Yin
+        orcid: http://orcid.org/0000-0002-6889-4907
+      - name: H. Eric Xu
+        orcid: http://orcid.org/0000-0002-6829-8144
+      - name: Xin Xie
+        orcid: http://orcid.org/0000-0003-2314-4800
+      - name: Yi Jiang
+        orcid: http://orcid.org/0000-0002-0723-1413
+  comment:
+    dislikes: 0
+    thread: "8585172699"
+    numReports: 0
+    likes: 0
+    id: "5472475069"
+    createdAt: 2021-07-28T10:18:32
+    author:
+      username: mattiadeluigi
+      about: ""
+      name: Mattia Deluigi
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/mattiadeluigi/
+      url: ""
+      location: ""
+      id: "372931606"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Very exciting contribution to the field, congratulations.
+
+
+
+      I have 1–2 suggestions regarding the structural comparison with the related neurotensin receptor 1 (NTSR1), e.g. as shown in Extended Data Fig. 8f. As inactive-state NTSR1 structure, the complex of rat NTSR1 with the full agonist neurotensin 8–13 fragment is shown (PDB ID: 4BUO). While this structure was obtained without G protein and adopts a closed conformation at the cytosolic side, the extracellular receptor half is virtually identical to other agonist-bound, active-state (or active-like) NTSR1 structures (e.g., PDB IDs: 6OS9, 4XEE, or 4GRV).
+
+
+
+      We have recently determined three structures of rNTSR1 bound to two inverse agonists. Compared to the agonist-bound structures, the inverse agonists caused a pronounced outward tilting of the extracellular ends of TM6 and especially TM7, and of ECL3. It may be interesting to point out the similarity between GHSR and NTSR1 in the large extracellular displacement of TM7 upon activation / inactivation. 
+
+
+
+      PDB IDs: 6Z4S (structure with the least engineering), 6ZIN, 6Z4Q.
+
+
+
+      Full story DOI: 10.1126/sciadv.abe5504
+
+
+
+      We also shed additional light on the activation mechanism of NTSR1, and on how nonpeptidic agonists and inverse agonists modulate receptor activity. There are striking analogies and some interesting differences between our findings with NTSR1 and those on GHSR presented here (e.g., the involvement of residues 3.33 and 6.55; the importance of the aromatic cluster composed by residues 6.44, 6.48, 6.51, 6.58, and 7.42; cavity II in GHSR and a corresponding hydrophobic sub-pocket in NTSR1 crucial for activation / inactivation). 
+
+
+
+
+      Presenting a slightly more detailed comparison of NTSR1 and GHSR may substantially expand our mechanistic understanding of the ghrelin family receptors and thus represent another valuable contribution to the field.
+
+
+
+      Kind regards and all the best,
+
+
+
+      Mattia Deluigi
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.06.09.447478v1
+  tweets:
+    - created_at: Sun Aug 01 18:24:02 +0000 2021
+      id: 1421899539599040500
+      id_str: "1421899539599040520"
+      text: >-
+        💬 bioRxiv comment on "Molecular recognition of an ac..."
+
+
+        "Very exciting contribution to the field, congratulations… https://t.co/gvA5HSYXs1
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/gvA5HSYXs1
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Aug 01 18:24:02 +0000 2021
+      id: 1421899540328853500
+      id_str: "1421899540328853505"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/KWTqgZj0HV
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/KWTqgZj0HV
+      in_reply_to_status_id: 1421899539599040500
+      in_reply_to_status_id_str: "1421899539599040520"
