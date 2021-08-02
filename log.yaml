@@ -61565,3 +61565,63 @@
           - url: https://t.co/oTURmeVcNy
       in_reply_to_status_id: 1422263284498112500
       in_reply_to_status_id_str: "1422263284498112533"
+- preprint:
+    id: 102382
+    metric: 42
+    title: In vitro assessment of the virucidal activity of four mouthwashes
+      containing Cetylpyridinium Chloride, ethanol, zinc and a mix of enzyme and
+      proteins against a human coronavirus
+    url: https://api.rxivist.org/v1/papers/102382
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.10.28.359257v1
+    doi: 10.1101/2020.10.28.359257
+    category: microbiology
+    first_posted: 2020-10-28
+    abstract: >-
+      Background: saliva is established to contain high counts SARS-CoV-2 virus
+      and contact with saliva droplets, contaminated surfaces or airborne
+      particles are sources of viral transmission. The generation of infective
+      aerosols during clinical procedures is of particular concern. Therefore, a
+      fuller understanding of the potential of mouthwash to reduce viral counts
+      and modulate the risk of transmission in medical professional and public
+      context is an important research topic. Method: we determined the
+      virucidal activity of four anti-bacterial mouthwashes against a surrogate
+      for SARS-CoV-2, Human CoV-SARS 229E, using a standard ASTM suspension
+      test, with dilution and contact times applicable to recommended mouthwash
+      use. Results: the mouthwash formulated with 0.07% Cetylpyridinium Chloride
+      exhibited virucidal effects providing a ≥3.0 log reduction HCoV-229E viral
+      count. Mouthwashes containing 15.7% ethanol, 0.2% zinc sulphate
+      heptahydrate and a mix of enzymes and proteins did not demonstrate
+      substantive virucidal activity in this test. Conclusion: mouthwash
+      containing 0.07% Cetylpyridinium Chloride warrants further laboratory and
+      clinical assessment to determine their potential benefit in reducing the
+      risk of SARS-CoV-2.
+
+
+      ### Competing Interest Statement
+
+
+      All authors are employees of Unilever.
+    authors:
+      - name: Alison Green
+      - name: Glyn Roberts
+      - name: Timothy Tobery
+      - name: Carol Vincent
+      - name: Matteo Barili
+      - name: Carolyn Jones
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Mon Aug 02 20:17:52 +0000 2021
+      id: 1422290574883926000
+      id_str: "1422290574883926021"
+      text: >-
+        🔥 bioRxiv Microbiology preprint by A. Green et al:
+
+
+        "In vitro assessment of the virucidal activity of four mouthwas… https://t.co/W1aDuA4v9j
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/W1aDuA4v9j
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
