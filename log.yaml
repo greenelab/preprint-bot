@@ -61625,3 +61625,123 @@
           - url: https://t.co/W1aDuA4v9j
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "144165"
+    doi: 10.1101/2021.05.31.21258081
+    first_posted: 2021-05-31
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.31.21258081v1
+    url: https://api.rxivist.org/v1/papers/144165
+    title: Favorable outcome on viral load and culture viability using Ivermectin in
+      early treatment of non-hospitalized patients with mild COVID-19, A
+      double-blind, randomized placebo-controlled trial.
+    category: infectious-diseases
+    abstract: "Background: Ivermectin, an antiparasitic agent, also has antiviral
+      properties. Our aim was to assess whether ivermectin can shorten the viral
+      shedding in patients at an early stage of COVID19 infection. Methods: The
+      double blinded trial compared patients receiving ivermectin 0.2 mg/kg for
+      3 days vs. placebo in non-hospitalized COVID19 patients. RT-PCR from a
+      nasopharyngeal swab was obtained at recruitment and then every two days.
+      Primary endpoint was reduction of viral-load on the 6th day (third day
+      after termination of treatment) as reflected by Ct level>30
+      (non-infectious level). The primary outcome was supported by determination
+      of viral culture viability. Results: Eighty nine patients were eligible
+      (47 in ivermectin and 42 in placebo arm). Their median age was 35 years.
+      Females accounted for 21.6%, and 16.8% were asymptomatic at recruitment.
+      Median time from symptom onset was 4 days. There were no statistical
+      differences in these parameters between the two groups. On day 6, 34 out
+      of 47 (72%) patients in the ivermectin arm reached the endpoint, compared
+      to 21/ 42 (50%) in the placebo arm (OR 2.62; 95% CI: 1.09 to 6.31). In a
+      multivariable logistic regression model, the odds of a negative test at
+      day 6 was 2.62 time higher in the ivermectin group (95% CI: 1.06 to 6.45).
+      Cultures at days 2 to 6 were positive in 3/23 (13.0%) of ivermectin
+      samples vs. 14/29 (48.2%) in the placebo group (p=0.008). Conclusions:
+      There were significantly lower viral loads and viable cultures in the
+      ivermectin group, which could lead to shortening isolation time in these
+      patients."
+    authors:
+      - name: Asaf Biber
+        orcid: http://orcid.org/0000-0001-6007-0383
+      - name: Michal Mandelboim
+        orcid: http://orcid.org/0000-0002-5997-7241
+      - name: Geva Harmelin
+        orcid: null
+      - name: Dana Lev
+        orcid: null
+      - name: Li Ram
+        orcid: null
+      - name: Amit Shaham
+        orcid: null
+      - name: Ital Nemet
+        orcid: null
+      - name: Limor Kliker
+        orcid: null
+      - name: Oran Erster
+        orcid: http://orcid.org/0000-0003-4839-8997
+      - name: Eli Schwartz
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8565279083"
+    numReports: 0
+    likes: 1
+    id: "5479259815"
+    createdAt: 2021-08-02T17:49:13
+    author:
+      username: disqus_ZP8inEM92E
+      about: ""
+      name: Pavlo
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_ZP8inEM92E/
+      url: ""
+      location: ""
+      id: "373198523"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      While I can see some of the limitations of the study (authors themselves
+      mention the limitations in the conclusion), I feel the criticism does not
+      give the authors the credit where it is due, namely, the detailed temporal
+      dependence of the viral load, which appears to be the primary design goal
+      of the research. From Fig. 2 for days 2 and 4 one can clearly see that the
+      viral load in ivermectin group is about two orders of magnitude lower
+      (!!), and is very statistically significant. The Ct value being 30 vs 40
+      appears to be quite irrelevant in this context, since the majority of the
+      effect of the treatment happens in the first 5 days where the viral load
+      is very high in both groups (i.e. Ct is way below 30 for both groups).
+
+
+      The authors clearly say in the background "Our aim was to assess whether ivermectin can shorten the viral shedding in patients at an early-stage of COVID-19 infection.", and their design was tailored to this particular goal by measuring viral load in patients. They did find that the viral load reduces significantly in the first several days, while leveling up at six days and further. The criticism that they did not measure something else that the critic would like them to measure appears misdirected.
+    forum: medrxiv
+    points: 1
+    link: https://www.medrxiv.org/content/10.1101/2021.05.31.21258081v1
+  tweets:
+    - created_at: Mon Aug 02 20:26:18 +0000 2021
+      id: 1422292696249651200
+      id_str: "1422292696249651205"
+      text: >-
+        💬 medRxiv comment on "Favorable outcome on viral loa..."
+
+
+        "While I can see some of the limitations of the study (au… https://t.co/AjEP5rIQki
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/AjEP5rIQki
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Aug 02 20:26:18 +0000 2021
+      id: 1422292696996188200
+      id_str: "1422292696996188162"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/fIgXlfTSzw
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/fIgXlfTSzw
+      in_reply_to_status_id: 1422292696249651200
+      in_reply_to_status_id_str: "1422292696249651205"
