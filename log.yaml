@@ -61350,3 +61350,115 @@
           - url: https://t.co/m0cKLPNLDg
       in_reply_to_status_id: 1422201133553041400
       in_reply_to_status_id_str: "1422201133553041414"
+- preprint:
+    id: "134622"
+    doi: 10.1101/2021.03.23.436558
+    first_posted: 2021-03-23
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.03.23.436558v1
+    url: https://api.rxivist.org/v1/papers/134622
+    title: Sensitivity and resolution improvement for in-vivo magnetic resonance
+      current density imaging (MRCDI) of the human brain
+    category: neuroscience
+    abstract: "Purpose: Magnetic resonance current density imaging (MRCDI) combines
+      MR brain imaging with the injection of time-varying weak currents (1-2 mA)
+      to assess the current flow pattern in the brain. However, the utility of
+      MRCDI is still hampered by low measurement sensitivity and poor image
+      quality. Methods: We recently introduced a multi-gradient-echo-based MRCDI
+      approach that has the hitherto best documented efficiency. We now advanced
+      our MRCDI approach in three directions and performed phantom and in-vivo
+      human brain experiments for validation: First, we verified the importance
+      of enhanced spoiling and optimize it for imaging of the human brain.
+      Second, we improved the sensitivity and spatial resolution by using
+      acquisition weighting. Third, we added navigators as a quality control
+      measure for tracking physiological noise. Combining these advancements, we
+      tested our optimized MRCDI method by using 1 mA transcranial electrical
+      stimulation (TES) currents injected via two different electrode montages
+      in five subjects. Results: For a session duration of 4:20 min, the new
+      MRCDI method was able to detect magnetic field changes caused by the TES
+      current flow at a sensitivity level of 84 pT, representing in a twofold
+      increase relative to our original method. Comparing both methods to
+      current flow simulations based on personalized head models demonstrated a
+      consistent increase in the coefficient of determination of
+      {triangleup}R2=0.12 for the current-induced magnetic fields and
+      {triangleup}R2=0.22 for the current flow reconstructions. Interestingly,
+      some of the simulations still clearly deviated from the measurements
+      despite of the strongly improved measurement quality. This suggests that
+      MRCDI can reveal useful information for the improvement of head models
+      used for current flow simulations. Conclusion: The advanced method
+      strongly improves the sensitivity and robustness of MRCDI and is an
+      important step from proof-of-concept studies towards a broader application
+      of MRCDI in clinical and basic neuroscience research."
+    authors:
+      - name: Cihan Goksu
+        orcid: http://orcid.org/0000-0002-6214-032X
+      - name: Klaus Scheffler
+        orcid: http://orcid.org/0000-0001-6316-8773
+      - name: Frodi Gregersen
+        orcid: http://orcid.org/0000-0002-0648-8399
+      - name: Hasan Huseyin Eroglu
+        orcid: http://orcid.org/0000-0002-8723-5894
+      - name: Rahel Heule
+        orcid: http://orcid.org/0000-0002-4589-6483
+      - name: Hartwig Roman Siebner
+        orcid: http://orcid.org/0000-0002-3756-9431
+      - name: Lars G. Hanson
+        orcid: http://orcid.org/0000-0002-8204-6912
+      - name: Axel Thielscher
+        orcid: http://orcid.org/0000-0002-4752-5854
+  comment:
+    dislikes: 0
+    thread: "8449290653"
+    numReports: 0
+    likes: 1
+    id: "5478731402"
+    createdAt: 2021-08-02T08:44:04
+    author:
+      username: cihangksu
+      about: ""
+      name: Cihan Göksu
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/cihangksu/
+      url: ""
+      location: ""
+      id: "373183247"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      This article is now certified by peer review and published in Magnetic
+      Resonance in Medicine. The corresponding links is below: 
+
+      https://onlinelibrary.wiley.com/doi/10.1002/mrm.28944
+    forum: biorxivstage
+    points: 1
+    link: https://www.biorxiv.org/content/10.1101/2021.03.23.436558v1
+  tweets:
+    - created_at: Mon Aug 02 16:36:23 +0000 2021
+      id: 1422234834458513400
+      id_str: "1422234834458513408"
+      text: >-
+        💬 bioRxiv comment on "Sensitivity and resolution imp..."
+
+
+        "This article is now certified by peer review and publish… https://t.co/lx9qpXhBH4
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/lx9qpXhBH4
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Aug 02 16:36:23 +0000 2021
+      id: 1422234835297489000
+      id_str: "1422234835297488904"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/7KsmUC01T5
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/7KsmUC01T5
+      in_reply_to_status_id: 1422234834458513400
+      in_reply_to_status_id_str: "1422234834458513408"
