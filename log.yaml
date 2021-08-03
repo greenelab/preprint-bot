@@ -61900,3 +61900,159 @@
           - url: https://t.co/m0cKLPwaeG
       in_reply_to_status_id: 1422321201670615000
       in_reply_to_status_id_str: "1422321201670615045"
+- preprint:
+    id: "151888"
+    doi: 10.1101/2021.07.28.21261159
+    first_posted: 2021-07-28
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.07.28.21261159v1
+    url: https://api.rxivist.org/v1/papers/151888
+    title: Six Month Safety and Efficacy of the BNT162b2 mRNA COVID-19 Vaccine
+    category: infectious-diseases
+    abstract: "Background: BNT162b2 is a lipid nanoparticle-formulated,
+      nucleoside-modified RNA vaccine encoding a prefusion-stabilized,
+      membrane-anchored SARS-CoV-2 full-length spike protein. BNT162b2 is highly
+      efficacious against COVID-19 and is currently authorized for emergency use
+      or conditional approval worldwide. At the time of authorization, data
+      beyond 2 months post-vaccination were unavailable. Methods: In an ongoing,
+      placebo-controlled, observer-blinded, multinational, pivotal efficacy
+      study, 44,165 [&ge;]16-year-old participants and 2,264 12-15-year-old
+      participants were randomized to receive 2 doses, 21 days apart, of 30 g
+      BNT162b2 or placebo. Study endpoints reported here are vaccine efficacy
+      (VE) against laboratory-confirmed COVID-19 and safety data, both up to 6
+      months post-vaccination. Results: BNT162b2 continued to be safe and well
+      tolerated. Few participants had adverse events leading to study
+      withdrawal. VE against COVID-19 was 91% (95% CI 89.0-93.2) through up to 6
+      months of follow-up, among evaluable participants and irrespective of
+      previous SARS-CoV-2 infection. VE of 86%-100% was seen across countries
+      and in populations with diverse characteristics of age, sex,
+      race/ethnicity, and COVID-19 risk factors in participants without evidence
+      of previous SARS-CoV-2 infection. VE against severe disease was 97% % (95%
+      CI 80.3-99.9). In South Africa, where the SARS-CoV-2 variant of concern,
+      B.1.351 (beta), was predominant, 100% (95% CI 53.5, 100.0) VE was
+      observed. Conclusion: With up to 6 months of follow-up and despite a
+      gradually declining trend in vaccine efficacy, BNT162b2 had a favorable
+      safety profile and was highly efficacious in preventing COVID-19.
+      (ClinicalTrials.gov number, NCT04368728)"
+    authors:
+      - name: Stephen J. Thomas
+        orcid: null
+      - name: Edson D Moreira
+        orcid: null
+      - name: Nicholas Kitchin
+        orcid: null
+      - name: Judith Absalon
+        orcid: http://orcid.org/0000-0002-1091-520X
+      - name: Alejandra Gurtman
+        orcid: null
+      - name: Stephen Lockhart
+        orcid: null
+      - name: John L Perez
+        orcid: null
+      - name: Gonzalo Pérez Marc
+        orcid: null
+      - name: Fernando P. Polack
+        orcid: http://orcid.org/0000-0002-8432-9158
+      - name: Cristiano Zerbini
+        orcid: null
+      - name: Ruth Bailey
+        orcid: null
+      - name: Kena A. Swanson
+        orcid: null
+      - name: Xia Xu
+        orcid: null
+      - name: Satrajit Roychoudhury
+        orcid: null
+      - name: Kenneth Koury
+        orcid: null
+      - name: Salim Bouguermouh
+        orcid: null
+      - name: Warren V. Kalina
+        orcid: null
+      - name: David Cooper
+        orcid: null
+      - name: Robert W Frenck
+        orcid: null
+      - name: Laura L. Hammitt
+        orcid: http://orcid.org/0000-0001-6051-1484
+      - name: Özlem Türeci
+        orcid: null
+      - name: Haylene Nell
+        orcid: null
+      - name: Axel Schaefer
+        orcid: null
+      - name: Serhat Ünal
+        orcid: null
+      - name: Qi Yang
+        orcid: http://orcid.org/0000-0003-4308-4382
+      - name: Paul Liberator
+        orcid: null
+      - name: Dina B Tresnan
+        orcid: null
+      - name: Susan Mather
+        orcid: null
+      - name: Philip R. Dormitzer
+        orcid: http://orcid.org/0000-0003-0671-6360
+      - name: Uğur Şahin
+        orcid: null
+      - name: William C. Gruber
+        orcid: null
+      - name: Kathrin U. Jansen
+        orcid: null
+      - name: C4591001 Clinical Trial Group
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8677270016"
+    numReports: 0
+    likes: 2
+    id: "5479178458"
+    createdAt: 2021-08-02T16:42:11
+    author:
+      username: disqus_kKyMzL7lX1
+      about: ""
+      name: Sam Lord
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_kKyMzL7lX1/
+      url: ""
+      location: ""
+      id: "51674743"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Those are all-cause death. The number of covid-related deaths were
+      2 in the placebo and 1 in the vaccine arms. There simply weren't many
+      covid deaths during this part of the trial (probably because most of the
+      participants were <55 years old).
+    forum: medrxiv
+    points: 2
+    link: https://www.medrxiv.org/content/10.1101/2021.07.28.21261159v1
+  tweets:
+    - created_at: Tue Aug 03 01:07:21 +0000 2021
+      id: 1422363423875207200
+      id_str: "1422363423875207168"
+      text: >-
+        💬 medRxiv comment on "Six Month Safety and Efficacy ..."
+
+
+        "Those are all-cause death. The number of covid-related d… https://t.co/x4xvGm2w9k
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/x4xvGm2w9k
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Aug 03 01:07:21 +0000 2021
+      id: 1422363424844038100
+      id_str: "1422363424844038148"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/m0cKLPNLDg
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/m0cKLPNLDg
+      in_reply_to_status_id: 1422363423875207200
+      in_reply_to_status_id_str: "1422363423875207168"
