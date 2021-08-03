@@ -62422,3 +62422,137 @@
           - url: https://t.co/m0cKLPNLDg
       in_reply_to_status_id: 1422562348372476000
       in_reply_to_status_id_str: "1422562348372475905"
+- preprint:
+    id: "152353"
+    doi: 10.1101/2021.07.28.21261295
+    first_posted: 2021-07-31
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.07.28.21261295v1
+    url: https://api.rxivist.org/v1/papers/152353
+    title: "Virological and serological kinetics of SARS-CoV-2 Delta variant
+      vaccine-breakthrough infections: a multi-center cohort study"
+    category: infectious-diseases
+    abstract: "Objectives Highly effective vaccines against severe acute respiratory
+      syndrome coronavirus 2 (SARS-CoV-2) have been developed but variants of
+      concerns (VOCs) with mutations in the spike protein are worrisome,
+      especially B.1.617.2 (Delta) which has rapidly spread across the world. We
+      aim to study if vaccination alters virological and serological kinetics in
+      breakthrough infections. Methods We conducted a multi-centre retrospective
+      cohort study of patients in Singapore who had received a licensed mRNA
+      vaccine and been admitted to hospital with B.1.617.2 SARS-CoV-2 infection.
+      We compared the clinical features, virological and serological kinetics
+      (anti-nucleocapsid, anti-spike and surrogate virus neutralization titres)
+      between fully vaccinated and unvaccinated individuals. Results Of 218
+      individuals with B.1.617.2 infection, 84 had received a mRNA vaccine of
+      which 71 were fully vaccinated, 130 were unvaccinated and 4 received a
+      non-mRNA. Despite significantly older age in the vaccine breakthrough
+      group, the odds of severe COVID-19 requiring oxygen supplementation was
+      significantly lower following vaccination (adjusted odds ratio 0.07 95%CI:
+      0.015-0.335, p=0.001). PCR cycle threshold (Ct) values were similar
+      between both vaccinated and unvaccinated groups at diagnosis, but viral
+      loads decreased faster in vaccinated individuals. Early, robust boosting
+      of anti-spike protein antibodies was observed in vaccinated patients,
+      however, these titers were significantly lower against B.1.617.2 as
+      compared with the wildtype vaccine strain. Conclusion The mRNA vaccines
+      are highly effective at preventing symptomatic and severe COVID-19
+      associated with B.1.617.2 infection. Vaccination is associated with faster
+      decline in viral RNA load and a robust serological response. Vaccination
+      remains a key strategy for control of COVID-19 pandemic."
+    authors:
+      - name: Po Ying Chia
+        orcid: http://orcid.org/0000-0002-8797-9527
+      - name: Sean Ong
+        orcid: http://orcid.org/0000-0002-8570-436X
+      - name: Calvin J Chiew
+        orcid: null
+      - name: Li Wei Ang
+        orcid: null
+      - name: Jean-marc Gilbert Chavatte
+        orcid: null
+      - name: Tze Minn Mak
+        orcid: null
+      - name: Lin Cui
+        orcid: null
+      - name: Shirin Kalimuddin
+        orcid: http://orcid.org/0000-0001-9319-5908
+      - name: Wan Ni Chia
+        orcid: null
+      - name: Chee Wah Tan
+        orcid: null
+      - name: Louis Yi Ann Chai
+        orcid: null
+      - name: Seow Yen Tan
+        orcid: null
+      - name: Shuwei Zheng
+        orcid: null
+      - name: Raymong Tzer Pin Lin
+        orcid: null
+      - name: Linfa Wang
+        orcid: null
+      - name: Yee-Sin Leo
+        orcid: null
+      - name: Vernon J. Lee
+        orcid: null
+      - name: David Chien Lye
+        orcid: null
+      - name: Barnaby Edward Young
+        orcid: null
+  comment:
+    dislikes: 1
+    thread: "8683893916"
+    numReports: 0
+    likes: 1
+    id: "5479331216"
+    createdAt: 2021-08-02T18:48:48
+    author:
+      username: samstampfer
+      about: ""
+      name: Sam Stampfer
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/samstampfer/
+      url: ""
+      location: ""
+      id: "373202921"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Interesting & alarming paper.
+
+
+      I emailed the authors regarding this, but thought I'd also put this as a comment:
+
+      Figure 3: comparative neutralization responses between variants & wild-type. The serum was drawn at a median of 6 days post breakthrough infection. This isn't enough time for new delta-variant-specific antibodies to form and thus probably reflects the anamnestic memory-b-cell response from original vaccination. I was wondering whether the authors have followed up and evaluated more convalescent sera >2 weeks post-symptoms to see whether it is better able to neutralize delta. It is especially telling to me that the delta neutralization was even worse appearing than the beta neutralization, which would be unexpected unless there was no delta-variant-specific response.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.07.28.21261295v1
+  tweets:
+    - created_at: Tue Aug 03 16:35:56 +0000 2021
+      id: 1422597110092939300
+      id_str: "1422597110092939267"
+      text: |-
+        💬 medRxiv comment on "Virological and serological ki..."
+
+        "Interesting &amp; alarming paper.
+
+        I emailed the authors reg… https://t.co/Q0h1hK9SaO
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/Q0h1hK9SaO
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Aug 03 16:35:56 +0000 2021
+      id: 1422597110990508000
+      id_str: "1422597110990508038"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/AKcUaP2zNF
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/AKcUaP2zNF
+      in_reply_to_status_id: 1422597110092939300
+      in_reply_to_status_id_str: "1422597110092939267"
