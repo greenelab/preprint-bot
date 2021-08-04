@@ -63948,3 +63948,119 @@
           - url: https://t.co/s87cp9cfOZ
       in_reply_to_status_id: 1423013567490527200
       in_reply_to_status_id_str: "1423013567490527232"
+- preprint:
+    id: "151948"
+    doi: 10.1101/2021.07.28.454085
+    first_posted: 2021-07-28
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.28.454085v1
+    url: https://api.rxivist.org/v1/papers/151948
+    title: SARS-CoV-2 Lambda variant exhibits higher infectivity and immune resistance
+    category: microbiology
+    abstract: SARS-CoV-2 Lambda, a new variant of interest, is now spreading in some
+      South American countries; however, its virological features and
+      evolutionary trait remain unknown. Here we reveal that the spike protein
+      of the Lambda variant is more infectious and it is attributed to the T76I
+      and L452Q mutations. The RSYLTPGD246-253N mutation, a unique 7-amino-acid
+      deletion mutation in the N-terminal domain of the Lambda spike protein, is
+      responsible for evasion from neutralizing antibodies. Since the Lambda
+      variant has dominantly spread according to the increasing frequency of the
+      isolates harboring the RSYLTPGD246-253N mutation, our data suggest that
+      the insertion of the RSYLTPGD246-253N mutation is closely associated with
+      the massive infection spread of the Lambda variant in South America.
+    authors:
+      - name: Izumi Kimura
+        orcid: null
+      - name: Yusuke Kosugi
+        orcid: null
+      - name: Jiaqi Wu
+        orcid: http://orcid.org/0000-0003-2204-3557
+      - name: Daichi Yamasoba
+        orcid: null
+      - name: Erika P Butlertanaka
+        orcid: null
+      - name: Yuri L Tanaka
+        orcid: null
+      - name: Yafei Liu
+        orcid: null
+      - name: Kotaro Shirakawa
+        orcid: http://orcid.org/0000-0002-7690-5522
+      - name: Yasuhiro Kazuma
+        orcid: null
+      - name: Ryosuke Nomura
+        orcid: null
+      - name: Yoshihito Horisawa
+        orcid: null
+      - name: Kenzo Tokunaga
+        orcid: http://orcid.org/0000-0002-2625-5322
+      - name: Akifumi Takaori-Kondo
+        orcid: http://orcid.org/0000-0001-7678-4284
+      - name: Hisashi Arase
+        orcid: http://orcid.org/0000-0002-1153-3166
+      - name: The Genotype to Phenotype Japan (G2P-Japan) Consortium
+        orcid: null
+      - name: Akatsuki Saito
+        orcid: http://orcid.org/0000-0002-2792-4399
+      - name: So Nakagawa
+        orcid: http://orcid.org/0000-0003-1760-3839
+      - name: Kei Sato
+        orcid: http://orcid.org/0000-0003-4431-1380
+  comment:
+    dislikes: 0
+    thread: "8677949366"
+    numReports: 0
+    likes: 0
+    id: "5480721532"
+    createdAt: 2021-08-03T19:55:25
+    author:
+      username: corneliusrmer
+      about: ""
+      name: Cornelius Römer
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/corneliusrmer/
+      url: ""
+      location: ""
+      id: "191417394"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      If you put "higher infectivity" in the title, it requires a comparison.
+      But there's none. Not even in the abstract is the question "what is it
+      more infectious than" answered. Only in the discussion does it become
+      clear that the infectivity is higher than D614G, Gamma and others, BUT NOT
+      Delta.
+
+      A better title would be: "SARS-CoV-2 Lambda variant exhibits similar in-vitro infectivity and immune resistance to Delta"
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.07.28.454085v1
+  tweets:
+    - created_at: Wed Aug 04 22:09:17 +0000 2021
+      id: 1423043387121361000
+      id_str: "1423043387121360900"
+      text: >-
+        💬 bioRxiv comment on "SARS-CoV-2 Lambda variant exhi..."
+
+
+        "If you put "higher infectivity" in the title, it require… https://t.co/wQPoGJ0hDp
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/wQPoGJ0hDp
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed Aug 04 22:09:17 +0000 2021
+      id: 1423043388094488600
+      id_str: "1423043388094488578"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/gNbuqdp2VZ
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/gNbuqdp2VZ
+      in_reply_to_status_id: 1423043387121361000
+      in_reply_to_status_id_str: "1423043387121360900"
