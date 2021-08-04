@@ -63549,3 +63549,288 @@
           - url: https://t.co/fIgXlfTSzw
       in_reply_to_status_id: 1422953089045311500
       in_reply_to_status_id_str: "1422953089045311489"
+- preprint:
+    id: "129268"
+    doi: 10.1101/2021.02.11.430742
+    first_posted: 2021-02-15
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.02.11.430742v1
+    url: https://api.rxivist.org/v1/papers/129268
+    title: Delineating the molecular and phenotypic spectrum of the SETD1B-related
+      syndrome
+    category: genetics
+    abstract: Pathogenic variants in SETD1B have been associated with a syndromic
+      neurodevelopmental disorder including intellectual disability, language
+      delay and seizures. To date, clinical features have been described for
+      eleven patients with (likely) pathogenic SETD1B sequence variants. We
+      perform an in-depth clinical characterization of a cohort of 36
+      unpublished individuals with SETD1B sequence variants, describing their
+      molecular and phenotypic spectrum. Selected variants were functionally
+      tested using in vitro and genome-wide methylation assays. Our data present
+      evidence for a loss-of-function mechanism of SETD1B variants, resulting in
+      a core clinical phenotype of global developmental delay, language delay
+      including regression, intellectual disability, autism and other behavioral
+      issues, and variable epilepsy phenotypes. Developmental delay appeared to
+      precede seizure onset, suggesting SETD1B dysfunction impacts physiological
+      neurodevelopment even in the absence of epileptic activity. Interestingly,
+      males are significantly overrepresented and more severely affected, and we
+      speculate that sex-linked traits could affect susceptibility to penetrance
+      and the clinical spectrum of SETD1B variants. Finally, despite the
+      possibility of non-redundant contributions of SETD1B and its paralogue
+      SETD1A to epigenetic control, the clinical phenotypes of the related
+      disorders share many similarities, indicating that elucidating shared and
+      divergent downstream targets of both genes will help to understand the
+      mechanism leading to the neurobehavioral phenotypes. Insights from this
+      extensive cohort will facilitate the counseling regarding the molecular
+      and phenotypic landscape of newly diagnosed patients with the
+      SETD1B-related syndrome.
+    authors:
+      - name: Marjolein J.A. Weerts
+        orcid: null
+      - name: Kristina Lanko
+        orcid: http://orcid.org/0000-0002-0749-0079
+      - name: Francisco J. Guzman-Vega
+        orcid: http://orcid.org/0000-0002-6116-9534
+      - name: Adam Jackson
+        orcid: http://orcid.org/0000-0002-3674-3960
+      - name: Reshmi Ramakrishnan
+        orcid: null
+      - name: Kelly J Cardona-Londono
+        orcid: http://orcid.org/0000-0001-7111-3609
+      - name: Karla A. Pena-Guerra
+        orcid: null
+      - name: Yolande van Bever
+        orcid: null
+      - name: Barbara van Paassen
+        orcid: http://orcid.org/0000-0002-8229-5724
+      - name: Anneke Kievit
+        orcid: null
+      - name: Marjon van Slegtenhorst
+        orcid: null
+      - name: Nicholas M. Allen
+        orcid: null
+      - name: Caroline M. Kehoe
+        orcid: null
+      - name: Hannah K. Robinson
+        orcid: null
+      - name: Lewis Pang
+        orcid: null
+      - name: Selina H. Banu
+        orcid: null
+      - name: Mashaya Zaman
+        orcid: null
+      - name: Stephanie Efthymiou
+        orcid: http://orcid.org/0000-0003-4900-9877
+      - name: Henry Houlden
+        orcid: http://orcid.org/0000-0002-2866-7777
+      - name: Irma Jarvela
+        orcid: null
+      - name: Leena Lauronen
+        orcid: http://orcid.org/0000-0003-1102-2945
+      - name: Tuomo Maatta
+        orcid: null
+      - name: Isabelle Schrauwen
+        orcid: http://orcid.org/0000-0001-7310-6082
+      - name: Suzanne M Leal
+        orcid: null
+      - name: Claudia A.L. Ruivenkamp
+        orcid: http://orcid.org/0000-0003-1450-4376
+      - name: Daniela Q.C.M Barge-Schaapveld
+        orcid: null
+      - name: Cacha M.P.C.D. Peeters-Scholte
+        orcid: http://orcid.org/0000-0002-3982-6868
+      - name: Hamid Galehdari
+        orcid: null
+      - name: Neda Mazaheri
+        orcid: http://orcid.org/0000-0002-7638-5555
+      - name: Sanjay M Sisodiya
+        orcid: http://orcid.org/0000-0002-1511-5893
+      - name: Victoria Harrison
+        orcid: null
+      - name: Angela Sun
+        orcid: null
+      - name: Jenny Thies
+        orcid: null
+      - name: Luis Alberto Pedroza
+        orcid: null
+      - name: Yana Lara Taranchenko
+        orcid: null
+      - name: Ivan K Chinn
+        orcid: http://orcid.org/0000-0001-5684-5457
+      - name: James R. Lupski
+        orcid: http://orcid.org/0000-0001-9907-9246
+      - name: Alexandra Garza-Flores
+        orcid: null
+      - name: Jefferey McGlothlin
+        orcid: null
+      - name: Lin Yang
+        orcid: http://orcid.org/0000-0002-5964-3233
+      - name: Shaoping Huang
+        orcid: null
+      - name: Xiadong Wang
+        orcid: null
+      - name: Tamison Jewett
+        orcid: null
+      - name: Gretchen Rosso
+        orcid: null
+      - name: Xi Lin
+        orcid: null
+      - name: Shehla Mohammed
+        orcid: null
+      - name: J.Lawrence Merritt
+        orcid: http://orcid.org/0000-0002-2552-7306
+      - name: Ghayda M Mirzaa
+        orcid: http://orcid.org/0000-0003-2648-7657
+      - name: Andrew E. Timms
+        orcid: null
+      - name: Joshua Scheck
+        orcid: null
+      - name: Mariet Elting
+        orcid: null
+      - name: Abeltje M. Polstra
+        orcid: null
+      - name: Lauren Schenck
+        orcid: null
+      - name: Maura R.Z. Ruzhnikov
+        orcid: http://orcid.org/0000-0001-9610-1612
+      - name: Annalisa Vetro
+        orcid: http://orcid.org/0000-0003-2437-7526
+      - name: Martino Montomoli
+        orcid: http://orcid.org/0000-0003-4046-3133
+      - name: Renzo Guerrini
+        orcid: http://orcid.org/0000-0002-7272-7079
+      - name: Daniel C Koboldt
+        orcid: null
+      - name: Theresa Mihalic Mosher
+        orcid: null
+      - name: Matthew T. Pastore
+        orcid: http://orcid.org/0000-0001-9888-0779
+      - name: Kim L. McBride
+        orcid: http://orcid.org/0000-0002-8407-8942
+      - name: Jing Peng
+        orcid: null
+      - name: Zou Pan
+        orcid: null
+      - name: Marjolein Willemsen
+        orcid: http://orcid.org/0000-0003-1213-5773
+      - name: Susanne Koning
+        orcid: null
+      - name: Peter D. Turnpenny
+        orcid: http://orcid.org/0000-0002-5947-0897
+      - name: Bert B.A. de Vries
+        orcid: null
+      - name: Christian Gilissen
+        orcid: http://orcid.org/0000-0003-1693-9699
+      - name: Rolph Pfundt
+        orcid: http://orcid.org/0000-0002-0584-4398
+      - name: Melissa Lees
+        orcid: null
+      - name: Stephen R. Braddock
+        orcid: null
+      - name: Kara C. Klemp
+        orcid: null
+      - name: Fleur Vansenne
+        orcid: null
+      - name: Marielle van Gijn
+        orcid: http://orcid.org/0000-0002-1073-0539
+      - name: Catherine Quindipan
+        orcid: null
+      - name: Matthew A Deardorff
+        orcid: http://orcid.org/0000-0002-1542-1305
+      - name: J.Austin Hamm
+        orcid: null
+      - name: Abbey M. Putnam
+        orcid: null
+      - name: Rebecca Baud
+        orcid: http://orcid.org/0000-0002-7466-3574
+      - name: Laurence Walsh
+        orcid: null
+      - name: Sally A Lynch
+        orcid: http://orcid.org/0000-0003-3540-1333
+      - name: Julia Baptista
+        orcid: null
+      - name: Richard E. Person
+        orcid: null
+      - name: Kristin G Monaghan
+        orcid: null
+      - name: Amy Crunk
+        orcid: null
+      - name: Jennifer Keller-Ramey
+        orcid: null
+      - name: Adi Reich
+        orcid: null
+      - name: Houda Zghal Elloumi
+        orcid: null
+      - name: Marielle Alders
+        orcid: null
+      - name: Jennifer Kerkhof
+        orcid: null
+      - name: Haley McConkey
+        orcid: null
+      - name: Sadegheh Haghshenas
+        orcid: null
+      - name: Genomics England Research Consortium
+        orcid: null
+      - name: Reza Maroofian
+        orcid: http://orcid.org/0000-0001-6763-1542
+      - name: Bekim Sadikovic
+        orcid: null
+      - name: Siddharth Banka
+        orcid: http://orcid.org/0000-0002-8527-2210
+      - name: Stefan T Arold
+        orcid: http://orcid.org/0000-0001-5278-0668
+      - name: Tahsin Stefan Barakat
+        orcid: http://orcid.org/0000-0003-1231-1562
+  comment:
+    dislikes: 0
+    thread: "8399296014"
+    numReports: 0
+    likes: 0
+    id: "5481238662"
+    createdAt: 2021-08-04T06:15:38
+    author:
+      username: stefanbarakat
+      about: ""
+      name: Stefan Barakat
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/stefanbarakat/
+      url: ""
+      location: ""
+      id: "293072301"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: the peer-reviewed version of this paper has now been published in
+      Genetics in Medicine, https://doi.org/10.1038/s41436-021-01246-2
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.02.11.430742v1
+  tweets:
+    - created_at: Wed Aug 04 18:11:06 +0000 2021
+      id: 1422983447610634200
+      id_str: "1422983447610634241"
+      text: >-
+        💬 bioRxiv comment on "Delineating the molecular and ..."
+
+
+        "the peer-reviewed version of this paper has now been pub… https://t.co/PrL4UEl4Dw
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/PrL4UEl4Dw
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed Aug 04 18:11:06 +0000 2021
+      id: 1422983448361422800
+      id_str: "1422983448361422852"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/HcCb72K6Dz
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/HcCb72K6Dz
+      in_reply_to_status_id: 1422983447610634200
+      in_reply_to_status_id_str: "1422983447610634241"
