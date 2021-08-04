@@ -63439,3 +63439,113 @@
           - url: https://t.co/m0cKLPNLDg
       in_reply_to_status_id: 1422922690411761700
       in_reply_to_status_id_str: "1422922690411761670"
+- preprint:
+    id: "144165"
+    doi: 10.1101/2021.05.31.21258081
+    first_posted: 2021-05-31
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.31.21258081v1
+    url: https://api.rxivist.org/v1/papers/144165
+    title: Favorable outcome on viral load and culture viability using Ivermectin in
+      early treatment of non-hospitalized patients with mild COVID-19, A
+      double-blind, randomized placebo-controlled trial.
+    category: infectious-diseases
+    abstract: "Background: Ivermectin, an antiparasitic agent, also has antiviral
+      properties. Our aim was to assess whether ivermectin can shorten the viral
+      shedding in patients at an early stage of COVID19 infection. Methods: The
+      double blinded trial compared patients receiving ivermectin 0.2 mg/kg for
+      3 days vs. placebo in non-hospitalized COVID19 patients. RT-PCR from a
+      nasopharyngeal swab was obtained at recruitment and then every two days.
+      Primary endpoint was reduction of viral-load on the 6th day (third day
+      after termination of treatment) as reflected by Ct level>30
+      (non-infectious level). The primary outcome was supported by determination
+      of viral culture viability. Results: Eighty nine patients were eligible
+      (47 in ivermectin and 42 in placebo arm). Their median age was 35 years.
+      Females accounted for 21.6%, and 16.8% were asymptomatic at recruitment.
+      Median time from symptom onset was 4 days. There were no statistical
+      differences in these parameters between the two groups. On day 6, 34 out
+      of 47 (72%) patients in the ivermectin arm reached the endpoint, compared
+      to 21/ 42 (50%) in the placebo arm (OR 2.62; 95% CI: 1.09 to 6.31). In a
+      multivariable logistic regression model, the odds of a negative test at
+      day 6 was 2.62 time higher in the ivermectin group (95% CI: 1.06 to 6.45).
+      Cultures at days 2 to 6 were positive in 3/23 (13.0%) of ivermectin
+      samples vs. 14/29 (48.2%) in the placebo group (p=0.008). Conclusions:
+      There were significantly lower viral loads and viable cultures in the
+      ivermectin group, which could lead to shortening isolation time in these
+      patients."
+    authors:
+      - name: Asaf Biber
+        orcid: http://orcid.org/0000-0001-6007-0383
+      - name: Michal Mandelboim
+        orcid: http://orcid.org/0000-0002-5997-7241
+      - name: Geva Harmelin
+        orcid: null
+      - name: Dana Lev
+        orcid: null
+      - name: Li Ram
+        orcid: null
+      - name: Amit Shaham
+        orcid: null
+      - name: Ital Nemet
+        orcid: null
+      - name: Limor Kliker
+        orcid: null
+      - name: Oran Erster
+        orcid: http://orcid.org/0000-0003-4839-8997
+      - name: Eli Schwartz
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8565279083"
+    numReports: 0
+    likes: 1
+    id: "5479956160"
+    createdAt: 2021-08-03T06:19:13
+    author:
+      username: disqus_xHWZFAPtlv
+      about: ""
+      name: Alejandro
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_xHWZFAPtlv/
+      url: ""
+      location: ""
+      id: "371223925"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: "l've recently found an excelent study that puts together
+      everything we know so far on why Ivermectin works against COVID and l
+      think you're <b>really</b> going to like it:
+      https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8203399/"
+    forum: medrxiv
+    points: 1
+    link: https://www.medrxiv.org/content/10.1101/2021.05.31.21258081v1
+  tweets:
+    - created_at: Wed Aug 04 16:10:28 +0000 2021
+      id: 1422953089045311500
+      id_str: "1422953089045311489"
+      text: >-
+        💬 medRxiv comment on "Favorable outcome on viral loa..."
+
+
+        "l've recently found an excelent study that puts together… https://t.co/Dp9thavRmL
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/Dp9thavRmL
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Wed Aug 04 16:10:28 +0000 2021
+      id: 1422953089762529300
+      id_str: "1422953089762529286"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/fIgXlfTSzw
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/fIgXlfTSzw
+      in_reply_to_status_id: 1422953089045311500
+      in_reply_to_status_id_str: "1422953089045311489"
