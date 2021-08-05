@@ -64573,3 +64573,120 @@
           - url: https://t.co/NzGo4SSVAt
       in_reply_to_status_id: 1423316088264265700
       in_reply_to_status_id_str: "1423316088264265735"
+- preprint:
+    id: "152335"
+    doi: 10.1101/2021.07.31.21261387
+    first_posted: 2021-07-31
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.07.31.21261387v1
+    url: https://api.rxivist.org/v1/papers/152335
+    title: Vaccinated and unvaccinated individuals have similar viral loads in
+      communities with a high prevalence of the SARS-CoV-2 delta variant
+    category: infectious-diseases
+    abstract: SARS-CoV-2 variant B.1.617.2 (delta) is associated with higher viral
+      loads [1] and increased transmissibility relative to other variants, as
+      well as partial escape from polyclonal and monoclonal antibodies [2]. The
+      emergence of the delta variant has been associated with increasing case
+      counts and test-positivity rates, indicative of rapid community spread.
+      Since early July 2021, SARS-CoV-2 cases in the United States have
+      increased coincident with delta SARS-CoV-2 becoming the predominant
+      lineage nationwide [3]. Understanding how and why the virus is spreading
+      in settings where there is high vaccine coverage has important public
+      health implications. It is particularly important to assess whether
+      vaccinated individuals who become infected can transmit SARS-CoV-2 to
+      others. In Wisconsin, a large local contract laboratory provides
+      SARS-CoV-2 testing for multiple local health departments, providing a
+      single standard source of data using the same assay to measure virus
+      burdens in test-positive cases. This includes providing high-volume
+      testing in Dane County, a county with extremely high vaccine coverage.
+      These PCR-based tests provide semi-quantitative information about the
+      viral load, or amount of SARS-CoV-2 RNA, in respiratory specimens. Here we
+      use this viral load data to compare the amount of SARS-CoV-2 present in
+      test-positive specimens from people who self-report their vaccine status
+      and date of final immunization, during a period in which the delta variant
+      became the predominant circulating variant in Wisconsin. We find no
+      difference in viral loads when comparing unvaccinated individuals to those
+      who have vaccine "breakthrough" infections. Furthermore, individuals with
+      vaccine breakthrough infections frequently test positive with viral loads
+      consistent with the ability to shed infectious viruses. Our results, while
+      preliminary, suggest that if vaccinated individuals become infected with
+      the delta variant, they may be sources of SARS-CoV-2 transmission to
+      others.
+    authors:
+      - name: Kasen K Riemersma
+        orcid: http://orcid.org/0000-0002-5819-4720
+      - name: Brittany E Grogan
+        orcid: null
+      - name: Amanda Kita-Yarbro
+        orcid: null
+      - name: Gunnar E Jeppson
+        orcid: null
+      - name: David H O'Connor
+        orcid: http://orcid.org/0000-0002-3532-8351
+      - name: Thomas C Friedrich
+        orcid: http://orcid.org/0000-0001-9831-6895
+      - name: Katarina M Grande
+        orcid: null
+  comment:
+    dislikes: 1
+    thread: "8683853325"
+    numReports: 0
+    likes: 1
+    id: "5480287730"
+    createdAt: 2021-08-03T14:16:09
+    author:
+      username: disqus_R0a6qjmbyr
+      about: ""
+      name: Dimich
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_R0a6qjmbyr/
+      url: ""
+      location: ""
+      id: "73013436"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Since the conclusion about the infections is based on PCR testing, it is
+      pointless. PCR tests do not check if the person is infected or not, but
+      confirm presence of SARS-CoV-2 genetic material in the sample, which may
+      not be associated with the infection, but can be a randomly inhaled
+      viruses or leftover of previous asymptomatic infection.
+
+      Two references on PCR testing subject:
+
+      https://www.nejm.org/doi/full/10.1056/NEJMp2025631?utm_source
+
+      https://www.journalofinfection.com/article/s0163-4453(21)00265-6/fulltext
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.07.31.21261387v1
+  tweets:
+    - created_at: Thu Aug 05 18:07:07 +0000 2021
+      id: 1423344834119676000
+      id_str: "1423344834119675906"
+      text: >-
+        💬 medRxiv comment on "Vaccinated and unvaccinated in..."
+
+
+        "Since the conclusion about the infections is based on PC… https://t.co/GdmZbHa7I6
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/GdmZbHa7I6
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Aug 05 18:07:07 +0000 2021
+      id: 1423344834874589200
+      id_str: "1423344834874589188"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/NzGo4SSVAt
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/NzGo4SSVAt
+      in_reply_to_status_id: 1423344834119676000
+      in_reply_to_status_id_str: "1423344834119675906"
