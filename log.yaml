@@ -64222,3 +64222,114 @@
           - url: https://t.co/m0cKLPNLDg
       in_reply_to_status_id: 1423073711998050300
       in_reply_to_status_id_str: "1423073711998050309"
+- preprint:
+    id: "152335"
+    doi: 10.1101/2021.07.31.21261387
+    first_posted: 2021-07-31
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.07.31.21261387v1
+    url: https://api.rxivist.org/v1/papers/152335
+    title: Vaccinated and unvaccinated individuals have similar viral loads in
+      communities with a high prevalence of the SARS-CoV-2 delta variant
+    category: infectious-diseases
+    abstract: SARS-CoV-2 variant B.1.617.2 (delta) is associated with higher viral
+      loads [1] and increased transmissibility relative to other variants, as
+      well as partial escape from polyclonal and monoclonal antibodies [2]. The
+      emergence of the delta variant has been associated with increasing case
+      counts and test-positivity rates, indicative of rapid community spread.
+      Since early July 2021, SARS-CoV-2 cases in the United States have
+      increased coincident with delta SARS-CoV-2 becoming the predominant
+      lineage nationwide [3]. Understanding how and why the virus is spreading
+      in settings where there is high vaccine coverage has important public
+      health implications. It is particularly important to assess whether
+      vaccinated individuals who become infected can transmit SARS-CoV-2 to
+      others. In Wisconsin, a large local contract laboratory provides
+      SARS-CoV-2 testing for multiple local health departments, providing a
+      single standard source of data using the same assay to measure virus
+      burdens in test-positive cases. This includes providing high-volume
+      testing in Dane County, a county with extremely high vaccine coverage.
+      These PCR-based tests provide semi-quantitative information about the
+      viral load, or amount of SARS-CoV-2 RNA, in respiratory specimens. Here we
+      use this viral load data to compare the amount of SARS-CoV-2 present in
+      test-positive specimens from people who self-report their vaccine status
+      and date of final immunization, during a period in which the delta variant
+      became the predominant circulating variant in Wisconsin. We find no
+      difference in viral loads when comparing unvaccinated individuals to those
+      who have vaccine "breakthrough" infections. Furthermore, individuals with
+      vaccine breakthrough infections frequently test positive with viral loads
+      consistent with the ability to shed infectious viruses. Our results, while
+      preliminary, suggest that if vaccinated individuals become infected with
+      the delta variant, they may be sources of SARS-CoV-2 transmission to
+      others.
+    authors:
+      - name: Kasen K Riemersma
+        orcid: http://orcid.org/0000-0002-5819-4720
+      - name: Brittany E Grogan
+        orcid: null
+      - name: Amanda Kita-Yarbro
+        orcid: null
+      - name: Gunnar E Jeppson
+        orcid: null
+      - name: David H O'Connor
+        orcid: http://orcid.org/0000-0002-3532-8351
+      - name: Thomas C Friedrich
+        orcid: http://orcid.org/0000-0001-9831-6895
+      - name: Katarina M Grande
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8683853325"
+    numReports: 0
+    likes: 1
+    id: "5480120954"
+    createdAt: 2021-08-03T11:19:56
+    author:
+      username: disqus_5Sc0r4kM85
+      about: ""
+      name: TBV
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_5Sc0r4kM85/
+      url: ""
+      location: ""
+      id: "373179278"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      1. Since we don’t know characteristics of patients in each arm, these
+      results could simply reflect the vulnerable, with weaker immune systems,
+      being more likely to be vaccinated.
+
+      2.  The authors throw out roughly 1/3 of the observations in an already small study because viral loads are low.  Isn’t it possible these were mostly vaccinated people?  So, by cutting off patients to only those with a fairly high viral load we generate the result that vaccinated people in the study have a high load
+    forum: medrxiv
+    points: 1
+    link: https://www.medrxiv.org/content/10.1101/2021.07.31.21261387v1
+  tweets:
+    - created_at: Thu Aug 05 12:10:37 +0000 2021
+      id: 1423255119534174200
+      id_str: "1423255119534174208"
+      text: >-
+        💬 medRxiv comment on "Vaccinated and unvaccinated in..."
+
+
+        "1. Since we don’t know characteristics of patients in ea… https://t.co/qloKOJxV17
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/qloKOJxV17
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Aug 05 12:10:38 +0000 2021
+      id: 1423255120742133800
+      id_str: "1423255120742133760"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/NzGo4SSVAt
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/NzGo4SSVAt
+      in_reply_to_status_id: 1423255119534174200
+      in_reply_to_status_id_str: "1423255119534174208"
