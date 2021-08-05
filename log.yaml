@@ -64747,3 +64747,112 @@
           - url: https://t.co/bDvvyk1FcK
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "138856"
+    doi: 10.1101/2021.04.20.440570
+    first_posted: 2021-04-20
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.04.20.440570v1
+    url: https://api.rxivist.org/v1/papers/138856
+    title: Unique metabolic strategies in Hadean analogues reveal hints for
+      primordial physiology
+    category: microbiology
+    abstract: 'Primordial microorganisms are postulated to have emerged in H2-rich
+      alkaline Hadean serpentinite-hosted environments with homoacetogenesis as
+      a core metabolism. However, investigation of two modern
+      serpentinization-active analogues of early Earth reveals that conventional
+      H2-/CO2-dependent homoacetogenesis is thermodynamically unfavorable in
+      situ due to picomolar CO2 levels. Through metagenomics and thermodynamics,
+      we discover unique taxa capable of metabolism adapted to the habitat. This
+      included a novel deep-branching phylum, "Ca. Lithoacetigenota", that
+      exclusively inhabits Hadean analogues and harbors genes encoding
+      alternative modes of H2-utilizing lithotrophy. Rather than CO2, these
+      metabolisms utilize reduced carbon compounds detected in situ presumably
+      serpentinization-derived: formate and glycine. The former employs a
+      partial homoacetogenesis pathway and the latter a distinct pathway
+      mediated by a rare selenoprotein - the glycine reductase. A survey of
+      serpentinite-hosted system microbiomes shows that glycine reductases are
+      diverse and nearly ubiquitous in Hadean analogues. "Ca. Lithoacetigenota"
+      glycine reductases represent a basal lineage, suggesting that catabolic
+      glycine reduction is an ancient bacterial innovation for gaining energy
+      from geogenic H2 even under serpentinization-associated hyperalkaline,
+      CO2-poor conditions. This draws remarkable parallels with ancestral
+      archaeal H2-driven methyl-reducing methanogenesis recently proposed.
+      Unique non-CO2-reducing metabolic strategies presented here may provide a
+      new view into metabolisms that supported primordial life and the
+      diversification of LUCA towards Archaea and Bacteria.'
+    authors:
+      - name: Masaru Konishi Nobu
+        orcid: null
+      - name: Ryosuke Nakai
+        orcid: null
+      - name: Satoshi Tamazawa
+        orcid: null
+      - name: Hiroshi Mori
+        orcid: null
+      - name: Atsushi Toyoda
+        orcid: http://orcid.org/0000-0002-0728-7548
+      - name: Akira Ijiri
+        orcid: null
+      - name: Shino Suzuki
+        orcid: null
+      - name: Ken Kurokawa
+        orcid: null
+      - name: Yoichi Kamagata
+        orcid: http://orcid.org/0000-0001-7124-5812
+      - name: Hideyuki Tamaki
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8485912126"
+    numReports: 0
+    likes: 0
+    id: "5482610490"
+    createdAt: 2021-08-05T09:34:08
+    author:
+      username: disqus_S63xC3lqNV
+      about: ""
+      name: William Martin
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_S63xC3lqNV/
+      url: ""
+      location: ""
+      id: "373326816"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: This is really interesting. Life on geochemical H2, geochemical
+      formate and  geochemical glycine. Just barely possible, but possible, and
+      taking place.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.04.20.440570v1
+  tweets:
+    - created_at: Thu Aug 05 20:05:23 +0000 2021
+      id: 1423374596120752000
+      id_str: "1423374596120752141"
+      text: >-
+        💬 bioRxiv comment on "Unique metabolic strategies in..."
+
+
+        "This is really interesting. Life on geochemical H2, geoc… https://t.co/PbfMYpBvgH
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/PbfMYpBvgH
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Aug 05 20:05:23 +0000 2021
+      id: 1423374596980584400
+      id_str: "1423374596980584450"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/zSuvIm2e15
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/zSuvIm2e15
+      in_reply_to_status_id: 1423374596120752000
+      in_reply_to_status_id_str: "1423374596120752141"
