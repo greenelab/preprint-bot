@@ -64856,3 +64856,118 @@
           - url: https://t.co/zSuvIm2e15
       in_reply_to_status_id: 1423374596120752000
       in_reply_to_status_id_str: "1423374596120752141"
+- preprint:
+    id: "70091"
+    doi: 10.1101/2020.01.02.893271
+    first_posted: 2020-01-03
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.01.02.893271v1
+    url: https://api.rxivist.org/v1/papers/70091
+    title: Chop/Ddit3 depletion in β-cells alleviates ER stress and corrects hepatic
+      steatosis
+    category: physiology
+    abstract: Type 2 diabetes (T2D) is a metabolic disorder characterized by
+      hyperglycemia, hyperinsulinemia and insulin resistance (IR). During the
+      early phase of T2D, insulin synthesis and secretion by pancreatic β cells
+      is enhanced, which can lead to proinsulin (ProIns) misfolding that
+      aggravates endoplasmic reticulum (ER) homeostasis in β cells. Moreover,
+      increased insulin in the circulation may contribute to fatty liver
+      disease. Medical interventions aimed at alleviating ER stress in β cells
+      while maintaining optimal insulin secretion are therefore an attractive
+      therapeutic strategy for T2D. Previously, we demonstrated that germline
+      Chop gene deletion preserved β cells in high fat diet (HFD) fed mice and
+      in leptin receptor-deficient db/db mice. In the current study, we further
+      investigated whether targeting Chop/Ddit3 specifically in murine β cells
+      confers therapeutic benefits. First, we show that Chop deletion in β cells
+      alleviates β cell ER stress and delays glucose-stimulated insulin
+      secretion (GSIS) in HFD fed mice. Second, importantly, β cell-specific
+      Chop deletion prevented liver steatosis and hepatomegaly in aged HFD fed
+      mice without affecting basal glucose homeostasis. Third, we provide the
+      first mechanistic evidence that ER remodeling secondary to Chop deletion
+      modulates glucose-induced islet Ca2+ oscillations. Finally, using
+      state-of-the-art GLP1-conjugated Chop AntiSense Oligonucleotides
+      (GLP1-Chop ASO), we demonstrated that the Chop deletion induced GSIS
+      change is a long term complex event in β cells. In summary, our results
+      demonstrate that Chop depletion in β cells is a new therapeutic strategy
+      to alleviate dysregulated insulin secretion and the consequently fatty
+      liver disease in T2D.
+    authors:
+      - name: Jing Yong
+        orcid: http://orcid.org/0000-0002-4970-408X
+      - name: Vishal S. Parekh
+        orcid: null
+      - name: Jonamani Nayak
+        orcid: null
+      - name: Zhouji Chen
+        orcid: null
+      - name: Cynthia Lebeaupin
+        orcid: null
+      - name: Jiangwei Zhang
+        orcid: null
+      - name: Thazha P. Prakash
+        orcid: null
+      - name: Sue Murray
+        orcid: null
+      - name: Shuling Guo
+        orcid: null
+      - name: Julio E Ayala
+        orcid: null
+      - name: Leslie S. Satin
+        orcid: null
+      - name: Randal J. Kaufman
+        orcid: http://orcid.org/0000-0003-4277-316X
+  comment:
+    dislikes: 1
+    thread: "7796781253"
+    numReports: 0
+    likes: 0
+    id: "5481973557"
+    createdAt: 2021-08-04T19:35:28
+    author:
+      username: disqus_u1GCtQpgqC
+      about: ""
+      name: Jing
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_u1GCtQpgqC/
+      url: ""
+      location: ""
+      id: "345678284"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: |-
+      A revised version of this story is now published at - 
+
+      https://stm.sciencemag.org/content/13/604/eaba9796
+    forum: biorxivstage
+    points: -1
+    link: https://www.biorxiv.org/content/10.1101/2020.01.02.893271v1
+  tweets:
+    - created_at: Thu Aug 05 22:07:00 +0000 2021
+      id: 1423405202720399400
+      id_str: "1423405202720399362"
+      text: >-
+        💬 bioRxiv comment on "Chop/Ddit3 depletion in β-cell..."
+
+
+        "A revised version of this story is now published at -… https://t.co/RUgAZDgxFS
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/RUgAZDgxFS
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Thu Aug 05 22:07:00 +0000 2021
+      id: 1423405203622072300
+      id_str: "1423405203622072321"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/lv9rlhesy3
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/lv9rlhesy3
+      in_reply_to_status_id: 1423405202720399400
+      in_reply_to_status_id_str: "1423405202720399362"
