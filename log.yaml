@@ -65655,3 +65655,65 @@
           - url: https://t.co/m0cKLPNLDg
       in_reply_to_status_id: 1423706852408406000
       in_reply_to_status_id_str: "1423706852408406020"
+- preprint:
+    id: 153165
+    metric: 33
+    title: Heterochromatin diversity modulates genome compartmentalization and loop
+      extrusion barriers
+    url: https://api.rxivist.org/v1/papers/153165
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.08.05.455340v1
+    doi: 10.1101/2021.08.05.455340
+    category: genomics
+    first_posted: 2021-08-06
+    abstract: Two dominant processes organizing chromosomes are loop extrusion and
+      the compartmental segregation of active and inactive chromatin. The
+      molecular players involved in loop extrusion during interphase, cohesin
+      and CTCF, have been extensively studied and experimentally validated.
+      However, neither the molecular determinants nor the functional roles of
+      compartmentalization are well understood. Here, we distinguish three
+      inactive chromatin states using contact frequency profiling, comprising
+      two types of heterochromatin and a previously uncharacterized inactive
+      state exhibiting a neutral interaction preference. We find that
+      heterochromatin marked by long continuous stretches of H3K9me3, HP1 and
+      HP1{beta} correlates with a conserved signature of strong
+      compartmentalization and is abundant in HCT116 colon cancer cells. We
+      demonstrate that disruption of DNA methyltransferase activity dramatically
+      remodels genome compartmentalization as a consequence of the loss of
+      H3K9me3 and HP1 binding. Interestingly, H3K9me3-HP1/{beta} is replaced by
+      the neutral inactive state and retains late replication timing.
+      Furthermore, we show that H3K9me3-HP1/{beta} heterochromatin is permissive
+      to loop extrusion by cohesin but refractory to CTCF, explaining a paucity
+      of visible loop extrusion-associated patterns in Hi-C. Accordingly, CTCF
+      loop extrusion barriers are reactivated upon loss of H3K9me3-HP1/{beta},
+      not as a result of canonical demethylation of the CTCF binding motif but
+      due to an intrinsic resistance of H3K9me3-HP1/{beta} heterochromatin to
+      CTCF binding. Together, our work reveals a dynamic structural and
+      organizational diversity of the inactive portion of the genome and
+      establishes new connections between the regulation of chromatin state and
+      chromosome organization, including an interplay between DNA methylation,
+      compartmentalization and loop extrusion.
+    authors:
+      - name: George Spracklin
+      - name: Nezar Alexander Abdennur
+      - name: Maxim Imakaev
+      - name: Neil Chowdhury
+      - name: Sriharsa Pradhan
+      - name: Leonid Mirny
+      - name: Job Dekker
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Fri Aug 06 20:04:31 +0000 2021
+      id: 1423736767450992600
+      id_str: "1423736767450992640"
+      text: >-
+        🔥 bioRxiv Genomics preprint by G. Spracklin et al:
+
+
+        "Heterochromatin diversity modulates genome compartmentalizatio… https://t.co/Ouj4ndjCbr
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/Ouj4ndjCbr
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
