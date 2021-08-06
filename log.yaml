@@ -64971,3 +64971,109 @@
           - url: https://t.co/lv9rlhesy3
       in_reply_to_status_id: 1423405202720399400
       in_reply_to_status_id_str: "1423405202720399362"
+- preprint:
+    id: "152070"
+    doi: 10.1101/2021.07.29.454326
+    first_posted: 2021-07-29
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.29.454326v1
+    url: https://api.rxivist.org/v1/papers/152070
+    title: SARS-CoV-2 exposure in wild white-tailed deer (Odocoileus virginianus)
+    category: microbiology
+    abstract: Widespread human SARS-CoV-2 infections combined with human-wildlife
+      interactions create the potential for reverse zoonosis from humans to
+      wildlife. We targeted whitetailed deer (Odocoileus virginianus) for
+      serosurveillance based on evidence these deer have ACE2 receptors with
+      high affinity for SARS-CoV-2, are permissive to infection, exhibit
+      sustained viral shedding, can transmit to conspecifics, and can be
+      abundant near urban centers. We evaluated 624 pre- and post-pandemic serum
+      samples from wild deer from four U.S. states for SARS-CoV-2 exposure.
+      Antibodies were detected in 152 samples (40%) from 2021 using a surrogate
+      virus neutralization test. A subset of samples was tested using a
+      SARS-CoV-2 virus neutralization test with high concordance between tests.
+      These data suggest white-tailed deer in the populations assessed have been
+      exposed to SARS-CoV-2.
+    authors:
+      - name: Jeffrey C Chandler
+        orcid: http://orcid.org/0000-0002-3318-135X
+      - name: Sarah N Bevins
+        orcid: http://orcid.org/0000-0002-4999-6836
+      - name: Jeremy W Ellis
+        orcid: http://orcid.org/0000-0003-4512-0906
+      - name: Timothy J Linder
+        orcid: null
+      - name: Rachel M Tell
+        orcid: http://orcid.org/0000-0001-5403-225X
+      - name: Melinda Jenkins-Moore
+        orcid: null
+      - name: J Jeffrey Root
+        orcid: http://orcid.org/0000-0003-4177-1824
+      - name: Julianna B Lenoch
+        orcid: null
+      - name: Suelee Robbe-Austerman
+        orcid: http://orcid.org/0000-0002-3794-3040
+      - name: Thomas J DeLiberto
+        orcid: http://orcid.org/0000-0003-1115-1472
+      - name: Thomas Gidlewski
+        orcid: null
+      - name: Mia Kim Torchetti
+        orcid: http://orcid.org/0000-0002-2649-0146
+      - name: Susan A Shriner
+        orcid: http://orcid.org/0000-0003-0349-7182
+  comment:
+    dislikes: 0
+    thread: "8680195892"
+    numReports: 0
+    likes: 0
+    id: "5480410149"
+    createdAt: 2021-08-03T15:53:33
+    author:
+      username: jessicaglasscock
+      about: ""
+      name: Jessica Glasscock
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/jessicaglasscock/
+      url: http://lifeafter38.com
+      location: Tryon, NC
+      id: "373243302"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: I was wondering if researchers have considered, or are considering
+      ticks, as the possible link between whitetail deer and humans. I know in
+      the suburban and urban areas of the east coast, deer populations are
+      highly concentrated and lead to increased tick problems and humans being
+      infected with tick borne illnesses. Ticks might be the method in which
+      SARS-CoV-2 was transmitted between humans and deer. Thanks for your time.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.07.29.454326v1
+  tweets:
+    - created_at: Fri Aug 06 00:10:42 +0000 2021
+      id: 1423436331707928600
+      id_str: "1423436331707928577"
+      text: >-
+        💬 bioRxiv comment on "SARS-CoV-2 exposure in wild wh..."
+
+
+        "I was wondering if researchers have considered, or are c… https://t.co/HhM0bKA2h8
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/HhM0bKA2h8
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Fri Aug 06 00:10:42 +0000 2021
+      id: 1423436332601385000
+      id_str: "1423436332601384960"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/JU2ptqGZ3V
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/JU2ptqGZ3V
+      in_reply_to_status_id: 1423436331707928600
+      in_reply_to_status_id_str: "1423436331707928577"
