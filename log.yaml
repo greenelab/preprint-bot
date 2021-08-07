@@ -66028,3 +66028,99 @@
           - url: https://t.co/m0cKLPNLDg
       in_reply_to_status_id: 1423767204521201700
       in_reply_to_status_id_str: "1423767204521201669"
+- preprint:
+    id: "152573"
+    doi: 10.1101/2021.08.01.454605
+    first_posted: 2021-08-02
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.08.01.454605v1
+    url: https://api.rxivist.org/v1/papers/152573
+    title: The spike protein of SARS-CoV-2 induces endothelial inflammation through
+      integrin α5β1 and NF-κB
+    category: cell-biology
+    abstract: Vascular endothelial cells (EC) form a critical interface between
+      blood and tissues that maintains whole-body homeostasis. In COVID-19,
+      disruption of the EC barrier results in edema, vascular inflammation, and
+      coagulation, the hallmarks of the severe disease. However, the mechanisms
+      by which EC are dysregulated in COVID-19 are unclear. Here, we show that
+      the spike protein of SARS-CoV-2 alone activates the EC inflammatory
+      phenotype in a manner dependent on integrin 5{beta}1 signaling. Incubation
+      of human umbilical vein EC with whole spike, its receptor-binding domain,
+      or the integrin-binding tripeptide RGD induced the nuclear translocation
+      of NF-{kappa}B and enhanced the expression of leukocyte adhesion molecules
+      VCAM1 and ICAM1, the adhesion of peripheral blood leukocytes, and the
+      permeability of the monolayer. Inhibitors of integrin 5{beta}1 activation
+      prevented these effects. We suggest that the spike protein, through its
+      RGD motif in the receptor-binding domain, binds to integrin 5{beta}1 in EC
+      to activate Rho GTPases, eNOS pathways, and the NF-{kappa}B gene
+      expression program responsible for vascular leakage and leukocyte
+      infiltration, respectively. These findings uncover a new direct action of
+      SARS-CoV-2 on EC dysfunction and introduce integrin 5{beta}1 as a
+      promising target for treating vascular inflammation in COVID-19.
+    authors:
+      - name: Juan Pablo Robles
+        orcid: http://orcid.org/0000-0001-8429-1914
+      - name: Magdalena Zamora
+        orcid: http://orcid.org/0000-0001-5579-1004
+      - name: Gonzalo Martinez de la Escalera
+        orcid: http://orcid.org/0000-0002-4309-3476
+      - name: Carmen Clapp
+        orcid: http://orcid.org/0000-0002-7670-6718
+  comment:
+    dislikes: 0
+    thread: "8689030473"
+    numReports: 0
+    likes: 0
+    id: "5484364291"
+    createdAt: 2021-08-06T17:21:33
+    author:
+      username: kaacwh
+      about: ""
+      name: KaAcWh
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/kaacwh/
+      url: ""
+      location: ""
+      id: "359138096"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Very interesting study. I am curious to hear why the authors did
+      not make any reference to the fact that if Spike is inducing endothelial
+      inflammation via integrin5 and NF-KB, this means that there is a very real
+      risk of such occurrence in people vaccinated with mRNA and vectorized
+      vaccines that lead to the endogenous production of full length (or, even
+      only RBD) of Spike. In other words, 2+2 should equal 4, even in these
+      strange times. Any thoughts?
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.08.01.454605v1
+  tweets:
+    - created_at: Sat Aug 07 00:08:48 +0000 2021
+      id: 1423798242987368400
+      id_str: "1423798242987368450"
+      text: >-
+        💬 bioRxiv comment on "The spike protein of SARS-CoV-..."
+
+
+        "Very interesting study. I am curious to hear why the aut… https://t.co/IJZ8606QoU
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/IJZ8606QoU
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Aug 07 00:08:48 +0000 2021
+      id: 1423798243767554000
+      id_str: "1423798243767554057"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/qaDQS2ko6c
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/qaDQS2ko6c
+      in_reply_to_status_id: 1423798242987368400
+      in_reply_to_status_id_str: "1423798242987368450"
