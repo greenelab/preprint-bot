@@ -66473,3 +66473,147 @@
           - url: https://t.co/JU2ptqGZ3V
       in_reply_to_status_id: 1424038999958724600
       in_reply_to_status_id_str: "1424038999958724610"
+- preprint:
+    id: "143052"
+    doi: 10.1101/2021.05.20.21257520
+    first_posted: 2021-05-24
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.05.20.21257520v1
+    url: https://api.rxivist.org/v1/papers/143052
+    title: "ACTIVATE-2: A DOUBLE-BLIND RANDOMIZED TRIAL OF BCG VACCINATION AGAINST
+      COVID19 IN INDIVIDUALS AT RISK"
+    category: infectious-diseases
+    abstract: BCG vaccination induces heterologous protection against respiratory
+      tract infections, and in children improves survival independently of
+      tuberculosis prevention. The phase III ACTIVATE-2 study assessed whether
+      BCG could also protect against COVID19 in the elderly. In this
+      double-blind, randomized trial, elderly Greek patients were randomized
+      (1:1) to receive either BCG revaccination or placebo at hospital
+      discharge, followed by 6 months observation for incidence of COVID19
+      infection. BCG revaccination resulted in 68% risk reduction for total
+      COVID19 clinical and microbiological diagnoses (OR 0.32, 95% CI
+      0.13-0.79). Five patients in the placebo group and one in the
+      BCG-vaccinated group had severe COVID19 that necessitated hospitalization.
+      3 months after BCG vaccination 1.3% of placebo and 4.7% of BCG-vaccinated
+      volunteers had anti-SARS-CoV-2 antibodies. These data argue that BCG
+      revaccination is safe and protects the elderly against COVID19. BCG
+      revaccination may represent a viable preventive measure against COVID19.
+    authors:
+      - name: Maria Tsilika
+        orcid: null
+      - name: Esther Taks
+        orcid: null
+      - name: Konstantinos Dolianitis
+        orcid: null
+      - name: Antigone Kotsaki
+        orcid: null
+      - name: Konstantinos Leventogiannis
+        orcid: null
+      - name: Christina Damoulari
+        orcid: null
+      - name: Maria Kostoula
+        orcid: null
+      - name: Maria Paneta
+        orcid: null
+      - name: Gerogios Adamis
+        orcid: null
+      - name: Ilias C. Papanikolaou
+        orcid: null
+      - name: Kimon Stamatelopoulos
+        orcid: null
+      - name: Amalia Bolanou
+        orcid: null
+      - name: Konstantinos Katsaros
+        orcid: null
+      - name: Christina Delavinia
+        orcid: null
+      - name: Ioannis Perdios
+        orcid: null
+      - name: Aggeliki Pandi
+        orcid: null
+      - name: Konstantinos Tsiakos
+        orcid: null
+      - name: Nektarios Proios
+        orcid: null
+      - name: Emmanouela Kalogianni
+        orcid: null
+      - name: Ioannis Delis
+        orcid: http://orcid.org/0000-0001-8940-5036
+      - name: Efstathios Skliros
+        orcid: null
+      - name: Karolina Akinosoglou
+        orcid: http://orcid.org/0000-0002-4289-9494
+      - name: Aggeliki Perdikouli
+        orcid: null
+      - name: Garyfallia Poulakou
+        orcid: null
+      - name: Haralampos Milionis
+        orcid: http://orcid.org/0000-0003-3958-2266
+      - name: Eva Athanasopoulou
+        orcid: null
+      - name: Eleftheria Kalpaki
+        orcid: null
+      - name: Leda Efstratiou
+        orcid: null
+      - name: Varvara Perraki
+        orcid: null
+      - name: Antonios Papadopoulos
+        orcid: null
+      - name: Mihai G. Netea
+        orcid: http://orcid.org/0000-0003-2421-6052
+      - name: Evangelos Giamarellos-Bourboulis
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8547318416"
+    numReports: 0
+    likes: 0
+    id: "5483332669"
+    createdAt: 2021-08-05T20:25:29
+    author:
+      username: abhishek_anand_9
+      about: ""
+      name: Abhishek Anand
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/abhishek_anand_9/
+      url: ""
+      location: ""
+      id: "29921913"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: "fair criticism about changing the case definition. but other
+      vaccine trials (e.g. Pfizer) also didnt count positive serology as a case:
+      they didnt even do the serology tests AFAIK."
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.05.20.21257520v1
+  tweets:
+    - created_at: Sat Aug 07 18:05:33 +0000 2021
+      id: 1424069213514354700
+      id_str: "1424069213514354688"
+      text: >-
+        💬 medRxiv comment on "ACTIVATE-2: A DOUBLE-BLIND RAN..."
+
+
+        "fair criticism about changing the case definition. but o… https://t.co/M7Sp87YkhW
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/M7Sp87YkhW
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Aug 07 18:05:33 +0000 2021
+      id: 1424069214478930000
+      id_str: "1424069214478929921"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/aYnY2HA5IH
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/aYnY2HA5IH
+      in_reply_to_status_id: 1424069213514354700
+      in_reply_to_status_id_str: "1424069213514354688"
