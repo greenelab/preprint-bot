@@ -66617,3 +66617,65 @@
           - url: https://t.co/aYnY2HA5IH
       in_reply_to_status_id: 1424069213514354700
       in_reply_to_status_id_str: "1424069213514354688"
+- preprint:
+    id: 152756
+    metric: 22
+    title: High expression of VRT2 during wheat spikelet initiation increases the
+      number of rudimentary basal spikelets
+    url: https://api.rxivist.org/v1/papers/152756
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.08.03.454952v1
+    doi: 10.1101/2021.08.03.454952
+    category: plant-biology
+    first_posted: 2021-08-04
+    abstract: Spikelets are the fundamental building blocks of Poaceae
+      inflorescences and their development and branching patterns determine the
+      various inflorescence architectures and grain yield of grasses. In wheat,
+      the central spikelets produce the most and largest grains, while spikelet
+      size gradually decreases acro- and basipetally, giving rise to the
+      characteristic lanceolate shape of wheat spikes. The acropetal gradient
+      correlates with the developmental age of spikelets, however the basal
+      spikelets are developed first and the cause of their small size and
+      rudimentary development is unclear. Here, we adapted G&T-seq, a low-input
+      transcriptomics approach, to characterise gene expression profiles within
+      spatial sections of individual spikes before and after the establishment
+      of the lanceolate shape. We observed larger differences in gene expression
+      profiles between the apical, central and basal sections of a single spike
+      than between any section belonging to consecutive developmental
+      timepoints. We found that SVP MADS-box transcription factors, including
+      VRT-A2, are expressed highest in the basal section of the wheat spike and
+      display the opposite expression gradient to flowering E-class SEP1 genes.
+      Based on multi-year field trials and transgenic lines we show that higher
+      expression of VRT-A2 in the basal sections of the spike is associated with
+      increased numbers of rudimentary basal spikelets. Our results, supported
+      by computational modelling, suggest that the delayed transition of basal
+      spikelets from vegetative to floral developmental programmes results in
+      the lanceolate shape of wheat spikes. This study highlights the value of
+      spatially resolved transcriptomics to gain new insights into developmental
+      genetics pathways of grass inflorescences.
+    authors:
+      - name: Anna E Backhaus
+      - name: Ashleigh Lister
+      - name: Melissa Tomkins
+      - name: Nikolai M. Adamski
+      - name: James Simmonds
+      - name: Iain C Macaulay
+      - name: Richard J Morris
+      - name: Wilfried Haerty
+      - name: Cristobal Uauy
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Sat Aug 07 20:04:25 +0000 2021
+      id: 1424099130385838000
+      id_str: "1424099130385838085"
+      text: >-
+        🔥 bioRxiv Plant-biology preprint by A. E. Backhaus et al:
+
+
+        "High expression of VRT2 during wheat spikelet initiatio… https://t.co/jNvKFOGwpH
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/jNvKFOGwpH
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
