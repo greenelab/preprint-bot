@@ -66258,3 +66258,116 @@
           - url: https://t.co/s87cp8UEXr
       in_reply_to_status_id: 1423978699817472000
       in_reply_to_status_id_str: "1423978699817472000"
+- preprint:
+    id: "149722"
+    doi: 10.1101/2021.07.11.451855
+    first_posted: 2021-07-11
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.11.451855v1
+    url: https://api.rxivist.org/v1/papers/149722
+    title: The SARS-CoV-2 spike reversibly samples an open-trimer conformation
+      exposing novel epitopes
+    category: biophysics
+    abstract: Current COVID-19 vaccines and many clinical diagnostics are based on
+      the structure and function of the SARS-CoV-2 spike ectodomain. Using
+      hydrogen deuterium exchange mass spectrometry, we have uncovered that, in
+      addition to the prefusion structure determined by cryo-EM, this protein
+      adopts an alternative conformation that interconverts slowly with the
+      canonical prefusion structure. This new conformation-an open
+      trimer-contains easily accessible RBDs. It exposes the conserved trimer
+      interface buried in the prefusion conformation, thus exposing potential
+      epitopes for pan-coronavirus antibody and ligand recognition. The
+      population of this state and kinetics of interconversion are modulated by
+      temperature, receptor binding, antibody binding, and sequence variants
+      observed in the natural population. Knowledge of the structure and
+      populations of this conformation will help improve existing diagnostics,
+      therapeutics, and vaccines.
+    authors:
+      - name: Shawn M Costello
+        orcid: http://orcid.org/0000-0003-3926-8074
+      - name: Sophie R Shoemaker
+        orcid: http://orcid.org/0000-0002-5278-2361
+      - name: Helen T Hobbs
+        orcid: http://orcid.org/0000-0002-4789-0608
+      - name: Annalee W Nguyen
+        orcid: http://orcid.org/0000-0003-1268-7164
+      - name: Ching-Lin Hsieh
+        orcid: null
+      - name: Jennifer A Maynard
+        orcid: http://orcid.org/0000-0002-0363-8486
+      - name: Jason S. McLellan
+        orcid: http://orcid.org/0000-0003-3991-542X
+      - name: John E Pak
+        orcid: null
+      - name: Susan Marqusee
+        orcid: http://orcid.org/0000-0001-7648-2163
+  comment:
+    dislikes: 0
+    thread: "8643006882"
+    numReports: 0
+    likes: 0
+    id: "5483604270"
+    createdAt: 2021-08-06T01:06:03
+    author:
+      username: disqus_C5Nb0o3FBL
+      about: ""
+      name: Shawn Costello
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_C5Nb0o3FBL/
+      url: ""
+      location: ""
+      id: "373312235"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Thank you for this comment Dr. Komives. We believe that we address many of
+      these concerns in the manuscript and supplemental materials and we are
+      happy to address them again here.
+       
+      To our knowledge, possible artifacts include carry-over effects, irreversible aggregation, and EX1-like behavior. Our results are reproducible (highlighted in figure 2C though we acknowledge we can and should include more demonstrations of reproducibility in our next draft) despite samples being injected in random order, which is not consistent with a carry-over effect. We demonstrate reversibility (figure 2C, supplemental figure 3C), proving this is not irreversible aggregation. And our observed bimodal distributions have a fixed ratio during continuous-labeling time courses at 25C (supplemental figure 3A/B), which is not classic EX1 or EXX behavior, but is most consistent with two structurally distinct, slowly interconverting forms undergoing EX2 exchange. Some might call this sort of sample heterogeneity an “artifact”, but this heterogeneity is exactly what we are aiming to characterize in this manuscript.
+
+
+      In regard to this being an artifact specific to our sample, in our manuscript we report this reversible bimodal behavior for three variants of the spike protein prepared in two different labs. Not included in this manuscript is HDX data for other spike constructs from two other labs that also show this same behavior.
+       
+      We would also like to point out, as we did in our manuscript, that bimodal or multimodal distributions can detect multiple conformations and have been used to great effect in other studies of viral proteins (we think Benhaim et al. Science Advances 2020 is a particularly good example). Additionally, the structural transition we report in this manuscript is consistent with Cryo-EM data of the SARS-CoV-2 spike (Edwards et al. NSMB 2021), and of structural transitions of other viral spike proteins that have been previously studied (Gilman et al. Nature Communications 2019).
+       
+      We are aware of three publications that include HDX data of the spike ectodomain, Raghuvamsi et al. eLife 2020, Zuzic et al. biorXiv 2021, and Huang and Nguyen et al bioRxiv 2021. We have already included a supplementary note to address the fact that Raghuvamsi et al., and Huang and Nguyen et al. did not observe the heterogeneity we report. While we have not had conversations with the Anand lab, we have discussed our results with the D’Arcy lab. In reviewing their data - they do note wider than expected isotopic distributions that are consistent with the heterogeneity we report, although in their case it does not result in two separately quantifiable distributions, likely due to the multiple reasons we discuss in our supplemental note. Zuzic et al. do report a bimodal distribution for a single peptide, in a region where we too observe bimodal behavior, and conclude this is consistent with heterogeneity, but do not state whether this is observed in other regions, or why it was not observed or noted in Raghuvamsi et al, despite appearing to share the same data set. To summarize what we have said here and what we say in our supplemental note, we believe that all released spike HDX data sets are consistent with our findings. 
+
+
+      Lastly, we agree that it is important to include raw isotopic distributions across relevant timescales, which is why we include them in our supplemental information (supplemental figure 3A/B). We also include observed isotopic distributions many other times in our manuscript to support our conclusions (figure 2A/B, figure 3D, figure 4A, and supplemental figure 3C). For ease of plotting and for clarity, these are extracted distributions (normalized intensity for each isotopic state for an individual peptide).
+
+
+      Please let us know if you have any other concerns.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.07.11.451855v1
+  tweets:
+    - created_at: Sat Aug 07 14:05:14 +0000 2021
+      id: 1424008739628195800
+      id_str: "1424008739628195849"
+      text: >-
+        💬 bioRxiv comment on "The SARS-CoV-2 spike reversibl..."
+
+
+        "Thank you for this comment Dr. Komives. We believe that… https://t.co/ipSFMmnHLb
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/ipSFMmnHLb
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sat Aug 07 14:05:15 +0000 2021
+      id: 1424008740483776500
+      id_str: "1424008740483776512"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/1uitprUyf6
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/1uitprUyf6
+      in_reply_to_status_id: 1424008739628195800
+      in_reply_to_status_id_str: "1424008739628195849"
