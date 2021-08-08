@@ -67512,3 +67512,118 @@
           - url: https://t.co/MN7AhriAfi
       in_reply_to_status_id: 1424401411031376000
       in_reply_to_status_id_str: "1424401411031375876"
+- preprint:
+    id: "152335"
+    doi: 10.1101/2021.07.31.21261387
+    first_posted: 2021-07-31
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.07.31.21261387v1
+    url: https://api.rxivist.org/v1/papers/152335
+    title: Vaccinated and unvaccinated individuals have similar viral loads in
+      communities with a high prevalence of the SARS-CoV-2 delta variant
+    category: infectious-diseases
+    abstract: SARS-CoV-2 variant B.1.617.2 (delta) is associated with higher viral
+      loads [1] and increased transmissibility relative to other variants, as
+      well as partial escape from polyclonal and monoclonal antibodies [2]. The
+      emergence of the delta variant has been associated with increasing case
+      counts and test-positivity rates, indicative of rapid community spread.
+      Since early July 2021, SARS-CoV-2 cases in the United States have
+      increased coincident with delta SARS-CoV-2 becoming the predominant
+      lineage nationwide [3]. Understanding how and why the virus is spreading
+      in settings where there is high vaccine coverage has important public
+      health implications. It is particularly important to assess whether
+      vaccinated individuals who become infected can transmit SARS-CoV-2 to
+      others. In Wisconsin, a large local contract laboratory provides
+      SARS-CoV-2 testing for multiple local health departments, providing a
+      single standard source of data using the same assay to measure virus
+      burdens in test-positive cases. This includes providing high-volume
+      testing in Dane County, a county with extremely high vaccine coverage.
+      These PCR-based tests provide semi-quantitative information about the
+      viral load, or amount of SARS-CoV-2 RNA, in respiratory specimens. Here we
+      use this viral load data to compare the amount of SARS-CoV-2 present in
+      test-positive specimens from people who self-report their vaccine status
+      and date of final immunization, during a period in which the delta variant
+      became the predominant circulating variant in Wisconsin. We find no
+      difference in viral loads when comparing unvaccinated individuals to those
+      who have vaccine "breakthrough" infections. Furthermore, individuals with
+      vaccine breakthrough infections frequently test positive with viral loads
+      consistent with the ability to shed infectious viruses. Our results, while
+      preliminary, suggest that if vaccinated individuals become infected with
+      the delta variant, they may be sources of SARS-CoV-2 transmission to
+      others.
+    authors:
+      - name: Kasen K Riemersma
+        orcid: http://orcid.org/0000-0002-5819-4720
+      - name: Brittany E Grogan
+        orcid: null
+      - name: Amanda Kita-Yarbro
+        orcid: null
+      - name: Gunnar E Jeppson
+        orcid: null
+      - name: David H O'Connor
+        orcid: http://orcid.org/0000-0002-3532-8351
+      - name: Thomas C Friedrich
+        orcid: http://orcid.org/0000-0001-9831-6895
+      - name: Katarina M Grande
+        orcid: null
+  comment:
+    dislikes: 0
+    thread: "8683853325"
+    numReports: 0
+    likes: 0
+    id: "5483129553"
+    createdAt: 2021-08-05T17:53:16
+    author:
+      username: ultrafiltered
+      about: ""
+      name: Ultrafiltered
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/ultrafiltered/
+      url: ""
+      location: ""
+      id: "373346504"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Not even peered reviewed and yet the authors and local news
+      stations in Dane County are promoting and reporting on this paper.  That
+      sends a dangerous message to the public that anyone can write anything and
+      its believable/credible.  Seeing the other comments here on the
+      fallibility of the PCR test, as CDC has called out and published
+      authoritatively along with other FDA withdrawals of rapid assay test
+      procedures, indicates mine and their comments are just as good as this
+      paper.  The authors should remember that information is like a match, it
+      can burn a whole lot of people if left unchecked/ unqualified /
+      uncontrolled.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.07.31.21261387v1
+  tweets:
+    - created_at: Sun Aug 08 18:05:19 +0000 2021
+      id: 1424431546149318700
+      id_str: "1424431546149318659"
+      text: >-
+        💬 medRxiv comment on "Vaccinated and unvaccinated in..."
+
+
+        "Not even peered reviewed and yet the authors and local n… https://t.co/GSlFE4Ms09
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/GSlFE4Ms09
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Aug 08 18:05:20 +0000 2021
+      id: 1424431547004989400
+      id_str: "1424431547004989447"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/NzGo4SSVAt
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/NzGo4SSVAt
+      in_reply_to_status_id: 1424431546149318700
+      in_reply_to_status_id_str: "1424431546149318659"
