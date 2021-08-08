@@ -67627,3 +67627,70 @@
           - url: https://t.co/NzGo4SSVAt
       in_reply_to_status_id: 1424431546149318700
       in_reply_to_status_id_str: "1424431546149318659"
+- preprint:
+    id: 148981
+    metric: 13
+    title: Projecting genetic associations through gene expression patterns
+      highlights disease etiology and drug mechanisms
+    url: https://api.rxivist.org/v1/papers/148981
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.05.450786v1
+    doi: 10.1101/2021.07.05.450786
+    category: bioinformatics
+    first_posted: 2021-07-06
+    abstract: Understanding how dysregulated transcriptional processes result in
+      tissue-specific pathology requires a mechanistic interpretation of
+      expression regulation across different cell types. It has been shown that
+      this insight is key for the development of new therapies. These mechanisms
+      can be identified with transcriptome-wide association studies (TWAS),
+      which have represented a significant step forward to test the mediating
+      role of gene expression in GWAS associations. However, it is hard to
+      disentangle causal cell types using eQTL data alone, and other methods
+      generally do not use the large amounts of publicly available RNA-seq data.
+      Here we introduce PhenoPLIER, a polygenic approach that maps both
+      gene-trait associations and pharmacological perturbation data into a
+      common latent representation for a joint analysis. This representation is
+      based on modules of genes with similar expression patterns across the same
+      tissues. We observed that diseases were significantly associated with gene
+      modules expressed in relevant cell types, and our approach was accurate in
+      predicting known drug-disease pairs and inferring mechanisms of action.
+      Furthermore, using a CRISPR screen to analyze lipid regulation, we found
+      that functionally important players lacked TWAS associations but were
+      prioritized in phenotype-associated modules by PhenoPLIER. By
+      incorporating groups of co-expressed genes, PhenoPLIER can contextualize
+      genetic associations and reveal potential targets within associated
+      processes that are missed by single-gene strategies.
+    authors:
+      - name: Milton Pividori
+      - name: Sumei Lu
+      - name: Binglan Li
+      - name: Chun Su
+      - name: Matthew E. Johnson
+      - name: Wei-Qi Wei
+      - name: Qiping Feng
+      - name: Bahram Namjou
+      - name: Krzysztof Kiryluk
+      - name: Iftikhar Kullo
+      - name: Yuan Luo
+      - name: Blair D. Sullivan
+      - name: Benjamin Franklin Voight
+      - name: Carsten Skarke
+      - name: Marylyn D. Ritchie
+      - name: Struan F.A. Grant
+      - name: Casey S Greene
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Sun Aug 08 20:04:36 +0000 2021
+      id: 1424461561897312300
+      id_str: "1424461561897312256"
+      text: >-
+        🔥 bioRxiv Bioinformatics preprint by M. Pividori et al:
+
+
+        "Projecting genetic associations through gene expression p… https://t.co/xeNxPtrLym
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/xeNxPtrLym
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
