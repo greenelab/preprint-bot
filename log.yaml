@@ -67306,3 +67306,209 @@
           - url: https://t.co/NzGo4SSVAt
       in_reply_to_status_id: 1424371088004456400
       in_reply_to_status_id_str: "1424371088004456448"
+- preprint:
+    id: "141232"
+    doi: 10.1101/2021.04.27.21256153
+    first_posted: 2021-05-11
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.04.27.21256153v1
+    url: https://api.rxivist.org/v1/papers/141232
+    title: "Cerebral venous thrombosis and portal vein thrombosis: a retrospective
+      cohort study of 537,913 COVID-19 cases"
+    category: neurology
+    abstract: "Objectives: To estimate the absolute risk of cerebral venous
+      thrombosis (CVT) and portal vein thrombosis (PVT) in the two weeks
+      following a diagnosis of COVID-19, and to assess the relative risks (RR)
+      compared to influenza or the administration of an mRNA vaccine against
+      COVID-19. Design: Retrospective cohort study based on an electronic health
+      records network Setting: Linked records between primary and secondary care
+      centres within 59 healthcare organisations, primarily in the USA
+      Participants: All patients with a confirmed diagnosis of COVID-19 between
+      January 20, 2020 and March 25, 2021 were included (N=537,913, mean [SD]
+      age: 46.2 [21.4] years; 54.9% females). Cohorts (matched for age, sex, and
+      race) of participants diagnosed with influenza (N=392,424) or receiving
+      the BNT162b2 or mRNA-1273 vaccine (N=366,869) were used for comparison.
+      Main outcome measures: Diagnosis of CVT (ICD-10 code I67.6) or PVT (ICD-10
+      code I81) within 2 weeks after a diagnosis of COVID-19. Results: The
+      incidence of CVT after COVID-19 diagnosis was 42.8 per million people (95%
+      CI 28.5-64.2) including 35.3 per million (95% CI 22.6-55.2) first
+      diagnoses. This was significantly higher than the CVT incidence in a
+      matched cohort of patients with influenza (RR=3.83, 95% CI 1.56-9.41,
+      P<0.001) and people who received an mRNA vaccine (RR=6.67, 95% CI
+      1.98-22.43, P<0.001). The incidence of PVT after COVID-19 diagnosis was
+      392.3 per million people (95% CI 342.8-448.9) including 175.0 per million
+      (95% CI 143.0-214.1) first diagnoses. This was significantly higher than
+      the PVT incidence in a matched cohort of patients with influenza (RR=1.39,
+      95% CI 1.06-1.83, P=0.02) and people who received an mRNA vaccine
+      (RR=7.40, 95% CI 4.87-11.24, P<0.001). Mortality after CVT and PVT was
+      17.4% and 19.9% respectively. Conclusions: The incidence of CVT and PVT is
+      significantly increased after COVID-19. The data highlight the risk of
+      serious thrombotic events in COVID-19 and can help contextualize the risks
+      and benefits of vaccination in this regard."
+    authors:
+      - name: Maxime Taquet
+        orcid: http://orcid.org/0000-0002-8987-952X
+      - name: Masud Husain
+        orcid: http://orcid.org/0000-0002-6850-9255
+      - name: John R Geddes
+        orcid: null
+      - name: Sierra Luciano
+        orcid: null
+      - name: Paul J Harrison
+        orcid: http://orcid.org/0000-0002-6719-1126
+  comment:
+    dislikes: 0
+    thread: "8515829028"
+    numReports: 0
+    likes: 0
+    id: "5483183366"
+    createdAt: 2021-08-05T18:32:18
+    author:
+      username: anettestahel
+      about: ""
+      name: Anette Stahel
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/anettestahel/
+      url: ""
+      location: ""
+      id: "373260979"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: >-
+      Dear moderator,
+
+
+      I've now reviewed, edited and updated my earlier comment to the present study [1]. I hope this will allow for it to be posted.
+
+
+      I'm sorry, but this study is not correct. That is, the pool of people used as denominator when calculating the percentage of COVID-19 infected people who developed CVT and PVT is greatly inadequate. I'll explain what I mean.
+
+
+      In the abstract of the study, it's stated:
+
+
+      "COVID-19 increases the risk of CVT and PVT compared to patients diagnosed with influenza, and to people who have received a COVID-19 mRNA vaccine."
+
+
+      However, when comparing the risk of developing condition X from disease Y with the risk of developing condition X from something else, eg vaccine Z, you first and foremost need to make a correct assessment of how how large the pool of people with disease X is. And to do that, you need to make an estimate. Merely counting the number of people who've sought out primary or secondary care for their symptoms won't do. Not even if you include all the people who were asymptomatic but sought out the care center anyway in order to take a test to see if they were infected (simply because they wanted to know) and then tested positive. 
+
+
+      No, you need to include <i>all</i> infected persons in the total pool of people belonging to the health care facility/facilities in question, including the ones who don't go test themselves because of being asymptomatic, or of not having the energy to do it due to their symptoms, or of being into alternative medicine, or of lacking interest/knowledge about the infection et c. There may be many of different reasons. This means you need do make an estimate, otherwise the denominator in the calculation of the percentage who develop condition X from infection Y becomes incorrect. 
+
+
+      A study measuring the risk of developing condition X from infection Y using a smaller denominator than one including everyone infected may be useful at times, but it can <i>not</i> be used for comparison with a correctly calculated vaccine risk.
+
+
+      I will use the study Estimation of the Lethality for COVID-19 in Stockholm County published by the Swedish Public Health Agency [2] as an example of a correctly calculated risk, based on an adequately defined denominator. The fact that this is a calculation of the lethality percentage from COVID-19 and not the CVT and PVT percentage is irrelevant, the point is that the same mathematics used in this study should've been applied in the present Oxford University study. From page 13 in the Swedish study, in translation:
+
+
+      "Recruitment was based on a stratified random sample of the population 0-85 years. In the survey we use, the survey for Stockholm County was supplemented with a self-sampling kit to measure ongoing SARS-CoV-2-infection by PCR test. The sampling took place from March 26 until April 2 and 18 of a total of 707 samples were positive. The proportion of the population in Stockholm County which would test positive was thus estimated at 2.5%, with 95% confidence range 1.4-4.2%."
+
+
+      For a complex reason, which I won't go into but is described in detail in the study text, one needs to use a slightly higher percentage when multiplying it with the total number of people in the pool, but that's of minor importance. Anyway, in this study they had to use the figure 3,1169% and when they multiplied it with the number of people in Stockholm County, 2 377 000, they got 74 089. This estimate was then the correct denominator to use when calculating the percentage of people who died from COVID-19 in Stockholm County during this time period. 
+
+
+      The numerator was the number of people who died in Stockholm County with a strong suspicion of COVID-19 as a cause, which was 432, no incorrectness there either - as long as a suspected cause number, not a diagnosed cause number, is also used as the numerator when calculating the lethality from the COVID-19 vaccine when the infection lethality and vaccine lethality rates are compared. 
+
+
+      So, what they found was that the lethality from COVID-19 in Stockholm County was 0,58%. This is a correct figure, as long as we keep in mind the fact that some of the suspected COVID-19 deaths may later become diagnosed as unrelated to the infection. 
+
+
+      The above is thus how the authors of the present Oxford study should've carried out their calculations but they didn't. From their text: 
+
+
+      "Design: Retrospective cohort study based on an electronic health records network. Setting: Linked records between primary and secondary care centres within 59 healthcare organisations, primarily in the USA. Participants: All patients with a confirmed diagnosis of COVID-19 between January 20, 2020 and March 25, 2021 were included."
+
+
+      This excludes a considerable amount of infected persons in the total pool of people belonging to all of these primary and secondary care centers, who didn't go test themselves because of a number of reasons (being asymptomatic, being alternative medical, not having the energy or interest for it, et c). 
+
+
+      If they'd used the adequate figure in the denominator, the percentage of people established to've developed CVT and PVT from COVID-19 would've gotten vastly lower. However, the percentage of people determined to've developed CVT and PVT from the mRNA COVID-19 vaccines was fully correctly carried out since there are no unregistered vaccinated cases and therefore the registered figure is to be used.
+
+
+      Via the Oxford study's Figure 2 and Table S2 [3], I calculated the following figures: First time CVT cases diagnosed after administration of the mRNA COVID vaccines amounted to 6.6 per million and first time PVT cases after same vaccines amounted to 12.5 per million.
+
+
+      Now, there's a study titled Estimation of US SARS-CoV-2 Infections, Symptomatic Infections, Hospitalizations and Deaths Using Seroprevalence Surveys published by the American Medical Association [4], which has estimated the percentage of infected people in the US looking at roughly the same time period as the Oxford study. From the paper:
+
+
+      "An estimated 14.3% (IQR, 11.6%-18.5%) of the US population were infected by SARS-CoV-2 as of mid-November 2020."
+
+
+      With an infection rate around 14.3%, the estimated number of infected people of the 81 million patients in the healthcare database referred to in the study would've amounted to 11 583 000. This number gives us a hint as for the size of the denominator which should've been used in the calculation instead of the figure of 537 913 confirmed diagnoses. 
+
+
+      However, since the Oxford study not only looked at CVT and PVT arising from people having the infection around mid-November 2020 but looked at a much longer time period, from January 20, 2020 to to March 25, 2021, a number far greater than 11 583 000 should be applied. What we need is to estimate how many of the 81 million patients which were infected at least once during these 14 months in question. For the calculation to be really accurate, we need the total, accumulated number of infected people. But since that number isn't found without a very comprehensive and time consuming investigation, we instead have to use the signs ">" ("greater than") and "<" ("less than") here. So, the correct denominator, which should've been used instead of the 537 913 figure, is >11 583 000.
+
+
+      Further, the study says that first time CVT was found in 19 of the patients following COVID-19 diagnosis and first time PVT in 94. This actually means that the rates of CVT and PVT elicited by COVID-19 were much <i>lower</i> than the rates of CVT and PVT elicited by the vaccines. COVID-19 elicited PVT cases, correctly calculated, amounted to <8.1 per million - only about two thirds of the 12.5 per million for the vaccines - and the CVT cases amounted to <1.6 per million - a mere fourth of the vaccines' 6.6.
+
+
+      Interestingly, with their work including this method error, these authors have provided scientific validation of the growing suspicion that the COVID-19 vaccines give rise to thrombocytic complications to a much greater extent than does COVID-19 (which is the opposite of what's stated in the study), because even if the 537 913 figure is inadequate, the other figures in the study are most likely not.
+
+
+      It should also be said that the disclaimer inserted towards the end of the Oxford study by no means can be referred to in order to justify this method error. From the disclaimer: 
+
+
+      "However, the study also has several limitations and results should be interpreted with caution. (--) Third, some cases of COVID-19, especially those early in the pandemic, are undiagnosed, and we cannot generalise our risk estimates to this population."
+
+
+      The reason why this passage cannot be referred to, is that 11 000 000 or so omitted cases impossibly can be defined as "some", when the number of denominator cases determined in the study merely constitutes a small fraction (5%) of that figure. 
+
+
+      Finally, I'd like to suggest a reading through of the English translation of the Swedish COVID-19 lethality study that I took up in the beginning of my text as a correct, comparative example [5]. This is the main paper that the Swedish equivalent to CDC, the Public Health Agency (Folkhälsomyndigheten), refers to when talking about the COVID-19 lethality here and it's put up on one of the major information pages of their website. I really recommend reading all of it, because it explains so well and in such detail how come this model of denominator calculation without exception must be used in studies like these, which aim to investigate the rate of injuries/complications arising from an infectious illness.
+
+
+      Anette Stahel 
+
+      MSc in Biomedicine 
+
+      Sweden
+
+
+      References
+
+
+      1. Taquet, M, Husain, M, Geddes, J R, Luciano, S & Harrison, P J (2021) Cerebral Venous Thrombosis and Portal Vein Thrombosis: A Retrospective Cohort Study of 537,913 COVID-19 Cases <i>medRxiv</i> https://doi.org/10.1101/2021.04.27.21256153
+
+      2. Svenska Folkhälsomyndigheten (2020) <i>Skattning av Letaliteten för Covid-19 i Stockholms Län</i> https://www.folkhalsomyndigheten.se/contentassets/da0321b738ee4f0686d758e069e18caa/skattning-letalitet-COVID-19-stockholms-lan.pdf
+
+      3. Taquet, M, Husain, M, Geddes, J R, Luciano, S & Harrison, P J (2021) Cerebral Venous Thrombosis and Portal Vein Thrombosis: A Retrospective Cohort Study of 537,913 COVID-19 Cases <i>OSFHome</i> https://osf.io/a9jdq/
+
+      4. Angulo FJ, Finelli L, Swerdlow DL. Estimation of US SARS-CoV-2 (2021) Infections, Symptomatic Infections, Hospitalizations and Deaths Using Seroprevalence Surveys (2021) <i>JAMA Netw Open</i> https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2774584 
+
+      5. The Swedish Public Health Agency (2020) <i>Estimation of the Lethality for COVID-19 in Stockholm County</i> Online translation of [2] https://translate.google.com/translate?hl=en&sl=sv&tl=en&u=https%3A%2F%2Fwww.folkhalsomyndigheten.se%2Fcontentassets%2Fda0321b738ee4f0686d758e069e18caa%2Fskattning-letalitet-COVID-19-stockholms-lan.pdf
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.04.27.21256153v1
+  tweets:
+    - created_at: Sun Aug 08 16:05:35 +0000 2021
+      id: 1424401411031376000
+      id_str: "1424401411031375876"
+      text: |-
+        💬 medRxiv comment on "Cerebral venous thrombosis and..."
+
+        "Dear moderator,
+
+        I've now reviewed, edited and updated m… https://t.co/zZ3o2aBdI8
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/zZ3o2aBdI8
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Aug 08 16:05:35 +0000 2021
+      id: 1424401411845066800
+      id_str: "1424401411845066752"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/MN7AhriAfi
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/MN7AhriAfi
+      in_reply_to_status_id: 1424401411031376000
+      in_reply_to_status_id_str: "1424401411031375876"
