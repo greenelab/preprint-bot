@@ -66968,3 +66968,118 @@
           - url: https://t.co/v3X1jovilo
       in_reply_to_status_id: 1424129549164372000
       in_reply_to_status_id_str: "1424129549164371971"
+- preprint:
+    id: "103851"
+    doi: 10.1101/2020.11.11.378620
+    first_posted: 2020-11-12
+    repo: biorxiv
+    biorxiv_url: https://www.biorxiv.org/content/10.1101/2020.11.11.378620v1
+    url: https://api.rxivist.org/v1/papers/103851
+    title: Multi-Modal Profiling of Human Fetal Liver-Derived Hematopoietic Stem
+      Cells Reveals the Molecular Signature of Engraftment Potential
+    category: cell-biology
+    abstract: >-
+      The human hematopoietic stem cell (HSC) harbors remarkable regenerative
+      potential that can be harnessed therapeutically. During early development,
+      HSCs in the fetal liver (FL) undergo active expansion while simultaneously
+      retaining robust engraftment capacity, yet the underlying molecular
+      program responsible for their efficient engraftment remains unclear. We
+      profiled 26,407 FL cells at both transcriptional and protein levels
+      including over 7,000 highly enriched and functional FL HSCs to establish a
+      detailed molecular signature of engraftment potential. Integration of
+      transcript and linked cell surface marker expression revealed a
+      generalizable signature defining functional FL HSCs and allowed for the
+      stratification of enrichment strategies with high translational potential.
+      This comprehensive, multi-modal profiling of engraftment capacity connects
+      a critical biological function at a key developmental timepoint with its
+      underlying molecular drivers, serving as a useful resource for the field.
+
+
+      ### Competing Interest Statement
+
+
+      The authors have declared no competing interest.
+    authors:
+      - name: Kim Vanuytsel
+        orcid: http://orcid.org/0000-0002-8872-0736
+      - name: Carlos Villacorta-Martin
+        orcid: null
+      - name: Jonathan Lindstrom-Vautrin
+        orcid: http://orcid.org/0000-0001-8132-424X
+      - name: Zhe Wang
+        orcid: http://orcid.org/0000-0001-7071-3370
+      - name: Wilfredo F Garcia-Beltran
+        orcid: null
+      - name: Vladimir Vrbanac
+        orcid: null
+      - name: Taylor M Matte
+        orcid: http://orcid.org/0000-0002-7796-7485
+      - name: Todd W Dowrey
+        orcid: http://orcid.org/0000-0001-6086-6306
+      - name: Sara S Kumar
+        orcid: null
+      - name: Mengze Li
+        orcid: http://orcid.org/0000-0002-5441-9021
+      - name: Ruben Dries
+        orcid: http://orcid.org/0000-0001-7650-7754
+      - name: Joshua D. Campbell
+        orcid: http://orcid.org/0000-0003-0780-8662
+      - name: Anna Belkina
+        orcid: http://orcid.org/0000-0001-7967-6254
+      - name: Alejandro B. Balazs
+        orcid: http://orcid.org/0000-0002-1767-3944
+      - name: George James Murphy
+        orcid: http://orcid.org/0000-0003-3464-793X
+  comment:
+    dislikes: 0
+    thread: "8275081558"
+    numReports: 0
+    likes: 0
+    id: "5483296628"
+    createdAt: 2021-08-05T19:56:45
+    author:
+      username: kimvanuytsel
+      about: ""
+      name: kimvanuytsel
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/kimvanuytsel/
+      url: ""
+      location: ""
+      id: "373351910"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Thanks for pointing that out! We'll make sure the final version has
+      these annotated correctly.
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2020.11.11.378620v1
+  tweets:
+    - created_at: Sun Aug 08 00:10:13 +0000 2021
+      id: 1424160984755748900
+      id_str: "1424160984755748867"
+      text: >-
+        💬 bioRxiv comment on "Multi-Modal Profiling of Human..."
+
+
+        "Thanks for pointing that out! We'll make sure the final… https://t.co/t7D6ETGE3w
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/t7D6ETGE3w
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Sun Aug 08 00:10:13 +0000 2021
+      id: 1424160985657581600
+      id_str: "1424160985657581569"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/t2oA5SUUCv
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/t2oA5SUUCv
+      in_reply_to_status_id: 1424160984755748900
+      in_reply_to_status_id_str: "1424160984755748867"
