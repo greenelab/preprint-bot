@@ -68680,3 +68680,59 @@
           - url: https://t.co/UhBHrp7Yen
       in_reply_to_status_id: 1424794152135381000
       in_reply_to_status_id_str: "1424794152135381004"
+- preprint:
+    id: 148537
+    metric: 5
+    title: "We get by with a little help from our friends: diversity begets
+      diversity through shared adaptive genetic variation"
+    url: https://api.rxivist.org/v1/papers/148537
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.07.01.450755v1
+    doi: 10.1101/2021.07.01.450755
+    category: evolutionary-biology
+    first_posted: 2021-07-02
+    abstract: Adaptive radiations involve astounding bursts of phenotypic,
+      ecological, and species diversity. However, the microevolutionary
+      processes that underlie the origins of these bursts are still poorly
+      understood. We report the discovery of a cryptic wide-mouth intermediate
+      scale-eating ecomorph in a sympatric radiation of Cyprinodon pupfishes
+      which provides crucial information about the evolutionary and ecological
+      transition from a widespread algae-eating generalist to a novel
+      microendemic scale-eating specialist. We first show that this ecomorph
+      occurs in sympatry with generalist C. variegatus and scale-eating
+      specialist C. desquamator across several hypersaline lakes on San Salvador
+      Island, Bahamas, but is genetically differentiated, morphologically
+      distinct when reared in a common garden, and sometimes consumes scales. We
+      then compared the timing of selective sweeps on shared and unique adaptive
+      variants in both scale-eating species to characterize the evolutionary
+      path to scale-eating. We predicted that adaptation to the intermediate C.
+      sp. wide-mouth scale-eating niche aided in the rapid divergence of the
+      more specialized scale-eater C. desquamator. Therefore, selection for
+      shared adaptive variants should occur first in wide-mouth. Contrary to our
+      prediction, four of the six sets of shared adaptive alleles in both
+      scale-eating species swept significantly earlier in C. desquamator.
+      Adaptive introgression from desquamator into the wide-mouth ancestor may
+      have resulted in parallel evolution of their dietary niche. Conversely, no
+      adaptive alleles for scale-eating were reused in a third sympatric
+      molluscivore specialist C. brontotheriodes, despite sharing 9% of hard
+      selective sweeps. Our work provides a microevolutionary framework for
+      investigating how diversity begets diversity during adaptive radiation.
+    authors:
+      - name: Emilie Richards
+      - name: Christopher Martin
+    repo: biorxiv
+  comment: null
+  tweets:
+    - created_at: Mon Aug 09 20:09:25 +0000 2021
+      id: 1424825163820896300
+      id_str: "1424825163820896274"
+      text: >-
+        🔥 bioRxiv Evolutionary-biology preprint by E. Richards et al:
+
+
+        "We get by with a little help from our friends: dive… https://t.co/iGy6PfA7BQ
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/iGy6PfA7BQ
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
