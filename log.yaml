@@ -68161,3 +68161,87 @@
           - url: https://t.co/m0cKLPNLDg
       in_reply_to_status_id: 1424523567069376500
       in_reply_to_status_id_str: "1424523567069376517"
+- preprint:
+    id: "112460"
+    doi: 10.1101/2020.06.13.20129627
+    first_posted: 2020-06-13
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2020.06.13.20129627v1
+    url: https://api.rxivist.org/v1/papers/112460
+    title: Sentinel surveillance of SARS-CoV-2 in wastewater anticipates the
+      occurrence of COVID-19 cases
+    category: epidemiology
+    abstract: SARS-CoV-2 was detected in Barcelona sewage long before the
+      declaration of the first COVID-19 case, indicating that the infection was
+      present in the population before the first imported case was reported.
+      Sentinel surveillance of SARS-CoV-2 in wastewater would enable adoption of
+      immediate measures in the event of future COVID-19 waves.
+    authors:
+      - name: Gemma Chavarria-Miró
+        orcid: null
+      - name: Eduard Anfruns-Estrada
+        orcid: null
+      - name: Susana Guix
+        orcid: http://orcid.org/0000-0002-1588-3198
+      - name: Miquel Paraira
+        orcid: null
+      - name: Belén Galofré
+        orcid: null
+      - name: Gloria Sáanchez
+        orcid: null
+      - name: Rosa Pinto
+        orcid: http://orcid.org/0000-0003-1382-6648
+      - name: Albert Bosch
+        orcid: http://orcid.org/0000-0002-8111-9059
+  comment:
+    dislikes: 0
+    thread: "8075166583"
+    numReports: 0
+    likes: 1
+    id: "5485575182"
+    createdAt: 2021-08-07T17:27:25
+    author:
+      username: disqus_8tOlCsBQaY
+      about: ""
+      name: Throw Away
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/disqus_8tOlCsBQaY/
+      url: ""
+      location: ""
+      id: "345731215"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: They didn't test wastewater samples from prior to January 2020
+    forum: medrxiv
+    points: 1
+    link: https://www.medrxiv.org/content/10.1101/2020.06.13.20129627v1
+  tweets:
+    - created_at: Mon Aug 09 12:10:34 +0000 2021
+      id: 1424704656941502500
+      id_str: "1424704656941502468"
+      text: >-
+        💬 medRxiv comment on "Sentinel surveillance of SARS-..."
+
+
+        "They didn't test wastewater samples from prior to Januar… https://t.co/10kZeWakli
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/10kZeWakli
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Aug 09 12:10:34 +0000 2021
+      id: 1424704657851572200
+      id_str: "1424704657851572225"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/bjIFJgoHsc
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/bjIFJgoHsc
+      in_reply_to_status_id: 1424704656941502500
+      in_reply_to_status_id_str: "1424704656941502468"
