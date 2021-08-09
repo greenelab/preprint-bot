@@ -68736,3 +68736,109 @@
           - url: https://t.co/iGy6PfA7BQ
       in_reply_to_status_id: null
       in_reply_to_status_id_str: null
+- preprint:
+    id: "135829"
+    doi: 10.1101/2021.03.30.437718
+    first_posted: 2021-03-30
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.03.30.437718v1
+    url: https://api.rxivist.org/v1/papers/135829
+    title: Identification of Target Objects from Gaze Behavior during a Virtual
+      Navigation Task
+    category: neuroscience
+    abstract: "Eye tracking has been an essential tool within the vision science
+      community for many years. However, the majority of studies involving
+      eye-tracking technology employ a relatively passive approach through the
+      use of static imagery, prescribed motion, or video stimuli. This is in
+      contrast to our everyday interaction with the natural world where we
+      navigate our environment while actively seeking and using task-relevant
+      visual information. For this reason, vision researchers are beginning to
+      use virtual environment platforms, which offer interactive, realistic
+      visual environments while maintaining a substantial level of experimental
+      control. Here, we recorded eye movement behavior while participants freely
+      navigated through a complex virtual environment. Within this environment,
+      participants completed a visual search task where they were asked to find
+      and count occurrence of specific targets among numerous distractor items.
+      We assigned each participant into one of four target groups: Humvees,
+      motorcycles, aircraft, or furniture. Our results show a significant
+      relationship between gaze behavior and target objects across subject
+      groups. Specifically, we see an increased number of fixations and increase
+      dwell time on target relative to distractor objects. In addition, we
+      included a divided attention task to investigate how search patterns
+      changed with the addition of a secondary task. With increased cognitive
+      load, subjects slowed their speed, decreased gaze on objects, and
+      increased the number of objects scanned in the environment. Overall, our
+      results confirm previous findings from more controlled laboratory settings
+      and demonstrate that complex virtual environments can be used for active
+      visual search experimentation, maintaining a high level of precision in
+      the quantification of gaze information and visual attention. This study
+      contributes to our understanding of how individuals search for information
+      in a naturalistic virtual environment. Likewise, our paradigm provides an
+      intriguing look into the heterogeneity of individual behaviors when
+      completing an un-timed visual search task while actively navigating."
+    authors:
+      - name: Leah R. Enders
+        orcid: http://orcid.org/0000-0002-2205-2245
+      - name: Robert J. Smith
+        orcid: null
+      - name: Stephen M. Gordon
+        orcid: null
+      - name: Anthony J. Ries
+        orcid: null
+      - name: Jonathan Touryan
+        orcid: http://orcid.org/0000-0001-7343-7869
+  comment:
+    dislikes: 0
+    thread: "8459064915"
+    numReports: 0
+    likes: 0
+    id: "5487518873"
+    createdAt: 2021-08-09T13:55:38
+    author:
+      username: leahenders
+      about: ""
+      name: Leah Enders
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/leahenders/
+      url: ""
+      location: ""
+      id: "373555955"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Please see an updated version with the submitted version "Gaze
+      Behavior During Navigation and Visual Search of an Open-World Virtual
+      Environment" in Frontiers in Psychology
+      https://doi.org/10.3389/fpsyg.2021.681042
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.03.30.437718v1
+  tweets:
+    - created_at: Mon Aug 09 22:05:15 +0000 2021
+      id: 1424854312744800300
+      id_str: "1424854312744800259"
+      text: >-
+        💬 bioRxiv comment on "Identification of Target Objec..."
+
+
+        "Please see an updated version with the submitted version… https://t.co/9VvQ1EwgUE
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/9VvQ1EwgUE
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Aug 09 22:05:15 +0000 2021
+      id: 1424854313633992700
+      id_str: "1424854313633992707"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/L6RQPPfQcL
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/L6RQPPfQcL
+      in_reply_to_status_id: 1424854312744800300
+      in_reply_to_status_id_str: "1424854312744800259"
