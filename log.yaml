@@ -68581,3 +68581,102 @@
           - url: https://t.co/m0cKLPNLDg
       in_reply_to_status_id: 1424765034266300400
       in_reply_to_status_id_str: "1424765034266300421"
+- preprint:
+    id: "139430"
+    doi: 10.1101/2021.04.20.21255670
+    first_posted: 2021-04-24
+    repo: medrxiv
+    biorxiv_url: https://medrxiv.org/content/10.1101/2021.04.20.21255670v1
+    url: https://api.rxivist.org/v1/papers/139430
+    title: "Protection of previous SARS-CoV-2 infection is similar to that of
+      BNT162b2 vaccine protection: A three-month nationwide experience from
+      Israel"
+    category: epidemiology
+    abstract: "Worldwide shortage of vaccination against SARS-CoV-2 infection while
+      the pandemic is still uncontrolled leads many states to the dilemma
+      whether or not to vaccinate previously infected persons. Understanding the
+      level of protection of previous infection compared to that of vaccination
+      is critical for policy making. We analyze an updated individual-level
+      database of the entire population of Israel to assess the protection
+      efficacy of both prior infection and vaccination in preventing subsequent
+      SARS-CoV-2 infection, hospitalization with COVID-19, severe disease, and
+      death due to COVID-19. Vaccination was highly effective with overall
+      estimated efficacy for documented infection of 92.8% (CI: [92.6, 93.0]);
+      hospitalization 94.2% (CI: [93.6, 94.7]); severe illness 94.4% (CI: [93.6,
+      95.0]); and death 93.7% (CI: [92.5, 94.7]). Similarly, the overall
+      estimated level of protection from prior SARS-CoV-2 infection for
+      documented infection is 94.8% (CI: [94.4, 95.1]); hospitalization 94.1%
+      (CI: [91.9, 95.7]); and severe illness 96.4% (CI: [92.5, 98.3]). Our
+      results question the need to vaccinate previously-infected individuals."
+    authors:
+      - name: Yair Goldberg
+        orcid: http://orcid.org/0000-0002-4544-0910
+      - name: Micha Mandel
+        orcid: http://orcid.org/0000-0002-4270-9777
+      - name: Yonatan Woodbridge
+        orcid: http://orcid.org/0000-0001-8900-411X
+      - name: Ronen Fluss
+        orcid: null
+      - name: Ilya Novikov
+        orcid: null
+      - name: Rami Yaari
+        orcid: http://orcid.org/0000-0002-8808-8937
+      - name: Arnona Ziv
+        orcid: http://orcid.org/0000-0003-1147-8686
+      - name: Laurence Freedman
+        orcid: http://orcid.org/0000-0002-6767-7900
+      - name: Amit Huppert
+        orcid: http://orcid.org/0000-0002-3306-185X
+  comment:
+    dislikes: 0
+    thread: "8491346349"
+    numReports: 0
+    likes: 0
+    id: "5486692700"
+    createdAt: 2021-08-08T18:46:51
+    author:
+      username: jason_lamson
+      about: ""
+      name: Jason Lamson
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/jason_lamson/
+      url: ""
+      location: ""
+      id: "261700616"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: Actually, there are different ways to parameterize coefficients,
+      with the way you mention by far the most common.
+    forum: medrxiv
+    points: 0
+    link: https://www.medrxiv.org/content/10.1101/2021.04.20.21255670v1
+  tweets:
+    - created_at: Mon Aug 09 18:06:11 +0000 2021
+      id: 1424794152135381000
+      id_str: "1424794152135381004"
+      text: >-
+        💬 medRxiv comment on "Protection of previous SARS-Co..."
+
+
+        "Actually, there are different ways to parameterize coeff… https://t.co/pqR1cTov76
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/pqR1cTov76
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Mon Aug 09 18:06:12 +0000 2021
+      id: 1424794153251000300
+      id_str: "1424794153251000321"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the medRxiv landscape:
+
+        https://t.co/UhBHrp7Yen
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/UhBHrp7Yen
+      in_reply_to_status_id: 1424794152135381000
+      in_reply_to_status_id_str: "1424794152135381004"
