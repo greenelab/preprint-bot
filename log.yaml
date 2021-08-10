@@ -68842,3 +68842,90 @@
           - url: https://t.co/L6RQPPfQcL
       in_reply_to_status_id: 1424854312744800300
       in_reply_to_status_id_str: "1424854312744800259"
+- preprint:
+    id: "137534"
+    doi: 10.1101/2021.04.11.439381
+    first_posted: 2021-04-12
+    repo: biorxiv
+    biorxiv_url: https://biorxiv.org/content/10.1101/2021.04.11.439381v1
+    url: https://api.rxivist.org/v1/papers/137534
+    title: Why most Principal Component Analyses (PCA) in population genetic studies
+      are wrong
+    category: genetics
+    abstract: Principal Component Analysis (PCA) is a multivariate analysis that
+      allows reduction of the complexity of datasets while preserving data's
+      covariance and visualizing the information on colorful scatterplots,
+      ideally with only a minimal loss of information. PCA applications are
+      extensively used as the foremost analyses in population genetics and
+      related fields (e.g., animal and plant or medical genetics), implemented
+      in well-cited packages like EIGENSOFT and PLINK. PCA outcomes are used to
+      shape study design, identify and characterize individuals and populations,
+      and draw historical and ethnobiological conclusions on origins, evolution,
+      whereabouts, and relatedness. The replicability crisis in science has
+      prompted us to evaluate whether PCA results are reliable, robust, and
+      replicable. We employed an intuitive color-based model alongside human
+      population data for eleven common test cases. We demonstrate that PCA
+      results are artifacts of the data and that they can be easily manipulated
+      to generate desired outcomes. PCA results may not be reliable, robust, or
+      replicable as the field assumes. Our findings raise concerns on the
+      validity of results reported in the literature of population genetics and
+      related fields that place a disproportionate reliance upon PCA outcomes
+      and the insights derived from them. We conclude that PCA may have a
+      biasing role in genetic investigations. An alternative mixed-admixture
+      population genetic model is discussed.
+    authors:
+      - name: Eran Elhaik
+        orcid: http://orcid.org/0000-0003-4795-1084
+  comment:
+    dislikes: 0
+    thread: "8694040130"
+    numReports: 0
+    likes: 0
+    id: "5487277039"
+    createdAt: 2021-08-09T08:24:42
+    author:
+      username: jiangmingsun
+      about: ""
+      name: Jiangming Sun
+      isPowerContributor: false
+      profileUrl: https://disqus.com/by/jiangmingsun/
+      url: ""
+      location: ""
+      id: "373544626"
+    isApproved: true
+    isNewUserNeedsApproval: false
+    raw_message: All values in a row (black) are 0 in Fig. 1A. Shouldn't remove such
+      row first before any matrix operations?
+    forum: biorxivstage
+    points: 0
+    link: https://www.biorxiv.org/content/10.1101/2021.04.11.439381v4
+  tweets:
+    - created_at: Tue Aug 10 00:15:30 +0000 2021
+      id: 1424887092002402300
+      id_str: "1424887092002402306"
+      text: >-
+        💬 bioRxiv comment on "Why most Principal Component A..."
+
+
+        "All values in a row (black) are 0 in Fig. 1A. Shouldn't… https://t.co/sEHExxGs12
+      truncated: true
+      entities:
+        urls:
+          - url: https://t.co/sEHExxGs12
+      in_reply_to_status_id: null
+      in_reply_to_status_id_str: null
+    - created_at: Tue Aug 10 00:15:30 +0000 2021
+      id: 1424887092895785000
+      id_str: "1424887092895784961"
+      text: |-
+        @PreprintBot
+
+        🗺️ See similar papers on the bioRxiv landscape:
+
+        https://t.co/IQ1MlmCkxL
+      truncated: false
+      entities:
+        urls:
+          - url: https://t.co/IQ1MlmCkxL
+      in_reply_to_status_id: 1424887092002402300
+      in_reply_to_status_id_str: "1424887092002402306"
